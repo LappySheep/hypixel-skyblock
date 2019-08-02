@@ -1,12 +1,12 @@
 # Rei'Eix, the Embodiment of the Rift
 
 Rei'Eix is a powerful, but fallen god. After having bound his soul to the dimension between existence and death, his lifeforce had slowly drained while attempting to keep the two dimensions separate. Unfortunately, this strength died out and in an attempt to rebuild his strength, he has seeked destruction on the land he was once determined to keep safe.
-<br />
+<br /><br />
 Rei'Eix will rarely appear on public islands (1 / 23,750,000 chance per player per second) to challenge a single player; appearing in front of them and sending a request. The player may decline and Rei'Eix will mutter that you are weak and disappear after 5 seconds. During these 5 seconds, any other player may challenge Rei'Eix.
-<br />
+<br /><br />
 While in the challenged state, you may party up to 4 players (5 total) for the duel. If there are more than 5 players, the first 5 that join will be placed in a new party temporarily.
 
-<br /><br />
+<br /><br /><br />
 
 Upon either accepting Rei'Eix's challenge, or upon challenging him, you will be teleported to a dungeon of which he resides in.
 <br />
@@ -17,17 +17,17 @@ Accessing the dungeon will give you the option to trade 15,000,000 coins to revi
 
 There is also a shop that has 3 items, that may support you in the fight:
 <br />
-_Abyssal Skull_ [6,000,000 Coins] or [7 Rift Fragments]
+<br />_Abyssal Skull_ [6,000,000 Coins] or [7 Rift Fragments]
 <br />    - +175 Health
 <br />    - +70 Defence
 <br />    - Damage taken by Rift monsters is reduced by 1.1% for every 1% of your maximum health that you are missing. (minimum 34% at 40% max hp) 
 <br />    
-- _Abyssal Breastplate_ [12,500,000 Coins] or [15 Rift Fragments]
+<br />_Abyssal Breastplate_ [12,500,000 Coins] or [15 Rift Fragments]
 <br />    - +250 Health
 <br />    - +70 Defence
 <br />    - 3% of damage taken by Rei'Eix is converted into grey health. Killing a Rift Monster will convert all of your grey health into actual health.
 <br />    
-- _Abyssal Blade_ [20,000,000 Coins] or [25 Rift Fragments]
+<br />_Abyssal Blade_ [20,000,000 Coins] or [25 Rift Fragments]
 <br />    - +120 Damage
 <br />    - +120 Strength
 <br />    - Item Passive: _Cursed Enchanter_
@@ -48,19 +48,19 @@ You will have to fight weaker monsters that guard the main room of the dungeon.
 <br />> Deals 2000 on melee hit.
 <br />> 3-block aura that damages all players for 3% of their missing health as true damage. 25% of damage dealt by the aura will be restored as health back.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
-<br />
-[Level 70] Rift Dryad (32500 HP)
+<br /><br />
+[Level 70] _Rift Dryad_ (32500 HP)
 <br />> 9-block range magic attack. Deals 1250 (+5% of the target's intelligence) magic damage to the target. Each hit will temporarily reduce the intelligence of the target by 10 (minimum 0) for 4 seconds.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
-<br />
-[Level 85] Rift Phantom (25000 HP)
+<br /><br />
+[Level 85] _Rift Phantom_ (25000 HP)
 <br />> 5% of damage taken is deflected to all (not split) players within 6 blocks.
 <br />> No basic attack.
 <br />> Occasionally jumps in front of other Rift monsters to block projectiles that may harm them.
 <br />> 9% chance to drop a Rift Fragment (needed for boss fight).
-
+<br />
 <br /><br />
-Rift Fragment (RARE) [not stackable]
+_Rift Fragment_ (RARE) [not stackable]
 <br />A weakened fragment of the Rift that emanates chaotic energies. Each Rift Fragment in your inventory will boost your HP regen by 0.2/s.
 <br />Merchants cannot buy this item.
 <br />Leaving the dungeon will remove all traces of Rift Fragments from your inventory, ender chest, and backpacks.
@@ -107,7 +107,7 @@ Notes:
 <br />
 <br />Dying during this phase will cause Rei'Eix to restore 5% of his missing health back and cause up to 2 pillars to be extinguished. If a player dies while 0 pillars are lit, all other players take 10,000 damage split across all players and are placed in stasis for 2 seconds; rendering them unable to move, attack, be attacked, or perform any actions during this time.
 <br />
-<br />Occasionally, Rei'Eix will spawn <Rift Spawn>s and <Rift Phantom>s near him.
+<br />Occasionally, Rei'Eix will spawn [Rift Spawn]s and [Rift Phantom]s near him.
 <br />
 <br />At 36m, 32m, 28m, 24m, 20m, 16m, 12m, 8m, 4m, and at 1HP, Rei'Eix will become temporarily invulnerable. While invulnerable, he will spawn <Rift Dryad>s every few seconds, but will not attack nor move. Players must attack Rei'Eix with Rift Fragments (total 5 per instance) to cancel the invulnerability.
 <br />Upon starting and cancelling invulnerability, Rei'Eix releases a single dense ball of chaotic energy at each player, which follows them for either 60 seconds or until it hits the associated target player. Each ball deals up to 8000 damage.
