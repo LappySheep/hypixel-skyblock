@@ -128,7 +128,6 @@ Notes:
 <br />Tainted Flesh (EPIC)
 <br />+150 Health
 <br />+90 Defence
-<br />+5% Speed
 <br />+25 Intelligence
 <br />A collapsed portion of Rei'Eix's body. Wearing this (Boots) will allow you to double jump up to once every 7.5 seconds with no mana cost.
 <br />Item Passive: Empowering Taint
