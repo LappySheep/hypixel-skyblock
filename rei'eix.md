@@ -106,7 +106,7 @@ Notes:
 <br />
 <br />Dying during this phase will cause Rei'Eix to restore 5% of his missing health back and cause up to 2 pillars to be extinguished. If a player dies while 0 pillars are lit, all other players take 10,000 damage split across all players and are placed in stasis for 2 seconds; rendering them unable to move, attack, be attacked, or perform any actions during this time.
 <br />
-<br />Occasionally, Rei'Eix will spawn <Rift Spawn>s and <Rift Phantom>s near him.
+<br />Occasionally, Rei'Eix will spawn [Rift Spawn]s and [Rift Phantom]s near him.
 <br />
 <br />At 36m, 32m, 28m, 24m, 20m, 16m, 12m, 8m, 4m, and at 1HP, Rei'Eix will become temporarily invulnerable. While invulnerable, he will spawn <Rift Dryad>s every few seconds, but will not attack nor move. Players must attack Rei'Eix with Rift Fragments (total 5 per instance) to cancel the invulnerability.
 <br />Upon starting and cancelling invulnerability, Rei'Eix releases a single dense ball of chaotic energy at each player, which follows them for either 60 seconds or until it hits the associated target player. Each ball deals up to 8000 damage.
