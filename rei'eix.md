@@ -1,12 +1,12 @@
 # Rei'Eix, the Embodiment of the Rift
 
 Rei'Eix is a powerful, but fallen god. After having bound his soul to the dimension between existence and death, his lifeforce had slowly drained while attempting to keep the two dimensions separate. Unfortunately, this strength died out and in an attempt to rebuild his strength, he has seeked destruction on the land he was once determined to keep safe.
-<br />
+<br /><br />
 Rei'Eix will rarely appear on public islands (1 / 23,750,000 chance per player per second) to challenge a single player; appearing in front of them and sending a request. The player may decline and Rei'Eix will mutter that you are weak and disappear after 5 seconds. During these 5 seconds, any other player may challenge Rei'Eix.
-<br />
+<br /><br />
 While in the challenged state, you may party up to 4 players (5 total) for the duel. If there are more than 5 players, the first 5 that join will be placed in a new party temporarily.
 
-<br /><br />
+<br /><br /><br />
 
 Upon either accepting Rei'Eix's challenge, or upon challenging him, you will be teleported to a dungeon of which he resides in.
 <br />
@@ -18,24 +18,24 @@ Accessing the dungeon will give you the option to trade 15,000,000 coins to revi
 There is also a shop that has 3 items, that may support you in the fight:
 <br />
 _Abyssal Skull_ [6,000,000 Coins] or [7 Rift Fragments]
-<br />    - +175 Health
-<br />    - +70 Defence
-<br />    - Damage taken by Rift monsters is reduced by 1.1% for every 1% of your maximum health that you are missing. (minimum 34% at 40% max hp) 
+<br />- +175 Health
+<br />- +70 Defence
+<br />- Damage taken by Rift monsters is reduced by 1.1% for every 1% of your maximum health that you are missing. (minimum 34% at 40% max hp) 
 <br />    
-- _Abyssal Breastplate_ [12,500,000 Coins] or [15 Rift Fragments]
-<br />    - +250 Health
-<br />    - +70 Defence
-<br />    - 3% of damage taken by Rei'Eix is converted into grey health. Killing a Rift Monster will convert all of your grey health into actual health.
-<br />    
-- _Abyssal Blade_ [20,000,000 Coins] or [25 Rift Fragments]
-<br />    - +120 Damage
-<br />    - +120 Strength
-<br />    - Item Passive: _Cursed Enchanter_
-<br />        - Enchants on this weapon are not active outside of the Rift Dungeon.
-<br />    - Item Ability: _Shadow Strike_
-<br />        - You strike all targets in a 30 degree cone of radius 4 blocks in the target direction. Targets hit take 1000 true damage (increased to 2000 for Rift Monsters, increased to 5000 for Rei'Eix) over 6 seconds (reduced to 5 seconds for Rift Monsters, reduced to 4 seconds for Rei'Eix).
-<br />        - Costs 250 Mana.
-<br />        - No cooldown.
+_Abyssal Breastplate_ [12,500,000 Coins] or [15 Rift Fragments]
+<br />- +250 Health
+<br />- +70 Defence
+<br />- 3% of damage taken by Rei'Eix is converted into grey health. Killing a Rift Monster will convert all of your grey health into actual health.
+<br />
+_Abyssal Blade_ [20,000,000 Coins] or [25 Rift Fragments]
+<br />- +120 Damage
+<br />- +120 Strength
+<br />- Item Passive: _Cursed Enchanter_
+<br />- Enchants on this weapon are not active outside of the Rift Dungeon.
+<br />- Item Ability: _Shadow Strike_
+<br />- You strike all targets in a 30 degree cone of radius 4 blocks in the target direction. Targets hit take 1000 true damage (increased to 2000 for Rift Monsters, increased to 5000 for Rei'Eix) over 6 seconds (reduced to 5 seconds for Rift Monsters, reduced to 4 seconds for Rei'Eix).
+<br />- Costs 250 Mana.
+<br />- No cooldown.
 
 <br /><br /><br /><br />
 
@@ -48,11 +48,11 @@ You will have to fight weaker monsters that guard the main room of the dungeon.
 <br />> Deals 2000 on melee hit.
 <br />> 3-block aura that damages all players for 3% of their missing health as true damage. 25% of damage dealt by the aura will be restored as health back.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
-<br />
+<br /><br />
 [Level 70] Rift Dryad (32500 HP)
 <br />> 9-block range magic attack. Deals 1250 (+5% of the target's intelligence) magic damage to the target. Each hit will temporarily reduce the intelligence of the target by 10 (minimum 0) for 4 seconds.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
-<br />
+<br /><br />
 [Level 85] Rift Phantom (25000 HP)
 <br />> 5% of damage taken is deflected to all (not split) players within 6 blocks.
 <br />> No basic attack.
