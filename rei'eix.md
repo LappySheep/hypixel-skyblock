@@ -21,12 +21,12 @@ _Abyssal Skull_ [6,000,000 Coins] or [7 Rift Fragments]
 <br />- +175 Health
 <br />- +70 Defence
 <br />- Damage taken by Rift monsters is reduced by 1.1% for every 1% of your maximum health that you are missing. (minimum 34% at 40% max hp) 
-<br />    
+<br /><br />
 _Abyssal Breastplate_ [12,500,000 Coins] or [15 Rift Fragments]
 <br />- +250 Health
 <br />- +70 Defence
 <br />- 3% of damage taken by Rei'Eix is converted into grey health. Killing a Rift Monster will convert all of your grey health into actual health.
-<br />
+<br /><br />
 _Abyssal Blade_ [20,000,000 Coins] or [25 Rift Fragments]
 <br />- +120 Damage
 <br />- +120 Strength
