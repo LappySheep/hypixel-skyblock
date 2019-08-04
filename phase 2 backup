@@ -1,0 +1,78 @@
+Phase 2 / 6:
+
+"You will be tainted along with me, you will be free from humanity."
+
+"Bring me your desire to grow stronger..."
+
+
+Players are now in spectator mode.
+
+
+The mess created by the centre pillar disappears. The other 4 piles of debris left by the pillars remain. Rei'Eix calls down a powerful Chaos Star that begins moving around the room. It passes by each pile of debris a total of 3 times each and the star splits into 4 fragments; 1 for each debris pile.
+
+Players can attack each debris pile to destroy them.
+
+
+
+[Level 100] Top Left Debris Pile (100,000 HP)
+> Takes 95% less damage from any non-melee attacks and abilities heal for 25% damage instead of dealing damage.
+> 15,000 HP is split across all players that damaged this debris pile upon being destroyed as health restored.
+
+[Level 100] Top Right Debris Pile (100,000 HP)
+> Takes 95% less damage from any non-ranged attacks and melee heals for 25% damage instead of dealing damage.
+> 15,000 HP is split across all players that damaged this debris pile upon being destroyed as health restored.
+
+[Level 100] Bottom Left Debris Pile (100,000 HP)
+> Takes 95% less damage from any non-ability attacks and ranged heals for 25% damage instead of dealing damage.
+> 15,000 HP is split across all players that damaged this debris pile upon being destroyed as health restored.
+
+[Level 100] Bottom Right Debris Pile (100,000 HP)
+> Cycles between the properties of Top Left/Top Right/Bottom Left debris piles. Swaps once every 10 seconds.
+> 25,000 HP is split across all players that damaged this debris pile upon being destroyed as health restored.
+
+
+
+Rei'Eix charges a powerful shockwave, turning all players from spectator mode back into normal form and three Dark Pylons rise from the ground (triangle formation).
+
+
+
+Falling into any of the holes created by Rei'Eix from phase 1 will teleport players to the closest block near the hole, and also deals 33% of their maximum health as true damage. They also have their mana drained to 0, natural mana regeneration disabled for 45 seconds, and abilities disabled for 60 seconds. All sources of health regeneration are reduced to 10% for 60 seconds.
+
+
+
+Rei'Eix has 65,000,000 HP in this phase.
+
+He attacks nearby players for 3750 melee damage up to every 1.15 seconds. Each melee attack cleaves targets within 10 blocks for 55% of the unmitigated damage dealt.
+
+Every 15 seconds, Rei'Eix shoots a homing ball of energy at each player within a 15 block radius. The ball homes on their respective player until either it hits them or it travels a total of 50 blocks. The ball deals 100 base damage, increasing by 28 damage for every block it travels, to the main target, and deals up to 70% of the damage to all targets within 3 a block radius. If the ball's lifetime of 50 blocks runs out before it hits a target, it explodes immediately to deal 1500 true damage to all targets with a 1 block radius. The ball travels at 5 blocks per second.
+
+
+
+At 62,500,000 HP, Rei'Eix releases 7 (+1 per player) Rift Spawns, 3 (+1 per player) Rift Dryads, and 0 (+1 per player) Rift Phantoms. Rei'Eix also charges (once) for 4 seconds before shooting an empowered homing ball of energy, acting the same as normal except dealing 5% (+0.2% per block travelled) of the target's missing health as true damage to the main target (not applicable if the ball's lifetime runs out).
+
+
+
+At 60,000,000 HP, Rei'Eix turns to face the first Dark Pylon and begins channelling energy into it. He takes 80% reduced damage during this time. A bar is shown at the top, displaying how much the Pylon has charged up. It charges at a rate of 0.5% per second (250 seconds for max charge).
+While charging, Rei'Eix cannot use melee attacks and his homing ball attacks occur once every 12.5 seconds instead of every 15 seconds. Rift Monsters are also empowered, taking 70% less damage while Rei'Eix is charging the pylon.
+After the pylon is fully charged, an explosion occurs at the pylon's location, dealing 14000 true damage split across all players within 15 blocks of it.
+Dark Pylon 1 is now active.
+
+[Level 100] Dark Pylon (1,000,000 HP)
+> Every 33.3 seconds, 2 Rift Totems are spawned in the room. A maximum of 7 Rift Totems may be alive at any point.
+> Every 3 seconds, players within 8 blocks are struck for 2.5% of their maximum health as true damage.
+> For each debris pile destroyed while this pylon is active, the pylon takes 333,333 true damage.
+> For each debris pile that was already destroyed upon the activation of this pylon, it starts with 10% less HP.
+> Destroying this pylon will spawn the Rift Behemoth.
+
+[Level 100] Rift Totem (60,000 HP)
+> Every 4.5 seconds, the Rift Totem charges up for 1 second before slamming the ground with extreme force, causing a nearby position within a 7 block radius to erupt with lava and dealing up to 400 initial damage to all players that touch the lava. Lava may be picked up by using a bucket, which will disintegrate in your inventory but restore 100 HP back each (up to 5 times per player per totem). Lava, if not untouched, will expire after 15 seconds.
+
+[Level 125] Rift Behemoth (75,000 HP)
+> Deals 3000 on melee hit.
+> Damage taken is reduced by a flat 20. Damage is capped at 750 damage per hit.
+> For every 10 arrows that hit the behemoth, the behemoth marks one player and puts them in stasis for 5 seconds. After stasis ends, the behemoth deals 1,500 damage to them and restores 500 HP back for each player within 5 blocks.
+> 100% chance to drop a Rift Fragment (needed for boss fight).
+
+
+
+At 57,500,000 HP, Rei'Eix releases 8 (+1 per player) Rift Spawns, 4 (+1 per player) Rift Dryads, and 1 (+1 per player) Rift Phantoms. Rei'Eix also charges (once) for 3.5 seconds before shooting an empowered homing ball of energy, acting the same as normal except dealing 6% (+0.24% per block travelled) of the target's missing health as true damage to the main target (not applicable if the ball's lifetime runs out).
