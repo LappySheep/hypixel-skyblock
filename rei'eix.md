@@ -7,6 +7,8 @@ Rei'Eix will rarely appear on public islands (1 / 23,750,000 chance per player p
 While in the challenged state, you may party up to 4 players (5 total) for the duel. If there are more than 5 players, the first 5 that join will be placed in a new party temporarily.
 
 <br /><br /><br />
+Minimum of Combat Level 35 is required.
+<br /><br /><br />
 
 Upon either accepting Rei'Eix's challenge, or upon challenging him, you will be teleported to a dungeon of which he resides in.
 <br />
@@ -49,18 +51,18 @@ You will have to fight weaker monsters that guard the main room of the dungeon.
 <br />> 3-block aura that damages all players for 3% of their missing health as true damage. 25% of damage dealt by the aura will be restored as health back.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
 <br /><br />
-[Level 70] Rift Dryad (32500 HP)
+[Level 70] _Rift Dryad_ (32500 HP)
 <br />> 9-block range magic attack. Deals 1250 (+5% of the target's intelligence) magic damage to the target. Each hit will temporarily reduce the intelligence of the target by 10 (minimum 0) for 4 seconds.
 <br />> 6% chance to drop a Rift Fragment (needed for boss fight).
 <br /><br />
-[Level 85] Rift Phantom (25000 HP)
+[Level 85] _Rift Phantom_ (25000 HP)
 <br />> 5% of damage taken is deflected to all (not split) players within 6 blocks.
 <br />> No basic attack.
 <br />> Occasionally jumps in front of other Rift monsters to block projectiles that may harm them.
 <br />> 9% chance to drop a Rift Fragment (needed for boss fight).
 
 <br /><br />
-Rift Fragment (RARE) [not stackable]
+_Rift Fragment_ (RARE) [not stackable]
 <br />A weakened fragment of the Rift that emanates chaotic energies. Each Rift Fragment in your inventory will boost your HP regen by 0.2/s.
 <br />Merchants cannot buy this item.
 <br />Leaving the dungeon will remove all traces of Rift Fragments from your inventory, ender chest, and backpacks.
@@ -75,7 +77,6 @@ Notes:
 <br />- Dying will kick you out of the dungeon; you cannot spectate the fight.
 <br />- All players in the party must take part in the boss fight.
 <br />- All items in your inventory and 90% of your money will drop on to the floor should you die, and an ally may pick up your items within the next 20 seconds, if they wish to preserve them.
-<br />- Items such as Saving Grace that prevent death directly (unlike Second Wind passive from Spirit Mask) will be disabled.
 
 
 <br /><br /><br /><br />
@@ -108,7 +109,7 @@ Notes:
 <br />
 <br />Occasionally, Rei'Eix will spawn [Rift Spawn]s and [Rift Phantom]s near him.
 <br />
-<br />At 36m, 32m, 28m, 24m, 20m, 16m, 12m, 8m, 4m, and at 1HP, Rei'Eix will become temporarily invulnerable. While invulnerable, he will spawn <Rift Dryad>s every few seconds, but will not attack nor move. Players must attack Rei'Eix with Rift Fragments (total 5 per instance) to cancel the invulnerability.
+<br />At 36m, 32m, 28m, 24m, 20m, 16m, 12m, 8m, 4m, and at 1HP, Rei'Eix will become temporarily invulnerable. While invulnerable, he will spawn [Rift Dryad]s every few seconds, but will not attack nor move. Players must attack Rei'Eix with Rift Fragments (total 5 per instance) to cancel the invulnerability.
 <br />Upon starting and cancelling invulnerability, Rei'Eix releases a single dense ball of chaotic energy at each player, which follows them for either 60 seconds or until it hits the associated target player. Each ball deals up to 8000 damage.
 <br />
 <br />At 27m, 14m, and 1m HP, Rei'Eix will channel for 3 seconds, before releasing a powerful shockwave of energy. This shockwave stuns players within 10 blocks for 6 seconds, and creates a radiation aura that damages every player in the room for 1% of their maximum health as true damage every second and disables natural regeneration, until a Rift Fragment is used on Rei'Eix.
