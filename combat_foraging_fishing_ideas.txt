@@ -1,0 +1,341 @@
+Combat V - Fury / Berserk / Rampage I
+Once every up to 1200 seconds...
+Right click a sword while shifting to go into Fury for 3 seconds, causing consecutive melee hits to deal 1% more damage, up to 6%.
+Right click an axe while shifting to go Berserk for 3 seconds, causing melee hits to deal bonus flat true damage equal to 6% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3 seconds, causing each of your bow shots to slow targets within 6 blocks by 20% for 2 seconds, and gain 10% lifesteal on bow shots. 
+
+Combat X - Fury / Berserk / Rampage II
+Once every up to 1120 seconds...
+Right click a sword while shifting to go into Fury for 3 seconds, causing consecutive melee hits to deal 1.5% more damage, up to 9%.
+Right click an axe while shifting to go Berserk for 3 seconds, causing melee hits to deal bonus flat true damage equal to 8% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3 seconds, causing each of your bow shots to slow targets within 6 blocks by 25% for 2 seconds, and gain 11% lifesteal on bow shots. 
+
+Combat XV -Fury / Berserk / Rampage III
+Once every up to 1040 seconds...
+Right click a sword while shifting to go into Fury for 3.5 seconds, causing consecutive melee hits to deal 2% more damage, up to 12%.
+Right click an axe while shifting to go Berserk for 3.5 seconds, causing melee hits to deal bonus flat true damage equal to 10% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3.5 seconds, causing each of your bow shots to slow targets within 7 blocks by 30% for 2 seconds, and gain 12% lifesteal on bow shots. 
+
+Combat XX - Fury / Berserk / Rampage IV
+Once every up to 960 seconds...
+Right click a sword while shifting to go into Fury for 3.5 seconds, causing consecutive melee hits to deal 2.5% more damage, up to 15%.
+Right click an axe while shifting to go Berserk for 3.5 seconds, causing melee hits to deal bonus flat true damage equal to 12% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3.5 seconds, causing each of your bow shots to slow targets within 7 blocks by 35% for 2 seconds, and gain 13% lifesteal on bow shots. 
+
+Combat XXV - Fury / Berserk / Rampage V
+Once every up to 880 seconds...
+Right click a sword while shifting to go into Fury for 4 seconds, causing consecutive melee hits to deal 3% more damage, up to 18%.
+Right click an axe while shifting to go Berserk for 4 seconds, causing melee hits to deal bonus flat true damage equal to 14% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4 seconds, causing each of your bow shots to slow targets within 8 blocks by 40% for 2 seconds, and gain 14% lifesteal on bow shots. 
+
+Combat XXX - Fury / Berserk / Rampage VI
+Once every up to 800 seconds...
+Right click a sword while shifting to go into Fury for 4 seconds, causing consecutive melee hits to deal 3.5% more damage, up to 21%.
+Right click an axe while shifting to go Berserk for 4 seconds, causing melee hits to deal bonus flat true damage equal to 16% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4 seconds, causing each of your bow shots to slow targets within 8 blocks by 45% for 2 seconds, and gain 15% lifesteal on bow shots. 
+
+Combat XXXV - Fury / Berserk / Rampage VII
+Once every up to 720 seconds...
+Right click a sword while shifting to go into Fury for 4.5 seconds, causing consecutive melee hits to deal 4% more damage, up to 24%.
+Right click an axe while shifting to go Berserk for 4.5 seconds, causing melee hits to deal bonus flat true damage equal to 18% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4.5 seconds, causing each of your bow shots to slow targets within 9 blocks by 50% for 2 seconds, and gain 16% lifesteal on bow shots. 
+
+Combat XL - Fury / Berserk / Rampage VIII
+Once every up to 640 seconds...
+Right click a sword while shifting to go into Fury for 4.5 seconds, causing consecutive melee hits to deal 4.5% more damage, up to 27%.
+Right click an axe while shifting to go Berserk for 4.5 seconds, causing melee hits to deal bonus flat true damage equal to 20% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4.5 seconds, causing each of your bow shots to slow targets within 9 blocks by 55% for 2 seconds, and gain 17% lifesteal on bow shots. 
+
+Combat XLV - Fury / Berserk / Rampage IX
+Once every up to 560 seconds...
+Right click a sword while shifting to go into Fury for 5 seconds, causing consecutive melee hits to deal 5% more damage, up to 30%.
+Right click an axe while shifting to go Berserk for 5 seconds, causing melee hits to deal bonus flat true damage equal to 22% of your total strength.
+Left click a bow while shifting to go into a Rampage for 5 seconds, causing each of your bow shots to slow targets within 10 blocks by 60% for 2.5 seconds, and gain 18% lifesteal on bow shots. 
+
+Combat L - Fury / Berserk / Rampage X
+Once every up to 480 seconds...
+Right click a sword while shifting to go into Fury for 6 seconds, causing consecutive melee hits to deal 6% more damage, up to 36%.
+Right click an axe while shifting to go Berserk for 6 seconds, causing melee hits to deal bonus flat true damage equal to 25% of your total strength.
+Left click a bow while shifting to go into a Rampage for 6 seconds, causing each of your bow shots to slow targets within 11 blocks by 70% for 3 seconds, and gain 20% lifesteal on bow shots. 
+
+
+
+
+Foraging V - Ent Monstrosity I
+Cutting down a log has a 0.01% chance of spawning an Ent Monstrosity. Killing it rewards you with 7,500 Foraging EXP and 4 - 9 Enchanted Wood.
+Ent Monstrosity I:
+    3,000 HP
+    50 Damage
+    125% Speed
+    3% Life Steal
+    "Resistant" - Weapons that are not axes deal 40% less damage.
+
+Foraging X - Ent Monstrosity II
+Cutting down a log has a 0.02% chance of spawning an Ent Monstrosity. Killing it rewards you with 10,000 Foraging EXP and 7 - 13 Enchanted Wood.
+Ent Monstrosity II:
+    5,000 HP
+    80 Damage
+    130% Speed
+    4% Life Steal
+    "Resistant" - Weapons that are not axes deal 45% less damage.
+    "Absorb" - While attacking you, it has a 2% chance to steal between 16 and 32 wood from you, restoring 160 - 320 HP back.
+
+Foraging XV - Ent Monstrosity III
+Cutting down a log has a 0.03% chance of spawning an Ent Monstrosity. Killing it rewards you with 15,000 Foraging EXP and 10 - 16 Enchanted Wood.
+Ent Monstrosity III:
+    15,000 HP
+    130 Damage
+    135% Speed
+    5% Life Steal
+    "Resistant" - Weapons that are not axes deal 50% less damage.
+    "Absorb" - While attacking you, it has a 3% chance to steal between 20 and 48 wood from you, restoring 200 - 480 HP back.
+
+Foraging XX - Ent Monstrosity IV
+Cutting down a log has a 0.04% chance of spawning an Ent Monstrosity. Killing it rewards you with 20,000 Foraging EXP and 15 - 25 Enchanted Wood.
+Ent Monstrosity IV:
+    30,000 HP
+    180 Damage
+    140% Speed
+    6% Life Steal
+    "Resistant" - Weapons that are not axes deal 55% less damage.
+    "Absorb" - While attacking you, it has a 4% chance to steal between 24 and 64 wood from you, restoring 240 - 640 HP back.
+
+Foraging XXV - Ent Monstrosity V
+Cutting down a log has a 0.05% chance of spawning an Ent Monstrosity. Killing it rewards you with 25,000 Foraging EXP and 16 - 32 Enchanted Wood.
+Ent Monstrosity V:
+    55,000 HP
+    250 Damage
+    145% Speed
+    7% Life Steal
+    "Resistant" - Weapons that are not axes deal 60% less damage.
+    "Absorb" - While attacking you, it has a 5% chance to steal between 32 and 80 wood from you, restoring 320 - 800 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 5 Fury per hit. At 100 Fury, the Ent Monstrosity smashes one target with wood, dealing 0.5% of your maximum health as true damage per stack of wood in your inventory.
+
+Foraging XXX - Ent Monstrosity VI
+Cutting down a log has a 0.06% chance of spawning an Ent Monstrosity. Killing it rewards you with 30,000 Foraging EXP and 16 - 40 Enchanted Wood.
+Ent Monstrosity VI:
+    90,000 HP
+    350 Damage
+    150% Speed
+    8% Life Steal
+    "Resistant" - Weapons that are not axes deal 65% less damage.
+    "Absorb" - While attacking you, it has a 6% chance to steal between 64 and 160 wood from you, restoring 640 - 1600 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 6 Fury per hit. At 96 Fury, the Ent Monstrosity smashes one target with wood, dealing 0.75% of your maximum health as true damage per stack of wood in your inventory.
+
+Foraging XXXV - Ent Monstrosity VII
+Cutting down a log has a 0.07% chance of spawning an Ent Monstrosity. Killing it rewards you with 35,000 Foraging EXP and 24 - 40 Enchanted Wood.
+Ent Monstrosity VII:
+    150,000 HP
+    600 Damage
+    160% Speed
+    9% Life Steal
+    "Resistant" - Weapons that are not axes deal 70% less damage.
+    "Absorb" - While attacking you, it has a 7% chance to steal between 128 and 224 wood from you, restoring 1280 - 2240 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 7 Fury per hit. At 92 Fury, the Ent Monstrosity smashes one target with wood, dealing 1% of your maximum health as true damage per stack of wood in your inventory.
+
+Foraging XL - Ent Monstrosity VIII
+Cutting down a log has a 0.08% chance of spawning an Ent Monstrosity. Killing it rewards you with 40,000 Foraging EXP and 32 - 48 Enchanted Wood.
+Ent Monstrosity VIII:
+    250,000 HP
+    900 Damage
+    170% Speed
+    10% Life Steal
+    "Resistant" - Weapons that are not axes deal 75% less damage.
+    "Absorb" - While attacking you, it has a 8% chance to steal between 160 and 240 wood from you, restoring 1600 - 2400 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 8 Fury per hit. At 88 Fury, the Ent Monstrosity smashes one target with wood, dealing 1.25% of your maximum health as true damage per stack of wood in your inventory.
+    "Focused Strength" - Players that attack the Ent Monstrosity that also did not spawn it will deal 90% less damage, and deal no true damage.
+
+Foraging XLV - Ent Monstrosity IX
+Cutting down a log has a 0.1% chance of spawning an Ent Monstrosity. Killing it rewards you with 50,000 Foraging EXP and 48 - 64 Enchanted Wood.
+Ent Monstrosity IX:
+    500,000 HP
+    1350 Damage
+    180% Speed
+    12.5% Life Steal
+    "Resistant" - Weapons that are not axes deal 80% less damage.
+    "Absorb" - While attacking you, it has a 9% chance to steal between 160 and 320 wood from you, restoring 1600 - 3200 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 9 Fury per hit. At 84 Fury, the Ent Monstrosity smashes one target with wood, dealing 1.5% of your maximum health as true damage per stack of wood in your inventory.
+    "Focused Strength" - Players that attack the Ent Monstrosity that also did not spawn it will deal 95% less damage, and deal no true damage.
+
+Foraging L - Ent Monstrosity X
+Cutting down a log has a 0.125% chance of spawning an Ent Monstrosity. Killing it rewards you with Coins equal to 0.5% of your total Foraging Exp, 60,000 more Foraging EXP and 64 - 128 Enchanted Wood.
+Ent Monstrosity X:
+    1,250,000 HP
+    2000 Damage
+    200% Speed
+    15% Life Steal
+    "Resistant" - Weapons that are not axes deal 90% less damage.
+    "Absorb" - While attacking you, it has a 10% chance to steal between 320 and 640 wood from you, restoring 3200 - 6400 HP back.
+    "Obliterate" - Attacking the Ent Monstrosity without an Axe builds up 10 Fury per hit. At 80 Fury, the Ent Monstrosity smashes one target with wood, dealing 2% of your maximum health as true damage per stack of wood in your inventory.
+    "Focused Strength" - Only the player that spawns the Ent Monstrosity can attack it.
+    "Last Whisper" - Upon dying, the Ent Monstrosity spawns an Ent Behemoth if the person that spawned the Monstrosity is in a party of at least 5 players, and if all players are in the same lobby...
+Ent Behemoth:
+    5,000,000 HP
+    3000 Damage
+    200% Speed
+    20% Life Steal
+    "Resistant" - Only axes deal damage to the Ent Behemoth.
+    "Absorb" - While attacking you, it has a 10% chance to steal between 320 and 640 wood from you, restoring 3200 - 6400 HP back and gaining a 3200 HP shield that lasts for 3 seconds.
+    "Obliterate" - Players that attack the Ent Behemoth that didn't spawn it, while it is attacking them, will cause the Behemoth to build up 10 Fury. At 70 Fury, the Behemoth smashes the target with wood, dealing 3% of their maximum health as true damage per stack of wood in your inventory.
+    "Focusing Strength" - The Ent Behemoth has a life span of 10 minutes. For every 24 seconds that passes, the Behemoth deals 10% more damage (240% bonus damage at 24 seconds left) to players.
+Killing the Ent Behemoth will have a 1% chance to drop the Behemoth's Entcarver...
+Behemoth's Entcarver [Golden Axe]:
+    +200 Damage
+    +200 Strength
+    Efficiency X
+    Item Passive - Behemoth Bulwark:
+        Ents deal less damage based on your total wood collection (1 defence per 10k wood collected) while you hold the axe.
+    Item Passive - Behemoth Rage
+        The Behemoth's Entcarver gains 1 bonus damage for every 50k wood collected, and gains 1 bonus strength for every Ent Behemoth slain.
+    (Axes can have the same enchants as swords.)
+
+
+
+
+Fishing V - Monsoon Gathering I
+Catching a fish successfully restores 1HP. Catching a mob grants 1 Strength and 1 Defence for 3 seconds.
+
+Fishing X - Monsoon Gathering II
+Catching a fish successfully restores 3HP. Catching a mob grants 2 Strength and 3 Defence for 3 seconds.
+
+Fishing XV - Monsoon Gathering III
+Catching a fish successfully restores 4HP. Catching a mob grants 3 Strength and 5 Defence for 3 seconds.
+
+Fishing XX - Monsoon Gathering IV
+Catching a fish successfully restores 6HP. Catching a mob grants 4 Strength and 7 Defence for 3 seconds.
+
+Fishing XXV - Monsoon Gathering V
+Catching a fish successfully restores 7HP. Catching a mob grants 5 Strength and 9 Defence for 3 seconds.
+0.2% chance to catch a Sentinel Squid...
+Sentinel Squid:
+    45,000 HP
+    300 Defence
+    "Aquatic Tethering" - The Sentinel tethers itself to the player that deals the most damage to it, dealing 600 damage per second and reducing healing by 60%.
+    "Whirlpool Dash" - Occasionally, the Sentinel will dash through other players, knocking them vertically up to 35 blocks and dealing 2800 damage to all targets hit.
+    "Oceanic Implosion" - If the Sentinel knocks a player up and they land in the water nearby, the Sentinel may create a small implosion that pulls other players in and deals 4500 damage or 15% of the target's maximum health, whichever is higher.
+Sentinel Squids have a 2% chance to drop a Tearing Eye...
+Tearing Eye [Eye of Ender]:
+    [EPIC] A tear dropped by a Sentinel Squid.
+    Recipes:
+        > 8 Tearing Eyes + 64 Enchanted Ink Sacs --> 1 Inky Eye
+        > 4 Inky Eyes + [Any Weapon or Bow] --> Inked [Tier #] [Weapon Name]
+            Inked weapons/bows apply a 25% slow on-hit for 3 seconds. You can use up to 40 Inky Eyes to upgrade a weapon to tier 10. Each tier increases the total damage multiplier by 10% (double damage at Inked 10).
+        > 4 Inky Eyes + 4 Enchanted Lily Pads + Saving Grace --> Shadow's Grace
+            Shadow's Grace is consumed if you are about to die, creating an explosion (no kb) that deals true damage to nearby enemies equal to your maximum health, and granting 25 Strength and 25 Defence with a full health restoration.
+Sentinel Squids also drop between 2 and 6 Enchanted Ink Sacs.
+
+Fishing XXX - Monsoon Gathering VI
+Catching a fish successfully restores 9HP. Catching a mob grants 6 Strength and 11 Defence for 3 seconds.
+0.25% chance to catch a Sentinel Squid.
+
+Fishing XXXV - Monsoon Gathering VII
+Catching a fish successfully restores 10HP. Catching a mob grants 7 Strength and 13 Defence for 3 seconds.
+0.3% chance to catch a Sentinel Squid.
+
+Fishing XL - Monsoon Gathering VIII
+Catching a fish successfully restores 12HP. Catching a mob grants 8 Strength and 15 Defence for 3 seconds.
+0.3% chance to catch a Sentinel Squid.
+0.1% chance to catch The Sea Empress...
+The Sea Empress:
+    300,000 HP
+    700 Defence
+    "Royal Tether" - The Sea Empress and Sea Emperor both gain 200 bonus defence, deal 20% more damage, and regenerate 50 HP per second while they are within 16 blocks of another Empress or 
+    "Water Surge" - The Sea Empress shoots arrows every half second at up to six targets. Each arrow deals 1000 damage and restores 200 health back to the Empress per arrow that hits. Each arrow has Punch IV and every third arrow poisons the target (blocked by Vaccine talisman) for 900 damage over 1 second.
+    "Guardian Rider" - The Sea Empress rides a Sea Guardian that cannot be attacked. The Guardian attacks simultaneously with the Empress, dealing [1500 damage + 100 true damage] each hit, striking once every two seconds. Players that stand within 2 blocks of the Guardian will take 8% of their maximum health as true damage every second.
+    "Elder Splash" - At 240,001 HP, 180,001 HP, 120,001 HP, 60,001 HP, and 1 HP, the Empress goes invulnerable for 10 seconds. While invulnerable, the Empress' Guardian charges up a ball of condensed water. After leaving invulnerability, the Guardian creates an explosion, knocking players back up to 25 blocks and shooting the water at a player that deals up to 6000 damage over 8 seconds. If the water kills a player, the Empress is shielded for 10,000 shield HP.
+The Sea Empress has a 75% chance to drop her Empress Crown...
+Empress Crown [Skull]:
+    [EPIC] A valuable crown from The Sea Empress, possessing powerful water remnants. Can be used to upgrade the Diver's Armor.
+    Recipes:
+        > Emperor Skull + Empress Crown --> Sea Jewel
+        > 5 Sea Jewels + 4 Enchanted Lily Pads --> Royal Mask
+        > 8 Sea Jewels + 1 Enchanted Lily Pad --> Royal Shirt
+        > 7 Sea Jewels + 2 Enchanted Lily Pads --> Royal Trunks
+        > 4 Sea Jewels + 5 Enchanted Lily Pads --> Royal Boots
+        > 9 Sea Jewels --> 1 Sea Crystal
+            The Sea Crystal can be consumed to upgrade the fishing bag by adding 1 extra row, but the extra row can only be used for Ink Sacs, Lily Pads, and Sponge.
+    Royal Mask [LEGENDARY]:
+        +185 Health
+        +135 Defence
+        +6 Intelligence
+    Royal Shirt [LEGENDARY]:
+        +220 Health
+        +215 Defence
+        +10 Intelligence
+    Royal Trunks [LEGENDARY]:
+        +195 Health
+        +185 Defence
+        +9 Intelligence
+    Royal Boots [LEGENDARY]:
+        +170 Health
+        +125 Defence
+        +5 Intelligence
+    Royal Armor Set - Full Set Bonus: "Two with the Fish"
+        While touching water, you move incredibly fast and can breathe permanently. Your non-hp, non-defence stats are tripled, and you restore 3% of your missing health back per second.
+        While out of water, you restore 1% of your missing health back per second.
+
+Fishing XLV - Monsoon Gathering IX
+Catching a fish successfully restores 13HP. Catching a mob grants 9 Strength and 17 Defence for 3 seconds.
+0.3% chance to catch a Sentinel Squid.
+0.15% chance to catch The Sea Empress.
+
+Fishing L - Monsoon Gathering X
+Catching a fish successfully restores 15HP. Catching a mob grants 10 Strength and 19 Defence for 3 seconds.
+0.3% chance to catch a Sentinel Squid.
+0.15% chance to catch The Sea Empress.
+0.01% chance to catch The Kraken...
+The Kraken:
+    7,500,000 HP
+    700 Defence
+    "Squid Bombs" - The Kraken occasionally throws out trios of three Squid Bombs (three bombs at a time, three sets per round) that explode when coming into contact with terrain or players, dealing 2500 damage to affected targets and blinding them for 2 seconds. These bombs can be shot with a bow to be destroyed midair, dropping between 8 and 20 Ink Sacs (not affected by the Telekinesis enchant).
+    "Tentacle Slam" - Infrequently, the Kraken slams up to three players with a tentacle, dealing 1250 damage and reducing the speed of players hit by 300 for 2 seconds.
+    "Ink Absorption" - The Kraken will sometimes shoot ink at a player, dealing up to 8000 damage over 10 seconds. Damage is increased by 20% per slot taken up by ink in their inventory (capped at 200% bonus). This also steals 32 - 200 ink each time.
+    
+    Every 250,000 HP, the Kraken spawns Hostile Sea Creatures ranging from Sea Walkers to the Sea Empress, based on the HP remaining (these creatures do not drop loot)...
+        7.25mil - 3 Sea Walkers + 2 Sea Archers
+        7mil - 5 Sea Walkers + 3 Sea Archers
+        6.75mil - 6 Sea Walkers + 3 Sea Archers + 2 Sea Guardians
+        6.5mil - 4 Sea Walkers + 3 Sea Archers + 3 Sea Guardians
+        6.25mil - 4 Sea Archers + 4 Sea Guardians + 2 Sea Witches
+        6mil - 8 Sea Witches + 8 Riders of the Deep
+        5.75mil - 6 Riders of the Deep + 4 Sea Archers + 8 Catfish
+        5.5mil - 12 Sea Leeches
+        5.25mil - 2 Guardian Defenders + 8 Sea Leeches
+        5mil - Deep Sea Protector + 6 Guardian Defenders + 10 Sea Leeches
+        4.75mil - 3 Deep Sea Protectors + 10 Guardian Defenders
+        4.5mil - 6 Deep Sea Protectors + 10 Guardian Defenders
+        4.25mil - Water Hydra + 4 Deep Sea Protectors
+        4mil - 2 Water Hydras + 6 Deep Sea Protectors
+        3.75mil - Sea Emperor + 2 Water Hydras
+        3.5mil - Sea Emperor + 3 Water Hydras
+        3.25mil - 2 Sea Emperors
+        3mil - Squid Sentinel + 2 Sea Emperors
+        2.75mil - Squid Sentinel + 3 Sea Emperors
+        2.5mil - 2 Squid Sentinels + 3 Sea Emperors
+        2.25mil - 3 Squid Sentinels + 3 Sea Emperors
+        2mil - Sea Empress + 3 Squid Sentinels
+        1.75mil - Sea Empress + 4 Squid Sentinels
+        1.5mil - Sea Empress + 5 Squid Sentinels
+        1.25mil - Sea Empress + 5 Squid Sentinels + Sea Emperor
+        1mil - Sea Empress + 2 Sea Emperors
+        750k - 2 Sea Empresses + 2 Sea Emperors
+        500k - 2 Sea Empresses + 2 Sea Emperors
+        250k - 3 Sea Empresses + 3 Sea Emperors
+    During the boss fight:
+        - Sea Witches deal true damage.
+        - Riders of the Deep cannot be slowed.
+        - Catfishes can steal fish from you.
+        - Guardian Defenders can attack two players at a time.
+        - Deep Sea Protectors are resistant to true damage and take 25% less damage.
+        - Water Hydras split into three instead of two.
+        - Sea Emperors and Sea Empresses are immune to true damage.
+    
+    Every 2,499,999 HP lost, The Kraken spawns three Sentinel Guardians that spin around the Kraken. Each Sentinel Guardian has 1,000,000 HP and reduce the damage dealt to The Kraken by 33.3%. Each Sentinel Guardian will split into 5 Guardian Defenders and 1 Sentinel Squid on death.
+The Kraken has a 2% chance to drop the Rod of Ages...
+Rod of Ages [LEGENDARY]:
+    +100 Damage
+    +100 Strength
+    +20% Crit Damage
+    Every 10,000 Fishing EXP earned increases the damage of the Rod of Ages by 1, capped at 400 (500 total bonus). Every Sea Emperor and Sea Empress slain with the Rod of Ages getting the last hit will increase the strength bonus by 1, capped at 125 (225 bonus).
+    The Rod of Ages has an in-built Grappling Hook mechanic. If you shift-right click while pulling your rod in, you are pulled half the distance.
+    You can only pull in fish with the Rod of Ages while shifting (you will be thrown by the grappling hook mechanic if you don't).
