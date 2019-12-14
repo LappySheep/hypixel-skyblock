@@ -1,0 +1,711 @@
+Rei'Eix, the Embodiment of the Rift
+
+Rei'Eix is a powerful, but fallen god. After having bound his soul to the dimension between existence and death, his lifeforce had slowly drained while attempting to keep the two dimensions separate. Unfortunately, this strength died out and in an attempt to rebuild his strength, he has sought destruction on the land he was once determined to keep safe.
+
+Rei'Eix will rarely appear on public islands (11 / 390,000,000 chance per player per second) to challenge a single player; appearing in front of them and sending a request. The player may decline and Rei'Eix will mutter that you are weak and disappear after 5 seconds. During these 5 seconds, any other player may challenge Rei'Eix.
+
+While in the challenged state, you may party up to 4 players (5 total) for the duel. If there are more than 5 players, the first 5 that join will be placed in a new party temporarily.
+----------------------------------------------------------------------
+Upon either accepting Rei'Eix's challenge, or upon challenging him, you will be teleported to a dungeon of which he resides in.
+
+Accessing the dungeon will give you the option to trade 15,000,000 coins to revisit the dungeon, should you want to challenge him again.
+
+
+
+
+Notes:
+- Dying will kick you out of the dungeon; you cannot spectate the fight.
+- All players in the party must take part in the boss fight.
+- All items in your inventory and 90% of your money will drop on to the floor should you die, and an ally may pick up your items within the next 20 seconds, if they wish to preserve them.
+- Items such as Saving Grace that prevent death directly (unlike Second Wind passive from Spirit Mask) will be disabled.
+----------------------------------------------------------------------
+Rift Dungeon
+
+There is an enchantment table that allows you to enchant weapons/armor (including already enchanted weapons/armor) with a bonus enchantment. You can only have 1 bonus enchantment at any time. If there is a bonus enchantment on a weapon/armor piece, you can enchant it again to upgrade the enchant by 1 level.
+
+Each enchant costs Tainted Coins along with experience orbs (I: 1 TCoin, II: 50 TCoins, III: 3,000 TCoins, IV: 150,000 TCoins, V: 8,000,000 TCoins)
+
+Empowered enchantment levels (1 higher than standard maximum) are also available drops from some Rift Monsters.
+
+You can pay Tainted Coins (equal to twice the enchantment level cost) to Linc to clear your weapon of the bonus enchantments, if you do not want it anymore.
+
+Enchant List:
+    - Second Strike I / II / III / IV (Weapons)
+        Your second attack on a given target will deal 10% / 20% / 30% / 40% / 50% bonus damage.
+    - Blood Bath I / II / III (Boots)
+        Moving near a recently slain unique Rift Monster will make your next melee attack deal 5% / 10% / 15% bonus damage and grant 2 / 4 / 6 Speed for 1 second. Does not stack.
+
+    - Toxic Strain I / II / III (Weapons)
+        Attacking the same target 8 times consecutively without missing a hit will deal 0.1% / 0.2% / 0.3% of the target's current health (does not work vs bosses) as poison damage over 4 seconds.
+        Requires Level 1 RC.
+    - Night Hunter I (Helmets)
+        You gain 15 Speed at night time.
+        Requires Level 1 RC.
+
+    - Crippling Strike I / II / III / IV / V (Helmets)
+        Every 12th / 11th / 10th / 9th / 8th hit on a target will cripple them for 1.5 seconds, reducing their Speed by 100 and reducing their Defence by 125. The Speed/Defence reduction is tripled against players and Rift Monsters.
+        Requires Level 2 RC.
+    - Tainted Scavenging I / II / III / IV / V (Weapons)
+        Killing Rift Monsters earns Tainted Coins equal to [EnchantLevel^2 * (RiftMonsterLevel/10) + 1].
+        Requires Level 2 RC.
+
+    - Runic Ashes I / II / III (Weapons + Bows)
+        Runic Monsters have a 5% / 10% / 15% chance to drop two runes.
+        Requires Level 3 RC.
+    - Extinguishing I / II / III (Weapons)
+        Hitting a target has a 16.6% / 33.3% / 50% chance to extinguish you and nearby players within 4 blocks.
+        Requires Level 3 RC.
+
+    - Roped Arrow I / II / III (Bows)
+        Gain an ability (by shift left clicking) - Roped Arrow. Trigger it to shoot out a single arrow that pulls you towards it after it hits a target or block. If it hits a block, you are pulled with 0.2 / 0.4 / 0.6 velocity. If it hits a target, you are pulled with 0.15 / 0.35 / 0.55 velocity and deal 20% / 40% / 60% standard bow damage to the target  (velocity is compared to Grappling Hook).
+        Costs 125 Mana. 6 Second Cooldown.
+        Requires Level 4 RC.
+    - Xenomorph Hunter I / II / III (Chestplates)
+        Monsters that spawn near you (6 block radius) have a 0.1% / 0.25% / 0.4% chance of being marked as a Xenomorph. For the first 4 / 5 / 6 seconds, 20% of your damage is converted to true damage vs this Xenomorph target, and they have twice the chance to drop any rare loot. Rift Monsters are immune to the true damage.
+        Requires Level 4 RC.
+
+    - Depleting Touch I (Bows)
+        Targets hit by the bow lose 12% of their current Mana over 2 seconds, and cannot regenerate Mana during this time. 4 Second Cooldown per target. Vs Mana-less targets, this deals 2% bonus damage over 2 seconds and stops health regeneration during this time. Same cooldown.
+        Requires Level 5 RC.
+    - Neural Growth I / II / III / IV / V (Helmets)
+        Increases your Intelligence by 15 / 30 / 45 / 60 / 75
+        Requires Level 5 RC.
+
+    - Cyclone I / II / III / IV / V (Weapons)
+        Hitting a target pulls in nearby other enemies within 3 / 4 / 5 / 6 / 7 blocks slightly. At level 4 or higher, Cyclone will break the sprint of nearby players too.
+        Requires Level 6 RC.
+    - Retribution I / II / III / IV / V (Chestplates)
+        You gain 0.1% bonus lifesteal for every 20% / 17.5% / 15% / 12.5% / 10% of your maximum health that you are missing.
+        Requires Level 6 RC.
+
+    - Slayer I / II / III (Weapons + Bows)
+        Slayer Monsters drop twice as much loot and have a 5% / 10% / 15% higher chance of dropping rare loot.
+        Requires Level 7 RC.
+    - Ravaging I / II / III (Weapons + Bows)
+        Rift Monsters drop 10% more loot and have a 0.1% / 0.2% / 0.3% higher chance of dropping rare loot.
+        Requires Level 7 RC.
+    - Conqueror I / II / III (Weapons + Bows)
+        Rift Monsters assigned to be killed in a Riftconquering quest have a 5% / 10% / 15% chance to be counted as two kills, and drop the loot of two kills too.
+        Requires Level 7 RC.
+
+    - Artifact Hunter I / II / III (Armor)
+        Gain 1 / 1.5 / 2 bonus Strength for every active Artifact you have.
+        Requires Level 8 RC.
+    - Wise I / II / III (Armor)
+        Gain 1 / 2 / 3 bonus Intelligence for every active Artifact you have.
+        Requires Level 8 RC.
+
+    - Thermal Lance I / II / III / IV / V (Weapons)
+        Attacking a target sets them on fire for 2 seconds, dealing 0.5% / 1% / 1.5% / 2% / 2.5% of your maximum health as true damage per second.
+        Requires Level 9 RC.
+    - Scorching Blade I / II / III / IV / V (Weapons)
+        Attacking a burning target extinguishes them but deals 2% / 4% / 6% / 8% / 10% bonus damage.
+        Requires Level 9 RC.
+
+    - Mass Recall I / II / III / IV / V (Leggings)
+        Attacking a target has a 0.15% / 0.3% / 0.45% / 0.6% / 0.75% chance to spawn a Pylon within 4 blocks. Pylons last for 1 minute. Each Pylon increases Strength and Crit Damage by 2 to every player within 8 blocks.
+        Requires Level 10 RC.
+    - Blight Stalker I / II (Leggings)
+        Gain 1 / 2 bonus Strength and 3 / 6 bonus Crit Damage for 3 seconds after killing a target. This is quintupled for Rift Monsters.
+        Requires Level 10 RC.
+
+    - Explicit I / II / III / IV / V (Anything)
+        Deal 0.04% / 0.08% / 0.12% / 0.16% / 0.2% bonus damage as true damage.
+        Requires Level 11 RC.
+
+    - Immortality I / II / III / IV / V (Chestplates)
+        You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage at any point.
+        Requires Level 12 RC.
+
+    - God Slayer I / II / III / IV / V (Weapons)
+        1% / 2% / 3% / 4% / 5% of your damage is converted to true damage against Level 13 RC monsters. Additionally, you deal 10% / 20% / 30% / 40% / 50% bonus damage against Rei'Eix.
+        Requires Level 13 RC.
+
+
+
+There is a merchant named Linc where you can buy several tiered weapons/armor sets/talismans.
+
+You can speak to him to start bounty quests. These quests give Riftconquering (RC) experience. Quests cannot be cancelled, but if you die then you will stop the quest. Quests that get stopped will not reward anything.
+
+Level 0: 0 Total EXP
+Level 1: 50 Total EXP
+Level 2: 250 Total EXP
+Level 3: 700 Total EXP
+Level 4: 1,500 Total EXP
+Level 5: 2,750 Total EXP
+Level 6: 4,550 Total EXP
+Level 7: 7,000 Total EXP
+Level 8: 10,000 Total EXP
+Level 9: 15,000 Total EXP
+Level 10: 30,000 Total EXP
+Level 11: 65,000 Total EXP
+Level 12: 100,000 Total EXP
+Level 13: 200,000 Total EXP
+
+Mobs in the Rift Dungeon drop Tainted Coins instead of normal Coins. They are not able to be collected unless you purchase a Tainted Purse from the shop.
+
+Tainted Coins cannot be used outside the Rift Dungeon.
+
+##
+Scythebane
+Charm
+Bleeding
+Sentient
+Explicit
+Rift
+##
+
+Shop:
+    Level 0 RC:
+        - Tainted Purse (25,000,000 Coins)
+            Able to store Tainted Coins instead of normal Coins. The amount is shown below your standard Purse.
+
+        - 100 Tainted Coins (1,000,000 Coins)
+            Pay 1 million Coins to earn 100 Tainted Coins instantly.
+
+        - 100,000 Coins (1,000 Tainted Coins)
+            Pay 1 thousand Tainted Coins to receive 100,000 Coins back. Note that this is 1% of what you pay to get Tainted Coins!
+
+        - Abyssal Skull (1,800 Tainted Coins) [EPIC]
+            +275 Health
+            +200 Defence
+            Piece Bonus - Abyssal Whisper
+                For every 1% of your maximum health that you do not have, your damage dealt is increased by 1.25% (capped at 75% bonus damage at 40% max hp).
+            Full Set Bonus - Abyssal Aura (Skull + Breastplate + Boots)
+                Every full-abyssal set player within 5 blocks of each other gain 20 bonus crit damage each, stacking up to 100 bonus.
+
+        - Tier 1 Quest (10 Tainted Coins)
+            Buy a Tier 1 Quest, which can require any of the following:
+                - Slay 2-4 Rift Spawns
+                - Slay 3-5 Rift Dryads
+                - Slay 4-7 Rift Phantoms
+            Completing the quest will reward you with 2 RC EXP. Tier 1 Quests give 1 RC EXP if you are Level 1 RC or higher.
+
+
+
+    Level 1 RC:
+        - Abyssal Breastplate (3,700 Tainted Coins) [EPIC]
+            +350 Health
+            +275 Defence
+            Piece Bonus - Absorption
+                3% of damage taken by monsters in the Rift Dungeon will store Grey Health. If you kill a monster in the Rift Dungeon, you consume all of your Grey Health to restore health back equal to the amount consumed.
+            Full Set Bonus - Abyssal Aura (Skull + Breastplate + Boots)
+                Every full-abyssal set player within 5 blocks of each other gain 20 bonus crit damage each, stacking up to 100 bonus.
+
+        - 30 Tainted Coins (1 Rift Fragment)
+            Pay 1 Rift Fragment to earn 30 Tainted Coins instantly.
+
+        - Night Hunter Talisman (1,500 Tainted Coins) [RARE]
+            Increases the speed boost by the Night Hunter enchant by 5 Speed.
+        
+        - Tier 2 Quest (35 Tainted Coins)
+            Buy a Tier 2 Quest, which can require any of the following:
+                - Slay 8-11 Rift Spawns
+                - Slay 7-14 Rift Dryads
+                - Slay 13-16 Rift Phantoms
+            Completing the quest will reward you with 4 RC EXP. Tier 2 Quests give 2 RC EXP if you are Level 2 RC or higher.
+
+
+
+    Level 2 RC:
+        - Abyssal Blade (6,000 Tainted Coins) [EPIC]
+            +275 Damage
+            +150 Strength
+            Item Ability - Shadow Strike
+                You strike all targets in a 30 degree cone of radius 4 in the target direction. Targets hit take 1,000 true damage over 6 seconds. Rift Monsters take 6,000 true damage over 5 seconds. Rei'Eix takes 36,000 true damage over 4 seconds.
+                Costs 250 Mana.
+                No cooldown. Consecutive uses only refreshes the timer.
+            Item Passive - Abyssal Spike
+                Shadow Strike gains 50% for every Abyssal armor piece worn. If all three pieces are worn, the bonus increases from 150% to 300%.
+            Item Passive - Penetrator
+                The Abyssal Blade ignores damage caps for Rift Monsters.
+
+        - Tainted Scavenging Talisman (3,200 Tainted Coins) [RARE]
+            Passively gain [(RiftMonsterLevel/20) + 1] when killing Rift Monsters.
+
+        - Night Hunter Ring (7,500 Tainted Coins + Night Hunter Talisman) [EPIC]
+            Increases the speed boost by the Night Hunter enchant by 10 Speed.
+
+        - Tier 3 Quest (100 Tainted Coins)
+            Buy a Tier 3 Quest, which can require any of the following:
+                - Slay 13-16 Rift Spawns
+                - Slay 14-17 Rift Dryads
+                - Slay 10 Rift Phantoms + 6-10 Rift Spawns
+                - Slay 10 Rift Phantoms + 8-14 Rift Dryads
+            Completing the quest will reward you with 9 RC EXP. Tier 3 Quests give 3 RC EXP if you are Level 3 RC or higher.
+
+
+
+    Level 3 RC:
+        - Abyssal Boots (3,500 Tainted Coins) [EPIC]
+            +250 Health
+            +175 Defence
+            Piece Bonus - Dark Charisma
+                Abyssal Blade deals 20% more damage, and the ability damage is increased by 40%.
+            Full Set Bonus - Abyssal Aura (Skull + Breastplate + Boots)
+                Every full-abyssal set player within 5 blocks of each other gain 20 bonus crit damage each, stacking up to 100 bonus.
+
+        - Night Hunter Artifact (10,000 Tainted Coins + Night Hunter Ring) [LEGENDARY]
+            Increases the speed boost by the Night Hunter enchant by 15 and adds a strength boost of 5 to the enchant as well.
+
+        - Void Synthesiser (12,500 Tainted Coins) [EPIC]
+            While in the Rift Dungeon, Void Monsters will occasionally spawn near you. You gain loot protection too.
+
+        - Tier 4 Quest (370 Tainted Coins)
+            Buy a Tier 4 Quest, which can require any of the following:
+                - Slay 20-30 Rift Spawns
+                - Slay 20-35 Rift Dryads
+                - Slay 20 Rift Phantoms + 8-12 Rift Spawns
+                - Slay 20 Rift Phantoms + 10-15 Rift Dryads
+                - Slay 4-7 Rift Totems + 10-20 Rift Spawns
+                - Slay 4-7 Rift Totems + 15-25 Rift Dryads
+            Completing the quest will reward you with 16 RC EXP. Tier 4 Quests give 4 RC EXP if you are Level 4 RC or higher.
+
+
+
+    Level 4 RC:
+        - Rampage Talisman (3,000 Tainted Coins) [RARE]
+            Rampage Constructs deal 5% less damage. Using an attack with multiple hits of damage will cause all secondary attacks to deal 6% more damage (e.g. bonus Runaan's Bow arrows).
+
+        - Oblivion Talisman (4,000 Tainted Coins) [RARE]
+            Oblivion Constructs deal 5% less damage. Using a ranged attack will shoot a blast of energy to targets that you hit, dealing 4% of the ranged attack's damage as true damage.
+
+        - Torment Talisman (5,000 Tainted Coins) [RARE]
+            Torment Constructs deal 5% less damage. Getting attacked by the same enemy 8 times in a row will create a tether between you and them. The tether increases damage that you deal to the target by 5%, and cause 3% of their damage to be deflected to every target within 4 blocks.
+
+        - Shrine of Aelzer (2,000 Tainted Coins) [EPIC]
+            A special shrine of the dark assassins that emanates power.
+            While this talisman is active, monsters in the Rift Dungeon have a small chance (19 / 18,481) of dropping a Blessed Heart or a Cursed Heart.
+
+        - Braided Rope (40 Tainted Coins)
+            Consumed while using Roped Arrow to increase the speed/velocity of the pull by 40%, and increase damage dealt to targets with the arrow by 60%.
+
+        - Talisman of Conquering (4,000 Tainted Coins) [RARE]
+            Rift Monsters have a 16.6% chance of counting as two kills, granting the drops of both kills too.
+
+        - Talisman of Slaying (4,000 Tainted Coins) [RARE]
+            Slayer Monsters have a 16.6% chance of counting as two kills, granting the drops of both kills too.
+
+        - Talisman of Ravaging (4,000 Tainted Coins) [RARE]
+            Rift Monsters have a 0.25% higher (multiplicative) chance of dropping a rare/very rare/extremely rare/rngesus/impossible drop.
+
+        - Tier 5 Quest (850 Tainted Coins)
+            Buy a Tier 5 Quest, which can require any of the following:
+                - Slay 20-35 Rift Spawns
+                - Slay 30-40 Rift Dryads + 10-15 Rift Totems
+                - Slay 10-20 Rift Phantoms + 20-25 Rift Totems
+                - Slay 6-13 Void Reavers
+            Completing the quest will reward you with 25 RC EXP. Tier 5 Quests give 5 RC EXP if you are Level 5 RC or higher.
+
+
+
+    Level 5 RC:
+        - Rampage Ring (7,500 Tainted Coins + Rampage Talisman) [EPIC]
+            Rampage Constructs deal 12% less damage. Using an attack with multiple hits of damage will cause all secondary attacks to deal 12.5% more damage (e.g. bonus Runaan's Bow arrows).
+
+        - Oblivion Ring (10,000 Tainted Coins + Oblivion Talisman) [EPIC]
+            Oblivion Constructs deal 12% less damage. Using a ranged attack will shoot a blast of energy to targets that you hit, dealing 9% of the ranged attack's damage as true damage.
+
+        - Torment Ring (12,500 Tainted Coins + Torment Talisman) [EPIC]
+            Torment Constructs deal 12% less damage. Getting attacked by the same enemy 6 times in a row will create a tether between you and them. The tether increases damage that you deal to the target by 8%, and cause 4% of their damage to be deflected to every target within 4 blocks.
+
+        - Void Skull Mould (35,000 Tainted Coins) [EPIC]
+            Used to craft the Void Skull.
+
+        - Void Cataphract Mould (60,000 Tainted Coins) [EPIC]
+            Used to craft the Void Cataphract.
+
+        - Void Greaves Mould (50,000 Tainted Coins) [EPIC]
+            Used to craft the Void Greaves.
+
+        - Void Boots Mould (25,000 Tainted Coins) [EPIC]
+            Used to craft the Void Boots.
+
+        - Tier 6 Quest (2000 Tainted Coins)
+            Buy a Tier 6 Quest, which can require any of the following:
+                - Slay 30-50 Rift Spawns
+                - Slay 40-70 Rift Dryads
+                - Slay 80-110 Rift Phantoms
+                - Slay 50-90 Rift Totems
+                - Slay 20-40 Void Reavers
+            Completing the quest will reward you with 36 RC EXP. Tier 6 Quests give 6 RC EXP if you are Level 6 RC or higher.
+
+
+
+    Level 6 RC:
+        - Rampage Artifact (30,000 Tainted Coins + Rampage Ring) [LEGENDARY]
+            Rampage Constructs deal 20% less damage. Using an attack with multiple hits of damage will cause all secondary attacks to deal 20% more damage (e.g. bonus Runaan's Bow arrows).
+
+        - Oblivion Artifact (40,000 Tainted Coins + Oblivion Ring) [LEGENDARY]
+            Oblivion Constructs deal 20% less damage. Using a ranged attack will shoot a blast of energy to targets that you hit, dealing 15% of the ranged attack's damage as true damage.
+
+        - Torment Artifact (50,000 Tainted Coins + Torment Ring) [LEGENDARY]
+            Torment Constructs deal 20% less damage. Getting attacked by the same enemy 5 times in a row will create a tether between you and them. The tether increases damage that you deal to the target by 12%, and cause 5% of their damage to be deflected to every target within 4 blocks.
+
+        - Scythespike Handpiece (100,000 Tainted Coins) [LEGENDARY]
+            The handpiece of the Scythevoid Rapier.
+
+        - Ring of Conquering (40,000 Tainted Coins + Talisman of Conquering) [EPIC]
+            Rift Monsters have a 33.3% chance of counting as two kills, granting the drops of both kills too.
+
+        - Ring of Slaying (40,000 Tainted Coins + Talisman of Slaying) [EPIC]
+            Slayer Monsters have a 33.3% chance of counting as two kills, granting the drops of both kills too.
+
+        - Ring of Ravaging (40,000 Tainted Coins + Talisman of Ravaging) [EPIC]
+            Rift Monsters have a 0.5% higher (multiplicative) chance of dropping a rare/very rare/extremely rare/rngesus/impossible drop.
+
+        - Tainted Scavenging Ring (64,000 Tainted Coins + Tainted Scavenging Talisman) [EPIC]
+            Upgrades the passive Tainted Coin gain by the Tainted Scavenging Talisman by 25%. Also grants interest on your Tainted Coins by 0.2% for the first 100,000 coins every hour.
+
+        - Tainted Scavenging Artifact (1,280,000 Tainted Coins + Tainted Scavenging Ring) [LEGENDARY]
+            Upgrades the passive Tainted Coin gain by the Tainted Scavenging Ring by 40% (total 1.75x multiplier). Also grants interest on your Tainted Coins by 0.4% for the first 100,000 coins every hour.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rift Dungeon Monsters:
+    [Level 75] Rift Spawn (108,000 HP)
+    > Deals 6000 on melee hit.
+    > 3-block aura that damages all players for 3% of their missing health as true damage. 25% of damage dealt by the aura will be restored as health back to the Rift Spawn.
+    > 3% chance to drop a Rift Fragment.
+    > Drops 1-4 Tainted Coins
+
+    [Level 70] Rift Dryad (97,500 HP)
+    > 9-block range magic attack. Deals 5750 (+150% of the target's intelligence) magic damage to the target. Each hit will temporarily reduce the intelligence of the target by 20 (minimum 0) for 4 seconds.
+    > 3% chance to drop a Rift Fragment.
+    > Drops 1-4 Tainted Coins
+
+    [Level 85] Rift Phantom (75,000 HP)
+    > 25% of damage taken is deflected to all (not split) players within 6 blocks.
+    > No basic attack.
+    > Occasionally jumps in front of other Rift monsters to block projectiles that may harm them.
+    > 4% chance to drop a Rift Fragment.
+    > Drops 3-7 Tainted Coins
+
+    [Level 100] Rift Totem (120,000 HP)
+    > Every 4.5 seconds, the Rift Totem charges up for 1 second before slamming the ground with extreme force. This causes a nearby position within 7 blocks to erupt with lava, dealing up to 4,000 initial damage, and dealing 2,000 additional true damage over 4 seconds.
+    > 5% chance to drop a Rift Fragment.
+    > Drops 5-10 Tainted Coins
+
+
+
+    [Level 110] Void Reaver (155,000 HP)
+    > Deals 7500 on melee hit.
+    > Cleaves players within 4 blocks for 60% of pre-mitigated damage.
+    > 6% chance to drop a Rift Fragment.
+    > Extremely small chance to drop a Reaver Thorn.
+    > Drops 10-31 Tainted Coins
+
+    [Level 135] Void Aegis (200,000 HP)
+    > Deals 10,000 damage on ranged attacks. Uses 1 attack every second.
+    > Attacks grant a 25,000 HP shield for 2 seconds on hit.
+    > Increases defence of nearby Rift Dungeon monsters by 350, stackable.
+    > 6% chance to drop a Rift Fragment.
+    > Extremely small chance to drop a Scythebane Aegis
+    > Drops 15-45 Tainted Coins
+
+    [Level 160] Void Scythemir (350,000 HP)
+    > Deals 11,000 damage on melee attacks, once every second.
+    > Every 50,000 HP lost, spawn a Void Aegis. If any Void Aegises are spawned by the Scythemir and aren't killed, the Scythemir cannot be killed (capped at 1 HP).
+    > If the Scythemir is attacked by anything ranged, it cleaves players within 5 blocks with its scythe, dealing 12.5% of every player's current HP as true damage.
+    > 8% chance to drop a Rift Fragment.
+    > Extremely small chance to drop a Scythebane Piercer
+    > Drops 30-60 Tainted Coins
+
+
+
+
+
+
+Aelzian Forge:
+    Used to forge special Rift-based items.
+
+    - Growth VI Book:
+        [32 Enchanted Dark Oak] [32 Enchanted Dark Oak] [32 Enchanted Dark Oak]
+        [32 Enchanted Dark Oak] [Growth V Book] [32 Enchanted Dark Oak]
+        [32 Enchanted Dark Oak] [32 Enchanted Dark Oak] [32 Enchanted Dark Oak]
+
+    - Growth VII Book:
+        [64 Enchanted Dark Oak] [64 Enchanted Dark Oak] [64 Enchanted Dark Oak]
+        [64 Enchanted Dark Oak] [Growth VI Book] [64 Enchanted Dark Oak]
+        [64 Enchanted Dark Oak] [64 Enchanted Dark Oak] [64 Enchanted Dark Oak]
+
+    - Growth Surge Fragment:
+        [64 Enchanted Dark Oak] [64 Enchanted Dark Oak] [64 Enchanted Dark Oak]
+        [64 Enchanted Dark Oak] [64 Enchanted Dark Oak] [64 Enchanted Dark Oak]
+        [64 Enchanted Dark Oak] [64 Enchanted Dark Oak] [64 Enchanted Dark Oak]
+
+    - Growth VIII Book:
+        [Growth Surge Fragment] [Growth Surge Fragment] [Growth Surge Fragment]
+        [Growth Surge Fragment] [Growth VII Book] [Growth Surge Fragment]
+        [Growth Surge Fragment] [Growth Surge Fragment] [Growth Surge Fragment]
+
+    - Growth IX Book:
+        [8 Growth Surge Fragments] [8 Growth Surge Fragments] [8 Growth Surge Fragments]
+        [8 Growth Surge Fragments] [Growth VIII Book] [8 Growth Surge Fragments]
+        [8 Growth Surge Fragments] [8 Growth Surge Fragments] [8 Growth Surge Fragments]
+
+    - Growth X Book:
+        [64 Growth Surge Fragments] [64 Growth Surge Fragments] [64 Growth Surge Fragments]
+        [64 Growth Surge Fragments] [Growth IX Book] [64 Growth Surge Fragments]
+        [64 Growth Surge Fragments] [64 Growth Surge Fragments] [64 Growth Surge Fragments]
+
+
+
+    - Protection VI Book:
+        [Enchanted Iron Block] [Enchanted Iron Block] [Enchanted Iron Block]
+        [Enchanted Iron Block] [Protection V Book] [Enchanted Iron Block]
+        [Enchanted Iron Block] [Enchanted Iron Block] [Enchanted Iron Block]
+
+    - Protection VII Book:
+        [8 Enchanted Iron Blocks] [8 Enchanted Iron Blocks] [8 Enchanted Iron Blocks]
+        [8 Enchanted Iron Blocks] [Protection VI Book] [8 Enchanted Iron Blocks]
+        [8 Enchanted Iron Blocks] [8 Enchanted Iron Blocks] [8 Enchanted Iron Blocks]
+
+    - Protection VIII Book:
+        [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks]
+        [64 Enchanted Iron Blocks] [Protection VII Book] [64 Enchanted Iron Blocks]
+        [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks]
+
+    - Protection Surge Fragment:
+        [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks]
+        [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks]
+        [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks] [64 Enchanted Iron Blocks]
+
+    - Protection IX Book:
+        [4 Protection Surge Fragments] [4 Protection Surge Fragments] [4 Protection Surge Fragments]
+        [4 Protection Surge Fragments] [Protection VIII Book] [4 Protection Surge Fragments]
+        [4 Protection Surge Fragments] [4 Protection Surge Fragments] [4 Protection Surge Fragments]
+
+    - Protection X Book:
+        [16 Protection Surge Fragments] [16 Protection Surge Fragments] [16 Protection Surge Fragments]
+        [16 Protection Surge Fragments] [Protection IX Book] [16 Protection Surge Fragments]
+        [16 Protection Surge Fragments] [16 Protection Surge Fragments] [16 Protection Surge Fragments]
+
+
+
+    - ROT Blessing:
+        [4 Enchanted Diamond Blocks] [Rift Fragment] [4 Enchanted Diamond Blocks]
+        [Rift Fragment] [Blessed Heart] [Rift Fragment]
+        [4 Enchanted Diamond Blocks] [Rift Fragment] [4 Enchanted Diamond Blocks]
+            Used to bless a ROT (Rampage/Oblivion/Torment) accessory in the shop.
+
+    - ROT Cursing:
+        [Rift Fragment] [4 Enchanted Diamond Blocks] [Rift Fragment]
+        [4 Enchanted Diamond Blocks] [Cursed Heart] [4 Enchanted Diamond Blocks]
+        [Rift Fragment] [4 Enchanted Diamond Blocks] [Rift Fragment]
+            Used to curse a ROT (Rampage/Oblivion/Torment) accessory in the shop.
+
+    - Void Skull [LEGENDARY]:
+        [Rift Fragment] [Reaver Thorn] [Rift Fragment]
+        [32 Enchanted Obsidian] [Void Skull Mould] [32 Enchanted Obsidian]
+        [Rift Fragment] [32 Enchanted Obsidian] [Rift Fragment]
+            The helmet piece of the Void Armor set.
+            +300 Health
+            +200 Defence
+            +5% Crit Damage
+            Piece Bonus - Engulfing
+                The Void Skull occasionally leaks out dark energies, granting 8% bonus damage for 3 seconds and blinding nearby players and monsters for 1 second. Can happen up to once every 12 seconds (guaranteed once every 25 seconds).
+            Full Set Bonus - Critical Retribution
+                Killing a Rift Dungeon monster grants 2% bonus crit damage for 7 seconds, stacking up to 40%. If you "die" with a crit damage bonus of at least 30%, you avoid death instead, consume the crit damage bonus, but disable crits and put Critical Retribution on cooldown for 60 seconds.
+
+    - Crying Obsidian [RARE]:
+        [Nothing] [32 Enchanted Obsidian] [Nothing]
+        [32 Enchanted Obsidian] [32 Enchanted Obsidian] [32 Enchanted Obsidian]
+        [Nothing] [32 Enchanted Obsidian] [Nothing]
+
+    - Void Cataphract [LEGENDARY]:
+        [Rift Fragment] [Reaver Thorn] [Rift Fragment]
+        [1 Crying Obsidian] [Void Cataphract Mould] [1 Crying Obsidian]
+        [Rift Fragment] [1 Crying Obsidian] [Rift Fragment]
+            The chestplate piece of the Void Armor set.
+            +480 Health
+            +320 Defence
+            +5% Crit Damage
+            Piece Bonus - Body Blocker
+                Projectiles that you shoot at players will create an explosion for 15% damage.
+            Full Set Bonus - Critical Retribution
+                Killing a Rift Dungeon monster grants 2% bonus crit damage for 7 seconds, stacking up to 40%. If you "die" with a crit damage bonus of at least 30%, you avoid death instead, consume the crit damage bonus, but disable crits and put Critical Retribution on cooldown for 60 seconds.
+
+    - Void Greaves [LEGENDARY]:
+        [Rift Fragment] [Reaver Thorn] [Rift Fragment]
+        [1 Crying Obsidian] [Void Greaves Mould] [1 Crying Obsidian]
+        [Rift Fragment] [1 Crying Obsidian] [Rift Fragment]
+            The leggings piece of the Void Armor set.
+            +420 Health
+            +280 Defence
+            +5% Crit Damage
+            Piece Bonus - Protector Core
+                Attacking targets stores charges; 1 per hit. At 10 charges, you gain 2% bonus defence for 3 seconds.
+            Full Set Bonus - Critical Retribution
+                Killing a Rift Dungeon monster grants 2% bonus crit damage for 7 seconds, stacking up to 40%. If you "die" with a crit damage bonus of at least 30%, you avoid death instead, consume the crit damage bonus, but disable crits and put Critical Retribution on cooldown for 60 seconds.
+
+    - Void Boots [LEGENDARY]:
+        [Rift Fragment] [Reaver Thorn] [Rift Fragment]
+        [1 Crying Obsidian] [Void Boots Mould] [1 Crying Obsidian]
+        [Rift Fragment] [1 Crying Obsidian] [Rift Fragment]
+            The boots piece of the Void Armor set.
+            +240 Health
+            +160 Defence
+            +5% Crit Damage
+            Piece Bonus - Void Jump
+                You can double jump at the cost of 100 Mana. 1 Second Cooldown. When you double jump, you create an aura of chaos around you that damages enemies within 6 blocks for 4% of their maximum health (capped at 0.4% for bosses) over 4 seconds. This cannot happen more than once every 16 seconds.
+            Full Set Bonus - Critical Retribution
+                Killing a Rift Dungeon monster grants 2% bonus crit damage for 7 seconds, stacking up to 40%. If you "die" with a crit damage bonus of at least 30%, you avoid death instead, consume the crit damage bonus, but disable crits and put Critical Retribution on cooldown for 60 seconds.
+
+    - Scythebane Helmet [LEGENDARY]:
+        [Scythebane Aegis] [Scythebane Aegis] [Scythebane Aegis]
+        [Scythebane Aegis] [16 Crying Obsidian] [Scythebane Aegis]
+        [16 Crying Obsidian] [16 Crying Obsidian] [16 Crying Obsidian]
+            The helmet piece of the Scythebane Armor set.
+            +600 Defence
+            -25% Crit Chance
+            +100% Crit Damage
+            +60 Intelligence
+            Piece Bonus - Void Endurance
+                You gain +1 Defence against Rift Dungeon monsters for every 2,500 kills towards them. Capped at 250 bonus defence.
+            Full Set Bonus - Bane of the Void
+                You are guaranteed a critical hit after hitting the same target 8 times without missing. You also restore 0.5% of your missing health back if you land the critical hit successfully.
+                
+
+    - Scythebane Chestplate [LEGENDARY]:
+        [Scythebane Aegis] [64 Crying Obsidian] [Scythebane Aegis]
+        [Scythebane Aegis] [Scythebane Aegis] [Scythebane Aegis]
+        [Scythebane Aegis] [Scythebane Aegis] [Scythebane Aegis]
+            The chestplate piece of the Scythebane Armor set.
+            +900 Defence
+            -25% Crit Chance
+            +152% Crit Damage
+            +96 Intelligence
+            Piece Bonus - Void Endurance
+                You gain +1 Defence against Rift Dungeon monsters for every 4,000 kills towards them. Capped at 400 bonus defence.
+            Full Set Bonus - Bane of the Void
+                You are guaranteed a critical hit after hitting the same target 8 times without missing. You also restore 0.5% of your missing health back if you land the critical hit successfully.
+
+    - Scythebane Leggings [LEGENDARY]:
+        [Scythebane Aegis] [Scythebane Aegis] [Scythebane Aegis]
+        [Scythebane Aegis] [32 Crying Obsidian] [Scythebane Aegis]
+        [Scythebane Aegis] [32 Crying Obsidian] [Nothing]
+            The leggings piece of the Scythebane Armor set.
+            +800 Defence
+            -25% Crit Chance
+            +132% Crit Damage
+            +84 Intelligence
+            Piece Bonus - Void Endurance
+                You gain +1 Defence against Rift Dungeon monsters for every 3,500 kills towards them. Capped at 350 bonus defence.
+            Full Set Bonus - Bane of the Void
+                You are guaranteed a critical hit after hitting the same target 8 times without missing. You also restore 0.5% of your missing health back if you land the critical hit successfully.
+
+    - Scythebane Boots [LEGENDARY]:
+        [Scythebane Aegis] [10 Crying Obsidian] [Scythebane Aegis]
+        [Scythebane Aegis] [24 Crying Obsidian] [Scythebane Aegis]
+        [10 Crying Obsidian] [10 Crying Obsidian] [10 Crying Obsidian]
+            The boots peice of the Scythebane Armor set.
+            +500 Defence
+            -25% Crit Chance
+            +84% Crit Damage
+            +48 Intelligence
+            Piece Bonus - Void Endurance
+                You gain +1 Defence against Rift Dungeon monsters for every 2,000 kills towards them. Capped at 200 bonus defence.
+            Full Set Bonus - Bane of the Void
+                You are guaranteed a critical hit after hitting the same target 8 times without missing. You also restore 0.5% of your missing health back if you land the critical hit successfully.
+
+    - Void Rock [EPIC]:
+        [24 Crying Obsidian] [24 Crying Obsidian] [24 Crying Obsidian]
+        [24 Crying Obsidian] [64 Enchanted Diamond Blocks] [24 Crying Obsidian]
+        [24 Crying Obsidian] [24 Crying Obsidian] [24 Crying Obsidian]
+            Used to craft various items.
+
+    - Scythevoid Rapier [LEGENDARY]:
+        [Nothing] [8 Void Rocks] [Nothing]
+        [8 Void Rocks] [Scythebane Piercer] [8 Void Rocks]
+        [Nothing] [8 Void Rocks] [Nothing]
+            +300 Damage
+            +200 Strength
+            +50% Crit Damage
+            +10% Armor Piercing
+            Item Passive - Slice 'n' Dice
+                Targets hit take 1% of their missing health as bonus damage. 1 Second Cooldown.
+            Item Ability - Blade Dance
+                You shoot out 16 blades in the target direction (30 degree cone, 80 block radius). Targets hit will have a blade embedded inside them, slowing them by 8%. Blades last for 10 seconds.
+                Attacking a bladed target will let you dash to the target, dealing 4% of your last hit's damage as true damage to the target.
+                Right clicking a bladed target with your fist (empty slot) will rip the blade out, reducing the cooldown of Blade Dance by 12 seconds, and dealing 5% of your effective health as bleed damage over 5 seconds.
+                Costs 400 Mana.
+                240 Second Cooldown.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Drops:
+    50% or higher = Common
+    10% or higher = Uncommon
+    1% or higher = Rare
+    1 in 10k or higher = Very Rare
+    1 in 1mil or higher = Extremely Rare
+    1 in 1bil or higher = RNGesus
+    Lower than 1 in 1bil = "Impossible"
+
+    - Rift Fragment [RARE]
+        A weakened fragment of the Rift that emanates chaotic energy.
+            Dropped by most Rift Dungeon monsters.
+            Drop Chance: 3%+ (Rare)
+
+    - Blessed Heart [EPIC]
+        A heart retrieved using the Shrine of Aelzer.
+            Dropped by Rift Dungeon monsters while the Shrine of Aelzer is active.
+            Drop Chance: 19/18,481 (0.1028%) (Very Rare)
+
+    - Cursed Heart [EPIC]
+        A heart retrieved using the Shrine of Aelzer.
+            Dropped by Rift Dungeon monsters while the Shrine of Aelzer is active.
+            Drop Chance: 19/18,481 (0.1028%) (Very Rare)
+
+    - Reaver Thorn [LEGENDARY]
+        A prickly thorn, torn off from a Void Reaver. Sharp enough to be used as a weapon. Used to craft Void Armor.
+        +100 Damage
+        +15 Strength
+            Dropped by Void Reavers.
+            Drop Chance: 3/55,000 (0.0055%) (Extremely Rare)
+
+    - Scythebane Aegis [LEGENDARY]
+        A protective barrier, formed from a Void Aegis. Protective enough to be used as a shield. Used to craft Scythebane Armor. Grants bonus defence stats while holding it.
+        +350 Defence
+        +10 True Defence
+        Reduces incoming damage by a further 8%.
+            Dropped by Void Aegises.
+            Drop Chance: 7/304,039 (0.0023%) (Extremely Rare)
+
+    - Scythebane Piercer [LEGENDARY]
+        A defensive shard, collapsed off of a Void Scythemir. While holding this shard, arrows deal 1% bonus damage to every consecutive target. Used to craft the Scythevoid Rapier.
+            Dropped by Void Scythemirs.
+            Drop Chance: 2/310,003 (0.00065%) (Extremely Rare)
