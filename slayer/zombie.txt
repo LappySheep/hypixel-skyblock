@@ -1,0 +1,37 @@
+Zombie Slayer
+    Revenant Horror V:
+        Health: 6,000,000
+        Damage: 2,500 per second
+        
+        Life Drain
+            Drains health every few seconds.
+        
+        Pestilence
+            Deals AOE damage every second, shredding armor by 25%.
+            
+        Enrage
+            Gets real mad once in a while.
+        
+        Piercing Hemorrhage
+            Strikes a single target for 33% of their current health as true damage. Take another 33% of their maximum health as true damage over 3 seconds.
+        
+        Reward: 12500 Zombie Slayer XP
+            + Boss drops
+        
+        Cost to start: 125,000 coins
+
+
+
+    Zombie Slayer 8
+        Reaper Soul
+            7/13000 Drop Chance from Revenant Horror Vs
+        
+        Dreadlord Scythe
+            Reaper Soul + 2 Reaper Scythes + 384 Revenant Viscera
+                Damage: +525
+                Speed: +15
+                
+                Item Passive: Dreaded Touch
+                    Killing a monster creates a small pestilence aura for 3 seconds. Can happen up to once every 5 seconds.
+                    This pestilence aura makes nearby monsters take 33% bonus damage, tripling against zombies, and also deals 1% max HP damage per half second.
+                    The Dreadlord Scythe deals true damage against zombies.
