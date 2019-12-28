@@ -1,0 +1,33 @@
+Spider Slayer
+    Tarantula Broodfather V:
+        Health: 6,500,000
+        Damage: 2,200 per second
+        
+        Combat Jump
+            The spider will often attempt to jump behind you.
+            
+        Noxious
+            Deals AOE damage every second, reducing your healing by 50%.
+        
+        Pincer Fangs
+            Deals 20% missing health as true damage. This is tripled if you are below 75% of your maximum health.
+        
+        Reward: 12500 Spider Slayer XP
+            + Boss drops
+        
+        Cost to start: 125,000 coins
+    
+    
+    
+    Spider Slayer 8
+        Mosquito Eye
+            33/7000 Drop Chance from Tarantula Broodfather Vs
+        
+        Mosquito Blood
+            Mosquito Eye + 8 Tarantula Silk
+                
+                Item Ability: Blood Bite
+                    Consume the Blood to empower the Mosquito Bow, increasing base damage, base strength, and all crit bonuses from the bow by 25% for 60 seconds.
+                    Using the Nasty Bite ability during this time will double healing, and increase bonus damage from 9% to 15%.
+                    Cooldown: 60 seconds.
+                    Costs 100% of maximum mana. Cannot be used if maximum mana is lower than 125.
