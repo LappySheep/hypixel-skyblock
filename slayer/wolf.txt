@@ -1,0 +1,30 @@
+Wolf Slayer
+    Sven Packmaster V:
+        Health: 5,000,000
+        Damage: 2,000
+        True damage: 500 per second
+        
+        Agile
+            The wolf is small and fast, making it hard to hit.
+        
+        True Damage
+            Ignores your defense. Very painful.
+        
+        Call the pups!
+            At 50% health, calls its deadly pack of pups.
+        
+        Ramming Recall
+            Dealing more than 100,000 damage in a second to Sven or its pups at any point will make Sven and his pups leap at you.
+        
+        Reward: 12500 Spider Slayer XP
+            + Boss drops
+        
+        Cost to start: 125,000 coins
+        
+        
+        
+    Wolf Slayer 8
+        Hunter Artifact
+            Hunter Ring + 512 Gold Teeth
+                
+                Grants 8% more Combat XP.
