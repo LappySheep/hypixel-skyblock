@@ -110,7 +110,7 @@ Creeper Slayer
         Explosive Fury
             At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled and Podlets spawn more often. Impale is used more often.
         
-        Reward: 12500 Creeper Slayer XP
+        Reward: 1250 Creeper Slayer XP
             + Boss drops
         
         Cost to start: 125,000 coins
