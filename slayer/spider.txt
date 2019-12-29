@@ -12,7 +12,7 @@ Spider Slayer
         Pincer Fangs
             Deals 20% missing health as true damage. This is tripled if you are below 75% of your maximum health.
         
-        Reward: 12500 Spider Slayer XP
+        Reward: 1250 Spider Slayer XP
             + Boss drops
         
         Cost to start: 125,000 coins
