@@ -15,7 +15,7 @@ Zombie Slayer
         Piercing Hemorrhage
             Strikes a single target for 33% of their current health as true damage. Take another 33% of their maximum health as true damage over 3 seconds.
         
-        Reward: 12500 Zombie Slayer XP
+        Reward: 1250 Zombie Slayer XP
             + Boss drops
         
         Cost to start: 125,000 coins
