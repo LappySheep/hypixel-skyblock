@@ -178,6 +178,14 @@ Creeper Slayer
     
     
     Creeper Slayer 3
+        Explosive Shard
+            Up to 1% Drop Chance
+            EM1: Cannot Drop
+            EM2: 0.1% Drop Chance
+            EM3: 0.3% Drop Chance
+            EM4: 0.6% Drop Chance
+            EM5: 1% Drop Chance
+            
         Earthy Turbine
             256 Enchanted Iron + Explosive Shard
             
