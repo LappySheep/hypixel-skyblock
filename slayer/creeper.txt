@@ -380,7 +380,7 @@ Creeper Slayer
                 Reduces all explosion-damage by 20%.
         
         Blast-proof Barrier
-            4 Repaired Meshes + 4 Enchanted Iron Blocks
+            4 Ancient Meshes + 4 Enchanted Iron Blocks
             
                 Item Passive: Explosion Blocker
                     While holding the Blast-proof Shield, all explosion-damage is reduced by 20%. This is not an accessory.
@@ -465,6 +465,9 @@ Creeper Slayer
                     Cooldown: 6 seconds
                 Item Passive: Excavator's Dream
                     In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.05% (maximum 500% bonus damage at 5,000 Excavator Fragments).
+                    
+        Excavator's Lost Trophy
+            7/13000 Drop Chance from Eternal Mother V.
         
         Leaf Trophy
             256 Ancient Meshes + 128 Excavator Shards + 2 Eternal Flames + Excavator's Lost Trophy
