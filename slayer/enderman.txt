@@ -427,7 +427,7 @@ Enderman Slayer
             Catching mobs teleports them in front of you.
             
         Ender Wraith - Fishing 26
-            Health: 110,00
+            Health: 110,000
             Damage: 5500 per second
             
             Drops:
