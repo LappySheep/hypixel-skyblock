@@ -24,7 +24,19 @@ Wolf Slayer
         
         
     Wolf Slayer 8
-        Hunter Artifact
-            Hunter Ring + 512 Gold Teeth
+        Nature's Backbone
+            7/13000 Drop Chance from Sven Packmaster V.
+        
+        Reflex Power Orb
+            Overflux Power Orb + 192 Gold Teeth + 192 Enchanted Leather + Nature's Backbone
                 
-                Grants 8% more Combat XP.
+            Item Ability: Deploy
+                Place an orb for 60s buffing up to 5 players within 24 blocks.
+                Costs 50% of max mana.
+                Only one orb applies per player.
+            Orb Buff: Reflux
+                Grants +150% base mana regen.
+                Heals 4% of max HP per second.
+                Increases all heals by 15%.
+                Grants +40 Strength.
+                Converts 2% of all damage dealt to true damage (2% true : 98% normal)
