@@ -505,4 +505,4 @@ Enderman Slayer
                     +12 Strength
                     +24% Crit Chance
                     +24% Crit Damage
-                    +18% Magic
+                    +18% Magic Find
