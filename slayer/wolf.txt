@@ -16,7 +16,7 @@ Wolf Slayer
         Ramming Recall
             Dealing more than 100,000 damage in a second to Sven or its pups at any point will make Sven and his pups leap at you.
         
-        Reward: 1250 Spider Slayer XP
+        Reward: 1250 Wolf Slayer XP
             + Boss drops
         
         Cost to start: 125,000 coins
