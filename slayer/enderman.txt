@@ -261,7 +261,8 @@ Enderman Slayer
             +5% Crit Damage
             
             Item Passive: Precious Strength
-                Deal +150% more damage against Ender Dragons, Endermen, and Endermites.
+                Deal +100% more damage against Ender Dragons and Endermites.
+                Deal +150% more damage against Endermen.
                 Gain +10 Strength for 2 seconds after killing an Enderman.
             Item Passive: Home of the End
                 Doubles the stats of the Precious End Sword while in The End.
@@ -383,7 +384,8 @@ Enderman Slayer
             +10% Crit Damage
             
             Item Passive: Shiny Flair
-                Deal +200% more damage against Ender Dragons, Endermen, and Endermites.
+                Deal +100% more damage against Ender Dragons and Endermites.
+                Deal +200% more damage against Endermen.
                 Gain +15 Strength for 2 seconds after killing an Enderman.
             Item Passive: Home of the End
                 Doubles the stats of the Precious End Sword while in The End.
