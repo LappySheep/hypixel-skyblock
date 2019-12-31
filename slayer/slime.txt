@@ -1,6 +1,6 @@
 Slime Slayer
     Congealed Monstrosity I:
-        Health: 1,000
+        Health: 2,000
         Damage: 10 per second
         Defence: 1
     
@@ -18,7 +18,7 @@ Slime Slayer
     
     
     Congealed Monstrosity II:
-        Health: 16,500
+        Health: 30,000
         Damage: 80 per second
         Defence: 3
     
@@ -36,7 +36,7 @@ Slime Slayer
     
     
     Congealed Monstrosity III:
-        Health: 235,000
+        Health: 400,000
         Damage: 280 per second
         Defence: 6
     
@@ -57,7 +57,7 @@ Slime Slayer
     
     
     Congealed Monstrosity IV:
-        Health: 3,000,000
+        Health: 5,000,000
         Damage: 500 per second
         Defence: 10
         
@@ -78,7 +78,7 @@ Slime Slayer
     
     
     Congealed Monstrosity V:
-        Health: 42,000,000
+        Health: 60,000,000
         Damage: 900 per second
         Defence: 15
         
@@ -157,6 +157,7 @@ Slime Slayer
             
             Item Passive: Cutting Through Butter
                 Deal +50% damage against Slimes.
+                Gain 10% of your Defence as bonus damage against Slimes.
     
     
     
@@ -251,6 +252,7 @@ Slime Slayer
             
             Item Passive: Bread and Butter
                 Deal +100% damage against Slimes.
+                Gain 15% of your Defence as bonus damage against Slimes.
             Item Passive: Slicing the Bread
                 Right-clicking a Hay Bale breaks it and drops 10 Wheat.
         
@@ -318,6 +320,7 @@ Slime Slayer
             Item Passive: Carving Blade
                 Deal +150% damage against Slimes.
                 Gain +20 Defence for 1 second when attacking Slimes.
+                Gain 20% of your Defence as bonus damage against Slimes.
             Item Ability: Striking Curve RIGHT CLICK
                 Carve the closest target within melee range to deal 20x your strength as damage (tripling against slimes) and deal 5% more damage against slimes for the next 3 seconds.
                 Costs 200 mana.
@@ -361,6 +364,7 @@ Slime Slayer
             Item Passive: Thrashing Blade
                 Deal +200% damage against Slimes.
                 Gain +30 Defence and +15 Strength for 1.5 seconds when attacking Slimes.
+                Gain 25% of your Defence as bonus damage against Slimes.
             Item Ability: Reaping Curve RIGHT CLICK
                 Carve the closest target within melee range to deal 35x your strength as damage (quadrupling against slimes) and deal 25% more damage against slimes for the next 3 seconds.
                 Costs 225 mana.
