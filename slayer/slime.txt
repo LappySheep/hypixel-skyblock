@@ -408,7 +408,7 @@ Slime Slayer
                 
                 LEGENDARY Accessory
                 While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
-                They also take 25% of their current health as damage and take high knockback away from your boss.
+                They also take 25% of their current health as damage and take high knockback away from your boss as well as being stunned after landing for 2 seconds.
                 Does not stack with the Potent Slime Blaster, Putried Slime Curser, or Putried Slime Crippler.
         
         Potent Slime Blaster
