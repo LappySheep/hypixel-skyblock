@@ -393,7 +393,7 @@ Slime Slayer
                 LEGENDARY Accessory
                 While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
                 They also take 2% of their current health as damage, are blinded for 7 seconds, and slowed by 30% for 2 seconds.
-                Does not stack with the Putrid Slime Crippler
+                Does not stack with the Putrid Slime Crippler, Potent Slime Stumper, or Potent Slime Blaster.
         
         Putrid Slime Crippler
             64 Purified Slime Blocks + Putrid Slime Deterrent + 28 Enchanted Fermented Spider Eyes
@@ -401,7 +401,7 @@ Slime Slayer
                 LEGENDARY Accessory
                 While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
                 They also take 2% of their current health as damage, are blinded for 2 seconds, and slowed by 90% for 7 seconds.
-                Does not stack with the Putrid Slime Curser
+                Does not stack with the Putrid Slime Curser, Potent Slime Stumper, or Potent Slime Blaster.
         
         Potent Slime Stumper
             64 Purified Slime Blocks + Potent Slime Deterrent + 14 Enchanted Diamond Blocks
@@ -409,7 +409,7 @@ Slime Slayer
                 LEGENDARY Accessory
                 While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
                 They also take 25% of their current health as damage and take high knockback away from your boss.
-                Does not stack with the Potent Slime Blaster
+                Does not stack with the Potent Slime Blaster, Putried Slime Curser, or Putried Slime Crippler.
         
         Potent Slime Blaster
             64 Purified Slime Blocks + Potent Slime Deterrent + 168 Enchanted Fireworks
@@ -417,6 +417,7 @@ Slime Slayer
                 LEGENDARY Accessory
                 While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
                 They also take 6% of their current health as damage, take extremely high knockback away from your boss as well as being stunned after landing for 6 seconds
+                Does not stack with the Potent Slime Stumper, Putried Slime Curser, or Putried Slime Crippler.
         
         Deterrant Revitaliser
             32 Enchanted Fermented Spider Eyes + 32 Enchanted Ink Sacs + Enchanted Diamond Block + 4 Enchanted Fireworks + 48 Purified Slime Blocks
