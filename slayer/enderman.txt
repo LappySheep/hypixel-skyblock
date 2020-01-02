@@ -295,8 +295,11 @@ Enderman Slayer
                 
                 
     Ender Slayer 5
-        Charged Ender Artifact
+        Artifact Infusion
             20/12677 Drop Chance from Ender Meister 4 or higher.
+        
+        Charged Ender Artifact
+            Artifact Infusion + Ender Artifact + 72 Precious Pearls
             +8 Strength
             
             Take 25% less damage from End-related monsters.
