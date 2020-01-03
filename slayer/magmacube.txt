@@ -129,7 +129,7 @@ Magma Cube Slayer
                 If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 16% of their missing health as true damage.
             
             Life Conflagration Surge
-                If 5 of the Tesseract's attacks are blocked, dodged, nullified, negated, or if damage is reduced for any of them (5 in total), the Tesseract releases a surge of pyroclastic energy in all directions, dealing 166% of every nearby target's health as true damage over 10 seconds.
+                If 3 of the Tesseract's attacks are blocked, dodged, nullified, negated, or if damage is reduced for any of them (5 in total) consecutively, the Tesseract releases a surge of pyroclastic energy in all directions, dealing 166% of every nearby target's health as true damage over 10 seconds.
         
         Reward: 1250 Magma Cube Slayer XP
             + Boss drops
