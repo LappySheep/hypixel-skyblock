@@ -1,0 +1,456 @@
+Magma Cube Slayer
+    Molten Tesseract I:
+        Health: 1,000
+        
+        Infernal Caster
+            The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+        
+        Fuel the Fire
+            If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 1% max hp true damage per second to all targets within 7 blocks.
+        
+        Spells:
+            Magma Blast
+                Shoot a high velocity fireball at a target. Deals up to 200 damage and high knockback to targets near impact.
+            
+            Chains of Hell
+                Create chains that link to every target within 5 blocks. Deal 40 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 8 blocks from the Tesseract, the chain breaks and they take 200 damage instantly.
+        
+        Reward: 5 Magma Cube Slayer XP
+            + Boss drops
+        
+        Cost to start: 100 coins
+    
+    
+    
+    Molten Tesseract II:
+        Health: 22,000
+        
+        Infernal Caster
+            The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+        
+        Fuel the Fire
+            If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 2% max hp true damage per second to all targets within 7 blocks.
+        
+        Spells:
+            Magma Blast
+                Shoot a high velocity fireball at a target. Deals up to 600 damage and high knockback to targets near impact.
+            
+            Chains of Hell
+                Create chains that link to every target within 5 blocks. Deal 80 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 11 blocks from the Tesseract, the chain breaks and they take 400 damage instantly.
+            
+            Scorching Gust
+                Shoot a quick bolt of fire at a target, setting them alight for 8 seconds. Each second, they take 2% of their maximum health as damage.
+        
+        Reward: 25 Magma Cube Slayer XP
+            + Boss drops
+        
+        Cost to start: 2,000 coins
+    
+    
+    
+    Molten Tesseract III:
+        Health: 550,000
+        
+        Infernal
+            The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+        
+        Fuel the Fire
+            If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 3% max hp true damage per second to all targets within 7 blocks.
+        
+        Spells:
+            Magma Blast
+                Shoot a high velocity fireball at a target. Deals up to 1200 damage and high knockback to targets near impact.
+            
+            Chains of Hell
+                Create chains that link to every target within 5 blocks. Deal 120 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 14 blocks from the Tesseract, the chain breaks and they take 800 damage instantly.
+            
+            Scorching Gust
+                Shoot a quick bolt of fire at a target, setting them alight for 10 seconds. Each second, they take 3% of their maximum health as damage.
+            
+            Infernal Wind
+                If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 8% of their missing health as true damage.
+        
+        Reward: 100 Magma Cube Slayer XP
+            + Boss drops
+        
+        Cost to start: 10,000 coins
+        
+        
+        
+    Molten Tesseract IV:
+        Health: 3,000,000
+        
+        Infernal
+            The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+        
+        Fuel the Fire
+            If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 4% max hp true damage per second to all targets within 7 blocks.
+        
+        Spells:
+            Magma Blast
+                Shoot a high velocity fireball at a target. Deals up to 2000 damage and high knockback to targets near impact.
+            
+            Chains of Hell
+                Create chains that link to every target within 5 blocks. Deal 160 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 17 blocks from the Tesseract, the chain breaks and they take 1600 damage instantly.
+            
+            Scorching Gust
+                Shoot a quick bolt of fire at a target, setting them alight for 12 seconds. Each second, they take 4% of their maximum health as damage.
+            
+            Infernal Wind
+                If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 12% of their missing health as true damage.
+        
+        Reward: 500 Magma Cube Slayer XP
+            + Boss drops
+        
+        Cost to start: 50,000 coins
+        
+        
+        
+    Molten Tesseract V:
+        Health: 14,000,000
+        
+        Infernal
+            The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+        
+        Fuel the Fire
+            If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 4% max hp true damage per second to all targets within 7 blocks.
+        
+        Spells:
+            Magma Blast
+                Shoot a high velocity fireball at a target. Deals up to 3000 damage and high knockback to targets near impact.
+            
+            Chains of Hell
+                Create chains that link to every target within 5 blocks. Deal 200 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 20 blocks from the Tesseract, the chain breaks and they take 3200 damage instantly.
+            
+            Scorching Gust
+                Shoot a quick bolt of fire at a target, setting them alight for 14 seconds. Each second, they take 5% of their maximum health as damage.
+            
+            Infernal Wind
+                If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 16% of their missing health as true damage.
+            
+            Life Conflagration Surge
+                If 5 of the Tesseract's attacks are blocked, dodged, nullified, negated, or if damage is reduced for any of them (5 in total), the Tesseract releases a surge of pyroclastic energy in all directions, dealing 166% of every nearby target's health as true damage over 10 seconds.
+        
+        Reward: 1250 Magma Cube Slayer XP
+            + Boss drops
+        
+        Cost to start: 125,000 coins
+    
+    
+    
+    
+    
+    
+    
+    
+    Magma Cube Slayer 0
+        Tepid Rock
+            100% Drop Chance
+            MT1: 1-4 Tepid Rocks
+            MT2: 5-10 Tepid Rocks
+            MT3: 9-22 Tepid Rocks
+            MT4: 13-40 Tepid Rocks
+            MT5: 17-62 Tepid Rocks
+        
+    
+    
+    Magma Cube Slayer 1
+        Molten Rock
+            128 Tepid Rocks + 32 Enchanted Obsidian
+            
+        Cinder Sword
+            Flaming Sword + 2 Tepid Rocks
+            +75 Damage
+            +5 Strength
+            
+            Item Passive: Cinder Soul
+                Every 6 seconds, release an aura of fire that increases your damage against nearby Magma Cubes by 50% and other monsters by 8% for 1 second.
+        
+        Incendiary Talisman
+            8 Molten Rocks + Lava Talisman
+                
+            UNCOMMON Accessory
+            Grants immunity to fire and lava damage.
+            Decreases spell damage and Magma Cube damage by 5%.
+            Grants +5 bonus speed if a Molten Tesseract uses a spell within 20 blocks.
+    
+    
+    
+    Magma Cube Slayer 2
+        Burning Talisman
+            8 Molten Rocks + 12 Enchanted Magma Cream
+            
+            UNCOMMON Accessory
+            Deals 5% bonus damage to targets on fire.
+            Increases damage dealt to Magma Cubes by 5%.
+        
+        Molten Acid
+            14 Molten Rocks + 64 Tepid Rocks + Silver Fang
+        
+        Molten Salt
+            14 Molten Rocks + 64 Tepid Rocks + 8 Enchanted Cobblestone
+        
+        Corrosion Ring
+            Burning Talisman + Molten Acid + 28 Enchanted Spider Eyes
+            
+            RARE Accessory
+            Deals 8% bonus damage to targets on fire.
+            Increases damage dealt to Magma Cubes by 8%.
+            Attacks deal 4% bonus damage over 2 seconds.
+            Does not stack with Dilution Ring.
+        
+        Dilution Ring
+            Burning Talisman + Molten Salt + 14 Enchanted Obsidian
+            
+            RARE Accessory
+            Deals 8% bonus damage to targets on fire.
+            Increases damage dealt to Magma Cubes by 8%.
+            Deal 0.5% of your effective vs-magma-cube HP as bonus damage.
+            Does not stack with Corrosion Ring.
+    
+    
+    
+    Magma Cube Slayer 3
+        Scorching Blade
+            Flaming Sword + 2 Molten Rocks
+            +100 Damage
+            +10 Strength
+            
+            Item Passive: Scorching Soul
+                Every 5.5 seconds, release an aura of fire that increases your damage against nearby Magma Cubes by 75% and other monsters by 12% for 1.5 seconds.
+            Item Ability: Hundred Degree Cutlass RIGHT CLICK
+                Empower your next attack, increasing it by 50% against Magma Cubes.
+                Cooldown refreshed if Hundred Degree Cutlass kills a Magma Cube.
+                Costs 150 mana.
+                Cooldown: 35 seconds.
+        
+        Corrosive Catalyst
+            20/2403 Drop Chance from Molten Tesseract III or higher
+        
+        Diluted Catalyst
+            20/2403 Drop Chance from Molten Tesseract III or higher
+        
+        Volcanic Ember Boots
+            16 Molten Rocks + Ember Boots
+            +40 Health
+            +40 Defence
+            
+            Full Set Bonus: Volcanic Ignition
+                Gain +1 Defence against Magma Cubes for each Magma Boss kill you get while wearing the set. You must get top 3 for it to count.
+                Maximum +1250.
+        
+        Volcanic Ember Leggings
+            28 Molten Rocks + Ember Leggings
+            +70 Health
+            +70 Defence
+            
+            Full Set Bonus: Volcanic Ignition
+                Gain +1 Defence against Magma Cubes for each Magma Boss kill you get while wearing the set. You must get top 3 for it to count.
+                Maximum +1250.
+        
+    
+    
+    Magma Cube Slayer 4
+        Volcanic Ember Helmet
+            20 Molten Rocks + Ember Helmet
+            +50 Health
+            +50 Defence
+            
+            Full Set Bonus: Volcanic Ignition
+                Gain +1 Defence against Magma Cubes for each Magma Boss kill you get while wearing the set. You must get top 3 for it to count.
+                Maximum +1250.
+        
+        Volcanic Ember Chestplate
+            32 Molten Rocks + Ember Chestplate
+            +90 Health
+            +90 Defence
+            
+            Full Set Bonus: Volcanic Ignition
+                Gain +1 Defence against Magma Cubes for each Magma Boss kill you get while wearing the set. You must get top 3 for it to count.
+                Maximum +1250.
+        
+        Corrosion Artifact
+            Corrosion Ring + Corrosive Catalyst + 7 Enchanted Fermented Spider Eyes
+            
+            EPIC Accessory
+            Deals 12% bonus damage to targets on fire.
+            Increases damage dealt to Magma Cubes by 12%.
+            Attacks deal 8% bonus damage over 2 seconds.
+            Does not stack with Dilution Artifact.
+        
+        Dilution Artifact
+            Dilution Ring + Diluted Catalyst + 448 Enchanted Obsidian
+            
+            EPIC Accessory
+            Deals 12% bonus damage to targets on fire.
+            Increases damage dealt to Magma Cubes by 12%.
+            Deal 1% of your effective vs-magma-cube HP as bonus damage.
+            Does not stack with Corrosion Artifact.
+        
+        Netherrack Minion I
+            Wooden Pickaxe + 70 Netherrack + 64 Tepid Rocks
+            
+            24 Seconds Per Action
+            Max Storage: 64
+        
+        Netherrack Minion II
+            Netherrack Minion I + 140 Netherrack + 2 Molten Rocks
+            
+            24 Seconds Per Action
+            Max Storage: 192
+        
+        Netherrack Minion III
+            Netherrack Minion II + 280 Netherrack + 8 Molten Rocks
+            
+            21 Seconds Per Action
+            Max Storage: 192
+        
+    
+    
+    Magma Cube Slayer 5
+        Infernal Shard
+            128 Molten Rocks + 64 Enchanted Obsidian + 64 Enchanted Magma Cream
+        
+        Netherrack Minion IV
+            Netherrack Minion III + 448 Netherrack + 32 Molten Rocks
+            
+            21 Seconds Per Action
+            Max Storage: 384
+            
+        Enchanted Netherrack
+            160 Netherrack
+    
+        Netherrack Minion V
+            Netherrack Minion IV + 7 Enchanted Netherrack + 1 Infernal Shard
+            
+            18 Seconds Per Action
+            Max Storage: 384
+    
+        Netherrack Minion VI
+            Netherrack Minion V + 14 Enchanted Netherrack + 2 Infernal Shards
+            
+            18 Seconds Per Action
+            Max Storage: 512
+    
+        Incendiary Ring
+            4 Infernal Shards + Incendiary Talisman
+                
+            RARE Accessory
+            Grants immunity to fire and lava damage.
+            Decreases spell damage and Magma Cube damage by 10%.
+            Grants +10 bonus speed if a Molten Tesseract uses a spell within 25 blocks.
+        
+        Infernal Blade
+            Scorching Sword + 4 Infernal Shards
+            +125 Damage
+            +20 Strength
+            
+            Item Passive: Infernal Soul
+                Every 5 seconds, release an aura of fire that increases your damage against nearby Magma Cubes by 100% and other monsters by 16% for 2 seconds.
+            Item Ability: Thousand Degree Cutlass RIGHT CLICK
+                Empower your next attack, increasing it by 100% against Magma Cubes.
+                Cooldown refreshed if Hundred Degree Cutlass kills a Magma Cube.
+                Costs 135 mana.
+                Cooldown: 30 seconds.
+        
+        Cubic Splice
+            10/13501 Drop Chance from Molten Tesseract IV or higher.
+        
+        Boss Hunter Talisman
+            8 Infernal Shards + Sharpness VI Book + Cubism VII Book
+            
+            RARE Accessory
+            Deal 5% bonus damage against bosses and mini-bosses. The bonus is doubled against the Magma Boss.
+    
+    
+    
+    Magma Cube Slayer 6
+        Netherrack Minion VII
+            Netherrack Minion VI + 28 Enchanted Netherrack + 4 Infernal Shards
+            
+            15 Seconds Per Action
+            Max Storage: 512
+            
+        Netherrack Minion VIII
+            Netherrack Minion VII + 56 Enchanted Netherrack + 8 Infernal Shards
+            
+            15 Seconds Per Action
+            Max Storage: 768
+            
+        Netherrack Minion IX
+            Netherrack Minion VIII + 112 Enchanted Netherrack + 16 Infernal Shards
+            
+            12 Seconds Per Action
+            Max Storage: 768
+            
+        Boss Hunter Ring
+            32 Infernal Shards + Dragon Hunter V Book
+            
+            EPIC Accessory
+            Deal 10% bonus damage against bosses and mini-bosses. The bonus is tripled against the Magma Boss.
+        
+        Incendiary Artifact
+            32 Infernal Shards + Incendiary Ring
+            
+            EPIC Accessory
+            Grants immunity to fire and lava damage.
+            Decreases spell damage and Magma Cube damage by 15%.
+            Grants +15 bonus speed and refreshes the cooldown on Grappling Hooks if a Molten Tesseract uses a spell within 30 blocks.
+        
+        Royal Cube
+            7/13000 Drop Chance from Molten Tesseract IV or higher.
+        
+        Enchanted Book - Cubism VIII
+            Cubism VII Book + Royal Cube + 14 Infernal Shards
+            
+            Increases damage dealt to Creepers, Magma Cubes, and Slimes by 80%.
+    
+    
+    
+    Magma Cube Slayer 7
+        Netherrack Minion X
+            Netherrack Minion IX + 224 Enchanted Netherrack + 32 Infernal Shards
+            
+            12 Seconds Per Action
+            Max Storage: 960
+            
+        Netherrack Minion XI
+            Netherrack Minion X + 448 Enchanted Netherrack + 64 Infernal Shards
+            
+            9 Seconds Per Action
+            Max Storage: 960
+            
+        Royal Cinder Skull
+            Royal Cube + 64 Infernal Shards + Volcanic Ember Helmet
+            +150 Health
+            +150 Defence
+            
+            Full Set Bonus: Royal Ignition
+                Gain +3 Defence against Magma Cubes for each Magma Boss kill you get while wearing the set. You must get top 3 for it to count.
+                Maximum +4500.
+            Extra Bonus: Royal Tether
+                The Royal Cinder Skull can replace the Volcanic Ember Helmet while still triggering the full set bonus.
+            Extra Bonus: Pyroclastic Touch
+                Deal 2% of your effective vs-magma-cube HP as bonus damage against magma cubes.
+        
+        Boss Hunter Artifact
+            128 Infernal Shards + 2 Dragon Hunter V Books + Cubism VIII Book
+            
+            LEGENDARY Accessory
+            Deal 15% bonus damage against bosses and mini-bosses. The bonus is quadrupled against the Magma Boss.
+        
+        Sedimentary Crusher
+            5 Enchanted Iron Blocks + 32 Enchanted Netherrack + 8 Infernal Shards
+            
+            Minion Upgrade - +10% speed. Netherrack minions mine/replace three blocks at a time.
+        
+    
+    
+    Magma Cube Slayer 8
+        Apothecary's Eye
+            7/13000 Drop Chance from Molten Tesseract V.
+        
+        Apothecary's Brewing Machine
+            256 Infernal Shards + Magma Cube XI Minion + Ghast XI Minion + Blaze XI Minion + Netherrack XI Minion + Brewing Stand
+            
+            Special Brewing Stand that can hold up to 5 potions instead of 3. Brewing time is reduced to 15 seconds, reducing further by 1 second per 5 Alchemy levels (Lv50: 5 seconds per brew).
