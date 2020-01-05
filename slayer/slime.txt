@@ -308,6 +308,11 @@ Slime Slayer
             
             Knockback taken is reduced by 60%. Taking knockback increases your defence by 12 for 1.5 seconds, stacking up to 60.
             Cannot be combined to upgrade the book.
+        
+        Constricted Launch Pad
+            Launch Pad + 4 Purified Slime + 4 Enchanted Slimeballs
+            
+            Similar to a launch pad, but you can customise where it lands (like the main-hub launch pads).
     
     
     
