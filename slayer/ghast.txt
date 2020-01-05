@@ -306,7 +306,7 @@ Ghast Slayer
             1% Drop Chance from Screeching Phantom III or higher.
         
         Teared Acid
-            Ravaging Acid + 320 Enchanted Ghast Tears + 128 Silver Fangs + 64 
+            Ravaging Acid + 320 Enchanted Ghast Tears + 128 Silver Fangs + 64 Enchanted Packed Ice
             
         Potion of Acidity I / II / III / IV / V / VI / VII / VIII
             I (Nether Wart --> Ravaging Acid):
