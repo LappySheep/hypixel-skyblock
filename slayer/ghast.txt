@@ -261,7 +261,7 @@ Ghast Slayer
     
     Ghast Slayer 5
         Bleeding Eye
-            128 Phantom Tears + 32 Golden Fangs + Enchanted Fermented Spider Eye
+            128 Elysium Tears + 32 Golden Fangs + Enchanted Fermented Spider Eye
 
         Bleeding Ghast Head
             Accursed Ghast Head + 4 Bleeding Eyes
