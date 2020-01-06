@@ -252,7 +252,7 @@ Ghast Slayer
             
             Item Ability: Sharpened Shank RIGHT CLICK
                 You throw out a blade, dealing 125% damage to the first target hit. Activate Roped Shank again within 1 second of hitting a target or block to throw yourself in that direction.
-                You do not have hold the Roped Blade while using Roped Shank - only to activate it.
+                You do not have hold the Sharpened Blade while using Sharpened Shank - only to activate it.
                 Cooldown: 6 seconds.
             Item Passive: Sharp Edge
                 Deal 75% bonus damage against Ghasts.
@@ -339,7 +339,7 @@ Ghast Slayer
             
             Item Ability: Bloodspite Shank RIGHT CLICK
                 You throw out a blade, dealing 140% damage to the first target hit. Activate Roped Shank again within 1 second of hitting a target or block to throw yourself in that direction.
-                You do not have hold the Roped Blade while using Roped Shank - only to activate it.
+                You do not have hold the Bloodspite Blade while using Bloodspite Shank - only to activate it.
                 Cooldown: 4 seconds.
             Item Passive: Sharper and Sharper
                 Deal 150% bonus damage against Ghasts.
