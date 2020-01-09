@@ -349,7 +349,7 @@ Magma Cube Slayer
                 Every 5 seconds, release an aura of fire that increases your damage against nearby Magma Cubes by 100% and other monsters by 16% for 2 seconds.
             Item Ability: Thousand Degree Cutlass RIGHT CLICK
                 Empower your next attack, increasing it by 100% against Magma Cubes.
-                Cooldown refreshed if Hundred Degree Cutlass kills a Magma Cube.
+                Cooldown refreshed if Thousand Degree Cutlass kills a Magma Cube.
                 Costs 135 mana.
                 Cooldown: 30 seconds.
         
