@@ -383,7 +383,7 @@ Creeper Slayer
             4 Ancient Meshes + 4 Enchanted Iron Blocks
             
                 Item Passive: Explosion Blocker
-                    While holding the Blast-proof Shield, all explosion-damage is reduced by 20%. This is not an accessory.
+                    While holding the Blast-proof Barrier, all explosion-damage is reduced by 20%. This is not an accessory.
             
         Eternal Flame
             Eternal Spark + 16 Ancient Meshes
