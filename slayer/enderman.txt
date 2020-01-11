@@ -391,7 +391,7 @@ Enderman Slayer
                 Deal +200% more damage against Endermen.
                 Gain +15 Strength for 2 seconds after killing an Enderman.
             Item Passive: Home of the End
-                Doubles the stats of the Precious End Sword while in The End.
+                Doubles the stats of the Shiny End Sword while in The End.
         
         Shiny Ender Key
             16 Shiny Pearls + Precious Ender Key + 4 Enchanted Diamond Blocks
