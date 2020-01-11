@@ -404,7 +404,7 @@ Enderman Slayer
                 Costs 175 mana.
                 Cooldown: 48 seconds.
             Item Passive: Myriad of Secrets
-                Right clicking an Ender Meister (Lv3+) while sneaking will deal 12% of its maximum HP as true damage and stun it for 2 second.
+                Right clicking an Ender Meister (Lv3+) while sneaking will deal 12% of its maximum HP as true damage and stun it for 2 seconds.
                 This consumes the Key after use.
                 Global Cooldown: 240 seconds.
                 
