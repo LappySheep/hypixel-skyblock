@@ -16,6 +16,14 @@ Spider Slayer
             + Boss drops
         
         Cost to start: 125,000 coins
+        
+    
+    
+    Spider Slayer 6
+        Cascading Tarantula Minion
+            16 Tarantula Silk + Tarantula Minion
+            
+            Each Tarantula killed also drops 1-2 Tarantula Web.
     
     
     
