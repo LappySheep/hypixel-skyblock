@@ -365,6 +365,11 @@ Magma Cube Slayer
     
     
     Magma Cube Slayer 6
+        Molten Cube Minion
+            32 Molten Rocks + Corrosive Catalyst OR 32 Molten Rocks + Diluted Catalyst
+            
+            Spawns one Molten Cube every 35 seconds. Each Molten Cube drops between 1 and 3 Tepid Rocks. Can store up to 960.
+            
         Netherrack Minion VII
             Netherrack Minion VI + 28 Enchanted Netherrack + 4 Infernal Shards
             
