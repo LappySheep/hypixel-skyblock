@@ -21,6 +21,14 @@ Wolf Slayer
         
         Cost to start: 125,000 coins
         
+    
+    
+    Wolf Slayer 6
+        Sven Pup Minion
+            16 Gold Teeth + Red Claw Egg
+            
+            Spawns one Sven Pup every 35 seconds. Each Pup drops between 1 and 3 Wolf Teeth. Can store up to 960.
+        
         
         
     Wolf Slayer 8
