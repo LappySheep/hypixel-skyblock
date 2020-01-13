@@ -317,6 +317,11 @@ Slime Slayer
     
     
     Slime Slayer 6
+        Congealed Cube Minion
+            32 Purified Slime + 10 Fragile Chunks
+            
+            Spawns one Congealed Cube every 35 seconds. Each Congealed Cube drops between 1 and 3 Soft Sludge. Can store up to 960.
+            
         Slimy Carver
             2 Purified Slime Blocks + Bread Knife
             +120 Damage
