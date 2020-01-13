@@ -336,6 +336,11 @@ Enderman Slayer
     
     
     Ender Slayer 6
+        Endermite Minion
+            8 Precious Pearls + Artifact Infusion
+            
+            Spawns one Endermite every 35 seconds. Each Endermite drops between 1 and 3 Lost Pearls. Can store up to 960.
+            
         Precious Ender Artifact
             Imbued Ender Artifact + 112 Precious Pearls + 64 Enchanted Blaze Powder
             +12 Strength
