@@ -364,6 +364,11 @@ Creeper Slayer
         
         
     Creeper Slayer 6
+        Podlet Minion
+            32 Repaired Meshes + 64 Blast Shards
+            
+            Spawns one Podlet every 35 seconds. Each Podlet drops between 1 and 3 Blown Meshes. Can store up to 960.
+            
         Eternal Spark
             0.45% Drop Chance from Eternal Mother III or higher.
         
