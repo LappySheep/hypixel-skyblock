@@ -1,0 +1,23 @@
+Most recent changes:
+  > Blaze Slayer:
+    > Added RNGesus drop to slayer 8, not used until slayer 9.
+      [Makes the last bow massively harder to acquire, makes it more worthwhile to grind for other than just buying the resources needed]
+    > Increased Capacitor requirements from token drops from 32 to 48, but decreased Augmented Wind Blade capacitor requirements from 8 to 6
+      [overall increase but allows the third token drop to be added fluidly in the recipe
+    > Augmented Wind Blade changed to suit new Ghast Slayer weapon capabilities.
+
+  > Added Slayer Level 6 Rewards:
+    > Revenant / Tarantula minions can be upgraded to collect their signature token drops.
+    > Wolf Slayer - "Sven Pup" minions can spawn monsters that drop Wolf Teeth.
+    > Creeper Slayer - "Podlet" minions can spawn monsters that drop Blown Meshes.
+    > Slime Slayer - "Congealed Cube" minions can spawn monsters that drop Soft Sludge.
+    > Enderman Slayer - "Endermite" minions can spawn monsters that drop Lost Pearls.
+    > Magma Cube Slayer - "Molten Cube" minions can spawn monsters that drop Tepid Rocks.
+    > Ghast Slayer - "Ankou" minions can spawn monsters that drop Phantom Tears.
+    > Blaze Slayer - "Rod Mythic" minions can spawn monsters that drop Cinder Powders.
+    (Level 5 instead of 6 for blaze)
+      [Level 6 is the point where progression feels less evident - having token drops more accessible will make it easier to advance from this stage]
+
+  > Ghast Slayer:
+    > Wind Blade's "Vengeful Flight" will not deal AoE damage if used while out of combat (extended flight)
+      [Would be too strong - use it at the start while out of combat and you have 45% max hp damage for free, effortless]
