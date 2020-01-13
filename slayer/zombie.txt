@@ -19,6 +19,14 @@ Zombie Slayer
             + Boss drops
         
         Cost to start: 125,000 coins
+        
+    
+    
+    Zombie Slayer 6
+        Cascading Revenant Minion
+            16 Revenant Viscera + Revenant Minion
+            
+            Each Revenant killed also drops 1-2 Revenant Flesh.
 
 
 
