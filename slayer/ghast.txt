@@ -302,6 +302,11 @@ Ghast Slayer
     
     
     Ghast Slayer 6
+        Ankou Minion
+            32 Elysium Tears + 32 Accursed Ashes
+            
+            Spawns one Ankou every 35 seconds. Each Ankou drops between 1 and 3 Phantom Tears. Can store up to 960.
+            
         Ravaging Acid
             1% Drop Chance from Screeching Phantom III or higher.
         
