@@ -467,6 +467,11 @@ Blaze Slayer
     
     
     Blaze Slayer 5
+        Rod Mythic Minion
+            32 Blazing Cinders + Enchanted Blaze Rod
+            
+            Spawns one Rod Mythic every 35 seconds. Each Rod Mythic drops between 1 and 3 Cinder Powders. Can store up to 960.
+            
         Blazing Shards
             128 Blazing Cinders + 64 Enchanted Blaze Powder
             
@@ -1010,6 +1015,9 @@ Blaze Slayer
     
     
     Blaze Slayer 8
+        Blazing God's Fist
+            7/13000 Drop Chance from Ember Mythic V.
+    
         Ancestral Blazing Bow
             48 Blazing Crystals + Incandescent Blazing Bow + 63 Ember Fragments
             +250 Damage
@@ -1164,7 +1172,7 @@ Blaze Slayer
     
     Blaze Slayer 9
         Godly Blazing Bow
-            96 Blazing Crystals + Ancestral Blazing Bow + 72 Ember Fragments
+            Blazing God's Fist + 96 Blazing Crystals + Ancestral Blazing Bow + 64 Ember Fragments
             +275 Damage
             +175 Strength
             
@@ -1260,13 +1268,13 @@ Blaze Slayer
             Special Brewing Stand that can hold up to 6 potions instead of 3. Brewing time is reduced to 13 seconds, reducing further by 1 second per 5 Alchemy levels (Lv50: 3 seconds per brew).
         
         Augmentation Capacitor
-            32 Augmenting Fragments + 48 Enchanted Quartz Blocks
+            48 Augmenting Fragments + 48 Enchanted Quartz Blocks
         
         Frozen Capacitor
-            32 Frozen Jewels + 192 Enchanted Packed Ice
+            48 Frozen Jewels + 192 Enchanted Packed Ice
             
         Augmented Wind Blade
-            Wind Blade + 8 Augmentation Capacitors + 8 Frozen Capacitors
+            Wind Blade + 6 Augmentation Capacitors + 6 Frozen Capacitors + 64 Blazing Crystals
             +300 Damage
             +150 Strength
             +600 Intelligence
@@ -1277,7 +1285,7 @@ Blaze Slayer
                 Deal +250% damage against Ghasts.
             Item Ability: Vengeful Flight
                 Gain the ability to fly for the next 3.5 seconds, dealing 3.5% max HP damage to all enemies within 2.5 blocks of your flight.
-                If you are out of combat, this lasts for 17.5 seconds.
+                If you are out of combat, this lasts for 17.5 seconds, but does not deal damage to nearby enemies during the flight.
                 Attacking a Ghast refreshes the duration of Vengeful Flight.
                 Costs 750 mana.
                 Cooldown: 270 seconds.
