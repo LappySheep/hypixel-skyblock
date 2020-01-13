@@ -422,7 +422,7 @@ Ghast Slayer
                 Deal +225% damage against Ghasts.
             Item Ability: Vengeful Flight
                 Gain the ability to fly for the next 3 seconds, dealing 3% max HP damage to all enemies within 2 blocks of your flight.
-                If you are out of combat, this lasts for 15 seconds.
+                If you are out of combat, this lasts for 15 seconds, but you do not deal damage to nearby enemies during flight.
                 Attacking a Ghast refreshes the duration of Vengeful Flight.
                 Costs 800 mana.
                 Cooldown: 300 seconds.
