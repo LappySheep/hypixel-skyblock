@@ -1210,7 +1210,8 @@ Blaze Slayer
                 Item Passive: Dreaded Touch
                     Killing a monster creates a small pestilence aura for 3.5 seconds. Can happen up to once every 4 seconds.
                     This pestilence aura makes nearby monsters take 50% bonus damage, tripling against zombies, and also deals 1.33% max HP damage per half second.
-                    The Dreadlord Scythe deals true damage against zombies.
+                    The Dreadlord Scythe deals true damage against zombies and has a 15% chance to deal [10% true damage : 90% normal damage] to any other monster.
+
         
         Augmented Mosquito Blood
             Mosquito Blood + 4 Frozen Jewels + 12 Augmenting Fragments
