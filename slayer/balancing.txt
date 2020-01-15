@@ -1,4 +1,7 @@
 Most recent changes:
+  > Creeper Slayer:
+    > Toxin Pod description changed to be a bit more specific.
+
   > Spider Slayer:
     > Mosquito Blood now increases the base damage of the Scorpion Bow and the Mosquito Bow too.
     > Augmented Mosquito Blood changed to suit new Spider Slayer item capabilities.
