@@ -1,4 +1,12 @@
 Most recent changes:
+  > Spider Slayer:
+    > Mosquito Blood now increases the base damage of the Scorpion Bow and the Mosquito Bow too.
+    > Augmented Mosquito Blood changed to suit new Spider Slayer item capabilities.
+
+  > Zombie Slayer:
+    > Dreadlord Scythe changed to make it more viable outside Zombie Slayer.
+    > Augmented Dreadlord Scythe changed to suit new Zombie Slayer weapon capabilities.
+
   > Blaze Slayer:
     > Added RNGesus drop to slayer 8, not used until slayer 9.
       [Makes the last bow massively harder to acquire, makes it more worthwhile to grind for other than just buying the resources needed]
