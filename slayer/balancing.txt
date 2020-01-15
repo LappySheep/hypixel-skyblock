@@ -1,5 +1,7 @@
 Most recent changes:
   > Creeper Slayer:
+    > Recipe of Repaired Meshes uses 32 Enchanted Cobblestone instead of 64.
+      [64 doesn't suit the 32-enchanted material pattern, and although cobblestone is cheap, it's tedious to grind for a stack... also makes it more annoying to craft]
     > Explosive Shard drop chance increased to 5x current drop chance because since it is only used for one item.
     > Toxin Pod description changed to be a bit more specific.
 
