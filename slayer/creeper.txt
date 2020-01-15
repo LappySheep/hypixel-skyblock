@@ -133,7 +133,7 @@ Creeper Slayer
     
     Creeper Slayer 1
         Repaired Mesh
-            128 Blown Mesh + 64 Enchanted Cobblestone
+            128 Blown Mesh + 32 Enchanted Cobblestone
         
         Blast-proof Sheet
             64 Blown Mesh + 4 Enchanted Iron
@@ -159,7 +159,7 @@ Creeper Slayer
             EM5: 56-120 Toxin Pods
             
             Consumes on your melee hits to reduce defence and healing by 20% for 2 seconds.
-            Consumes if hit by melee to reduce explosion-damage by 5% and DoT damage by 15%.
+            Consumes if hit by melee to reduce explosion-damage by 5% and DoT damage by 15% for the next second.
             
             Cooldown: 1 second
         
@@ -179,12 +179,12 @@ Creeper Slayer
     
     Creeper Slayer 3
         Explosive Shard
-            Up to 1% Drop Chance
+            Up to 5% Drop Chance
             EM1: Cannot Drop
-            EM2: 0.1% Drop Chance
-            EM3: 0.3% Drop Chance
-            EM4: 0.6% Drop Chance
-            EM5: 1% Drop Chance
+            EM2: 0.5% Drop Chance
+            EM3: 1.5% Drop Chance
+            EM4: 3% Drop Chance
+            EM5: 5% Drop Chance
             
         Earthy Turbine
             256 Enchanted Iron + Explosive Shard
