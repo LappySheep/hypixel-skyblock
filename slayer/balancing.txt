@@ -1,5 +1,6 @@
 Most recent changes:
   > Creeper Slayer:
+    > Explosive Shard drop chance increased to 5x current drop chance because since it is only used for one item.
     > Toxin Pod description changed to be a bit more specific.
 
   > Spider Slayer:
