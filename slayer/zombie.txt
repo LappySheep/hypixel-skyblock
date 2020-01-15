@@ -14,6 +14,7 @@ Zombie Slayer
         
         Piercing Hemorrhage
             Strikes a single target for 33% of their current health as true damage. Take another 33% of their maximum health as true damage over 3 seconds.
+            Occurs at half health and at 1/6th HP remaining. If both occurrences do not lower the target below half health, the Revenant Horror is able to use Piercing Hemmorrhage up to once every 8 seconds afterwards.
         
         Reward: 1250 Zombie Slayer XP
             + Boss drops
@@ -35,11 +36,11 @@ Zombie Slayer
             7/13000 Drop Chance from Revenant Horror Vs
         
         Dreadlord Scythe
-            Reaper Soul + 2 Reaper Scythes + 384 Revenant Viscera
+            Reaper Soul + Reaper Scythe + 2 Reaper Falchions + 320 Revenant Viscera
                 Damage: +525
                 Speed: +15
                 
                 Item Passive: Dreaded Touch
                     Killing a monster creates a small pestilence aura for 3 seconds. Can happen up to once every 5 seconds.
                     This pestilence aura makes nearby monsters take 33% bonus damage, tripling against zombies, and also deals 1% max HP damage per half second.
-                    The Dreadlord Scythe deals true damage against zombies.
+                    The Dreadlord Scythe deals true damage against zombies and has a 15% chance to deal [10% true damage : 90% normal damage] to any other monster.
