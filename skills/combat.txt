@@ -1,0 +1,63 @@
+Combat V - Fury / Berserk / Rampage I
+Once every up to 1200 seconds...
+Right click a sword while shifting to go into Fury for 3 seconds, causing consecutive melee hits to deal 1% more damage, up to 6%.
+Right click an axe while shifting to go Berserk for 3 seconds, causing melee hits to deal bonus flat true damage equal to 6% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3 seconds, causing each of your bow shots to slow targets within 6 blocks by 20% for 2 seconds, and gain 10% lifesteal on bow shots. 
+
+Combat X - Fury / Berserk / Rampage II
+Once every up to 1120 seconds...
+Right click a sword while shifting to go into Fury for 3 seconds, causing consecutive melee hits to deal 1.5% more damage, up to 9%.
+Right click an axe while shifting to go Berserk for 3 seconds, causing melee hits to deal bonus flat true damage equal to 8% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3 seconds, causing each of your bow shots to slow targets within 6 blocks by 25% for 2 seconds, and gain 11% lifesteal on bow shots. 
+
+Combat XV -Fury / Berserk / Rampage III
+Once every up to 1040 seconds...
+Right click a sword while shifting to go into Fury for 3.5 seconds, causing consecutive melee hits to deal 2% more damage, up to 12%.
+Right click an axe while shifting to go Berserk for 3.5 seconds, causing melee hits to deal bonus flat true damage equal to 10% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3.5 seconds, causing each of your bow shots to slow targets within 7 blocks by 30% for 2 seconds, and gain 12% lifesteal on bow shots. 
+
+Combat XX - Fury / Berserk / Rampage IV
+Once every up to 960 seconds...
+Right click a sword while shifting to go into Fury for 3.5 seconds, causing consecutive melee hits to deal 2.5% more damage, up to 15%.
+Right click an axe while shifting to go Berserk for 3.5 seconds, causing melee hits to deal bonus flat true damage equal to 12% of your total strength.
+Left click a bow while shifting to go into a Rampage for 3.5 seconds, causing each of your bow shots to slow targets within 7 blocks by 35% for 2 seconds, and gain 13% lifesteal on bow shots. 
+
+Combat XXV - Fury / Berserk / Rampage V
+Once every up to 880 seconds...
+Right click a sword while shifting to go into Fury for 4 seconds, causing consecutive melee hits to deal 3% more damage, up to 18%.
+Right click an axe while shifting to go Berserk for 4 seconds, causing melee hits to deal bonus flat true damage equal to 14% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4 seconds, causing each of your bow shots to slow targets within 8 blocks by 40% for 2 seconds, and gain 14% lifesteal on bow shots. 
+
+Combat XXX - Fury / Berserk / Rampage VI
+Once every up to 800 seconds...
+Right click a sword while shifting to go into Fury for 4 seconds, causing consecutive melee hits to deal 3.5% more damage, up to 21%.
+Right click an axe while shifting to go Berserk for 4 seconds, causing melee hits to deal bonus flat true damage equal to 16% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4 seconds, causing each of your bow shots to slow targets within 8 blocks by 45% for 2 seconds, and gain 15% lifesteal on bow shots. 
+
+Combat XXXV - Fury / Berserk / Rampage VII
+Once every up to 720 seconds...
+Right click a sword while shifting to go into Fury for 4.5 seconds, causing consecutive melee hits to deal 4% more damage, up to 24%.
+Right click an axe while shifting to go Berserk for 4.5 seconds, causing melee hits to deal bonus flat true damage equal to 18% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4.5 seconds, causing each of your bow shots to slow targets within 9 blocks by 50% for 2 seconds, and gain 16% lifesteal on bow shots. 
+
+Combat XL - Fury / Berserk / Rampage VIII
+Once every up to 640 seconds...
+Right click a sword while shifting to go into Fury for 4.5 seconds, causing consecutive melee hits to deal 4.5% more damage, up to 27%.
+Right click an axe while shifting to go Berserk for 4.5 seconds, causing melee hits to deal bonus flat true damage equal to 20% of your total strength.
+Left click a bow while shifting to go into a Rampage for 4.5 seconds, causing each of your bow shots to slow targets within 9 blocks by 55% for 2 seconds, and gain 17% lifesteal on bow shots. 
+
+Combat XLV - Fury / Berserk / Rampage IX
+Once every up to 560 seconds...
+Right click a sword while shifting to go into Fury for 5 seconds, causing consecutive melee hits to deal 5% more damage, up to 30%.
+Right click an axe while shifting to go Berserk for 5 seconds, causing melee hits to deal bonus flat true damage equal to 22% of your total strength.
+Left click a bow while shifting to go into a Rampage for 5 seconds, causing each of your bow shots to slow targets within 10 blocks by 60% for 2.5 seconds, and gain 18% lifesteal on bow shots. 
+
+Combat L - Fury / Berserk / Rampage X
+Once every up to 480 seconds...
+Right click a sword while shifting to go into Fury for 6 seconds, causing consecutive melee hits to deal 6% more damage, up to 36%.
+Right click an axe while shifting to go Berserk for 6 seconds, causing melee hits to deal bonus flat true damage equal to 25% of your total strength.
+Left click a bow while shifting to go into a Rampage for 6 seconds, causing each of your bow shots to slow targets within 11 blocks by 70% for 3 seconds, and gain 20% lifesteal on bow shots. 
+
+
+
+
