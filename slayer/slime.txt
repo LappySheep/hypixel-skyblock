@@ -380,6 +380,26 @@ Slime Slayer
                 Costs 225 mana.
                 Cooldown: 15 seconds.
         
+        Congealed Hilt
+            11/6500 Drop Chance from Congealed Monstrosity IV or higher.
+        
+        Membrane Slicer
+            48 Purified Slime Blocks + Congealed Hilt + Slimy Thrasher
+            +175 Damage
+            +80 Strength
+            
+            Item Passive: Membrane Dissolver
+                Deal +240% damage against Slimes.
+                Gain +42 Defence and +21 Strength for 1.5 seconds when attacking Slimes.
+                Gain 35% of your Defence as bonus damage against Slimes.
+            Item Ability: Reaping Curve RIGHT CLICK
+                Carve the closest target within melee range to deal 35x your strength as damage (quadrupling against slimes) and deal 25% more damage against slimes for the next 3 seconds.
+                Costs 175 mana.
+                Cooldown: 12 seconds.
+            Item Passive: Congealing Blitz
+                Killing Congealed Monstrosity bosses gains Slime Essence (+1, +4, +9, +16, +25 for T1/2/3/4/5 respectively), up to a maximum of 10,000 Slime Essence.
+                Attacking Slimes with the Membrane Slicer will ignore a portion of their defence, equal to 10% of the Slime Essence acquired.
+        
         Enchanted Book - Knockback Displacement VI (Boots)
             0.45% Drop Chance from CM4 or higher.
             
