@@ -14,7 +14,7 @@ Wolf Slayer
             At 50% health, calls its deadly pack of pups.
         
         Ramming Recall
-            Dealing more than 100,000 damage in a second to Sven or its pups at any point will make Sven and his pups leap at you.
+            Dealing more than 40,000 damage in a second to Sven or its pups at any point will make Sven and his pups leap at you. Damage threshold increases to 150,000 damage in a second if a Shaman or Pooch sword is used.
         
         Reward: 1250 Wolf Slayer XP
             + Boss drops
