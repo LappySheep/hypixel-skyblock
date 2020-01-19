@@ -810,6 +810,23 @@ Blaze Slayer
                 Carve the closest target within melee range to deal 40x your strength as damage (quadrupling against slimes) and deal 32% more damage against slimes for the next 3 seconds.
                 Costs 220 mana.
                 Cooldown: 14 seconds.
+        
+        Augmented Membrane Slicer
+            Membrane Slicer + 96 Augmented Shards
+            +185 Damage
+            +95 Strength
+            
+            Item Passive: Membrane Dissolver
+                Deal +240% damage against Slimes.
+                Gain +54 Defence and +27 Strength for 1.5 seconds when attacking Slimes.
+                Gain 45% of your Defence as bonus damage against Slimes.
+            Item Ability: Reaping Curve RIGHT CLICK
+                Carve the closest target within melee range to deal 45x your strength as damage (quadrupling against slimes) and deal 37% more damage against slimes for the next 3 seconds.
+                Costs 150 mana.
+                Cooldown: 10 seconds.
+            Item Passive: Congealing Blitz
+                Killing Congealed Monstrosity bosses gains Slime Essence (+1, +4, +9, +16, +25 for T1/2/3/4/5 respectively), up to a maximum of 12,000 Slime Essence.
+                Attacking Slimes with the Membrane Slicer will ignore a portion of their defence, equal to 10% of the Slime Essence acquired.
                 
         Augmented Shiny End Sword
             Shiny End Sword + 64 Augmented Shards
