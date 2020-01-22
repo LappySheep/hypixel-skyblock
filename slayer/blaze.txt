@@ -1240,8 +1240,8 @@ Blaze Slayer
                     Cooldown: 30 seconds.
                     Costs 70% of maximum mana. Cannot be used if maximum mana is lower than 150.
         
-        Augmented Reflex Power Orb
-            Reflex Power Orb + 320 Frozen Jewels + 192 Augmenting Fragments
+        Augmented Reflux Power Orb
+            Reflux Power Orb + 320 Frozen Jewels + 192 Augmenting Fragments
                 
             Item Ability: Deploy
                 Place an orb for 60s buffing up to 5 players within 30 blocks.
