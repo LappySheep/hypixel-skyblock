@@ -35,7 +35,7 @@ Wolf Slayer
         Nature's Backbone
             7/13000 Drop Chance from Sven Packmaster V.
         
-        Reflex Power Orb
+        Reflux Power Orb
             Overflux Power Orb + 192 Gold Teeth + 192 Enchanted Leather + Nature's Backbone
                 
             Item Ability: Deploy
