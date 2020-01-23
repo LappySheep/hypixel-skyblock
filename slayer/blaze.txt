@@ -1198,7 +1198,7 @@ Blaze Slayer
                 Deals +280% damage against Blazes.
                 Deals +14% damage against other monsters.
             Item Ability: Godly Flames LEFT CLICK
-                Left click to charge the next shot, causing it to hit and pass through every target in its trajectory, applying Radiant Ignition to all targets hit.
+                Left click to charge the next shot, causing it to hit and pass through every target in its trajectory, applying Godly Ignition to all targets hit.
                 Costs 20 mana.
                 Cooldown: 3 seconds.
         
