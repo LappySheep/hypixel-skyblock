@@ -107,11 +107,11 @@ Slime Slayer
     Slime Slayer 0
         Soft Sludge
             100% Drop Chance.
-            CM1: 1-4 Blown Mesh
-            CM2: 3-13 Blown Mesh
-            CM3: 12-29 Blown Mesh
-            CM4: 28-53 Blown Mesh
-            CM5: 52-78 Blown Mesh
+            CM1: 1-4 Soft Sludge
+            CM2: 3-13 Soft Sludge
+            CM3: 12-29 Soft Sludge
+            CM4: 28-53 Soft Sludge
+            CM5: 52-78 Soft Sludge
     
     
     
