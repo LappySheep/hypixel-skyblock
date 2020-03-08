@@ -1,0 +1,14 @@
+Legendary Goose [Lvl 100]
+Combat Pet
+
+Strength: +60
+Crit Damage: +60%
+
+Honk Honk
+    Every fifth melee attack in a row within 3 seconds, honk loudly to apply Fear to monsters within 3 blocks. Feared targets move at 25 speed away from you for 1 second and lose aggro (excluding bosses).
+
+Firmly Grasping Bill
+    Increase your item pickup range of standard items by 5 blocks and of special items by 3 blocks.
+
+Ferocity
+    Monsters that stay within 3 blocks for longer than a second take 10% bonus damage, up to 50% bonus damage. Ferocity resets after 6 attacks.
