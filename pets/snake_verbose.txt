@@ -1,0 +1,11 @@
+Legendary Snake [Lvl]
+Combat Pet
+
+Strafing Slither
+    Strafing left/right while sprinting builds up 7 speed per second, up to a maximum bonus of [Lvl * 2.5].
+
+Venom Fang
+    Taking damage from a monster aggros the Snake onto them; attacking once every two seconds for [Lvl * 0.6]x your Strength as damage over 2 seconds.
+
+Miasma
+    Attacking a target affected by Venomous will deal [5 + (Lvl * 0.1)]% bonus damage and triple the slow applied.
