@@ -1,0 +1,14 @@
+Legendary Shark [Lvl]
+Hybrid Pet
+
+Crit Chance: +[Lvl * 0.033]%
+Crit Damage: +[Lvl * 0.333]%
+
+Bloodseeker
+    While moving or facing towards targets below half of their max HP, gain [30 + (Lvl * 0.3)] bonus speed. If they are below 10% max HP, triple the Shark's base crit bonuses.
+
+Waterborne Fury
+    Gain [Lvl * 0.1] bonus Strength and [Lvl * 0.15] bonus Crit Damage while fully immersed in water.
+
+Resourceful
+    Gain [Lvl * 0.1]% bonus Exp gained in all skills while fully immersed in water. Maximum once per two seconds.
