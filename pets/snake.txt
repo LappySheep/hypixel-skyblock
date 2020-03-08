@@ -1,6 +1,9 @@
 Legendary Snake [Lvl 100]
 Combat Pet
 
+Strength: +30
+Speed: +60
+
 Strafing Slither
     Strafing left/right while sprinting builds up 7 speed per second, up to a maximum bonus of 250.
 
