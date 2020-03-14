@@ -14,7 +14,7 @@ Zombie Slayer
         
         Piercing Hemorrhage
             Strikes a single target for 33% of their current health as true damage. Take another 33% of their maximum health as true damage over 3 seconds.
-            Occurs at half health and at 1/6th HP remaining. If both occurrences do not lower the target below half health, the Revenant Horror is able to use Piercing Hemmorrhage up to once every 8 seconds afterwards.
+            Occurs at half health and at 1/6th HP remaining. If both occurrences do not lower the target below half health, the Revenant Horror is able to use Piercing Hemorrhage up to once every 8 seconds afterwards.
         
         Reward: 1250 Zombie Slayer XP
             + Boss drops
