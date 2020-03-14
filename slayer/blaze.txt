@@ -991,7 +991,7 @@ Blaze Slayer
                 Costs 30 Mana.
                 Cooldown: 5 seconds
             Item Passive: Excavator's Dream
-                In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.05% (maximum 500% bonus damage at 5,000 Excavator Fragments).
+                In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.1% (maximum 500% bonus damage at 5,000 Excavator Fragments).
         
         Augmented Slime Lair
             Slime Lair + 12 Augmented Fragments
