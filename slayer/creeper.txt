@@ -469,7 +469,7 @@ Creeper Slayer
                     Costs 35 Mana.
                     Cooldown: 6 seconds
                 Item Passive: Excavator's Dream
-                    In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.05% (maximum 500% bonus damage at 5,000 Excavator Fragments).
+                    In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.1% (maximum 500% bonus damage at 5,000 Excavator Fragments).
                     
         Excavator's Lost Trophy
             7/13000 Drop Chance from Eternal Mother V.
