@@ -920,7 +920,7 @@ Blaze Slayer
             +25 Damage
             
             Item Ability: Ink Bomb RIGHT CLICK
-            Shoot an ink boomb in front of you dealing 100 damage and giving blindness, even to players!
+            Shoot an ink bomb in front of you dealing 100 damage and giving blindness, even to players!
             Mana Cost: 45
             Cooldown: 3s
             
