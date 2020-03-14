@@ -946,7 +946,7 @@ Blaze Slayer
             +45% Crit Damage
             
             Item Ability: Leap RIGHT CLICK
-            Leap into the aiir and deal 500 base Magic Damage to nearby enemies upon landing on the ground. Damaged enemies will also be frozen for 2 seconds.
+            Leap into the air and deal 500 base Magic Damage to nearby enemies upon landing on the ground. Damaged enemies will also be frozen for 2 seconds.
             Mana Cost: 30
             Cooldown: 0.5s
             
