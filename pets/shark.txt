@@ -4,11 +4,11 @@ Hybrid Pet
 Crit Chance: +3.3%
 Crit Damage: +33.3%
 
-Bloodseeker
-    While moving or facing towards targets below half of their max HP, gain 60 bonus speed. If they are below 10% max HP, triple the Shark's base crit bonuses.
-
 Waterborne Fury
-    Gain 10 bonus Strength and 15 bonus Crit Damage while fully immersed in water.
+    Gain 30 bonus Strength and 45 bonus Crit Damage while in water.
+
+Bloodseeker
+    While moving or facing towards targets within 10 blocks that are below half of their max HP, gain 60 bonus speed and triple the Shark's base crit bonuses.
 
 Resourceful
-    Gain 10% bonus Exp gained in all skills while fully immersed in water. Maximum once per two seconds.
+    Passively gain Combat EXP equal to 5% of all EXP earned, and passively gain Fishing EXP equal to 1% of all EXP earned - while in water. Maximum once per 8 seconds (not while AFK).
