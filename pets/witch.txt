@@ -1,0 +1,175 @@
+Legendary Witch [Lvl 100]
+Combat/Fishing Hybrid Pet
+
+Intelligence: +30%
+Mana Regen: +75%
+
+Focused Conjuring
+  All abilities you cast deal bonus magic damage equal to 1% per 15 Intelligence.
+
+Supercompression Magic
+  Having a full inventory will attempt to compress items in your inventory into their compacted form. Maximum once per 60 seconds. This can be toggled in the pet menu.
+
+Dark Induction
+  Sea Witches can be caught during the night. While fishing, Sea Witches that you catch have a 2% chance of being Special.
+  Special Sea Witches drop special items.
+  
+
+
+Special Sea Witches:
+  > Heretic Sea Witch [COMMON]
+    Health: 4,000
+    Potions per sec: 1
+    Damage: 80 per potion
+    
+    - Linking Wizardry
+      Each potion that hits players will restore 100 HP back to the Witch.
+    
+    25% chance to drop Heretic's Wand.
+  
+  
+  > Horrific Sea Witch [UNCOMMON]
+    Health: 11,500
+    Potions per sec: 1
+    Damage: 155 per potion
+    
+    - Linking Wizardry
+      Each potion that hits players will restore 225 HP back to the Witch.
+    
+    - Horrifying Gaze
+      Players that are aggro'd by the Witch have their Mana drained by 8% per second.
+    
+    20% chance to drop Horrific Wand.
+  
+  
+  > Demonic Sea Witch [RARE]
+    Health: 25,000
+    Potions per sec: 1.5
+    Damage: 220 per potion
+    
+    - Linking Wizardry
+      Each potion that hits players will restore 400 HP back to the Witch.
+    
+    - Horrifying Gaze
+      Players that are aggro'd by the Witch have their Mana drained by 12% per second.
+    
+    15% chance to drop Demonic Wand.
+  
+  
+  > Abyssal Sea Witch [EPIC]
+    Health: 45,000
+    Potions per sec: 1.5
+    Damage: 310 per potion
+    
+    - Linking Wizardry
+      Each potion that hits players will restore 600 HP back to the Witch.
+    
+    - Horrifying Gaze
+      Players that are aggro'd by the Witch have their Mana drained by 16% per second.
+
+    - Corrupted Magic
+      Each potion has a 20% chance of splitting into three bolts of dark magic in random directions, dealing 250 damage per bolt.
+
+    10% chance to drop Abyssal Wand.
+  
+  
+  > Bloodspiting Sea Witch [LEGENDARY]
+    Health: 80,000
+    Defence: 25
+    Potions per sec: 2
+    Damage: 280 per potion
+    
+    - Linking Wizardry
+      Each potion that hits players will restore 800 HP back to the Witch.
+    
+    - Horrifying Gaze
+      Players that are aggro'd by the Witch have their Mana drained by 20% per second.
+
+    - Corrupted Magic
+      Each potion has a 40% chance of splitting into four bolts of dark magic in random directions, dealing 320 damage per bolt.
+    
+    - Blood Sacrifice
+      Players within 4 blocks are drained of 3% of their maximum health per second, and the Witch heals 100% of the HP drained.
+    
+    5% chance to drop Bloodspite Wand.
+
+
+Wands provide special effects:
+
+  - Heretic's Wand:
+    While in inventory:
+      - Increase Mana Regen by 20%.
+    While holding:
+      Inventory bonus and:
+        - Increase Magic Damage by 5%.
+    Right Click to use Better Magic ability (100 Mana Cost):
+      Increases Magic Resistance by 15.
+      Gain +1 Magic Find.
+      Lasts for 8 seconds.
+
+
+  - Horrific Wand:
+    While in inventory:
+      - Increase Mana Regen by 30%.
+      - Increase Magic Damage by 5%.
+    While holding:
+      Inventory bonus and:
+        - Increase Magic Damage by 10%.
+    Right Click to use Powerful Magic ability (135 Mana Cost):
+      Increases Magic Resistance by 30.
+      Increases Magic Damage by 5%.
+      Gain +2 Magic Find.
+      Lasts for 11 seconds.
+
+
+  - Demonic Wand:
+    While in inventory:
+      - Increase Mana Regen by 40%.
+      - Increase Magic Damage by 10%.
+      - Increases all of your healing by 5%.
+      - Reduces Melee Damage by 5%.
+    While holding:
+      Inventory bonus and:
+        - Increase Magic Damage by 20%.
+        - Increases all of your healing by 10%.
+    Right Click to use Chaotic Magic ability (180 Mana Cost):
+      Increases Magic Resistance by 45.
+      Increases Magic Damage by 10%.
+      Gain +3 Magic Find.
+      Lasts for 14 seconds.
+
+
+  - Abyssal Wand:
+    While in inventory:
+      - Increase Mana Regen by 60%.
+      - Increase Magic Damage by 15%.
+      - Increases all of your healing by 10%.
+      - Reduces Melee Damage by 10%.
+    While holding:
+      Inventory bonus and:
+        - Increase Magic Damage by 30%.
+        - Increases all of your healing by 15%.
+    Right Click to use Chaotic Magic ability (235 Mana Cost):
+      Increases Magic Resistance by 60.
+      Increases Magic Damage by 15%.
+      Gain +4 Magic Find.
+      Lasts for 17 seconds.
+
+
+  - Bloodspite Wand:
+    While in inventory:
+      - Increase Mana Regen by 80%.
+      - Increase Magic Damage by 20%.
+      - Increases all of your healing by 20%.
+      - Reduces Melee Damage by 15%.
+    While holding:
+      Inventory bonus and:
+        - Increase Magic Damage by 30%.
+        - Increases all of your healing by 15%.
+      - Increases Intelligence by 50.
+    Right Click to use Bloodwrath Magic ability (300 Mana Cost):
+      Increases Magic Resistance by 75.
+      Increases Magic Damage by 20%.
+      Gain +5 Magic Find.
+      Restore Mana equal to health restored by Life Steal or Vampirism.
+      Lasts for 20 seconds.
