@@ -1,0 +1,14 @@
+Legendary Sponge [Lvl]
+Fishing Pet
+
+Defence: +[Lvl * 0.8]
+True Defence: +[Lvl * 0.2]
+
+Spongy Membrane
+  While in water, increase the Sponge Pet's base bonuses by [Lvl * 2]%.
+
+Deep Body Soak
+  For each block of vertical water you are immersed in, gain +[Lvl * 0.05] Defence.
+
+Flexible Coating
+  Damage taken is capped at [20 - (Lvl * 0.1)]% of your maximum health. [Lvl * 0.3]% of additional damage is deflected to the target as true damage.
