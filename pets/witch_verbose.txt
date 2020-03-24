@@ -5,7 +5,7 @@ Intelligence: +[Lvl * 0.3]%
 Mana Regen: +[Lvl * 0.75]%
 
 Focused Conjuring
-  All abilities you cast deal bonus magic damage equal to 1% per [65 - Lvl] Intelligence.
+  All abilities you cast deal bonus magic damage equal to 1% per [65 - Lvl/2] Intelligence.
 
 Supercompression Magic
   Having a full inventory will attempt to compress items in your inventory into their compacted form. Maximum once per [360 - (Lvl * 3)] seconds. This can be toggled in the pet menu.
