@@ -12,3 +12,5 @@ Bloodseeker
 
 Resourceful
     Passively gain Combat EXP equal to [Lvl * 0.05]% of all EXP earned, and passively gain Fishing EXP equal to [Lvl * 0.01]% of all EXP earned - while in water. Maximum once per [12 - (Lvl * 0.04)] seconds (not while AFK).
+
+    ## Worded a little poorly - EXP earned is stored and you receive the EXP every [x] interval.
