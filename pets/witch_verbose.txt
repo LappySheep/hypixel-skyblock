@@ -167,6 +167,7 @@ Wands provide special effects:
       - Increase Magic Damage by 20%.
       - Increases all of your healing by 20%.
       - Reduces Melee Damage by 15%.
+      - Gain +10% Spell Vamp.
     While holding:
       Inventory bonus and:
         - Increase Magic Damage by 30%.
@@ -176,5 +177,5 @@ Wands provide special effects:
       Increases Magic Resistance by 75.
       Increases Magic Damage by 20%.
       Gain +5 Magic Find.
-      Restore Mana equal to health restored by Life Steal or Vampirism.
+      Restore Mana equal to health restored by Life Steal, Spell Vamp or Vampirism.
       Lasts for 20 seconds.
