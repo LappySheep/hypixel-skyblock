@@ -97,6 +97,10 @@ Special Sea Witches:
       Players within 4 blocks are drained of 3% of their maximum health per second, and the Witch heals 100% of the HP drained.
     
     5% chance to drop Bloodspite Wand.
+    
+    
+    ## Horrifying Gaze affects max mana, not current.
+    ## Corrupted Magic can trigger instantly since on-hit potions will mean the potion is inside the player (or very close).
 
 
 Wands provide special effects:
@@ -172,10 +176,17 @@ Wands provide special effects:
       Inventory bonus and:
         - Increase Magic Damage by 30%.
         - Increases all of your healing by 15%.
-      - Increases Intelligence by 50.
+        - Increases Intelligence by 50.
     Right Click to use Bloodwrath Magic ability (300 Mana Cost):
       Increases Magic Resistance by 75.
       Increases Magic Damage by 20%.
       Gain +5 Magic Find.
       Restore Mana equal to health restored by Life Steal, Spell Vamp or Vampirism.
       Lasts for 20 seconds.
+
+
+
+    ## Inventory/Holding bonuses stack additively.
+    ## Spell Vamp is Life Steal but for abilities.
+    ## Magic Find applies before stat multipliers.
+    ## Wand Magic ability durations only refresh on consecutive use - durations do not stack, neither do effects.
