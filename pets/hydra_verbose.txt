@@ -7,9 +7,15 @@ Magic Damage: +[Lvl * 0.35]%
 
 Lernaean Regrowth
     Taking at least half of your maximum HP (excluding Defence) triples natural regeneration for [2 + (Lvl * 0.03)] seconds.
+    
+    ## E.g. 1,000 HP, 400 Defence | If you take 600 damage, you will lose 120 HP, but 600 > [1,000 / 2] so Lernaean Regrowth still triggers.
 
 Multi-headed Beast
     Gain bonus base Pet stats equal to [Lvl]% of the % of HP you currently have.
+    
+    ## E.g. 1.5x Pet stats multiplier at half HP, double stats at full HP.
 
 Penetrative Spines
     All of your projectiles move [20 + (Lvl * 0.3)]% faster, ignore [Lvl * 0.2]% of armor, and can shred nearby adjacent monsters for [Lvl / 150]% of the main damage.
+
+    ## Shred acts as a cleave effect.
