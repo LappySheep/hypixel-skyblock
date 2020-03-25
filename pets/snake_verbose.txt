@@ -9,6 +9,8 @@ Strafing Slither
 
 Venom Fang
     Taking damage from a monster or attacking one aggros the Snake onto them; attacking once every two seconds for [Lvl * 0.6]x your Strength as damage over 2 seconds.
+    
+    ## Still 14.3% weaker than Scorpion Bow at max level - It lasts over 2 seconds, not per sec for 2 seconds.
 
 Miasma
     Attacking a target affected by Venomous will double the slow and deal [15 + (Lvl*0.3)]% bonus damage as DoT over 1.5 seconds.
