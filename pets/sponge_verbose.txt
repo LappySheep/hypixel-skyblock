@@ -9,6 +9,10 @@ Spongy Membrane
 
 Deep Body Soak
   For each block of vertical water you are immersed in, gain +[Lvl * 0.05] Defence.
+  
+  ## Maybe add shadow-cap to avoid abuse.
 
 Flexible Coating
   Damage taken is capped at [20 - (Lvl * 0.1)]% of your maximum health. [Lvl * 0.3]% of additional damage is deflected to the target as true damage.
+
+  ## Maybe add shadow-cap to the deflection to avoid abuse.
