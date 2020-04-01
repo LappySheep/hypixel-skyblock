@@ -1,0 +1,39 @@
+Evolver Pet [Lvl]
+Combat/Alchemy Hybrid Pet
+
+Intelligence: +[Lvl * 0.4]
+Speed: +[Lvl * 0.25]
+
+Pet Passive: Evolution Columns
+    Right click the Evolver in the Pet Menu to choose abilities unlocked, based on rarity and Pet Level.
+    Abilities are unlocked from Common, Rare, and Legendary rarities. You can pick one of either of the 3 abilities for each tier.
+
+Tier 1 - Level 1:
+    [Common] Overload: Gain +10% Attack Speed
+    [Rare] Induced Metabolism: Gain +1% Speed per 1% missing HP.
+    [Legendary] Fortitude Upgrade: Gain +5% maximum HP and +2.5% bonus regeneration.
+
+Tier 2 - Level 17:
+    [Common] Rupture: Attacks reduce the target's Defence by 1% per hit, stacking infinitey. Rupture lasts for 6 seconds, but each Rupture stack does not refresh the timer.
+    [Rare] Regenerative Cleave: The Cleave enchant now regenerates nearby players' HP by 0.2% of damage dealt.
+    [Legendary] Twin Blades: Melee attacks have a 10% chance of triggering twice.
+
+Tier 3 - Level 33:
+    [Common] Adaptive Defences: Gain +0.5% bonus HP regeneration per 1% missing HP.
+    [Rare] Vile Touch: Deal 1% bonus damage per projectile hit, stacking up to 7 times while in combat.
+    [Legendary] Overseer: Recently damaged monsters emit a decaying sound effect, marking it until death, even if it leaves combat or wanders too far. Also slows monsters by 20%.
+
+Tier 4 - Level 49:
+    [Common] Grooved Arrows: Arrows deal 8% bonus damage. other projectiles deal 5% bonus damage.
+    [Rare] Impale: Melee attacks knock enemies slightly airborne, off the ground. Upon landing, they take 8% bonus damage from the next attack (stacks up to 40%).
+    [Legendary] Wild Restoration: Gain +1% bonus HP regeneration per 1% bonus Attack Speed.
+
+Tier 5 - Level 65:
+    [Common] Ferocity: The Piercing enchant causes arrows to deal full damage when hitting consecutive monsters.
+    [Rare] Tangled Mess: Attacking slowed monsters has a 33% chance of stunning them for 2 seconds.
+    [Legendary] Chain Reaction: Melee attacks trigger Cleave consecutively, even on other cleaved monsters.
+
+Tier 6 - Level 81:
+    [Common] Assimilation: Gain 1% Spell Vamp for 3 seconds after killing a boss monster. Gain 0.3% Spell Vamp for 3 seconds after killing a miniboss monster.
+    [Rare] Overwhelm: Deal 1% bonus damage every time you attack the same monster, stacking infinitely.
+    [Legendary] Apocalypse: Killing a boss deals 25x your max HP as damage to monsters within 6 blocks, and increases your attack speed by 75% for 8 seconds.
