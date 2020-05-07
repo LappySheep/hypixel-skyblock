@@ -2,7 +2,7 @@ import urllib.request
 import json
 
 """ # can add this if you want - we do not have full list of values yet
-rock = [2500, 7500, 2000]
+rock = [2500, 7500, 20000]
 dolphin = [250, 750, 2500]
 """
 
