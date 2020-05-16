@@ -1,0 +1,15 @@
+Wraith [Lvl 100]
+Combat Pet
+
+Speed: +40
+Damage: +20
+
+Touch of Corruption
+Projectiles mark targets for 3 seconds, increasing damage dealt towards them by 6%. Marks stack up to a maximum of 5 times.
+
+Intensity
+Taking more than 15% of your maximum health in one hit creates an aura of rage, increasing the damage of your weapon by 20 and reduces damage taken by monsters within 4 blocks by 20% for 2 seconds
+
+Death's Grasp
+While sneaking, fully charged bow shots throw and pull monsters towards you. Hitting them before they touch the ground will deal 600% increased damage over 3 seconds.
+Cooldown: 6s
