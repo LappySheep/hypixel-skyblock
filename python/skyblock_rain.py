@@ -114,7 +114,7 @@ def get_start(year): # year is the start of the year
 
     # current = year0 + (year_length * year)
     events = ((year_length * year) // rain_distance) - 2
-    date = ['Early Spring', '4th', '5am'] # year 0 start date
+    date = ['Early Spring', '4th', '9am'] # year 0 start date
 
     y = 0
     for i in range(events):
@@ -170,6 +170,7 @@ def main():
         date,over = next_rain(date)
         rain_dates[tuple(date)] = event_epoch + (rain_distance * e)
         if over:
+            rain_dates.pop(tuple(date), None)
             loop = False
     txt = ""
     for date in rain_dates:
