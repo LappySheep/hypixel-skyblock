@@ -156,7 +156,7 @@ def main():
     start,events = get_start(current_year)[0::2]
     year0 = 1560272100
     rain_distance = 4850
-    event_epoch = year0 + (4850 * events) - 424400
+    event_epoch = year0 + (4850 * events) - 424200
     instance_epoch = int(time.time())
 
     #"""
