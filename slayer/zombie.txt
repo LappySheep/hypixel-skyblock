@@ -38,7 +38,7 @@ Zombie Slayer
         Dreadlord Scythe
             Reaper Soul + Reaper Scythe + 2 Reaper Falchions + 320 Revenant Viscera
                 Damage: +525
-                Speed: +15
+                Speed: +16
                 
                 Item Passive: Dreaded Touch
                     Killing a monster creates a small pestilence aura for 3 seconds. Can happen up to once every 5 seconds.
