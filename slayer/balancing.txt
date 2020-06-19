@@ -1,4 +1,9 @@
 Most recent changes:
+  > Pigman Slayer:
+    > Added Pork Fat
+    > Added T1 and T2 Variance of the boss
+    > Added 2 unique abilities
+    
   > Slime Slayer:
     > Added Congealed Hilt drop (11/6500 from T4+).
     > Added Membrane Slicer item (Lv7) (Upgradable from Slimy Thrasher).
