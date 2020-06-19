@@ -1,13 +1,10 @@
 Pigman Slayer  
     Glutton Guardian I  
-        Health: 850
-        Damage: 65 per melee attack 
-        Cooldown: 0.2 Seconds 
+        Health: 650
+        Damage: 45 per melee attack 
+        Cooldown: 0.5 Seconds 
 
-        Abilities: 
-
-        Putrid Pounce
-            The Glutton Guardian jumps and slams into the ground sending a ripple effect through the ground.
+        Abilities:
 
         Shield of Gluttony
             The Glutton Guardian activates a shield with 3 enchanted raw porkchops. This will add +2 defence
@@ -18,7 +15,25 @@ Pigman Slayer
                 + Boss Drops
 
         Cost: 200 Coins
-
+ 
+ 
+ Pigman Slayer  
+    Glutton Guardian II 
+        Health: 55000
+        Damage: 95 per melee attack 
+        Cooldown: 0.2 Seconds 
+ 
+    
+        Abilities:
+    
+        Putrid Pounce
+            The Glutton Guardian jumps and slams into the ground sending a ripple effect through the ground.
+            
+          Shield of Gluttony II
+            The Glutton Guardian activates a shield with 5 enchanted raw porkchops. This will add +10 defence
+            to the Guardian each second the shield isn't destroyed.
+         
+            
         Boss Drops: 
             Pork Fat: (T1 = 1-2)
                       (T2 = 5-10)
@@ -29,6 +44,6 @@ Pigman Slayer
             BZR Sell Value: Dependent on Playerbase (Probably around Buy : 50 / Sell :45)
             Item Description: Cut from the swine that is the Glutton Guardian, this is a item that can
                               used to craft the Glutton Armour and can be used as a consumable to boost Str by 0.4 per Pork Fat   
-
-
+            
+  
 
