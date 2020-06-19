@@ -32,6 +32,8 @@ Pigman Slayer
           Shield of Gluttony II
             The Glutton Guardian activates a shield with 5 enchanted raw porkchops. This will add +10 defence
             to the Guardian each second the shield isn't destroyed.
+            
+            Cost: 2500 Coins
          
             
         Boss Drops: 
