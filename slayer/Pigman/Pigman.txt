@@ -1,8 +1,8 @@
 Pigman Slayer  
     Glutton Guardian I  
-        Health: 650 
-        Damage: 35 per melee attack 
-        Cooldown: 0.4 Seconds 
+        Health: 850
+        Damage: 65 per melee attack 
+        Cooldown: 0.2 Seconds 
 
         Abilities: 
 
