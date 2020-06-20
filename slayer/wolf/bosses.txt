@@ -1,0 +1,21 @@
+Sven Packmaster V:
+    Health: 5,000,000
+    Damage: 2,000
+    True damage: 500 per second
+    
+    Agile
+        The wolf is small and fast, making it hard to hit.
+    
+    True Damage
+        Ignores your defense. Very painful.
+    
+    Call the pups!
+        At 50% health, calls its deadly pack of pups.
+    
+    Ramming Recall
+        Dealing more than 40,000 damage in a second to Sven or its pups at any point will make Sven and his pups leap at you. Damage threshold increases to 150,000 damage in a second if a Shaman or Pooch sword is used.
+    
+    Reward: 1250 Wolf Slayer XP
+        + Boss drops
+    
+    Cost to start: 125,000 coins

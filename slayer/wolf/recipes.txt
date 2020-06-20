@@ -1,0 +1,22 @@
+[Wolf Slayer 6]
+Sven Pup Minion
+    16 Gold Teeth + Red Claw Egg
+    
+    Spawns one Sven Pup every 35 seconds. Each Pup drops between 1 and 3 Wolf Teeth. Can store up to 960.
+
+
+
+[Wolf Slayer 8]
+Reflux Power Orb
+    Overflux Power Orb + 192 Gold Teeth + 192 Enchanted Leather + Nature's Backbone
+        
+    Item Ability: Deploy
+        Place an orb for 60s buffing up to 5 players within 24 blocks.
+        Costs 50% of max mana.
+        Only one orb applies per player.
+    Orb Buff: Reflux
+        Grants +150% base mana regen.
+        Heals 4% of max HP per second.
+        Increases all heals by 15%.
+        Grants +40 Strength.
+        Converts 2% of all damage dealt to true damage (2% true : 98% normal)
