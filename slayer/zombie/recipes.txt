@@ -4,6 +4,8 @@ Cascading Revenant Minion
     
     Each Revenant killed also drops 1-2 Revenant Flesh.
 
+
+
 [Zombie Slayer 8]
 Dreadlord Scythe
     Reaper Soul + Reaper Scythe + 2 Reaper Falchions + 320 Revenant Viscera
