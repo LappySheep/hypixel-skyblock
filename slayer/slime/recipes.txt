@@ -1,0 +1,299 @@
+[Slime Slayer 1]
+8 Enchanted Slimeball
+    48 Slime Curd + 4 Enchanted Slimeballs
+
+
+
+[Slime Slayer 2]
+Purified Slime
+    128 Soft Sludge + 64 Enchanted Ghast Tears
+
+Slime Talisman
+    16 Enchanted Slimeballs + 128 Soft Sludge + Slime Hat
+    +10 Health
+    
+    UNCOMMON Accessory
+    While active, you take no knockback while sneaking.
+    Take 5% less damage from slimes.
+
+Enchanted Book - Cubism VI
+    Cubism V Book + 512 Soft Sludge
+    
+    Increases damage dealt to Creepers, Magma Cubes, and Slimes by 60%.
+
+Butter Knife
+    2 Purified Slime + Enchanted Diamond
+    +60 Damage
+    +20 Strength
+    
+    Item Passive: Cutting Through Butter
+        Deal +50% damage against Slimes.
+        Gain 10% of your Defence as bonus damage against Slimes.
+
+
+
+[Slime Slayer 3]
+Enchanted Book - Knockback Displacement I (Boots)
+    1 Fragile Chunk + 64 Soft Sludge
+    
+    Knockback taken is reduced by 15%. Taking knockback increases your defence by 3 for 1.25 seconds, stacking up to 15.
+    Cannot be combined to upgrade the book.
+
+Enchanted Book - Knockback Displacement II (Boots)
+    Knockback Displacement I Book + 4 Purified Slime
+    
+    Knockback taken is reduced by 30%. Taking knockback increases your defence by 6 for 1.5 seconds, stacking up to 30.
+    Cannot be combined to upgrade the book.
+
+Fragile Helmet
+    5 Purified Slime + 4 Enchanted Slimeballs
+    +52 Health
+    +50 Defence
+    
+    Item Passive: Thick Molecular Structure
+        Gain defence against slimes based on your slime collection:
+            (x = slime collected)
+            [x / x+50,000] * 200
+    Full Set Bonus: Thick Cell Wall
+        Taking damage from a slime increases your defence by 100 for 3 seconds.
+
+Fragile Chestplate
+    8 Purified Slime + 1 Enchanted Slimeball
+    +88 Health
+    +77 Defence
+    
+    Item Passive: Thick Molecular Structure
+        Gain defence against slimes based on your slime collection:
+            (x = slime collected)
+            [x / x+50,000] * 200
+    Full Set Bonus: Thick Cell Wall
+        Taking damage from a slime increases your defence by 100 for 3 seconds.
+
+Fragile Leggings
+    7 Purified Slime + 2 Enchanted Slimeballs
+    +76 Health
+    +68 Defence
+    
+    Item Passive: Thick Molecular Structure
+        Gain defence against slimes based on your slime collection:
+            (x = slime collected)
+            [x / x+50,000] * 200
+    Full Set Bonus: Thick Cell Wall
+        Taking damage from a slime increases your defence by 100 for 3 seconds.
+
+Fragile Boots
+    4 Purified Slime + 5 Enchanted Slimeballs
+    +40 Health
+    +41 Defence
+    
+    Item Passive: Thick Molecular Structure
+        Gain defence against slimes based on your slime collection:
+            (x = slime collected)
+            [x / x+50,000] * 200
+    Full Set Bonus: Thick Cell Wall
+        Taking damage from a slime increases your defence by 100 for 3 seconds.
+
+
+
+[Slime Slayer 4]
+Slime Ring
+    64 Enchanted Slimeballs + 7 Purified Slime + Slime Talisman
+    +20 Health
+    
+    RARE Accessory
+    While active, you take no knockback while sneaking.
+    Take 10% less damage from slimes.
+
+Bread Knife
+    16 Purified Slime + Butter Knife
+    +90 Damage
+    +40 Strength
+    
+    Item Passive: Bread and Butter
+        Deal +100% damage against Slimes.
+        Gain 15% of your Defence as bonus damage against Slimes.
+    Item Passive: Slicing the Bread
+        Right-clicking a Hay Bale breaks it and drops 10 Wheat.
+
+Enchanted Book - Knockback Displacement III (Boots)
+    Knockback Displacement II Book + 16 Purified Slime
+    
+    Knockback taken is reduced by 45%. Taking knockback increases your defence by 9 for 1.5 seconds, stacking up to 45.
+    Cannot be combined to upgrade the book.
+
+Enchanted Book - Knockback Displacement III (Boots)
+    Knockback Displacement II Book + 16 Purified Slime
+    
+    Knockback taken is reduced by 45%. Taking knockback increases your defence by 9 for 1.5 seconds, stacking up to 45.
+    Cannot be combined to upgrade the book.
+
+
+
+[Slime Slayer 5]
+Slime Deterrant
+    64 Purified Slime + Butter Knife + 384 Enchanted Ghast Tears
+        
+        RARE Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 2% of their current health as damage.
+
+Purified Slime Block
+    128 Purified Slime + 32 Silver Fangs + 32 Enchanted Magma Cream
+
+Slime Artifact
+    3 Enchanted Slime Blocks + 7 Purified Slime Blocks + Slime Ring
+    +30 Health
+    
+    EPIC Accessory
+    While active, you take no knockback while sneaking.
+    Take 15% less damage from slimes.
+
+Enchanted Book - Knockback Displacement IV (Boots)
+    Knockback Displacement III Book + 4 Purified Slime Blocks
+    
+    Knockback taken is reduced by 60%. Taking knockback increases your defence by 12 for 1.5 seconds, stacking up to 60.
+    Cannot be combined to upgrade the book.
+
+Constricted Launch Pad
+    Launch Pad + 4 Purified Slime + 4 Enchanted Slimeballs
+    
+    Similar to a launch pad, but you can customise where it lands (like the main-hub launch pads).
+
+
+
+[Slime Slayer 6]
+Congealed Cube Minion
+    32 Purified Slime + 10 Fragile Chunks
+    
+    Spawns one Congealed Cube every 35 seconds. Each Congealed Cube drops between 1 and 3 Soft Sludge. Can store up to 960.
+    
+Slimy Carver
+    2 Purified Slime Blocks + Bread Knife
+    +120 Damage
+    +60 Strength
+    
+    Item Passive: Carving Blade
+        Deal +150% damage against Slimes.
+        Gain +20 Defence for 1 second when attacking Slimes.
+        Gain 20% of your Defence as bonus damage against Slimes.
+    Item Ability: Striking Curve RIGHT CLICK
+        Carve the closest target within melee range to deal 20x your strength as damage (tripling against slimes) and deal 5% more damage against slimes for the next 3 seconds.
+        Costs 200 mana.
+        Cooldown: 15 seconds.
+
+Enchanted Book - Knockback Displacement V (Boots)
+    Knockback Displacement IV Book + 16 Purified Slime Blocks
+    
+    Knockback taken is reduced by 75%. Taking knockback increases your defence by 15 for 2 seconds, stacking up to 75.
+    Cannot be combined to upgrade the book.
+
+Fragility Reinforcer
+    4 Enchanted Diamond Blocks + 8 Purified Slime Blocks + 64 Enchanted Obsidian
+    
+    Empowers a Fragile armor set piece to increase the base defence against slimes by 200, and increases base health by 25.
+
+Putrid Slime Deterrant
+    32 Purified Slime Blocks + Slime Deterrant + 224 Silver Fangs
+        
+        EPIC Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 2% of their current health as damage, are blinded, and slowed by 30% for 2 seconds.
+        Does not stack with the Potent Slime Deterrant.
+
+Potent Slime Deterrant
+    32 Purified Slime Blocks + Slime Deterrant + 112 Enchanted Blaze Powder
+        
+        EPIC Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 6% of their current health as damage and take high knockback away from your boss as well as being stunned after landing for 2 seconds.
+        Does not stack with the Putrid Slime Deterrant.
+
+
+
+[Slime Slayer 7]
+Slimy Thrasher
+    32 Purified Slime Blocks + Slimy Carver
+    +150 Damage
+    +80 Strength
+    
+    Item Passive: Thrashing Blade
+        Deal +200% damage against Slimes.
+        Gain +30 Defence and +15 Strength for 1.5 seconds when attacking Slimes.
+        Gain 25% of your Defence as bonus damage against Slimes.
+    Item Ability: Reaping Curve RIGHT CLICK
+        Carve the closest target within melee range to deal 35x your strength as damage (quadrupling against slimes) and deal 25% more damage against slimes for the next 3 seconds.
+        Costs 225 mana.
+        Cooldown: 15 seconds.
+
+Membrane Slicer
+    48 Purified Slime Blocks + Congealed Hilt + Slimy Thrasher
+    +175 Damage
+    +80 Strength
+    
+    Item Passive: Membrane Dissolver
+        Deal +240% damage against Slimes.
+        Gain +42 Defence and +21 Strength for 1.5 seconds when attacking Slimes.
+        Gain 35% of your Defence as bonus damage against Slimes.
+    Item Ability: Reaping Curve RIGHT CLICK
+        Carve the closest target within melee range to deal 35x your strength as damage (quadrupling against slimes) and deal 25% more damage against slimes for the next 3 seconds.
+        Costs 175 mana.
+        Cooldown: 12 seconds.
+    Item Passive: Congealing Blitz
+        Killing Congealed Monstrosity bosses gains Slime Essence (+1, +4, +9, +16, +25 for T1/2/3/4/5 respectively), up to a maximum of 10,000 Slime Essence.
+        Attacking Slimes with the Membrane Slicer will ignore a portion of their defence, equal to 10% of the Slime Essence acquired.
+
+Slime Lair
+    24 Enchanted Slime Blocks + 85 Purified Slime Blocks + Slime Artifact
+    +40 Health
+    
+    LEGENDARY Accessory
+    While active, you take no knockback while sneaking.
+    Take 20% less damage from slimes.
+
+
+
+[Slime Slayer 8]
+Putrid Slime Curser
+    64 Purified Slime Blocks + Putrid Slime Deterrent + 224 Enchanted Ink Sacs
+        
+        LEGENDARY Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 2% of their current health as damage, are blinded for 7 seconds, and slowed by 30% for 2 seconds.
+        Does not stack with the Putrid Slime Crippler, Potent Slime Stumper, or Potent Slime Blaster.
+
+Putrid Slime Crippler
+    64 Purified Slime Blocks + Putrid Slime Deterrent + 28 Enchanted Fermented Spider Eyes
+        
+        LEGENDARY Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 2% of their current health as damage, are blinded for 2 seconds, and slowed by 90% for 7 seconds.
+        Does not stack with the Putrid Slime Curser, Potent Slime Stumper, or Potent Slime Blaster.
+
+Potent Slime Stumper
+    64 Purified Slime Blocks + Potent Slime Deterrent + 14 Enchanted Diamond Blocks
+        
+        LEGENDARY Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 25% of their current health as damage and take high knockback away from your boss as well as being stunned after landing for 2 seconds.
+        Does not stack with the Potent Slime Blaster, putrid Slime Curser, or putrid Slime Crippler.
+
+Potent Slime Blaster
+    64 Purified Slime Blocks + Potent Slime Deterrent + 168 Enchanted Fireworks
+        
+        LEGENDARY Accessory
+        While active, other players that try to attack any slayer boss that belongs to you, will be warned on-screen and with a message.
+        They also take 6% of their current health as damage, take extremely high knockback away from your boss as well as being stunned after landing for 6 seconds
+        Does not stack with the Potent Slime Stumper, putrid Slime Curser, or putrid Slime Crippler.
+
+Deterrant Revitaliser
+    32 Enchanted Fermented Spider Eyes + 32 Enchanted Ink Sacs + Enchanted Diamond Block + 4 Enchanted Fireworks + 48 Purified Slime Blocks
+    
+    Increases the strength of a certain type of Slime Deterrant:
+        Putrid Slime Curser:
+            Blind duration increased from 7 seconds to 12 seconds.
+        Putrid Slime Crippler:
+            Slow strength increased from 90% to 95%. Slow duration increased from 7 seconds to 10 seconds.
+        Potent Slime Stumper:
+            25% current health damage increased to 45%.
+        Potent Slime Blaster:
+            Extremely high knockback also includes high vertical knockback. Stun duration increased from 6 seconds to 10.5 seconds.

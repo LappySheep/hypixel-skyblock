@@ -1,0 +1,99 @@
+Congealed Monstrosity I:
+    Health: 2,000
+    Damage: 10 per second
+    Defence: 1
+
+    Reflux Slam
+        Occasionally, jump up slightly and slam the ground to deal up to 80 damage to all nearby players.
+    
+    Hardened Membrane
+        Gain 1 defence every 1% missing hp, up to 100 defence (50% damage reduction) at 1% hp left.
+    
+    Reward: 5 Slime Slayer XP
+        + Boss drops
+    
+    Cost to start: 100 coins
+
+
+
+Congealed Monstrosity II:
+    Health: 30,000
+    Damage: 80 per second
+    Defence: 3
+
+    Reflux Slam
+        Occasionally, jump up slightly and slam the ground to deal up to 300 damage to all nearby players.
+    
+    Hardened Membrane
+        Gain 3 defence every 1% missing hp, up to 300 defence (75% damage reduction) at 1% hp left.
+    
+    Reward: 25 Slime Slayer XP
+        + Boss drops
+        
+    Cost to start: 2,000 coins
+
+
+
+Congealed Monstrosity III:
+    Health: 400,000
+    Damage: 280 per second
+    Defence: 6
+
+    Reflux Slam
+        Occasionally, jump up slightly and slam the ground to deal up to 650 damage to all nearby players.
+    
+    Hardened Membrane
+        Gain 6 defence every 1% missing hp, up to 600 defence (86% damage reduction) at 1% hp left.
+    
+    Slime Spray
+        If Reflux Slam hits at least 1 player, 5 times, the Monstrosity will become enraged. While enraged, it may shoot out a shotgun-blast of 32 slimeballs, each dealing 20 damage and applying a 3 second slow of 40%.
+    
+    Reward: 100 Slime Slayer XP
+        + Boss drops
+    
+    Cost to start: 10,000 coins
+
+
+
+Congealed Monstrosity IV:
+    Health: 5,000,000
+    Damage: 500 per second
+    Defence: 10
+    
+    Reflux Slam
+        Occasionally, jump up slightly and slam the ground to deal up to 1100 damage to all nearby players.
+        
+    Hardened Membrane
+        Gain 10 defence every 1% missing hp, up to 1000 defence (91% damage reduction) at 1% hp left.
+        
+    Slime Spray
+        If Reflux Slam hits at least 1 player, 5 times, the Monstrosity will become enraged. While enraged, it may shoot out a shotgun-blast of 48 slimeballs, each dealing 30 damage and applying a 3 second slow of 55%.
+    
+    Reward: 500 Slime Slayer XP
+        + Boss drops
+    
+    Cost to start: 50,000 coins
+
+
+
+Congealed Monstrosity V:
+    Health: 60,000,000
+    Damage: 900 per second
+    Defence: 15
+    
+    Reflux Slam
+        Occasionally, jump up slightly and slam the ground to deal up to 2000 damage to all nearby players.
+    
+    Hardened Membrane
+        Gain 15 defence every 1% missing hp, up to 1500 defence (94% damage reduction) at 1% hp left.
+    
+    Slime Spray
+        If Reflux Slam hits at least 1 player, 5 times, the Monstrosity will become enraged. While enraged, it may shoot out a shotgun-blast of 64 slimeballs, each dealing 40 damage and applying a 3 second slow of 70%.
+    
+    Giga Slime
+        Every 10,000,000 HP lost, the Monstrosity enlargens and becomes invulnerable for 3 seconds. During this time, all arrows are deflected.
+    
+    Reward: 1250 Slime Slayer XP
+        + Boss drops
+    
+    Cost to start: 125,000 coins
