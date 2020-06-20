@@ -1,0 +1,299 @@
+[Creeper Slayer 1]
+Repaired Mesh
+    128 Blown Mesh + 32 Enchanted Cobblestone
+
+Blast-proof Sheet
+    64 Blown Mesh + 4 Enchanted Iron
+        
+        Item Passive: Explosion Blocker
+            While holding the Blast-proof Sheet, all explosion-damage is reduced by 5%. This is not an accessory.
+
+Creeper Talisman
+    128 Blown Mesh + Stick
+        
+        COMMON Accessory
+        Reduces all explosion-damage by 5%.
+
+
+
+[Creeper Slayer 2]
+Creeper Ring
+    16 Repaired Meshes + Creeper Talisman
+        
+        UNCOMMON Accessory
+        Reduces all explosion-damage by 10%.
+
+Blast-proof Net
+    4 Repaired Meshes + 16 Enchanted Iron
+        
+        Item Passive: Explosion Blocker
+            While holding the Blast-proof Net, all explosion-damage is reduced by 10%. This is not an accessory.
+
+
+
+[Creeper Slayer 3]
+Earthy Turbine
+    256 Enchanted Iron + Explosive Shard
+    
+        Item Ability: Blow Away RIGHT CLICK
+            Create a small explosion that deals minimal knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 25% less damage.
+            Costs 60 Mana.
+            Cooldown: 10 seconds
+
+Leaf Blower
+    8 Repaired Meshes + 256 Jungle Leaves + Earthy Turbine
+        +75 Damage
+        +25 Strength
+        
+        Item Passive: Creeper Blower
+            Deal +75% damage to Creepers and the Eternal Mother.
+        Item Ability: Blow Away RIGHT CLICK
+            Create an explosion that deals knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 30% less damage.
+            Leaves are displaced and moved away temporarily.
+            Costs 55 Mana.
+            Cooldown: 8 seconds
+
+Blast-proof Shield
+    32 Repaired Meshes + 64 Enchanted Iron
+    
+        Item Passive: Explosion Blocker
+            While holding the Blast-proof Shield, all explosion-damage is reduced by 15%. This is not an accessory.
+
+
+
+[Creeper Slayer 4]
+Blast Blower
+    32 Repaired Meshes + 32 Blast Shards + Leaf Blower
+        +125 Damage
+        +50 Strength
+        
+        Item Passive: Creeper Blaster
+            Deal +125% damage to Creepers and the Eternal Mother.
+        Item Ability: Blow Away RIGHT CLICK
+            Create an explosion that deals knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 35% less damage.
+            Leaves are displaced and moved away temporarily.
+            Costs 50 Mana.
+            Cooldown: 8 seconds
+
+Blast-proof Helmet
+    15 Repaired Meshes + 20 Enchanted Iron
+    
+    +100 Health
+    +40 Defence
+    
+    Full Set Bonus: Mystic Spark
+        Explosions do not do knockback while sneaking. Attacks instantly kill Podlets.
+    
+    Piece Bonus: Creeper Bulwark
+        Kill Creepers to accumulate defence against them.
+        +20 Defence per 2,000 kills from 0 to 10,000 kills.
+        +20 Defence per 4,000 kills from 10,000 to 30,000 kills.
+        +10 Defence per 6,000 kills from 30,000 to 60,000 kills.
+        +10 Defence per 8,000 kills from 60,000 to 100,000 kills.
+        +5 Defence per 10,000 kills from 100,000 to 150,000 kills.
+        +5 Defence per 12,000 kills from 150,000 to 210,000 kills.
+        +4 Defence per 14,000 kills from 210,000 to 280,000 kills.
+        +4 Defence per 16,000 kills from 280,000 to 360,000 kills.
+
+Blast-proof Boots
+    12 Repaired Meshes + 16 Enchanted Iron
+    
+    +80 Health
+    +32 Defence
+    
+    Full Set Bonus: Mystic Spark
+        Explosions do not do knockback while sneaking. Attacks instantly kill Podlets.
+    
+    Piece Bonus: Creeper Bulwark
+        Kill Creepers to accumulate defence against them.
+        +20 Defence per 2,000 kills from 0 to 10,000 kills.
+        +20 Defence per 4,000 kills from 10,000 to 30,000 kills.
+        +10 Defence per 6,000 kills from 30,000 to 60,000 kills.
+        +10 Defence per 8,000 kills from 60,000 to 100,000 kills.
+        +5 Defence per 10,000 kills from 100,000 to 150,000 kills.
+        +5 Defence per 12,000 kills from 150,000 to 210,000 kills.
+        +4 Defence per 14,000 kills from 210,000 to 280,000 kills.
+        +4 Defence per 16,000 kills from 280,000 to 360,000 kills.
+
+
+
+[Creeper Slayer 5]
+Creeper Artifact
+    256 Repaired Meshes + Creeper Ring
+        
+        RARE Accessory
+        Reduces all explosion-damage by 15%.
+
+Enchanted Book - Blast Protection VI
+    Blast Protection V Book + 256 Blast Shards
+    
+    Grants +24 Defence against explosions.
+    
+Leaf Burner
+    256 Repaired Meshes + 64 Blast Shards + Blast Blower
+        +175 Damage
+        +75 Strength
+        
+        Item Passive: Creeper Burner
+            Deal +175% damage to Creepers and the Eternal Mother.
+            Killing Creepers reduces the cooldown of Blow Away by 1 second.
+        Item Ability: Blow Away RIGHT CLICK
+            Create a big explosion that deals high knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 40% less damage.
+            Leaves are displaced and moved away temporarily.
+            Costs 45 Mana.
+            Cooldown: 8 seconds
+
+Blast-proof Leggings
+    21 Repaired Meshes + 28 Enchanted Iron
+    
+    +140 Health
+    +56 Defence
+    
+    Full Set Bonus: Mystic Spark
+        Explosions do not do knockback while sneaking. Attacks instantly kill Podlets.
+    
+    Piece Bonus: Creeper Bulwark
+        Kill Creepers to accumulate defence against them.
+        +20 Defence per 2,000 kills from 0 to 10,000 kills.
+        +20 Defence per 4,000 kills from 10,000 to 30,000 kills.
+        +10 Defence per 6,000 kills from 30,000 to 60,000 kills.
+        +10 Defence per 8,000 kills from 60,000 to 100,000 kills.
+        +5 Defence per 10,000 kills from 100,000 to 150,000 kills.
+        +5 Defence per 12,000 kills from 150,000 to 210,000 kills.
+        +4 Defence per 14,000 kills from 210,000 to 280,000 kills.
+        +4 Defence per 16,000 kills from 280,000 to 360,000 kills.
+
+Blast-proof Chestplate
+    24 Repaired Meshes + 32 Enchanted Iron
+    
+    +160 Health
+    +64 Defence
+    
+    Full Set Bonus: Mystic Spark
+        Explosions do not do knockback while sneaking. Attacks instantly kill Podlets.
+    
+    Piece Bonus: Creeper Bulwark
+        Kill Creepers to accumulate defence against them.
+        +20 Defence per 2,000 kills from 0 to 10,000 kills.
+        +20 Defence per 4,000 kills from 10,000 to 30,000 kills.
+        +10 Defence per 6,000 kills from 30,000 to 60,000 kills.
+        +10 Defence per 8,000 kills from 60,000 to 100,000 kills.
+        +5 Defence per 10,000 kills from 100,000 to 150,000 kills.
+        +5 Defence per 12,000 kills from 150,000 to 210,000 kills.
+        +4 Defence per 14,000 kills from 210,000 to 280,000 kills.
+        +4 Defence per 16,000 kills from 280,000 to 360,000 kills.
+
+
+
+[Creeper Slayer 6]
+Podlet Minion
+    32 Repaired Meshes + 64 Blast Shards
+    
+    Spawns one Podlet every 35 seconds. Each Podlet drops between 1 and 3 Blown Meshes. Can store up to 960.
+    
+Ancient Mesh
+    128 Repaired Meshes + Enchanted Firework
+    
+Blast Crystal
+    32 Blast Shards + 32 Enchanted Quartz + Ancient Mesh
+
+Creeper Lair
+    7 Ancient Meshes + Eternal Spark + Creeper Artifact
+        
+        EPIC Accessory
+        Reduces all explosion-damage by 20%.
+
+Blast-proof Barrier
+    4 Ancient Meshes + 4 Enchanted Iron Blocks
+    
+        Item Passive: Explosion Blocker
+            While holding the Blast-proof Barrier, all explosion-damage is reduced by 20%. This is not an accessory.
+    
+Eternal Flame
+    Eternal Spark + 16 Ancient Meshes
+    
+        Item Passive: Overflame
+            Attacking Podlets, Creepers, or any other self-detonating monsters will instantly cause them to explode, and restores 1% of your maximum health back.
+        Item Ability: Earthen Dusk
+            You create a torrent of fire around you, neutralising all self-detonating monsters within 6 blocks for the next 4 seconds. Neutralised monsters deal no damage or knockback if they explode.
+            Costs 50% of your maximum mana.
+            Cooldown: 30 seconds.
+
+
+
+[Creeper Slayer 7]
+Leaf Incinerator
+    16 Ancient Meshes + 8 Blast Crystals + Leaf Burner
+        +175 Damage
+        +100 Strength
+        
+        Item Passive: Creeper Incinerator
+            Deal +225% damage to Creepers and the Eternal Mother.
+            Killing Creepers reduces the cooldown of Blow Away by 1.5 seconds.
+        Item Ability: Blow Away RIGHT CLICK
+            Create a very large explosion that deals very high knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 45% less damage.
+            Leaves are blown up temporarily.
+            Costs 40 Mana.
+            Cooldown: 7.5 seconds
+
+Creeper's Excavator (Shears)
+    32 Ancient Meshes + 8 Enchanted Iron Blocks
+        
+        Item Passive: Leaf Drill
+            Gains Efficiency X on leaf blocks.
+            0.01% chance to find a Creeper Corpse while breaking leaf blocks, which can be right clicked to find any of:
+                > 300 - 1750 Coins (60% chance)
+                > 2 - 8 Enchanted Iron (15% chance)
+                > 10 - 30 Blown Meshes (15% chance)
+                > 1 - 2 Repaired Meshes (5% chance)
+                > Explosive Vanguard (2.25% chance)
+                > Recovered Shear (2.25% chance)
+                > Excavator Shard (0.5% chance)
+        Item Passive: TNT Storage
+            Gain +200 Damage and +100 Strength against Creepers and Podlets.
+            Killing Creepers and Podlets with the Creeper's Excavator will have a 1% chance of dropping Excavator Fragments.
+
+36 Excavator Fragments + Stonk
+    1 Excavator Shard + Stonk
+    (Stonk required for craft but not consumed)
+
+1 Excavator Shard + Stonk
+    10 Excavator Fragments + Stonk
+    (Stonk required for craft but not consumed)
+
+Enchanted Book - Blast Protection VII
+    Blast Protection VI Book + 4 Blast Crystals + Explosive Vanguard
+    
+    Grants +28 Defence against explosions.
+
+Enchanted Book - Leaf Trimmer VI
+    Leaf Trimmer V Book + 4 Blast Crystals + Recovered Shear
+
+    Deal 48% bonus damage to Creepers and the Eternal Mother.
+
+
+
+[Creeper Slayer 8]
+Leaf Evaporator
+    64 Ancient Meshes + 32 Blast Crystals + Leaf Incinerator
+        +200 Damage
+        +100 Strength
+        
+        Item Passive: Creeper Evaporator
+            Deal +250% damage to Creepers and the Eternal Mother.
+            Killing Creepers reduces the cooldown of Blow Away by 2 seconds.
+        Item Ability: Blow Away RIGHT CLICK
+            Create a huge explosion that deals intense knockback to nearby monsters. Creepers and Podlets hit by the explosion will explode instantly and deal 50% less damage.
+            Leaves are blown up temporarily.
+            Costs 35 Mana.
+            Cooldown: 6 seconds
+        Item Passive: Excavator's Dream
+            In an anvil, combine a Leaf Evaporator with an Excavator Fragment to permanently increase the Creeper Evaporator bonus damage by 0.1% (maximum 500% bonus damage at 5,000 Excavator Fragments).
+
+Leaf Trophy
+    256 Ancient Meshes + 128 Excavator Shards + 2 Eternal Flames + Excavator's Lost Trophy
+        
+        LEGENDARY Accessory
+        Killing the Eternal Mother [V] while the Leaf Trophy is active will permanently increase your strength against self-detonating monsters by 1 (capped at 200).
+        
+        You can also place the Leaf Trophy on your island, which acts as a Creeper XI Minion, and does not count as a used minion slot.

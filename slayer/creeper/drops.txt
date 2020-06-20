@@ -1,0 +1,68 @@
+[Creeper Slayer 0]
+Blown Mesh
+    100% Drop Chance.
+    EM1: 1-6 Blown Mesh
+    EM2: 7-15 Blown Mesh
+    EM3: 16-31 Blown Mesh
+    EM4: 32-55 Blown Mesh
+    EM5: 56-80 Blown Mesh
+
+
+
+[Creeper Slayer 2]
+Toxin Pod
+    20% Drop Chance.
+    EM1: 1 Toxin Pod
+    EM2: 2-6 Toxin Pods
+    EM3: 7-21 Toxin Pods
+    EM4: 22-55 Toxin Pods
+    EM5: 56-120 Toxin Pods
+    
+    Consumes on your melee hits to reduce defence and healing by 20% for 2 seconds.
+    Consumes if hit by melee to reduce explosion-damage by 5% and DoT damage by 15% for the next second.
+    
+    Cooldown: 1 second
+
+
+
+[Creeper Slayer 3]
+Explosive Shard
+    Up to 5% Drop Chance
+    EM1: Cannot Drop
+    EM2: 0.5% Drop Chance
+    EM3: 1.5% Drop Chance
+    EM4: 3% Drop Chance
+    EM5: 5% Drop Chance
+
+
+
+[Creeper Slayer 4]
+Blast Shard
+    Up to 1% Drop Chance
+    EM1: Cannot Drop
+    EM2: 0.1% Drop Chance, 1-2 Blast Shards
+    EM3: 0.3% Drop Chance, 3-5 Blast Shards
+    EM4: 0.6% Drop Chance, 6-7 Blast Shards
+    EM5: 1% Drop Chance, 8-10 Blast Shards
+
+Enchanted Book - Leaf Trimmer I / II / III / IV / V
+    1% Drop Chance
+    EM1: Leaf Trimmer I
+    EM2: Leaf Trimmer II
+    EM3: Leaf Trimmer III
+    EM4: Leaf Trimmer IV
+    EM5: Leaf Trimmer V
+    
+    Deal 8% / 16% / 24% / 32% / 40% bonus damage to Creepers and the Eternal Mother.
+
+
+
+[Creeper Slayer 6]
+Eternal Spark
+    0.45% Drop Chance from Eternal Mother III or higher.
+
+
+
+[Creeper Slayer 8]
+Excavator's Lost Trophy
+    7/13000 Drop Chance from Eternal Mother V.

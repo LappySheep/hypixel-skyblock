@@ -1,0 +1,115 @@
+Eternal Mother I:
+    Health: 2,000
+    Damage: 30 per second
+    
+    Slow and Steady
+        This boss is very slow but hits hard if you get too close.
+    
+    Noxious Gas
+        Occasionally spits out 3 globules of toxic gases that deals up to 70 explosion damage each and slows targets by 30% for 4 seconds.
+    
+    Explosive Fury
+        At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled.
+    
+    Reward: 5 Creeper Slayer XP
+        + Boss drops
+    
+    Cost to start: 100 coins
+
+
+
+Eternal Mother II:
+    Health: 22,000
+    Damage: 120 per second
+    
+    Slow and Steady
+        This boss is very slow but hits hard if you get too close.
+    
+    Noxious Gas
+        Occasionally spits out 3 globules of toxic gases that deals up to 250 explosion damage each and slows targets by 40% for 4 seconds.
+    
+    Podlet Swarm
+        Spawns 8 podlets occasionally - each will follow targets and explode on impact (or after 6 seconds), dealing up to 60 explosion damage each.
+    
+    Explosive Fury
+        At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled and Podlets spawn more often.
+    
+    Reward: 25 Creeper Slayer XP
+        + Boss drops
+    
+    Cost to start: 2000 coins
+
+
+
+Eternal Mother III:
+    Health: 250,000
+    Damage: 480 per second
+    
+    Slow and Steady
+        This boss is very slow but hits hard if you get too close.
+    
+    Noxious Gas
+        Occasionally spits out 3 globules of toxic gases that deals up to 750 explosion damage each and slows targets by 50% for 4 seconds.
+    
+    Podlet Swarm
+        Spawns 9 podlets occasionally - each will follow targets and explode on impact (or after 6 seconds), dealing up to 140 explosion damage each.
+    
+    Explosive Fury
+        At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled and Podlets spawn more often.
+    
+    Reward: 100 Creeper Slayer XP
+        + Boss drops
+    
+    Cost to start: 10,000 coins
+
+
+
+Eternal Mother IV:
+    Health: 2,800,000
+    Damage: 1440 per second
+    
+    Slow and Steady
+        This boss is very slow but hits hard if you get too close.
+    
+    Noxious Gas
+        Occasionally spits out 3 globules of toxic gases that deals up to 1675 explosion damage each and slows targets by 60% for 4 seconds.
+    
+    Podlet Swarm
+        Spawns 9 podlets occasionally - each will follow targets and explode on impact (or after 6 seconds), dealing up to 320 explosion damage each.
+    
+    Impale
+        Damage targets in a line after a 0.5 second delay, dealing up to 2500 explosion damage and slowing targets by 90% for 1 second.
+    
+    Explosive Fury
+        At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled and Podlets spawn more often. Impale is used more often.
+    
+    Reward: 500 Creeper Slayer XP
+        + Boss drops
+    
+    Cost to start: 50,000 coins
+
+
+
+Eternal Mother V:
+    Health: 30,000,000
+    Damage: 4320 per second
+    
+    Slow and Steady
+        This boss is very slow but hits hard if you get too close.
+    
+    Noxious Gas
+        Occasionally spits out 3 globules of toxic gases that deals up to 3500 explosion damage each and slows targets by 70% for 4 seconds.
+    
+    Podlet Swarm
+        Spawns 10 podlets occasionally - each will follow targets and explode on impact (or after 6 seconds), dealing up to 730 explosion damage each.
+    
+    Impale
+        Damage targets in a line after a 0.5 second delay, dealing up to 5000 explosion damage and stunning targets for 1 second.
+    
+    Explosive Fury
+        At 33% health left, the Eternal Mother will become enraged. Damage dealt is tripled and Podlets spawn more often. Impale is used more often.
+    
+    Reward: 1250 Creeper Slayer XP
+        + Boss drops
+    
+    Cost to start: 125,000 coins
