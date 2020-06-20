@@ -1,0 +1,5 @@
+[Spider Slayer 8]
+Mosquito Eye
+    17/7000 Drop Chance from Tarantula Broodfather IIIs (1-2)
+    17/1400 Drop Chance from Tarantula Broodfather IVs (1-3)
+    17/280 Drop Chance from Tarantula Broodfather Vs (2-4)

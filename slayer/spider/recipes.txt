@@ -1,0 +1,18 @@
+[Spider Slayer 6]
+Cascading Tarantula Minion
+    16 Tarantula Silk + Tarantula Minion
+    
+    Each Tarantula killed also drops 1-2 Tarantula Web.
+
+
+
+[Spider Slayer 8]
+Mosquito Blood
+    Mosquito Eye + 4 Tarantula Silk
+        
+        Item Ability: Blood Bite
+            Consume the Blood to empower the Mosquito Bow, increasing base damage, base strength, and all crit bonuses from the bow by 25% for 30 seconds.
+            Using the Nasty Bite ability during this time will double healing, and increase bonus damage to 25%.
+            Also increases the base damage of Scorpion Bows and Mosquito Bows by 10.
+            Cooldown: 30 seconds.
+            Costs 70% of maximum mana. Cannot be used if maximum mana is lower than 150.
