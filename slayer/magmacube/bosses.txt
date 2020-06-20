@@ -1,0 +1,136 @@
+Molten Tesseract I:
+    Health: 1,000
+    
+    Infernal Caster
+        The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+    
+    Fuel the Fire
+        If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 1% max hp true damage per second to all targets within 7 blocks.
+    
+    Spells:
+        Magma Blast
+            Shoot a high velocity fireball at a target. Deals up to 200 damage and high knockback to targets near impact.
+        
+        Chains of Hell
+            Create chains that link to every target within 5 blocks. Deal 40 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 8 blocks from the Tesseract, the chain breaks and they take 200 damage instantly.
+    
+    Reward: 5 Magma Cube Slayer XP
+        + Boss drops
+    
+    Cost to start: 100 coins
+
+
+
+Molten Tesseract II:
+    Health: 22,000
+    
+    Infernal Caster
+        The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+    
+    Fuel the Fire
+        If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 2% max hp true damage per second to all targets within 7 blocks.
+    
+    Spells:
+        Magma Blast
+            Shoot a high velocity fireball at a target. Deals up to 600 damage and high knockback to targets near impact.
+        
+        Chains of Hell
+            Create chains that link to every target within 5 blocks. Deal 80 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 11 blocks from the Tesseract, the chain breaks and they take 400 damage instantly.
+        
+        Scorching Gust
+            Shoot a quick bolt of fire at a target, setting them alight for 8 seconds. Each second, they take 2% of their maximum health as damage.
+    
+    Reward: 25 Magma Cube Slayer XP
+        + Boss drops
+    
+    Cost to start: 2,000 coins
+
+
+
+Molten Tesseract III:
+    Health: 550,000
+    
+    Infernal
+        The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+    
+    Fuel the Fire
+        If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 3% max hp true damage per second to all targets within 7 blocks.
+    
+    Spells:
+        Magma Blast
+            Shoot a high velocity fireball at a target. Deals up to 1200 damage and high knockback to targets near impact.
+        
+        Chains of Hell
+            Create chains that link to every target within 5 blocks. Deal 120 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 14 blocks from the Tesseract, the chain breaks and they take 800 damage instantly.
+        
+        Scorching Gust
+            Shoot a quick bolt of fire at a target, setting them alight for 10 seconds. Each second, they take 3% of their maximum health as damage.
+        
+        Infernal Wind
+            If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 8% of their missing health as true damage.
+    
+    Reward: 100 Magma Cube Slayer XP
+        + Boss drops
+    
+    Cost to start: 10,000 coins
+    
+    
+    
+Molten Tesseract IV:
+    Health: 3,000,000
+    
+    Infernal
+        The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+    
+    Fuel the Fire
+        If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 4% max hp true damage per second to all targets within 7 blocks.
+    
+    Spells:
+        Magma Blast
+            Shoot a high velocity fireball at a target. Deals up to 2000 damage and high knockback to targets near impact.
+        
+        Chains of Hell
+            Create chains that link to every target within 5 blocks. Deal 160 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 17 blocks from the Tesseract, the chain breaks and they take 1600 damage instantly.
+        
+        Scorching Gust
+            Shoot a quick bolt of fire at a target, setting them alight for 12 seconds. Each second, they take 4% of their maximum health as damage.
+        
+        Infernal Wind
+            If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 12% of their missing health as true damage.
+    
+    Reward: 500 Magma Cube Slayer XP
+        + Boss drops
+    
+    Cost to start: 50,000 coins
+    
+    
+    
+Molten Tesseract V:
+    Health: 14,000,000
+    
+    Infernal
+        The Molten Tesseract has no melee/basic attack, but uses an array of spells.
+    
+    Fuel the Fire
+        If the Molten Tesseract kills the spawner, the boss does not despawn until their second death. However, after the first kill, deal 4% max hp true damage per second to all targets within 7 blocks.
+    
+    Spells:
+        Magma Blast
+            Shoot a high velocity fireball at a target. Deals up to 3000 damage and high knockback to targets near impact.
+        
+        Chains of Hell
+            Create chains that link to every target within 5 blocks. Deal 200 true damage per second to every target for the next 10 seconds. If a target exceeds a distance of 20 blocks from the Tesseract, the chain breaks and they take 3200 damage instantly.
+        
+        Scorching Gust
+            Shoot a quick bolt of fire at a target, setting them alight for 14 seconds. Each second, they take 5% of their maximum health as damage.
+        
+        Infernal Wind
+            If a target is on fire, the Tesseract can shoot a cinder flame at them, refreshing their burning time duration and dealing 16% of their missing health as true damage.
+        
+        Life Conflagration Surge
+            If 3 of the Tesseract's attacks are blocked, dodged, nullified, negated, or if damage is reduced for any of them (5 in total) consecutively, the Tesseract releases a surge of pyroclastic energy in all directions, dealing 166% of every nearby target's health as true damage over 10 seconds.
+    
+    Reward: 1250 Magma Cube Slayer XP
+        + Boss drops
+    
+    Cost to start: 125,000 coins
