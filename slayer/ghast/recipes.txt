@@ -1,0 +1,280 @@
+[Ghast Slayer 0]
+Teared Arrow
+    Arrow + 4 Phantom Tears
+    
+    Increases damage dealt by arrows by 3%. Increased to a 15% bonus vs Ghasts.
+
+
+
+[Ghast Slayer 1]
+Ghoul Bow
+    32 Phantom Tears + Bow + 4 Enchanted String
+    +80 Damage
+    +15 Strength
+    
+    Item Passive: Teared Quiver
+        Teared Arrows gain double the bonus while using this bow.
+    Item Passive: Ghast Slayer
+        Gain +5 strength per Ghast Slayer level (up to 40 at level 8) vs Ghasts while using this bow.
+
+Roped Blade
+    Iron Sword + Power 4 Book + 12 Enchanted String
+    +60 Damage
+    +40 Strength
+    
+    Item Ability: Roped Shank RIGHT CLICK
+        You throw out a blade, dealing 110% damage to the first target hit. Activate Roped Shank again within 1 second of hitting a target or block to throw yourself in that direction.
+        You do not have hold the Roped Blade while using Roped Shank - only to activate it.
+        Cooldown: 8 seconds.
+
+
+
+[Ghast Slayer 2]
+Elysium Tear
+    128 Phantom Tears + 32 Enchanted Redstone
+
+Essence Vial
+    2 Phantom Tears + 6 Hard Glass
+    
+    When killing Screeching Phantoms, you collect Ghast Essence in the Essence Vial. Only one vial works.
+    SP1: 1 Ghast Essence
+    SP2: 1-2 Ghast Essence
+    SP3: 2 Ghast Essence
+    SP4: 3 Ghast Essence
+    SP5: 4-5 Ghast Essence
+    
+    Vials can contain up to 100 Essence.
+    
+Elysium Vial
+    Full Essence Vial + 8 Elysium Tears
+    
+    Drink the Vial to gain 20% bonus damage against Ghasts for 45 seconds. Can be extended using Redstone (45 seconds --> 2 minutes), Enchanted Redstone (45 seconds --> 4.5 minutes), or Enchanted Redstone Blocks (45 seconds --> 10 minutes).
+    
+Frozen Vial
+    Full Essence Vial + 128 Enchanted Ice
+    
+    Drink the Vial to apply a 60% slow on melee attacks (30% on ranged) for 2 seconds. Lasts for 45 seconds. Can be extended using Redstone (45 seconds --> 2 minutes), Enchanted Redstone (45 seconds --> 4.5 minutes), or Enchanted Redstone Blocks (45 seconds --> 10 minutes).
+
+
+
+[Ghast Slayer 3]
+Accursed Ghast Head
+    Ghast Head + 8 Accursed Ashes
+    +125 Health
+    +25 Defence
+    
+    Item Passive: Accursed Restoration
+        Restore 1.5% of your maximum HP per second.
+    Item Passive: Accursed Collection
+        Up to once every 16 seconds, you can absorb an entire fireball, taking no damage, by sneaking while getting hit by a fireball.
+        Fireballs absorbed are stored (maximum 3).
+        If you get hit by a fireball while you have stored fireballs, and if you are not sneaking, you use up a stored fireball to reduce the damage by 20%.
+
+Ghast Talisman
+    18 Phantom Tears
+    +25 Health
+    
+    UNCOMMON Accessory
+    Reduce damage taken from Ghasts by 5%.
+
+Golden Fang
+    32 Silver Fangs + 8 Enchanted Gold
+
+
+
+[Ghast Slayer 4]
+Phantom Vial
+    Full Essence Vial + 16 Golden Fangs
+    
+    When killing Screeching Phantoms, you collect Phantom Essence in the Phantom Vial. Only one vial works.
+    SP1: 0-1 Phantom Essence (80% : 20%) (0.2/avg)
+    SP2: 0-1 Phantom Essence (50% : 50%) (0.5/avg)
+    SP3: 0-2 Phantom Essence (40% : 30% : 30%) (0.9/avg)
+    SP4: 1-2 Phantom Essence (40% : 60%) (1.6/avg)
+    SP5: 1-3 Phantom Essence (35% : 35% : 30%) (1.95/avg)
+    
+    Phantom Vials can hold up to an infinite amount of Phantom Essence.
+    
+    For every Phantom Essence, gain +1 Defence against Ghasts.
+    
+Fire Flinger
+    8 Golden Fangs + 4 Phantom Tears + Bow
+    
+    UNCOMMON Accessory
+    Deflected Ghast fireballs deal 5% more damage.
+
+Sharpened Blade
+    Roped Blade + Power 5 Book + 48 Enchanted String
+    +85 Damage
+    +55 Strength
+    
+    Item Ability: Sharpened Shank RIGHT CLICK
+        You throw out a blade, dealing 125% damage to the first target hit. Activate Roped Shank again within 1 second of hitting a target or block to throw yourself in that direction.
+        You do not have hold the Sharpened Blade while using Sharpened Shank - only to activate it.
+        Cooldown: 6 seconds.
+    Item Passive: Sharp Edge
+        Deal 75% bonus damage against Ghasts.
+
+
+
+[Ghast Slayer 5]
+Bleeding Eye
+    128 Elysium Tears + 32 Golden Fangs + Enchanted Fermented Spider Eye
+
+Bleeding Ghast Head
+    Accursed Ghast Head + 4 Bleeding Eyes
+    +175 Health
+    +75 Defence
+    
+    Item Passive: Bloodrite Restoration
+        Restore 2% of your maximum HP per second.
+    Item Passive: Malleable
+        Up to once every 12 seconds, you can absorb an entire fireball, taking no damage, by sneaking and getting hit by a fireball.
+        Fireballs absorbed are stored (maximum 4).
+        If you get hit by a fireball while you have stored fireballs, and if you are not sneaking, you use up a stored fireball to reduce the damage by 35%.
+
+Ghast Ring
+    Ghast Talisman + 2 Bleeding Eyes
+    +50 Health
+    
+    RARE Accessory
+    Reduce damage taken from Ghasts by 10%.
+    
+Fire Catapult
+    Fire Flinger + 6 Bleeding Eyes + 64 Golden Fangs + 128 Enchanted String
+    
+    RARE Accessory
+    Deflected Ghast fireballs deal 10% more damage.
+
+Bloodfusion Bow
+    Ghoul Bow + 64 Enchanted String + 16 Bleeding Eyes
+    +160 Damage
+    +36 Strength
+    
+    Item Passive: Bleeding Quiver
+        Teared Arrows gain quadruple the bonus while using this bow.
+    Item Passive: Ghast Slayer
+        Gain +8 strength per Ghast Slayer level (up to +64 at level 8) vs Ghasts while using this bow.
+        Gain +2 strength per Alchemy level (up to +100 at level 50) vs Ghasts while using this bow.
+
+
+
+[Ghast Slayer 6]
+Ankou Minion
+    32 Elysium Tears + 32 Accursed Ashes
+    
+    Spawns one Ankou every 35 seconds. Each Ankou drops between 1 and 3 Phantom Tears. Can store up to 960.
+    
+Teared Acid
+    Ravaging Acid + 320 Enchanted Ghast Tears + 128 Silver Fangs + 64 Enchanted Packed Ice
+    
+Potion of Acidity I / II / III / IV / V / VI / VII / VIII
+    I (Nether Wart --> Ravaging Acid):
+        Bow shots deal 0.015625% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    II (PoA1 + Glowstone Dust):
+        Bow shots deal 0.03125% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    III (PoA1 + Enchanted Glowstone Dust):
+        Bow shots deal 0.0625% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    IV (PoA1 + Enchanted Glowstone Block):
+        Bow shots deal 0.125% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    
+    V (Nether Wart --> Teared Acid):
+        Bow shots deal 0.25% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    VI (PoA5 + Glowstone Dust):
+        Bow shots deal 0.5% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    VII (PoA5 + Enchanted Glowstone Dust):
+        Bow shots deal 1% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+    VIII (PoA5 + Enchanted Glowstone Block):
+        Bow shots deal 2% of the target's maximum HP as bonus damage against Ghasts over 2 seconds.
+
+    Base Length: 45 seconds
+    Redstone Length: 2 minutes
+    Enchanted Redstone Length: 4 minutes
+    Enchanted Redstone Block Length: 10 minutes
+
+Bloodspite Blade
+    Sharpened Blade + Power 6 Book + 192 Enchanted String
+    +110 Damage
+    +80 Strength
+    
+    Item Ability: Bloodspite Shank RIGHT CLICK
+        You throw out a blade, dealing 140% damage to the first target hit. Activate Roped Shank again within 1 second of hitting a target or block to throw yourself in that direction.
+        You do not have hold the Bloodspite Blade while using Bloodspite Shank - only to activate it.
+        Cooldown: 4 seconds.
+    Item Passive: Sharper and Sharper
+        Deal 150% bonus damage against Ghasts.
+
+
+
+[Ghast Slayer 7]
+Ghast Artifact
+    Ghast Ring + 32 Bleeding Eyes
+    +75 Health
+    
+    EPIC Accessory
+    Reduce damage taken from Ghasts by 15%.
+
+Eternal Ghast Head
+    Bleeding Ghast Head + 32 Bleeding Eyes
+    +250 Health
+    +150 Defence
+    
+    Item Passive: Eternal Restoration
+        Restore 2.5% of your maximum HP per second. While in combat, restore 3% of your maximum HP per second.
+    Item Passive: Retraction
+        Up to once every 10 seconds, you can absorb an entire fireball, taking no damage, by sneaking and getting hit by a fireball.
+        Fireballs absorbed are stored (maximum 5).
+        If you get hit by a fireball while you have stored fireballs, and if you are not sneaking, you use up a stored fireball to reduce the damage by 50%.
+
+Aether Talisman
+    Aether Shard + 32 Bleeding Eyes
+    
+    RARE Accessory
+    Decrease fall damage taken by 5%.
+    Increase base damage and base strength of the Wind Blade by 5.
+
+Aether Ring
+    Aether Talisman + 96 Bleeding Eyes
+    
+    EPIC Accessory
+    Decrease fall damage taken by 10%.
+    Increase base damage and base strength of the Wind Blade by 10.
+    Decreases the mana cost of the Wind Blade's flight by 5%.
+
+Ethereal Fragment
+    512 Bleeding Eyes + Aether Shard
+    
+    LEGENDARY Accessory
+    Increases the chance of the Ethereal Handpiece drop by 100%.
+
+
+
+[Ghast Slayer 8]
+Aether Artifact
+    Aether Ring + 288 Bleeding Eyes
+    
+    LEGENDARY Accessory
+    Decrease fall damage taken by 15%.
+    Increase base damage and base strength of the Wind Blade by 15.
+    Decreases the mana cost of the Wind Blade's flight by 10%.
+    Quadruples the drop chance of the Aether Shard while killing Screeching Phantom Vs.
+
+Crystal of Ephemerality
+    4 Aether Shards + 192 Bleeding Eyes + 256 Enchanted Packed Ice
+
+Wind Blade
+    Ethereal Handpiece + 2 Crystals of Ephemerality
+    +285 Damage
+    +135 Strength
+    +400 Intelligence
+    +5% Armor Piercing
+    
+    Item Passive: Ethereal Strength
+        You can melee attack Ghasts from a ranged distance (max 64 blocks).
+        Deal +225% damage against Ghasts.
+    Item Ability: Vengeful Flight
+        Gain the ability to fly for the next 3 seconds, dealing 3% max HP damage to all enemies within 2 blocks of your flight.
+        If you are out of combat, this lasts for 15 seconds, but you do not deal damage to nearby enemies during flight.
+        Attacking a Ghast refreshes the duration of Vengeful Flight.
+        Costs 800 mana.
+        Cooldown: 300 seconds.
