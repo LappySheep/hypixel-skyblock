@@ -1,0 +1,113 @@
+Ender Meister I:
+    Health: 750
+    Damage: 80 per second
+    
+    End's Prayer
+        Arrows and various projectiles cannot damage this boss.
+    
+    Dark Potency
+        Every 6th hit deals 33% more damage and slows the target by 50% for 1 second.
+    
+    Unstable Energy
+        Occasionally dashes to or from the target. After teleporting, create an explosion that deals up to 200 damage to nearby targets.
+    
+    Reward: 5 Enderman Slayer XP
+        + Boss drops
+    
+    Cost to start: 100 coins
+
+
+
+Ender Meister II:
+    Health: 15,000
+    Damage: 150 per second
+    
+    End's Prayer
+        Arrows and various projectiles cannot damage this boss.
+    
+    Dark Potency
+        Every 6th hit deals 33% more damage and slows the target by 50% for 2 seconds.
+    
+    Unstable Energy
+        Occasionally dashes to or from the target. After teleporting, create an explosion that deals up to 500 damage to nearby targets.
+    
+    Chaos Surge
+        When below half health, gain 100 bonus speed and 20% dodge chance.
+    
+    Reward: 25 Enderman Slayer XP
+        + Boss drops
+    
+    Cost to start: 2,000 coins
+
+
+
+Ender Meister III:
+    Health: 80,000
+    Damage: 400 per second
+    
+    End's Prayer
+        Arrows and various projectiles cannot damage this boss.
+        
+    Dark Potency
+        Every 5th hit deals 33% more damage and slows the target by 50% for 2 seconds.
+    
+    Unstable Energy
+        Occasionally dashes to or from the target. After teleporting, create an explosion that deals up to 1,250 damage to nearby targets. Pre-mitigated damage dealt by the explosion is restored as health.
+    
+    Chaos Surge
+        When below half health, gain 100 bonus speed, 25% dodge chance, and deal 10% bonus damage.
+    
+    Reward: 100 Enderman Slayer XP
+        + Boss drops
+    
+    Cost to start: 10,000 coins
+
+
+
+Ender Meister IV:
+    Health: 300,000
+    Damage: 1,200 per second
+    
+    End's Prayer
+        Arrows and various projectiles cannot damage this boss. Other attacks have a 10% chance of missing.
+    
+    Dark Potency
+        Every 5th hit deals 33% more damage and slows the target by 50% for 3 seconds.
+    
+    Unstable Energy
+        Occasionally dashes to or from the target. After teleporting, create an explosion that deals up to 3,125 damage to nearby targets. Pre-mitigated damage dealt by the explosion is restored as health.
+    
+    Chaos Surge
+        When below half health, gain 125 bonus speed, 30% dodge chance, and deal 20% bonus damage.
+    
+    Reward: 500 Enderman Slayer XP
+        + Boss drops
+    
+    Cost to start: 50,000 coins
+    
+    
+    
+Ender Meister V:
+    Health: 2,400,000
+    Damage: 8,000 per second
+    
+    End's Prayer
+        Arrows and various projectiles cannot damage this boss. Other attacks have a 20% chance of missing.
+    
+    Dark Potency
+        Every 4th hit deals 33% more damage and slows the target by 75% for 3 seconds.
+    
+    Unstable Energy
+        Occasionally dashes to or from the target. After teleporting, create an explosion that deals up to 7,812 damage to nearby targets. Pre-mitigated damage dealt by the explosion is restored as health.
+    
+    Chaos Surge
+        When below half health, gain 125 bonus speed, 35% dodge chance, and deal 25% bonus damage.
+    
+    Scythe Meister
+        After using Unstable Energy, if multiple targets attack the Ender Meister within 4 seconds, the Meister may slice every target within 6 blocks with its scythe twice, dealing 10% current health damage the first time and then dealing 33% missing health damage the second time.
+        If Scythe Meister is used, Unstable Energy will be used three times within the next 20 seconds guaranteed.
+    
+    Reward: 1250 Enderman Slayer XP
+        + Boss drops
+    
+    Cost to start: 125,000 coins

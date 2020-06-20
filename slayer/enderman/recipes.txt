@@ -1,0 +1,262 @@
+[Enderman Slayer 0]
+Ender Key
+    128 Lost Pearls + Enchanted Diamond Block
+    
+    Item Ability: Pandora's Box RIGHT CLICK
+        Restore 50 HP, take 380 damage, or deal 2% bonus damage on your next attack. Randomly picked.
+        Take damage - 80%
+        Restore HP - 15%
+        Deal bonus damage - 5%
+        Costs 200 mana.
+        Cooldown: 60 seconds.
+
+
+
+[Enderman Slayer 1]
+Imbued Pearl
+    128 Lost Pearls + Enchanted Blaze Powder
+
+Imbued End Sword
+    4 Imbued Pearls + End Sword
+    +55 Damage
+    +10 Strength
+    
+    Item Passive: Imbued Strength
+        Deal +100% more damage against Ender Dragons, Endermen, and Endermites.
+        Gain +5 Strength for 2 seconds after killing an Enderman.
+
+Charging Pod
+    64 Lost Pearls + 8 Enchanted Blaze Powder + 8 Enchanted Quartz
+    
+    Used to charge various Enderman Slayer items.
+
+
+
+[Enderman Slayer 2]
+Charged Ender Helmet
+    Ender Helmet + 4 Charging Pods + 5 Imbued Pearls
+    +45 Health
+    +60 Defence
+    +2 Strength
+    
+    Item Passive: Home of the End
+        Doubles the stats on each piece of armour while in The End.
+    Piece Bonus: Charged Skull
+        Critical hits from enemies deal 5% less damage.
+    
+Charged Ender Leggings
+    Ender Leggings + 6 Charging Pods + 7 Imbued Pearls
+    +50 Health
+    +75 Defence
+    +3 Strength
+    
+    Item Passive: Home of the End
+        Doubles the stats on each piece of armour while in The End.
+    Piece Bonus: Charged Legs
+        Critically hitting an enemy grants +10 Speed for 1 second.
+
+Charged Ender Boots
+    Ender Boots + 3 Charging Pods + 4 Imbued Pearls
+    +40 Health
+    +50 Defence
+    +2 Strength
+    
+    Item Passive: Home of the End
+        Doubles the stats on each piece of armour while in The End.
+    Piece Bonus: Charged Boots
+        Killing an Enderman reduces the next amount of fall damage you take by 5%.
+
+Imbued Ender Key
+    64 Imbued Pearls + Ender Key + Enchanted Diamond Block
+    
+    Item Ability: Pandora's Box RIGHT CLICK
+        Restore 80 HP, take 230 damage, or deal 4% bonus damage on your next attack. Randomly picked.
+        Take damage - 80%
+        Restore HP - 15%
+        Deal bonus damage - 5%
+        Costs 200 mana.
+        Cooldown: 60 seconds.
+    Item Passive: Myriad of Secrets
+        Right clicking an Ender Meister (Lv3+) while sneaking will deal 4% of its maximum HP as true damage and stun it for 1 second.
+        This consumes the Key after use.
+        Global Cooldown: 300 seconds.
+
+
+
+[Enderman Slayer 3]
+Charged Ender Chestplate
+    Ender Chestplate + 7 Charging Pods + 8 Imbued Pearls
+    +55 Health
+    +85 Defence
+    +3 Strength
+    
+    Item Passive: Home of the End
+        Doubles the stats on each piece of armour while in The End.
+    Piece Bonus: Charged Torso
+        Reduce all incoming damage from monsters in the End Island by 5%.
+
+Enchanter of The End
+    32 Imbued Pearls + 32 Enchanted Blaze Powder + 32 Enchanted Quartz + 160 Enchanted Iron
+    Minion Upgrade:
+        Compacts Enchanted Ender Pearls into Enchanted Eyes of Ender when enough Enchanted Ender Pearls are in storage. Blaze Powder is not needed to compact them.
+
+
+
+[Enderman Slayer 4]
+Precious Pearl
+    128 Imbued Pearls + 8 Enchanted Blaze Powder
+
+Precious End Sword
+    4 Precious Pearls + Imbued End Sword
+    +75 Damage
+    +20 Strength
+    +5% Crit Damage
+    
+    Item Passive: Precious Strength
+        Deal +100% more damage against Ender Dragons and Endermites.
+        Deal +150% more damage against Endermen.
+        Gain +10 Strength for 2 seconds after killing an Enderman.
+    Item Passive: Home of the End
+        Doubles the stats of the Precious End Sword while in The End.
+
+Dark Prayer
+    4 Precious Pearls + 8 Enchanted Blaze Powder
+    Combine with an Ender Armour piece in an anvil to add a Full Set Bonus to it.
+    Full Set Bonus only applies if all four pieces have a Dark Prayer.
+    
+    Full Set Bonus: Dark Energy
+        Sneaking will release dark energy to targets within 4 blocks, dealing 150% of your intelligence as true damage and restoring health equal to the total damage dealt.
+        Costs 100% of your maximum mana (minimum 250).
+        Cooldown: 120 seconds.
+
+Precious Ender Key
+    32 Precious Pearls + Imbued Ender Key + 2 Enchanted Diamond Blocks
+    
+    Item Ability: Pandora's Box RIGHT CLICK
+        Restore 120 HP, take 180 damage, or deal 6% bonus damage on your next attack. Randomly picked.
+        Take damage - 80%
+        Restore HP - 15%
+        Deal bonus damage - 5%
+        Costs 200 mana.
+        Cooldown: 60 seconds.
+    Item Passive: Myriad of Secrets
+        Right clicking an Ender Meister (Lv3+) while sneaking will deal 8% of its maximum HP as true damage and stun it for 1 second.
+        This consumes the Key after use.
+        Global Cooldown: 300 seconds.
+
+
+
+[Enderman Slayer 5]
+Charged Ender Artifact
+    Artifact Infusion + Ender Artifact + 72 Precious Pearls
+    +8 Strength
+    
+    Take 25% less damage from End-related monsters.
+    
+Imbued Ender Artifact
+    Charged Ender Artifact + 128 Precious Pearls
+    +10 Strength
+    +2% Crit Damage
+    
+    Take 30% less damage from End-related monsters.
+
+
+
+[Enderman Slayer 6]
+Rod of Teleportation
+    128 Precious Pearls + Fishing Rod
+    +60 Damage
+    
+    Increases fishing speed by 45%.
+    Increases sea creature catch rate by 1%.
+    
+    1% chance to fish up a Drowning Enderman.
+    
+    Catching mobs teleports them in front of you.
+
+Endermite Minion
+    8 Precious Pearls + Artifact Infusion
+    
+    Spawns one Endermite every 35 seconds. Each Endermite drops between 1 and 3 Lost Pearls. Can store up to 960.
+    
+Precious Ender Artifact
+    Imbued Ender Artifact + 112 Precious Pearls + 64 Enchanted Blaze Powder
+    +12 Strength
+    +4% Crit Damage
+    
+    Take 35% less damage from End-related monsters.
+
+Precious Rod of Teleportation
+    Rod of Teleportation + 112 Precious Pearls + 8 Enchanted Lily Pads
+    +90 Damage
+    
+    Increases fishing speed by 55%.
+    Increases sea creature catch rate by 3%.
+    
+    2% chance to fish up a Drowning Enderman.
+    1% chance to fish up a Drowning Zealot.
+    
+    Catching mobs teleports them in front of you.
+
+
+
+[Enderman Slayer 7]
+Shiny Pearl
+    116 Imbued Pearls + 64 Enchanted Blaze Powder + Ember Rod
+
+Shiny End Sword
+    4 Shiny Pearls + Precious End Sword
+    +95 Damage
+    +30 Strength
+    +10% Crit Damage
+    
+    Item Passive: Shiny Flair
+        Deal +100% more damage against Ender Dragons and Endermites.
+        Deal +200% more damage against Endermen.
+        Gain +15 Strength for 2 seconds after killing an Enderman.
+    Item Passive: Home of the End
+        Doubles the stats of the Shiny End Sword while in The End.
+
+Shiny Ender Key
+    16 Shiny Pearls + Precious Ender Key + 4 Enchanted Diamond Blocks
+    
+    Item Ability: Pandora's Box RIGHT CLICK
+        Restore 160 HP, take 140 damage, or deal 8% bonus damage on your next attack. Randomly picked.
+        Take damage - 70%
+        Restore HP - 20%
+        Deal bonus damage - 10%
+        Costs 175 mana.
+        Cooldown: 48 seconds.
+    Item Passive: Myriad of Secrets
+        Right clicking an Ender Meister (Lv3+) while sneaking will deal 12% of its maximum HP as true damage and stun it for 2 seconds.
+        This consumes the Key after use.
+        Global Cooldown: 240 seconds.
+        
+Shiny Ender Artifact
+    Precious Ender Artifact + 7 Shiny Pearls + Ember Rod
+    +14 Strength
+    +6% Crit Damage
+    
+    Take 40% less damage from End-related monsters.
+
+
+
+[Enderman Slayer 8]
+Shiny Rod of Teleportation
+    Precious Rod of Teleportation + 14 Shiny Pearls + 32 Enchanted Lily Pads
+    +110 Damage
+    
+    Increases fishing speed by 65%.
+    Increases sea creature catch rate by 5%.
+    
+    3.5% chance to fish up a Drowning Enderman.
+    2.5% chance to fish up a Drowning Zealot.
+    0.5% chance to fish up an Ender Wraith
+    
+    Catching mobs teleports them in front of you.
+
+Destructive Core
+    Destructive Ender Fragment + 80 Shiny Pearls + 64 Enchanted Obsidian + 32 Enchanted Lapis Blocks
+
+Prismatic Core
+    Prismatic Ender Fragment + 80 Shiny Pearls + 192 Enchanted Lapis Blocks
