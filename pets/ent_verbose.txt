@@ -32,8 +32,8 @@ Rare Ent [Lv100]
     Ent Splitter
         Breaking a log has a [Lvl * 0.2]% chance of breaking up to 1 additional nearby block.
 
-    Forest Aura
-        Logs within [1 + (Lvl * 0.05)] blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by [Lvl * 0.33]%.
+    Rejuvenation
+        Gain +[Lvl * 0.3] Speed for 3 seconds when a tree respawns within 15 blocks.
 
 
 
@@ -43,8 +43,8 @@ Epic Ent [Lv100]
     Ent Splitter
         Breaking a log has a [Lvl * 0.25]% chance of breaking up to 1 additional nearby block.
 
-    Forest Aura
-        Logs within [2 + (Lvl * 0.07)] blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by [Lvl * 0.5]%.
+    Rejuvenation
+        Gain +[Lvl * 0.45] Speed for 3 seconds when a tree respawns within 15 blocks.
 
 
 
@@ -54,8 +54,8 @@ Legendary Ent [Lv100]
     Ent Splitter
         Breaking a log has a [Lvl * 0.25]% chance of breaking up to 1 additional nearby block.
 
-    Forest Aura
-        Logs within [2 + (Lvl * 0.07)] blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by [Lvl * 0.5]%.
+    Rejuvenation
+        Gain +[Lvl * 0.45] Speed for 3 seconds when a tree respawns within 15 blocks.
 
     Speaking for the Trees
         Cutting at least half of a tree reduces the time required for it to respawn by [Lvl * 0.5]%.
