@@ -1,0 +1,61 @@
+Foraging Milestone Pet - Ent
+
+Find higher rarities of the Ent pet by breaking more logs!
+
+Common: 5,000 Logs
+Uncommon: 25,000 Logs
+Rare: 125,000 Logs
+Epic: 500,000 Logs
+Legendary; 2,000,000 Logs
+
+
+
+Common Ent [Lv100]
+    Speed: +40
+
+    Ent Splitter
+        Breaking a log has a 10% chance of breaking up to 1 additional nearby block.
+
+
+
+Uncommon Ent [Lv100]
+    Speed: +40
+
+    Ent Splitter
+        Breaking a log has a 20% chance of breaking up to 1 additional nearby block.
+
+
+
+Rare Ent [Lv100]
+    Speed: +40
+
+    Ent Splitter
+        Breaking a log has a 20% chance of breaking up to 1 additional nearby block.
+
+    Forest Aura
+        Logs within 6 blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by 33%.
+
+
+
+Epic Ent [Lv100]
+    Speed: +40
+
+    Ent Splitter
+        Breaking a log has a 25% chance of breaking up to 1 additional nearby block.
+
+    Forest Aura
+        Logs within 9 blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by 50%.
+
+
+
+Legendary Ent [Lv100]
+    Speed: +40
+
+    Ent Splitter
+        Breaking a log has a 25% chance of breaking up to 1 additional nearby block.
+
+    Forest Aura
+        Logs within 9 blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by 50%.
+
+    Speaking for the Trees
+        Cutting at least half of a tree reduces the time required for it to respawn by 50%.
