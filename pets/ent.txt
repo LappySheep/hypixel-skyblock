@@ -43,8 +43,8 @@ Epic Ent [Lv100]
     Ent Splitter
         Breaking a log has a 25% chance of breaking up to 1 additional nearby block.
 
-    Rejuvenation
-        Gain +45 Speed for 3 seconds when a tree respawns within 15 blocks.
+    Forest Aura
+        Cutting trees causes logs within 6 blocks become protected by your Aura; reducing the effect of Jungle Axes and Treecapitators from other players by 50%.
 
 
 
