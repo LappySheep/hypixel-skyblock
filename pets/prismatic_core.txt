@@ -1,0 +1,66 @@
+Enchanting Milestone Pet - Prismatic Core
+
+Find higher rarities of the Prismatic Core pet by spending EXP levels!
+
+Common: 1,000 EXP Levels Spent
+Uncommon: 8,500 EXP Levels Spent
+Rare: 50,000 EXP Levels Spent
+Epic: 250,000 EXP Levels Spent
+Legendary; 1,000,000 EXP Levels Spent
+
+
+
+Common Prismatic Core [Lv100]
+    Intelligence: +30
+    Magic Find: +5
+
+    EXP Funnel
+        10% of non-enchanting Skill Exp and 0.5% of Alchemy Exp is rewarded as EXP Orbs.
+
+
+
+Uncommon Prismatic Core [Lv100]
+    Intelligence: +65
+    Magic Find: +5
+
+    EXP Funnel
+        15% of non-enchanting Skill Exp and 0.75% of Alchemy Exp is rewarded as EXP Orbs.
+
+
+
+Rare Prismatic Core [Lv100]
+    Intelligence: +105
+    Magic Find: +5
+
+    EXP Funnel
+        15% of non-enchanting Skill Exp and 0.75% of Alchemy Exp is rewarded as EXP Orbs.
+
+    Prismatic Alignment
+        During the day, 33% of EXP levels spent are refunded.
+
+
+
+Epic Prismatic Core [Lv100]
+    Intelligence: +150
+    Magic Find: +5
+
+    EXP Funnel
+        20% of non-enchanting Skill Exp and 1% of Alchemy Exp is rewarded as EXP Orbs.
+
+    Prismatic Alignment
+        During the day, 50% of EXP levels spent are refunded.
+
+
+
+Legendary Prismatic Core [Lv100]
+    Intelligence: +200
+    Magic Find: +5
+
+    EXP Funnel
+        20% of non-enchanting Skill Exp and 1% of Alchemy Exp is rewarded as EXP Orbs.
+
+    Prismatic Alignment
+        During the day, 50% of EXP levels spent are refunded.
+
+    Psionic Distribution
+        Gain +10% Intelligence and gain +1% Enchanting Exp equal per 25 Intelligence.
