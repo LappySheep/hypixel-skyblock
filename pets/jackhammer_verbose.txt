@@ -1,0 +1,77 @@
+Mining Milestone Pet - Jackhammer
+
+Find higher rarities of the Jackhammer pet by mining ore veins on public islands!
+Ore veins are sections of at least 3 consecutive ores.
+
+Common: 20 Ore Veins
+Uncommon: 1000 Ore Veins
+Rare: 350 Ore Veins
+Epic: 1,200 Ore Veins
+Legendary; 4,000 Ore Veins
+
+
+
+Common Jackhammer [Lv100]
+    Speed: +[Lvl * 0.3]
+    Strength: +[10 + (Lvl * 0.4)]
+    Crit Chance: -100
+    Crit Damage: -2500
+
+    Drilling Pick
+        Mining an ore has a [Lvl * 0.33]% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+
+
+Uncommon Jackhammer [Lv100]
+    Speed: +[Lvl * 0.3]
+    Strength: +[20 + (Lvl * 0.8)]
+    Crit Chance: -100
+    Crit Damage: -2500
+
+    Drilling Pick
+        Mining an ore has a [Lvl * 0.5]% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+
+
+Rare Jackhammer [Lv100]
+    Speed: +[Lvl * 0.3]
+    Strength: +[30 + (Lvl * 1.2)]
+    Crit Chance: -100
+    Crit Damage: -2500
+
+    Drilling Pick
+        Mining an ore has a [Lvl * 0.5]% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+    Speleologist
+        Ore veins have a [Lvl * 0.025]% chance of spawning nearby (if possible) when mining individual ores.
+
+
+
+Epic Jackhammer [Lv100]
+    Speed: +[Lvl * 0.3]
+    Strength: +[40 + (Lvl * 1.6)]
+    Crit Chance: -100
+    Crit Damage: -2500
+
+    Drilling Pick
+        Mining an ore has a [Lvl * 0.5]% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
+
+    Speleologist
+        Ore veins have a [Lvl * 0.04]% chance of spawning nearby (if possible) when mining individual ores.
+
+
+
+Legendary Jackhammer [Lv100]
+    Speed: +[Lvl * 0.3]
+    Strength: +[50 + (Lvl * 2)]
+    Crit Chance: -100
+    Crit Damage: -2500
+
+    Drilling Pick
+        Mining an ore has a [Lvl * 0.5]% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
+
+    Speleologist
+        Ore veins have a [Lvl * 0.04]% chance of spawning nearby (if possible) when mining individual ores.
+
+    Power Tool
+        Gain +1 Haste level per [750 - (Lvl * 5)] Strength (max +2).
