@@ -4,7 +4,7 @@ Find higher rarities of the Jackhammer pet by mining ore veins on public islands
 Ore veins are sections of at least 3 consecutive ores.
 
 Common: 20 Ore Veins
-Uncommon: 1000 Ore Veins
+Uncommon: 100 Ore Veins
 Rare: 350 Ore Veins
 Epic: 1,200 Ore Veins
 Legendary; 4,000 Ore Veins
