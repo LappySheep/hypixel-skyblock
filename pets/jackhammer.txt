@@ -13,7 +13,9 @@ Legendary; 4,000 Ore Veins
 
 Common Jackhammer [Lv100]
     Speed: +30
-    Strength: +20
+    Strength: +50
+    Crit Chance: -100
+    Crit Damage: -2500
 
     Drilling Pick
         Mining an ore has a 33% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
@@ -22,7 +24,9 @@ Common Jackhammer [Lv100]
 
 Uncommon Jackhammer [Lv100]
     Speed: +30
-    Strength: +20
+    Strength: +100
+    Crit Chance: -100
+    Crit Damage: -2500
 
     Drilling Pick
         Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
@@ -31,7 +35,9 @@ Uncommon Jackhammer [Lv100]
 
 Rare Jackhammer [Lv100]
     Speed: +30
-    Strength: +20
+    Strength: +150
+    Crit Chance: -100
+    Crit Damage: -2500
 
     Drilling Pick
         Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
@@ -43,7 +49,9 @@ Rare Jackhammer [Lv100]
 
 Epic Jackhammer [Lv100]
     Speed: +30
-    Strength: +20
+    Strength: +200
+    Crit Chance: -100
+    Crit Damage: -2500
 
     Drilling Pick
         Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
@@ -55,7 +63,9 @@ Epic Jackhammer [Lv100]
 
 Legendary Jackhammer [Lv100]
     Speed: +30
-    Strength: +20
+    Strength: +250
+    Crit Chance: -100
+    Crit Damage: -2500
 
     Drilling Pick
         Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
