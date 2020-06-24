@@ -1,0 +1,67 @@
+Mining Milestone Pet - Jackhammer
+
+Find higher rarities of the Jackhammer pet by mining ore veins on public islands!
+Ore veins are sections of at least 3 consecutive ores.
+
+Common: 20 Ore Veins
+Uncommon: 1000 Ore Veins
+Rare: 350 Ore Veins
+Epic: 1,200 Ore Veins
+Legendary; 4,000 Ore Veins
+
+
+
+Common Jackhammer [Lv100]
+    Speed: +30
+    Strength: +20
+
+    Drilling Pick
+        Mining an ore has a 33% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+
+
+Uncommon Jackhammer [Lv100]
+    Speed: +30
+    Strength: +20
+
+    Drilling Pick
+        Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+
+
+Rare Jackhammer [Lv100]
+    Speed: +30
+    Strength: +20
+
+    Drilling Pick
+        Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 1 block (3x3x3).
+
+    Speleologist
+        Ore veins have a 2.5% chance of spawning nearby (if possible) when mining individual ores.
+
+
+
+Epic Jackhammer [Lv100]
+    Speed: +30
+    Strength: +20
+
+    Drilling Pick
+        Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
+
+    Speleologist
+        Ore veins have a 4% chance of spawning nearby (if possible) when mining individual ores.
+
+
+
+Legendary Jackhammer [Lv100]
+    Speed: +30
+    Strength: +20
+
+    Drilling Pick
+        Mining an ore has a 50% chance of drilling around it, mining any other of the same ore within 2 blocks (5x5x5).
+
+    Speleologist
+        Ore veins have a 4% chance of spawning nearby (if possible) when mining individual ores.
+
+    Power Tool
+        Gain +1 Haste level per 250 Strength (max +2 (Haste 6)).
