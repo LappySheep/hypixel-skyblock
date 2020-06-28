@@ -128,8 +128,10 @@ def get_start(year): # year is the start of the year
         if date[1] not in ["1st", "2nd", "3rd", "4th"] and date[0] != "Early Spring":
             if date[0] !=  "Late Winter":
                 date,o = prev_rain(date)
+                # events -= 1
             else:
                 date,o = next_rain(date)
+                # events += 1
         else:
             loop = False
 
@@ -180,9 +182,9 @@ def main():
         else:
             remaining = to_hms(distance)
 
-        t = "{}, {} at {}\t({})\n".format(
+        t = "{}, {} at {}\n".format( # \t({})
             *date,
-            remaining,
+            #remaining,
         )
         txt += t
     txt = txt[:-1]
