@@ -63,4 +63,4 @@ Legendary Prismatic Core [Lv100]
         During the day, 50% of EXP levels spent are refunded.
 
     Psionic Distribution
-        Gain +10% Intelligence and gain +1% Enchanting Exp equal per 25 Intelligence.
+        Gain +10% Intelligence and gain +1% Enchanting Exp per 25 Intelligence.
