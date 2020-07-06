@@ -33,7 +33,7 @@ Rare Beanstalk [Lv100]
         You can set a maximum speed, between 0 and your current speed. Reducing your speed grants bonus Farming Exp equal to 0.125% per 1 Speed (max +30%).
 
     Prized Plant
-        Gain a 0.166% chance of finding a prized crop while farming, causing it to drop the enchanted form instead.
+        Gain a 1.66% chance of finding a prized crop while farming, causing it to drop the enchanted form instead.
 
 
 
@@ -44,7 +44,7 @@ Epic Beanstalk [Lv100]
         You can set a maximum speed, between 0 and your current speed. Reducing your speed grants bonus Farming Exp equal to 0.15% per 1 Speed (max +36%).
 
     Prized Plant
-        Gain a 0.25% chance of finding a prized crop while farming, causing it to drop the enchanted form instead.
+        Gain a 2.5% chance of finding a prized crop while farming, causing it to drop the enchanted form instead.
 
 
 
@@ -55,7 +55,7 @@ Legendary Beanstalk [Lv100]
         You can set a maximum speed, between 0 and your current speed. Reducing your speed grants bonus Farming Exp equal to 0.15% per 1 Speed (max +36%).
 
     Prized Plant
-        Gain a 0.25% chance of finding a prized crop while farming, causing it to drop the enchanted form instead (e.g. Cane --> Enchanted Sugar).
+        Gain a 2.5% chance of finding a prized crop while farming, causing it to drop the enchanted form instead (e.g. Cane --> Enchanted Sugar).
 
     Rich Harvest
         Crops adjacent to harvested crops are simultaneously harvested.
