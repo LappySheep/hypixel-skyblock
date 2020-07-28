@@ -30,6 +30,3 @@ INSTRUCTIONS:
         ]
 
     5. Run "main.py". Feel free to read the code if you don't trust it.
-
-
-main.py hash - 47D5DCF4B72C5DE6AC67CBB566CEA9E7EA23671330CFA2D321E9F99714D1D00B
