@@ -48,7 +48,8 @@ def main():
     ign, cute_name, api_key, pet_to_track = get_info()
     uuid = get_uuid(ign)
 
-    api_link = "https://api.hypixel.net/skyblock/profiles?key={}&uuid=".format(api_key)
+    api_link = """https://api.hypixel.net/skyblock/profiles\
+?key={}&uuid=""".format(api_key)
 
     resp = urllib.request.urlopen(api_link + uuid)
     data = resp.read()
@@ -62,7 +63,7 @@ def main():
     for profile in profiles:
         if cute_name in profile.values():
             profile_data = profile["members"][uuid]
-    
+
     pet_data = profile_data["pets"]
     for indiv_pet in pet_data:
         pet = indiv_pet["type"]
