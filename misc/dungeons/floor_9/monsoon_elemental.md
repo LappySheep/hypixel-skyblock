@@ -19,7 +19,11 @@ Ability - Tsunami
 
 
 Ability - Water Wall
-> The elemental creates a thin water wall which slows down all projectiles that pass through it. The wall lasts for 5 seconds. After the wall expires, all projectiles fall to the ground.
+> The elemental creates a thin water wall which slows down all projectiles that pass through it.
+
+> The wall lasts for 5 seconds.
+
+> After the wall expires, all projectiles fall to the ground.
 
 
 Special Drop (4%) - Diving Fragment
