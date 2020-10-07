@@ -9,7 +9,12 @@
 
 
 Ability - Tsunami
-> The elemental creates a powerful wave of water in front of it, gaining up to 200% bonus speed over 6 seconds. During this time, the elemental can glide on it, building up 5 Energy per half second. At any point, the elemental can come off of the wave of water, converting all of its Energy into True Damage dealt to every player within 6 blocks; equal to 20 true damage per energy.
+> The elemental creates a powerful wave of water in front of it, gaining up to 200% bonus speed over 6 seconds.
+
+> During this time, the elemental can glide on it, building up 5 Energy per half second.
+
+> At any point, the elemental can come off of the wave of water, converting all of its Energy into True Damage dealt to every player within 6 blocks; equal to 20 true damage per energy.
+
 > Additionally, the tsunami deals 15,000 damage to every player it passes through.
 
 
