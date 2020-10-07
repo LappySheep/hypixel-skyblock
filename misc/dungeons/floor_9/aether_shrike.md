@@ -1,11 +1,15 @@
 `Aether Shrike`
 > Aether Orb + 48 Enchanted Iron Blocks + 6 Aether Elementalist Runes
+
 > `Aether Orb`s are a 5% drop in the Obsidian chests and 10% from Bedrock chests. 
+
 > `Aether Elementalist Rune`s are 2.5% drops from Aether Elementals in Storm's floor.
 
 
 > +390 Damage
+
 > +250 Strength
+
 > +33% Dodge Chance
 
 
