@@ -21,5 +21,5 @@ Item Ability - Infernal Blitz RIGHT CLICK
 
 > Mana Cost: 200
 
-Item Passive - Earthen Fury
+Item Passive - Infernal Fury
 > Passively, every fifth melee attack in a row on the same target will restore 2% of your missing health back and grant a shield equal to 5% of your current health, which can stack with Infernal Blitz.
