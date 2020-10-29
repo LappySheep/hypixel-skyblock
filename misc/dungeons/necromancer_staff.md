@@ -3,7 +3,7 @@
 
 > +444 Damage
 
-> -100% Crit Damage
+> -100% Crit Chance
 
 > +300 Intelligence
 
