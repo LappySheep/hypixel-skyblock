@@ -1,0 +1,117 @@
+Aelzerian Rift
+
+Floor 1 - Vuoi'h
+  An ancient assassin, morphed by raw human flesh. Guards the opening to the Aelzerian Rift and enjoys challenging the occasional victim.
+  Party Size: 3 - 5
+  Requirements:
+    - Necron Collection IV
+    - Combat 25
+    - Aelzer Level 0
+
+Floor 2 - Aeren
+  An agile assassin, wielding great air manipulation capabilties. Sometimes referred to as the 'Breath of Creation'.
+  Party Size: 3 - 5
+  Requirements:
+    - Combat 30
+    - Aelzer Level 4
+    - Beaten Vuoi'h
+
+Floor 3 - Tsra'ki
+  A speed demon, focused on nothing else other than complete destruction of the Aelzerian Rift. Incapable of breaching the deeper tunnels, he rests on this floor, waiting for an adventurer to one day match his crazed desires.
+  Party Size: 3 - 5
+  Requirements:
+    - Combat 35
+    - Aelzer Level 8
+    - Beaten Aeren
+
+Floor 4 - Barys
+  The orb that remained dormant for millenia, awoken by tresspassers and the sounds of Tsra'ki's cries. Somehow both dead and alive at the same time.
+  Party Size: 3 - 5
+  Requirements:
+    - Combat 40
+    - Aelzer Level 12
+    - Beaten Tsra'ki
+
+Floor 5 - Pinqsci
+  A demonic freak, created by accident by Zurion as a way to offload his insanity. Burning with rage, he incites toxicity even without touch.
+  Party Size: 3 - 5
+  Requirements:
+    - Combat 45
+    - Aelzer Level 16
+    - Beaten Barys
+
+Floor 6 - Digitalis
+  A beast that lives in the walls, comes out to bite to spread its virus to unsuspecting foes.
+  Party Size: 4 - 5
+  Requirements:
+    - Combat 50
+    - Aelzer Level 20
+    - Beaten Pinqsci
+    - Costs 1 Abyssal Permit per entry
+
+Floor 7 - Shryder
+  A cunning assassin who has spent decades training to one day match her oppressors. Incapable of shutting up, but very capable of blasting skulls off of her opponents.
+  Party Size: 4 - 5
+  Requirements:
+    - Combat 50
+    - Aelzer Level 24
+    - Beaten Digitalis
+    - Costs 1 Abyssal Permit per entry
+
+Floor 8 - Zurion
+  A golem formed from the culminations of Aelzerian history. Incredibly durable, tamed by assassins in this domain to rival those that dare challenge Aelzerian heroes.
+  Party Size: 4 - 5
+  Requirements:
+    - Combat 50
+    - Aelzer Level 28
+    - Beaten Shryder
+    - Costs 2 Abyssal Permits per entry
+
+Floor 9 - Linc
+  The apprentice assassin to Kyron, learning after his master's capabilities of purity and ascension above all.
+  Party Size: 4 - 5
+  Requirements:
+    - Combat 50
+    - Aelzer Level 32
+    - Beaten Shryder
+    - Costs 4 Abyssal Permits per entry
+
+Floor 10 - Kyron
+  A fallen God who has taken the form of a human to feel true empathy and weakness. Despite this handicap, still holds immense power and emanates this energy throughout Aelzer.
+  Party Size: 5 - 6
+  Requirements:
+    - Combat 50
+    - Aelzer Level 36
+    - Beaten Linc
+    - Costs 7 Abyssal Permits per entry
+
+Floor 11 - QK
+  The final chapter of survivability. Only very few know the true bounds of this beast, yet to them, he seems like an angel.
+  Party Size: 5 - 6
+  Requirements:
+    - Combat 50
+    - Aelzer Level 40
+    - Beaten Kyron
+    - Costs 11 Abyssal Permits per entry
+
+Floor 12 - Xio'Eix
+  Daughter of Rei'Eix. Heiress to the Aelzerian island, yet still greedy for power. Capable of mass destruction across entire sectors with very little investment.
+  Party Size: 5 - 6
+  Requirements:
+    - Combat 50
+    - Aelzer Level 43
+    - Beaten QK
+    - Requires a Depth Resistance Artifact
+    - Costs 16 Abyssal Permits per entry
+
+Floor 13 - Rei'Eix
+  An immortal God which oversees the Aelzerian Rift. All, including those in an eternal suffering, will bow down to him. Summoner and creator of the Voidlings.
+  "Every hand is turned against you. Even the ground beneath your feet carries the seeds of your destruction!"
+  Party Size: Strictly 6
+  Requirements:
+    - Combat 50
+    - Aelzer Level 46
+    - Beaten Xio'Eix
+    - Requires a Depth Resistance Relic
+    - Costs 25 Abyssal Permits per entry
+    - Costs 1,000,000 Renown per failed attempt
