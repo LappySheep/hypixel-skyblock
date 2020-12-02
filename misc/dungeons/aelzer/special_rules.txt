@@ -1,0 +1,19 @@
+Special Rules of the Aelzerian Rift
+-----------------------------------
+- Items acquired outside of the Aelzerian Rift can be converted to Aelzerian items to grant a dungeons stat bonus when applicable.
+- Aelzerian items do not get their dungeons stat bonus when used outside of Aelzer.
+- Health regeneration excludes life steal, vampirism etc, until special upgrades are unlocked.
+- Aiming is disabled in the Aelzerian Rift.
+- Explosive Bows are disabled in the Aelzerian Rift.
+- Cannot warp to private island while in the Aelzerian Rift.
+- Horses and other mounts cannot be spawned.
+- Shops inside the Aelzerian Rift take directly from your bank. You do not have a Coin Purse.
+- Your Drop key triggers your Ultimate Class Ability.
+- Your Drop Stack keys trigger your normal Class Ability.
+- You gain 5 + 1% of your maximum mana back every time you hit an enemy with a sword/bow.
+- Any Speed above 100 Speed is nerfed by 80%.
+- Arrows deal reduced knockback.
+- Dying turns you into a Ghost, granting special abilities. Ghosts can only be revived in special circumstances.
+- If you leave during a run, you can still return as a Ghost and be revived later.
+- Telekinesis is disabled.
+- Venomous slowness effect is reduced by 80%.
