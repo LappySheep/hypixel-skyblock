@@ -17,3 +17,5 @@ Special Rules of the Aelzerian Rift
 - If you leave during a run, you can still return as a Ghost and be revived later.
 - Telekinesis is disabled.
 - Venomous slowness effect is reduced by 80%.
+
+- Reforges outside of the Aelzerian Rift do not work inside, and vice versa.
