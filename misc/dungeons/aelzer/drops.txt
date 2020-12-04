@@ -1,0 +1,12 @@
+Some items can be dropped by monsters in the Aelzerian Rift, provided you have the requirements for them.
+
+- Xenomorph Hunter Talisman
+  UNCOMMON ACCESSORY - Every 6 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 1% of your damage as true damage towards them.
+  Dropped by Hybrid Reavers (1% chance).
+    Requires Aelzer Level 5.
+
+- Stalker Hilt
+  RARE ITEM
+  Used to buy the Stalker Blade.
+  Dropped by Hybrid Stalkers (1% chance) and Hybrid Nemeses (3% chance).
+    Requires Aelzer Level 9.
