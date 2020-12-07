@@ -5,8 +5,15 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   Dropped by Hybrid Reavers (1% chance).
     Requires Aelzer Level 5.
 
-- Stalker Hilt
+- Stalker Fragment
   RARE ITEM
-  Used to buy the Stalker Blade.
+  Used to trade for the Stalker Hilt.
   Dropped by Hybrid Stalkers (1% chance) and Hybrid Nemeses (3% chance).
     Requires Aelzer Level 9.
+
+- Reaver Thorn
+  EPIC ITEM
+  A prickly thorn, torn off from a Hybrid Reaver. Sharp enough to be used as a weapon. Used to craft Void Armor.
+  +100 Damage
+      Dropped by Hybrid Reavers (0.5% chance).
+
