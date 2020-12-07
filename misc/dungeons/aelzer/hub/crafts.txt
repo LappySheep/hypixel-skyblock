@@ -1,0 +1,34 @@
+At the right Aelzer level, you are able to craft various items. This is another method of obtaining special items other than drops and buying them from Nil'Eix.
+
+
+
+Materials
+  - Crying Obsidian [RARE]
+    Requires Aelzer Level 8.
+    Recipe: 128 Enchanted Obsidian + 64 Enchanted Lapis Lazuli
+
+
+
+Weapons
+  - Stalker Blade [EPIC]
+    Requires Aelzer Level 8.
+    Recipe: Stalker Hilt + 512 Enchanted Eyes of Ender
+      +280 Damage
+      +110 Strength
+      +0.1% Life Steal
+      Item Ability - Blight Stalker RIGHT CLICK
+        Gain +20% bonus damage for the next 2 seconds. Killing a monster refreshes the duration of Blight Stalker and increases the bonus damage by 5%. Stacks up to +100%.
+        Cooldown: 180s
+        Cooldown starts after Blight Stalker expires.
+
+
+
+Armor
+  - Void Skull [LEGENDARY]
+    Requires Aelzer Level 10.
+    Recipe: Void Skull Mould + Reaver Thorn + 4 Crying Obsidian
+      +300 Health
+      +200 Defence
+      +5% Crit Damage
+      Full Set Bonus - Critical Retribution
+        Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
