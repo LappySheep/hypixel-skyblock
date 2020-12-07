@@ -1,0 +1,243 @@
+Nil'Eix offers a range of special Aelzerian items to assist you in your adventures. Better items require a higher Aelzer level to use.
+
+Most items cost Tainted Coins, which can be bought with standard Coins but at poor rates, or dropped by most monsters in the Aelzerian Rift.
+
+Enchantments stack with other enchants unless specified otherwise.
+
+
+
+- 100 Tainted Coins
+  Cost: 100,000 Coins
+
+- 10,000 Coins
+  Cost: 100 Tainted Coins
+
+
+
+Enchantment Books
+  - Second Strike I Book (Max V) (Weapons)
+    Requires Aelzer Level 1.
+    Cost: 25 Tainted Coins
+    Effect: Your second melee attack on a given target will deal 10% / 20% / 30% / 40% / 50% bonus damage.
+
+  - Blood Bath I Book (Max 3) (Boots)
+    Requires Aelzer Level 1.
+    Cost: 20 Tainted Coins
+    Effect: Moving near a recently slain unique Aelzerian monster will increase the damage of your next melee attack by 5% / 10% / 15%.
+
+  - Toxic Strain I Book (Max 3) (Weapons)
+    Requires Aelzer Level 2.
+    Cost: 35 Tainted Coins
+    Effect: Attacking the same target 8 / 7 / 6 times consecutively will deal 1% of their current health as poison damage over 4 seconds. Does not work against bosses/special monsters.
+
+  - Night Hunter I Book (Max 1) (Helmets)
+    Requires Aelzer Level 2.
+    Cost: 50 Tainted Coins
+    Effect: Gain 25 bonus Speed during nighttime and 15 bonus Speed in areas below 10 light level.
+
+  - Crippling Blow I Book (Max 5) (Helmets)
+    Requires Aelzer Level 3.
+    Cost: 75 Tainted Coins
+    Effect: Every 12 / 11 / 10 / 9 / 8 hits on a target cripples them for 2 seconds, reducing their Speed by 80% and reducing their Defence by 20%.
+
+  - Mystic Looter I Book (Max 1) (Weapons)
+    Requires Aelzer Level 3.
+    Cost: 100 Tainted Coins
+    Effect: Monsters in the Aelzerian Rift have a 5% chance of dropping extra Tainted Coins based on the floor they're in.
+      Formula: [F^2 + 1]
+    Does not stack with Scavenger.
+
+  - Roped Arrow I Book (Max 3) (Bows)
+    Requires Aelzer Level 5.
+    Cost: 200 Tainted Coins
+    Effect: Gain the Roped Arrow ability for your bow:
+      Left click to shoot a single arrow out, dealing 66% / 83% / 100% bow damage to applicable targets and thrusts you towards them.
+      Cooldown: 10s
+    Does not stack with Rend or Anti-Siphon.
+
+  - Anti-Siphon I Book (Max 2) (Bows)
+    Requires Aelzer Level 6.
+    Cost: 400 Tainted Coins + 6 Enchanted Bone Blocks
+    Effect: Targets damaged by your bow regenerate HP 5% / 10% slower than usual.
+    Does not stack with Rend or Roped Arrow.
+
+  - Neural Growth I Book (Max 5) (Helmets)
+    Requires Aelzer Level 6.
+    Cost: 800 Tainted Coins + 16 Enchanted Lapis Blocks
+    Effect: +15 / +30 / +45 / +60 / +75 Intelligence. Intelligence bonus increases to 200% effect over the course of an Aelzerian dungeon run (+1% per 15 seconds).
+    Does not stack with Big Brain.
+
+  - Cyclone I Book (Max 3) (Swords)
+    Requires Aelzer Level 7.
+    Cost: 1,200 Tainted Coins + 512 Enchanted String
+    Effect: Hitting a target slightly pulls in nearby other enemies within 3 blocks and deal 5% / 10% / 15% damage towards them.
+    Does not stack with Cleave.
+
+  - Scorching Blade I Book (Max 5) (Swords)
+    Requires Aelzer Level 11.
+    Cost: 1,750 Tainted Coins + 3 Enchanted Blaze Rods
+    Effect: Attacking a burning target reduces the duration of their burn effect by 1 second but deals 8% / 16% / 24% / 32% / 40% bonus damage.
+    Does not stack with Fire Aspect.
+
+  - Immortality I Book (Max 5) (Chestplates)
+    Requires Aelzer Level 32.
+    Cost: 110,000 Tainted Coins + 3 Fragments of Irreducibility 
+    Effect: You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage at any point.
+
+  - Explicit I Book (Max 5) (Armor + Swords)
+    Requires Aelzer Level 39.
+    Cost: 350,000 Tainted Coins + Mythic Serum
+    Effect: Deal 0.08% / 0.16% / 0.24% / 0.32% / 0.4% bonus damage as true damage. Stacks additively.
+
+
+
+Accessories
+  - Infernal Compactor
+    Requires Aelzer Level 4.
+    Cost: 160 Tainted Coins
+    UNCOMMON ACCESSORY - Deal 25% bonus damage towards targets on fire, but immediately extinguish them.
+
+  - Xenomorph Hunter Ring
+    Requires Aelzer Level 6.
+    Cost: 500 Tainted Coins + Xenomorph Hunter Talisman
+    RARE ACCESSORY - Every 5.5 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 2% of your damage as true damage towards them.
+
+  - Talisman of Retribution
+    Requires Aelzer Level 8.
+    Cost: 1,500 Tainted Coins
+    UNCOMMON ACCESSORY - Gain 0.1% bonus Spell Vamp for every 12.5% of your maximum health that you are missing.
+
+  - Artifact Hunter
+    Requires Aelzer Level 10.
+    Cost: 2,000 Tainted Coins
+    RARE ACCESSORY - Gain +1 Crit Damage and +1 Strength for every Artifact active.
+
+  - Rampage Talisman
+    Requires Aelzer Level 12.
+    Cost: 3,000 Tainted Coins
+    RARE ACCESSORY - Rampage Constructs deal 5% less damage. Secondary attacks deal 6% more damage.
+
+  - Oblivion Talisman
+    Requires Aelzer Level 12.
+    Cost: 4,000 Tainted Coins
+    RARE ACCESSORY - Oblivion Constructs deal 5% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 4% of the damage as bonus true damage.
+
+  - Torment Talisman
+    Requires Aelzer Level 12.
+    Cost: 5,000 Tainted Coins
+    RARE ACCESSORY - Torment Constructs deal 5% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 5%, and cause 3% of their damage to be deflected to every target within 4 blocks.
+
+  - Rampage Ring
+    Requires Aelzer Level 17.
+    Cost: 20,000 Tainted Coins + Rampage Talisman
+    RARE ACCESSORY - Rampage Constructs deal 12% less damage. Secondary attacks deal 15% more damage.
+
+  - Oblivion Ring
+    Requires Aelzer Level 17.
+    Cost: 27,000 Tainted Coins + Oblivion Talisman
+    RARE ACCESSORY - Oblivion Constructs deal 12% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 9% of the damage as bonus true damage.
+
+  - Torment Ring
+    Requires Aelzer Level 17.
+    Cost: 35,000 Tainted Coins + Torment Talisman
+    RARE ACCESSORY - Torment Constructs deal 12% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 9%, and cause 6% of their damage to be deflected to every target within 4 blocks.
+
+
+
+Dungeon Orbs
+  - Thermal Orb
+  Requires Aelzer Level 10.
+  Requires Catacombs Level 40.
+  Cost: 5,000 Tainted Coins
+  Applies the Thermal Lance passive ability on to your other available Dungeon Orb Abilities.
+    Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
+
+  - Recall Orb
+  Requires Aelzer Level 15.
+  Requires 300,000,000 Alchemy Exp.
+  Cost: 11,000 Tainted Coins
+  Replaces your ultimate Dungeon Orb ability with the Mass Recall ultimate ability.
+    Mass Recall: Spawn a Pylon which lasts for 15 seconds. Pylons increase Strength of nearby allies by 10% (stackable).
+    If you have a Pylon Artifact, Mass Recall also spawns an allied Sentinel every second (maximum 10), lasting until the Pylon expires.
+    Sentinel:
+      10,000 Health (+30% of your maximum health)
+      1,500 Melee Damage (+1% per 1 Strength)
+      All damage dealt is converted into health, split across all players within 16 blocks of a Pylon.
+    Cooldown: 300s
+
+
+
+Weapons
+  - Abyssal Blade [EPIC]
+    Requires Aelzer Level 4.
+    Cost: 18,000 Tainted Coins
+    +295 Damage
+    +100 Strength
+    +100% Crit Damage
+    Item Ability - Shadow Strike
+      You strike all targets in a cone (4 block range) in the target direction. Targets hit take 300% weapon damage over 6 seconds. Aelzerian monsters take 450% weapon damage over 5 seconds.
+      Costs 25% of maximum mana (minimum 250).
+    4 second cooldown. Consecutive uses only refreshes the timer.
+    Item Passive - Abyssal Spike
+      Shadow Strike gains 10% extra damage for every Abyssal armor piece worn. If all three pieces are worn, the bonus increases from 30% to 50%.
+
+
+
+Armor
+  - Abyssal Skull [EPIC]
+    Requires Aelzer Level 3.
+    Cost: 7,000 Tainted Coins
+    +275 Health
+    +225 Defence
+    Piece Bonus - Abyssal Whisper
+      For every 1% of your maximum health that you do not have, your damage dealt is increased by 1.25% (capped at 75% bonus damage at 40% max hp).
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 20% bonus crit damage each, stacking up to 100% extra.
+
+  - Abyssal Breastplate [EPIC]
+    Requires Aelzer Level 3.
+    Cost: 15,000 Tainted Coins
+    +375 Health
+    +275 Defence
+    Piece Bonus - Absorption
+      3% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 20% bonus crit damage each, stacking up to 100% extra.
+
+  - Abyssal Boots [EPIC]
+    Requires Aelzer Level 3.
+    Cost: 6,750 Tainted Coins
+    +250 Health
+    +200 Defence
+    Piece Bonus - Dark Charisma
+      The Abyssal Blade deals 10% more damage, and the ability damage is increased by 40%.
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 20% bonus crit damage each, stacking up to 100% extra.
+
+
+
+Other
+  - Stalker Hilt
+    Requires Aelzer Level 6.
+    Cost: Stalker Fragment + 9,000 Tainted Coins
+    Used to craft the Stalker Blade.
+
+  - Void Skull Mould
+    Requires Aelzer Level 10.
+    Cost: 35,000 Tainted Coins
+    Used to craft the Void Skull.
+
+  - Void Cataphract Mould
+    Requires Aelzer Level 10.
+    Cost: 60,000 Tainted Coins
+    Used to craft the Void Cataphract.
+
+  - Void Greaves Mould
+    Requires Aelzer Level 10.
+    Cost: 50,000 Tainted Coins
+    Used to craft the Void Greaves.
+
+  - Void Boots Mould
+    Requires Aelzer Level 10.
+    Cost: 25,000 Tainted Coins
+    Used to craft the Void Boots.
