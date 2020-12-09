@@ -142,6 +142,21 @@ Accessories
     Cost: 35,000 Tainted Coins + Torment Talisman
     RARE ACCESSORY - Torment Constructs deal 12% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 9%, and cause 6% of their damage to be deflected to every target within 4 blocks.
 
+  - Rampage Artifact
+    Requires Aelzer Level 25.
+    Cost: 200,000 Tainted Coins + Rampage Ring
+    EPIC ACCESSORY - Rampage Constructs deal 20% less damage. Secondary attacks deal 30% more damage.
+
+  - Oblivion Artifact
+    Requires Aelzer Level 25.
+    Cost: 245,000 Tainted Coins + Oblivion Ring
+    EPIC ACCESSORY - Oblivion Constructs deal 20% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 15% of the damage as bonus true damage.
+
+  - Torment Artifact
+    Requires Aelzer Level 25.
+    Cost: 290,000 Tainted Coins + Torment Ring
+    EPIC ACCESSORY - Torment Constructs deal 20% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 13%, and cause 9% of their damage to be deflected to every target within 4 blocks.
+
 
 
 Dungeon Orbs
