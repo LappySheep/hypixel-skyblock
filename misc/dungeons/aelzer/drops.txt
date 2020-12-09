@@ -25,7 +25,7 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
 
 - Mythic Serum
   EPIC ITEM
-  No one quite knows what it's used for, or why Nil'Eix wants it. Used to trade for Explicit books.
+  No one quite knows why Nil'Eix wants it. Used to trade for Explicit books.
   Dropped by Void Thrashers (1% chance), Void Drakes (2% chance), and Kyron (5% chance).
     Requires Aelzer Level 36.
 
