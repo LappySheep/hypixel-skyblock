@@ -17,3 +17,21 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   +100 Damage
       Dropped by Hybrid Reavers (0.5% chance).
 
+- Fragment of Irreducibility
+  EPIC ITEM
+  A fragment of the corpses of those that should last forever... but don't. Used to trade for Immortality books.
+  Dropped by Hybrid Immortals (2% chance), Hybrid Ravagers (3% chance), and Void Thrashers (5% chance).
+    Requires Aelzer Level 30.
+
+- Mythic Serum
+  EPIC ITEM
+  No one quite knows what it's used for, or why Nil'Eix wants it. Used to trade for Explicit books.
+  Dropped by Void Thrashers (1% chance), Void Drakes (2% chance), and Kyron (5% chance).
+    Requires Aelzer Level 36.
+
+- Ancient Relic
+  LEGENDARY ITEM
+  Witnessed to be birthed into existence by very few, it emits great power for anyone who touches it. Used to trade for God Slayer books.
+  Dropped by Kyron (0.5% chance), Xio'Eix (2% chance), and Rei'Eix (7% chance).
+    Requires Aelzer Level 40.
+
