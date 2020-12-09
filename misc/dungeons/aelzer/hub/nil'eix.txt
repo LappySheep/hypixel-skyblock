@@ -89,6 +89,11 @@ Enchantment Books
     Cost: 350,000 Tainted Coins + Mythic Serum
     Effect: Deal 0.08% / 0.16% / 0.24% / 0.32% / 0.4% bonus damage as true damage. Stacks additively.
 
+  - God Slayer I Book (Max 5) (Swords)
+    Requires Aelzer Level 44.
+    Cost: 1,250,000 Tainted Coins + Ancient Relic
+    Effect: Deal 0.06% / 0.2% / 0.4% / 0.66% / 1% bonus damage as pure damage against Aelzerian bosses and monsters in Floor 8 or higher.
+
 
 
 Accessories
