@@ -82,7 +82,7 @@ Enchantment Books
   - Immortality I Book (Max 5) (Chestplates)
     Requires Aelzer Level 32.
     Cost: 110,000 Tainted Coins + 3 Fragments of Irreducibility 
-    Effect: You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage at any point.
+    Effect: You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage in a single hit.
 
   - Explicit I Book (Max 5) (Armor + Swords)
     Requires Aelzer Level 39.
