@@ -22,7 +22,7 @@ def main():
         return
 
     if pl <= 0:
-        print("Guaranteed profit no matter what.")
+        print("Guaranteed profit no matter what (on average).")
     elif pl > 0:
         print(f"You would need more than {int(pl)} Pet Luck to make profit on average.")
 
