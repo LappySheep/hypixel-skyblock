@@ -4,7 +4,7 @@ Floor 1 - Vuoi'h
   An ancient assassin, morphed by raw human flesh. Guards the opening to the Aelzerian Rift and enjoys challenging the occasional victim.
   Party Size: 3 - 5
   Requirements:
-    - Necron Collection IV
+    - 3,000,000 Total Slayer XP
     - Combat 25
     - Aelzer Level 0
 
