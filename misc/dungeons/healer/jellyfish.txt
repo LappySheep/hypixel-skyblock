@@ -24,8 +24,3 @@ Legendary Jellyfish [Lv100]
 
     Faster Support
         Reduces the cooldown of all support items by [Lvl * 0.25]%
-
-
-1st ability - increases base health regen by 200% and heals for 150 hp/s (ticks 75 every .5 seconds) for all allies within 30 blocks (perform a line of sight check so you can't buff allies through walls)
-Second ability - increases the effectiveness of healing and Mana potions by 75%
-Third ability - reduces the cooldown of all support items by 25%
