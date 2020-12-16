@@ -21,6 +21,18 @@ Weapons
         Cooldown: 180s
         Cooldown starts after Blight Stalker expires.
 
+  - Null Staff [EPIC]
+    Requires Aelzer Level 4.
+    Recipe: Vuoi'h's Null Stalk + 48 Crying Obsidian
+      +260 Damage
+      +220 Intelligence
+      Item Passive - Intelligence Haste
+        Passively, casting Null Strike or a magic basic attack on an enemy increases your base Intelligence by 2% (additively), up to a maximum of 20%. Lasts for 5 seconds. Decays while out of combat for at least 6 seconds.
+      Item Ability - Null Strike RIGHT CLICK
+        Shoot a blast of null energy in the target direction, dealing [4,500 + 33x Intelligence] magic damage to the first target hit, and slowing them by 20% for 2 seconds. Killing a target with Null Strike causes it to bounce to nearby other enemies for 10% less damage per bounce, up to a maximum of 5 enemies total.
+        Mana Cost: 480
+        Cooldown: 16s
+
 
 
 Armor
