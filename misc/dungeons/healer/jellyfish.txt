@@ -1,0 +1,31 @@
+Jellyfish rework
+
+Epic Jellyfish [Lv100]
+    Health: +[Lvl * 2]
+
+    Radiant Regeneration
+        While in dungeons, increase your base health regen by [Lvl * 2]% and heals players within 30 blocks by up to [Lvl * 1.5]hp/s
+
+    performs a line of sight check, can't buff allies through walls
+
+    Powerful Potions
+        While in dungeons, increase the effectiveness of Instant Health and Mana splash potions by [Lvl * 0.75]%
+
+
+
+Legendary Jellyfish [Lv100]
+    Health: +[Lvl * 2]
+
+    Radiant Regeneration
+        While in dungeons, increase your base health regen by [Lvl * 2]% and heals players within 30 blocks by up to 150hp/s
+
+    Powerful Potions
+        While in dungeons, increase the effectiveness of Instant Health and Mana splash potions by [Lvl * 0.75]%
+
+    Faster Support
+        Reduces the cooldown of all support items by [Lvl * 0.25]%
+
+
+1st ability - increases base health regen by 200% and heals for 150 hp/s (ticks 75 every .5 seconds) for all allies within 30 blocks (perform a line of sight check so you can't buff allies through walls)
+Second ability - increases the effectiveness of healing and Mana potions by 75%
+Third ability - reduces the cooldown of all support items by 25%
