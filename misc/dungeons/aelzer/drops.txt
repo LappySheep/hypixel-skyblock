@@ -1,5 +1,25 @@
 Some items can be dropped by monsters in the Aelzerian Rift, provided you have the requirements for them.
 
+- Void Covenant
+  EPIC ITEM
+  A strange promise, held in a tangible form. Used to empower the Abyssal armor set.
+  Dropped by Vuoi'h (7.5% chance).
+
+- Depth Resistance Talisman
+  RARE ACCESSORY
+  Grants 20% bonus Depth Resistance.
+  Dropped by Vuoi'h (5% chance).
+
+- Vuoi'h's Null Stalk
+  LEGENDARY ITEM
+  Seems to have been stripped off of the back of his left hand. Why was it there? Used to craft the Null Staff.
+  Dropped by Vuoi'h (2% chance).
+
+- Ancient Glass
+  LEGENDARY ITEM
+  This glass holds a lot of pain. Both from itself in general, and by other possessors. Used to craft the Pane of Pain.
+  Dropped by Vuoi'h (1% chance).
+
 - Xenomorph Hunter Talisman
   UNCOMMON ACCESSORY - Every 6 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 1% of your damage as true damage towards them.
   Dropped by Hybrid Reavers (1% chance).
