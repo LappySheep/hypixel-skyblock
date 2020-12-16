@@ -44,3 +44,15 @@ Idk a good name for this armor set
 
     Full Set Bonus: Energize
       Your armor energizes dungeonmates in a 10 block radius, giving them +15 defense, +20 health, +10 speed, and +0.5 true defense, per healer level.
+
+- Potion Wand [RARE DUNGEON WAND]
+    Item Ability: Switch Potion LEFT CLICK
+        Switches between multiple different splash potions that provide buffs to your alies and debuffs to your enemies
+    Item Ability: Throw Potion RIGHT CLICK
+        Throws the potion you have selected in the target direction, applying effects based on the potion you have selected, to all targets affected by the potion.
+
+    Potions:
+        healing - heals () health + ()% of max health to every ally hit by the potion
+        buff - provides ()damage + ()speed + ()defense to every ally hit by the potion for ()s
+        damage - deals () base magic damage + ()x your inteligence in an aoe
+        stun - stuns all enemies hit for ()s
