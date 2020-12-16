@@ -24,6 +24,36 @@ Weapons
 
 
 Armor
+  - Refined Abyssal Skull [LEGENDARY]
+    Requires Aelzer Level 4.
+    Recipe: Abyssal Skull + 4 Void Covenants
+    +300 Health
+    +250 Defence
+    Piece Bonus - Abyssal Whisper
+      For every 1% of your maximum health that you do not have, your damage dealt is increased by 1.5% (capped at 75% bonus damage at 50% max hp).
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+
+  - Refined Abyssal Breastplate [LEGENDARY]
+    Requires Aelzer Level 4.
+    Recipe: Abyssal Breastplate + 4 Void Covenants
+    +400 Health
+    +300 Defence
+    Piece Bonus - Absorption
+      5% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+
+  - Refined Abyssal Boots [LEGENDARY]
+    Requires Aelzer Level 4.
+    Recipe: Abyssal Boots + 4 Void Covenants
+    +275 Health
+    +225 Defence
+    Piece Bonus - Dark Charisma
+      The Abyssal Blade deals 15% more damage, and the ability damage is increased by 50%.
+    Full Set Bonus - Abyssal Aura
+      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+
   - Void Skull [LEGENDARY]
     Requires Aelzer Level 10.
     Recipe: Void Skull Mould + Reaver Thorn + 4 Crying Obsidian
