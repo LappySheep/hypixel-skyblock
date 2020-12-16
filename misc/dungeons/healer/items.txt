@@ -1,0 +1,46 @@
+- Zombie Army Drums [RARE DUNGEON SUPPORT ITEM]
+    Item Ability: Morale Boost LEFT CLICK
+      Grant nearby players in a 8 block radius +30 Defense for 15 seconds.
+      If playing as a healer, multiply the defense value by your healer level.
+      Defense does not stack.
+      Costs 100 mana.
+      Cooldown: 60 seconds.
+
+
+Idk a good name for this armor set
+
+- Healer Helmet [RARE DUNGEON ARMOR]
+    Crafted with 5 Lesser Orbs of Healing in a helmet shape.
+    + 125 health
+    + 25 defense
+    Each piece grants a +2% cooldown reduction for support items in dungeons, tripled if your selected class is healer.
+
+    Full Set Bonus: Energize
+      Your armor energizes dungeonmates in a 10 block radius, giving them +15 defense, +20 health, +10 speed, and +0.5 true defense, per healer level.
+
+- Healer Chestplate [RARE DUNGEON ARMOR]
+    Crafted with 8 Lesser Orbs of Healing in a chestplate shape.
+    + 500 health
+    + 100 defense
+    Each piece grants a +2% cooldown reduction for support items in dungeons, tripled if your selected class is healer.
+
+    Full Set Bonus: Energize
+      Your armor energizes dungeonmates in a 10 block radius, giving them +15 defense, +20 health, +10 speed, and +0.5 true defense, per healer level.
+
+- Healer Leggings [RARE DUNGEON ARMOR]
+    Crafted with 7 Lesser Orbs of Healing in a leggings shape.
+    + 250 health
+    + 50 defense
+    Each piece grants a +2% cooldown reduction for support items in dungeons, tripled if your selected class is healer.
+
+    Full Set Bonus: Energize
+      Your armor energizes dungeonmates in a 10 block radius, giving them +15 defense, +20 health, +10 speed, and +0.5 true defense, per healer level.
+
+- Healer Boots [RARE DUNGEON ARMOR]
+    Crafted with 4 Lesser Orbs of Healing in a boots shape.
+    + 100 health
+    + 20 defense
+    Each piece grants a +2% cooldown reduction for support items in dungeons, tripled if your selected class is healer.
+
+    Full Set Bonus: Energize
+      Your armor energizes dungeonmates in a 10 block radius, giving them +15 defense, +20 health, +10 speed, and +0.5 true defense, per healer level.
