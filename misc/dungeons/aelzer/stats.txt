@@ -5,4 +5,6 @@ New Stat - Pure Defence
 
 New Stat - Depth Resistance
   Required to do well in Aelzerian Rift floors. If you do not have enough Depth Resistance, you will only have a portion of your usual stats.
-
+  Base: 1 Depth Resistance
+    Formula:
+      m = x/r (if x < r) else 1
