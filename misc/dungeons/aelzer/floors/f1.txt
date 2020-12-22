@@ -1,0 +1,268 @@
+Floor 1
+
+Size: 5x5
+
+Green Room
+
+Main Rooms - 1 Space Unit
+Puzzle Rooms - 3 Space Units
+Miniboss Rooms - 4 Space Units
+Maximum 27 Space Units
+
+Boss Room
+
+Depth Resistance Requirement - 1
+
+
+
+Puzzles:
+  - Stone Inverter
+    6x4 stone/cobblestone block array, each block with a button on it.
+    Example:
+      c s s c s s
+      s c s s s c
+      c s c s c s
+      s c s s s c
+    Clicking a button inverts the 5 blocks vertically/horizontally adjacent and the main block (selecting the slot diagonally down/right from the top left):
+      c c s c s s
+      c s c s s c
+      c c c s c s
+      s c s s s c
+    Getting a full array of stone blocks completes the puzzle.
+
+  - Laser Pierce
+    7x7x16 long cuboid of stone, walls closest to the 7x7 faces are replaced with sea lanterns. One of the stone blocks in the cuboid is replaced with an obsidian block.
+    Shooting an arrow at a lantern marks it with red wool, and shooting one on the other wall marks it with a red glass block. Afterwards, a laser pierces from the wool to the glass, removing all stone it touches. If it pierces the obsidian, it stops.
+    Using a maximum of 6 lasers, pierce the obsidian block twice to complete the puzzle.
+    You are able to reset the puzzle, but doing so places the puzzle on a 60 second cooldown. Resetting the puzzle does not change the position of the obsidian.
+
+  - Sequencer
+    12 different sequences. 3 are picked per puzzle. Select the correct next number all three times to complete the puzzle.
+    Sequences (solution in brackets):
+      5, 10, 20, 40, 80 (160)
+      4, 1, -2, -5, -8 (-11)
+      3, -8, 15, -24, 35 (-48)
+      6, -3, -24, 12, 96 (-48)
+      2, 4, 2, 8, 2 (16)
+      1, 2, 4, 8, 16 (32)
+      7, 14, 42, 168, 840 (5040)
+      2, 30, 400, 5000, 60000 (700000)
+      1, 2, 3, 4, 5 (6)
+      1, 6, 18, 38, 66 (102)
+      1, 3, 6, 10, 15 (21)
+      3, 1, 4, 1, 5 (9)
+      2, 3, 4 (82000)
+
+
+
+Special Doors:
+  Maximum of 2 Special Doors.
+
+  - Decaying Plants
+    Requires Farming 30 to unlock.
+    The plant can either be a potato, carrot, or wheat. Right clicking with a high enough Farming level, while holding the appropriate crop will unlock the door.
+      Grants 50,000 - 75,000 Farming XP to the player. Other players in the team are given 1%, or 10% if they meet requirements.
+
+  - Ancient Glyphs
+    Requires Enchanting 30 and Alchemy 25 to unlock.
+    A total of 2-7 Glyphs are shown. While holding Grand XP Bottles, right clicking the glyph with a high enough Enchanting/Alchemy level will consume your Grand XP Bottles. For every 3 bottles, one Glyph will disappear. Once all Glyphs are gone, the door will unlock.
+      Grants 15,000 - 20,000 Enchanting XP and 12,500 - 15,000 Alchemy XP per Glyph. Other players in the team are given 1%, or 10% if they meet requirements.
+
+  - Guard Dog
+    Requires 200,000 Wolf Slayer XP and Taming 25 to unlock.
+    A wolf blocks your passage. Right clicking with a high enough Taming level and enough Wolf Slayer XP, while holding an Enchanted Bone, will give the wolf the bone. The wolf has a 20% chance of accepting the bone. When a bone is accepted, the wolf will leave and the door will unlock.
+      Grants 2,000 - 3,000 Wolf Slayer XP and 25,000 - 35,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
+
+
+
+Monsters:
+  Standard:
+    Each monster has 'supply', and standard rooms can only have a certain amount of supply.
+    If monsters are generated for a room and there is supply leftover below the cap, monsters in that room gain a stat bonus based on the floor (per unit of supply).
+    Floor 1 Supply Cap: 8
+    Floor 1 Stat Bonus: 5% per leftover supply
+
+    - Spawnling (1 Supply)
+      120,000 Health
+      1,100 Damage
+      Drops:
+        - 0-1 Tainted Coins
+
+    - Burstling (1 Supply)
+      30,000 Health
+      Abilities:
+        - Explosive Burst:
+          Explodes near players to deal 6,000 damage, but dies in the process.
+      Drops:
+        - 0-1 Tainted Coins
+
+    - Dark Sentinel (2 Supply)
+      80,000 Health
+      25 Defence
+      1,500 Damage
+      Abilities:
+        - Reconstruction:
+          Up to a maximum of one time, dying will place the Sentinel in stasis for 2 seconds, before being revived with full stats.
+      Drops:
+        - 0-2 Tainted Coins
+
+    - Armored Dark Sentinel (3 Supply)
+      150,000 Health
+      50 Defence
+      1,250 Damage
+      Abilities:
+        - Reconstruction:
+          Up to a maximum of one time, dying will place the Sentinel in stasis for 2 seconds, before being revived with full stats.
+      Drops:
+        - 0-3 Tainted Coins
+
+    - Destructive Dark Sentinel (3 Supply)
+      75,000 Health
+      20 Defence
+      3,200 Damage
+      Abilities:
+        - Deconstruction:
+          Upon death, create a 4-block wide sphere which slows players by 33% while inside. Lasts for 10 seconds. Deconstruction also deals 2% of affected targets' maximum health as true damage per second too.
+      Drops:
+        - 0-3 Tainted Coins
+
+
+  Special:
+    - Hybrid Reaver
+      100,000 Health
+      100 Defence
+      5,500 Damage
+      Abilities:
+        - Vicious Shredder:
+          Glow for 3 seconds. During this time, the next melee hit cleaves players for 16,500 damage - split across every target. While glowing, move 33% faster. The glow expires on cleave.
+      Drops:
+        - Xenomorph Hunter Talisman (1% chance)
+          UNCOMMON ACCESSORY - Every 6 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 1% of your damage as true damage towards them.
+            Requires Aelzer Level 5.
+        - Reaver Thorn (0.5% chance)
+          Used to craft Void Armor.
+          +100 Damage
+        - 1 Depth Resistance (40% chance)
+
+
+
+Boss Room:
+  Entering the Boss Room requires all party members to be ready. When all members are ready, the boss begins.
+
+
+
+Boss - Vuoi'h
+
+** Phase 1 **
+
+"Humans were never supposed to find this land."
+
+"You came here seeking strength and power. You will leave here as fiction."
+
+"Without form, we - the Aelzerian Assassins, return to the Void. You will not be so fortunate."
+
+Vuoi'h
+  350,000 Health
+  100 Defence
+  Basic Attacks:
+    - Melee:
+      4,500 Damage
+    - Ranged (up to 24 blocks):
+      2,500 Damage
+  Abilities:
+    - Null Blast:
+      Shoot a ball of null energy in the target direction. Hitting a player marks them once (up to 3 marks) and deals 2,750 damage.
+    - Path of Destruction:
+      Dash to a player with 3 marks from Null Blast. Consumes the 3 marks but deals 6,000 damage instantly and a free melee hit. After 1.5 seconds, either dash back to the original position or create explosions through the dash trail, dealing 750 true damage to all players hit.
+
+When dropped to 1 HP, enter phase 2.
+
+
+** Phase 2 **
+
+"Your essence. It glows with vibrant passion. You will feed our species for once in millenia."
+
+"Come to me. Show me your potential."
+
+Vuoi'h
+  500,000 Health
+  125 Defence
+  Basic Attacks:
+    - Melee:
+      6,500 Damage
+    - Ranged (up to 24 blocks):
+      3,500 Damage
+  Abilities:
+    - Null Blast:
+      Shoot a ball of null energy in the target direction. Hitting a player marks them once (up to 3 marks) and deals 4,250 damage.
+    - Path of Destruction:
+      Dash to a player with 3 marks from Null Blast. Consumes the 3 marks but deals 11,000 damage instantly and a free melee hit. After 1.5 seconds, either dash back to the original position or create explosions through the dash trail, dealing 1000 true damage to all players hit.
+    - Void Splitter:
+      While within melee range of a player, slash them for 5,000 damage instantly. Additionally, they take 25,000 bonus damage split across the next 10 seconds. If they die during the bleed, Vuoi'h restores 35% of his missing health back.
+
+When dropped to 1 HP, enter phase 3.
+
+
+** Phase 3 **
+
+"You humans have flesh - have weakness. I hunger..."
+
+"I will shred your flesh from your bones. Come now, and let your body reach eternal freedom."
+
+Vuoi'h
+  600,000 Health
+  150 Defence
+  Basic Attacks:
+    - Melee:
+      8,500 Damage
+    - Ranged (up to 24 blocks):
+      4,500 Damage
+    - Magic (between 6 and 16 blocks):
+      5,750 Damage
+        The magic attack is used against all players at the same time, not just one target.
+  Abilities:
+    - Null Blast:
+      Shoot a ball of null energy in the target direction. Hitting a player marks them once (up to 3 marks) and deals 6,000 damage.
+    - Path of Destruction:
+      Dash to a player with 3 marks from Null Blast. Consumes the 3 marks but deals 17,500 damage instantly and a free melee hit. After 1.5 seconds, either dash back to the original position or create explosions through the dash trail, dealing 1250 true damage to all players hit.
+    - Void Splitter:
+      While within melee range of a player, slash them for 5,000 damage instantly. Additionally, they take 25,000 bonus damage split across the next 10 seconds. If they die during the bleed, Vuoi'h restores 35% of his missing health back.
+    - Passive; Eternal Hunger:
+      Passively, melee hits gain 33% Life Steal. Void Splitter deals bonus damage equal to 25% of the target's missing health as true damage.
+
+When dropped to 1 HP, the boss fight ends.
+
+
+"I see now. I think..."
+
+"I think you are worthy enough of your goals."
+
+"Take note - you may have bested me, but you will not outwit the Breath of Creation."
+
+
+
+After defeating Vuoi'h, a chest will spawn in the centre. You can open it to get your loot. Each player gets the same chest roll.
+
+Basic Loot:
+  - 150-250 Tainted Coins
+
+
+
+Special Loot:
+  - 1 Renown (10% chance)
+
+  - Void Covenant (7.5% chance)
+    EPIC ITEM
+    Used to empower the Abyssal armor set.
+
+  - Depth Resistance Talisman (5% chance)
+    RARE ACCESSORY
+    Grants 20% bonus Depth Resistance.
+
+  - Vuoi'h's Null Stalk (2% chance)
+    LEGENDARY ITEM
+    Used to craft the Null Staff.
+
+  - Ancient Glass (1% chance)
+    LEGENDARY ITEM
+    Used to craft the Pane of Pain.
