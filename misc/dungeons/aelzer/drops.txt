@@ -35,7 +35,13 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   EPIC ITEM
   A prickly thorn, torn off from a Hybrid Reaver. Sharp enough to be used as a weapon. Used to craft Void Armor.
   +100 Damage
-      Dropped by Hybrid Reavers (0.5% chance).
+  Dropped by Hybrid Reavers (0.5% chance).
+
+
+- Psionic Talisman
+  RARE ACCESSORY
+  Reduce the amount of damage that you take from Psionic-class monsters by 5%.
+  Dropped by Hybrid Reavers (1% chance).
 
 - Fragment of Irreducibility
   EPIC ITEM
