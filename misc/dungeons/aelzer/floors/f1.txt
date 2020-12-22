@@ -128,7 +128,7 @@ Monsters:
 
 
   Special:
-    - Hybrid Reaver
+    - Hybrid Reaver (Psionic)
       100,000 Health
       100 Defence
       5,500 Damage
