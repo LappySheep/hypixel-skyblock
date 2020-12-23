@@ -266,3 +266,5 @@ Special Loot:
   - Ancient Glass (1% chance)
     LEGENDARY ITEM
     Used to craft the Pane of Pain.
+
+Completing Floor 1 rewards up to 30 Aelzer XP.
