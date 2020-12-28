@@ -23,7 +23,6 @@ Armor Reforges:
 
       Empowered Bonus: Grant 18 bonus Intelligence for every ally within 12 blocks.
 
-
   - Nullifying:
     Cost: 250 Tainted Coins
     Requirements:
