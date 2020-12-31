@@ -1,10 +1,15 @@
-New Stat - Pure Defence
+Pure Defence
   Reduces incoming Pure Damage.
     Formula:
     r = x/[x+100]
 
-New Stat - Depth Resistance
+Depth Resistance
   Required to do well in Aelzerian Rift floors. If you do not have enough Depth Resistance, you will only have a portion of your usual stats.
   Base: 1 Depth Resistance
     Formula:
       m = x/r (if x < r) else 1
+
+Lethality
+  Reduces the 'effective Defence' of the target.
+    Formula:
+    r = x/[x+100]
