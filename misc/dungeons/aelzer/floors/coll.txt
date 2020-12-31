@@ -48,14 +48,14 @@ Floor 2 - Aeren:
       MYTHIC ACCESSORY - Reduces the amount of damage taken by Aeren by 5%.
 
 
-  1 Aether Fragment - 1 Vuoi'h Soul / 2 Vuoi'h Souls
-  1 Renown - 8 Vuoi'h Souls / 15 Vuoi'h Soulls
-  Wind Quintessence - 30 Vuoi'h Souls / 50 Vuoi'h Souls
-  Aether Core - 75 Vuoi'h Souls / 125 Vuoi'h Souls
-  Ethereal Jewel - 150 Vuoi'h Souls / 250 Vuoi'h Souls
+  1 Aether Fragment - 1 Aeren Soul / 2 Aeren Souls
+  1 Renown - 8 Aeren Souls / 15 Aeren Soulls
+  Wind Quintessence - 30 Aeren Souls / 50 Aeren Souls
+  Aether Core - 75 Aeren Souls / 125 Aeren Souls
+  Ethereal Jewel - 150 Aeren Souls / 250 Aeren Souls
 
-  Aether Mastery Trophy - 550 Vuoi'h Souls
+  Aether Mastery Trophy - 550 Aeren Souls
     RARE ACCESSORY - Reduces the amount of damage taken on Floor 3 and higher by 1%.
 
-  Aeren's Visage - 825 Vuoi'h Souls + Aether Mastery Trophy
+  Aeren's Visage - 825 Aeren Souls + Aether Mastery Trophy
     EPIC ACCESSORY - Grants +2.5% bonus Aelzer Exp.
