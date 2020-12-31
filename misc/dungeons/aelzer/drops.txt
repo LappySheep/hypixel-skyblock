@@ -1,5 +1,12 @@
 Some items can be dropped by monsters in the Aelzerian Rift, provided you have the requirements for them.
 
+- Renown
+  CURRENCY
+  A fabled currency used by only the most elite.
+  Dropped by Aelzerian Bosses.
+
+
+
 - Void Covenant
   EPIC ITEM
   A strange promise, held in a tangible form. Used to empower the Abyssal armor set.
@@ -25,6 +32,30 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   Dropped by Hybrid Reavers (1% chance).
     Requires Aelzer Level 5.
 
+
+
+- Aether Fragment
+  EPIC ITEM
+  A small fragment made out of fallen skies. Used to craft Gale Armor.
+  Dropped by Aeren (guaranteed, 1-3).
+
+- Wind Quintessence
+  EPIC ITEM
+  A cold, yet swift essence. Used to upgrade Gale Armor and craft special bows.
+  Dropped by Aeren (5% chance).
+
+- Aether Core
+  EPIC ITEM
+  Aeren's core. In other words - her heart. Used to reforge armor.
+  Dropped by Aeren (5% chance).
+
+- Ethereal Jewel
+  LEGENDARY ITEM
+  An intangible, yet very real jewel. A myth to most but precious to those that seek it. Used to craft elite Aether equipment.
+  Dropped by Aeren (5% chance).
+
+
+
 - Stalker Fragment
   RARE ITEM
   Used to trade for the Stalker Hilt.
@@ -36,6 +67,7 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   A prickly thorn, torn off from a Hybrid Reaver. Sharp enough to be used as a weapon. Used to craft Void Armor.
   +100 Damage
   Dropped by Hybrid Reavers (0.5% chance).
+
 
 
 - Psionic Talisman
@@ -60,4 +92,3 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   Witnessed to be birthed into existence by very few, it emits great power for anyone who touches it. Used to trade for God Slayer books.
   Dropped by Kyron (0.5% chance), Xio'Eix (2% chance), and Rei'Eix (7% chance).
     Requires Aelzer Level 40.
-
