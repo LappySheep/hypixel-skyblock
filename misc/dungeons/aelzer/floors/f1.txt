@@ -241,7 +241,7 @@ When dropped to 1 HP, the boss fight ends.
 
 
 
-After defeating Vuoi'h, a chest will spawn in the centre. You can open it to get your loot. Each player gets the same chest roll.
+After defeating Vuoi'h, a chest will spawn in the centre. You can open it to get your loot. Each player gets the same basic chest roll.
 
 Basic Loot:
   - 150-250 Tainted Coins
