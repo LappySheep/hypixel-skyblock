@@ -261,3 +261,8 @@ Other
     Requires Aelzer Level 10.
     Cost: 25,000 Tainted Coins
     Used to craft the Void Boots.
+
+  - Demonic Cinder
+    Requires Aelzer Level 13.
+    Cost: 1,000 Tainted Coins
+    Used to reforge a Staff with Cindered.
