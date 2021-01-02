@@ -4,15 +4,15 @@ Floor 1 - Vuoi'h
   An ancient assassin, morphed by raw human flesh. Guards the opening to the Aelzerian Rift and enjoys challenging the occasional victim.
   Party Size: 3 - 5
   Requirements:
-    - 3,000,000 Total Slayer XP
-    - Combat 25
+    - 1,000,000 Total Slayer XP
+    - Combat 50
     - Aelzer Level 0
 
 Floor 2 - Aeren
   An agile assassin, wielding great air manipulation capabilties. Sometimes referred to as the 'Breath of Creation'.
   Party Size: 3 - 5
   Requirements:
-    - Combat 30
+    - Combat 50
     - Aelzer Level 4
     - Beaten Vuoi'h
 
@@ -20,7 +20,7 @@ Floor 3 - Tsra'ki
   A speed demon, focused on nothing else other than complete destruction of the Aelzerian Rift. Incapable of breaching the deeper tunnels, he rests on this floor, waiting for an adventurer to one day match his crazed desires.
   Party Size: 3 - 5
   Requirements:
-    - Combat 35
+    - Combat 50
     - Aelzer Level 8
     - Beaten Aeren
 
@@ -28,7 +28,7 @@ Floor 4 - Barys
   The orb that remained dormant for millenia, awoken by tresspassers and the sounds of Tsra'ki's cries. Somehow both dead and alive at the same time.
   Party Size: 3 - 5
   Requirements:
-    - Combat 40
+    - Combat 50
     - Aelzer Level 12
     - Beaten Tsra'ki
 
@@ -36,7 +36,7 @@ Floor 5 - Pinqsci
   A demonic freak, created by accident by Zurion as a way to offload his insanity. Burning with rage, he incites toxicity even without touch.
   Party Size: 3 - 5
   Requirements:
-    - Combat 45
+    - Combat 50
     - Aelzer Level 16
     - Beaten Barys
 
