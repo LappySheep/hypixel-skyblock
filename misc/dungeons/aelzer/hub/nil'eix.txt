@@ -189,7 +189,7 @@ Dungeon Orbs
 
 Weapons
   - Abyssal Blade [EPIC]
-    Requires Aelzer Level 4.
+    Requires Aelzer Level 1.
     Cost: 18,000 Tainted Coins
     +295 Damage
     +100 Strength
@@ -205,7 +205,7 @@ Weapons
 
 Armor
   - Abyssal Skull [EPIC]
-    Requires Aelzer Level 3.
+    Requires Aelzer Level 2.
     Cost: 7,000 Tainted Coins
     +275 Health
     +225 Defence
@@ -225,7 +225,7 @@ Armor
       Every player within 5 blocks of each other with a full Abyssal set gain 20% bonus crit damage each, stacking up to 100% extra.
 
   - Abyssal Boots [EPIC]
-    Requires Aelzer Level 3.
+    Requires Aelzer Level 1.
     Cost: 6,750 Tainted Coins
     +250 Health
     +200 Defence
