@@ -31,7 +31,7 @@ Floor 1 - Vuoi'h:
     RARE ACCESSORY - Reduces the amount of damage taken on Floor 2 and higher by 1%.
 
   Vuoi'h's Visage - 750 Vuoi'h Souls + Abyssal Mastery Trophy
-    EPIC ACCESSORY - Grants +2.5% bonus Aelzer Exp.
+    EPIC ACCESSORY - Reduces the amount of damage taken on Floor 2 and higher by 1%. Grants +2.5% bonus Aelzer Exp.
 
 
 
@@ -58,4 +58,4 @@ Floor 2 - Aeren:
     RARE ACCESSORY - Reduces the amount of damage taken on Floor 3 and higher by 1%.
 
   Aeren's Visage - 825 Aeren Souls + Aether Mastery Trophy
-    EPIC ACCESSORY - Grants +2.5% bonus Aelzer Exp.
+    EPIC ACCESSORY - Reduces the amount of damage taken on Floor 3 and higher by 1%. Grants +2.5% bonus Aelzer Exp.
