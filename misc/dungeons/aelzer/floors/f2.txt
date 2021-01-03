@@ -1,0 +1,312 @@
+Floor 2
+
+Size: 6x5
+
+
+Green Room
+
+3 Pod Rooms
+  Pod rooms are special rooms which are spawned close to the green room. Each pod room contains a small crystal in the centre. When all players in a party are in the room, the door locks and the crystal begins to charge.
+  Floor 2 Pod Charge Rate: 0.4s/% (40s for full charge)
+    While the crystal is charging, monsters that spawn in other normal rooms will begin to spawn, and will attempt to attack the pod. Each monster attack reduces the crystal's charge by 5%. Players can draw aggro from monsters to prevent this.
+    If the crystal hits 0%, the door unlocks and the crystal stops charging with no reward.
+    If the crystal hits 100%, the door unlocks and every player is granted a stat bonus.
+  Floor 2 Pod Stat Bonus: +6% per pod.
+    Pod stat bonuses are reduced to 0% during a boss, but can be increased using accessories.
+
+Main Rooms - 1 Space Unit
+Puzzle Rooms - 3 Space Units
+Miniboss Rooms - 4 Space Units
+Maximum 31 Space Units
+
+Boss Room
+
+
+Depth Resistance Requirement - 10
+
+
+
+Puzzles:
+  - Stone Inverter
+
+  - Laser Pierce
+
+  - Sequencer
+
+
+
+Special Doors:
+  Maximum of 2 Special Doors.
+
+  - Decaying Plants
+    Requires Farming 33 to unlock.
+    The plant can either be a potato, carrot, or wheat. Right clicking with a high enough Farming level, while holding the appropriate crop will unlock the door.
+      Grants 70,000 - 90,000 Farming XP to the player. Other players in the team are given 1%, or 10% if they meet requirements.
+
+  - Ancient Glyphs
+    Requires Enchanting 33 and Alchemy 28 to unlock.
+    A total of 2-7 Glyphs are shown. While holding Grand XP Bottles, right clicking the glyph with a high enough Enchanting/Alchemy level will consume your Grand XP Bottles. For every 3 bottles, one Glyph will disappear. Once all Glyphs are gone, the door will unlock.
+      Grants 20,000 - 25,000 Enchanting XP and 17,500 - 20,000 Alchemy XP per Glyph. Other players in the team are given 1%, or 10% if they meet requirements.
+
+  - Guard Dog
+    Requires 250,000 Wolf Slayer XP and Taming 28 to unlock.
+    A wolf blocks your passage. Right clicking with a high enough Taming level and enough Wolf Slayer XP, while holding an Enchanted Bone, will give the wolf the bone. The wolf has a 20% chance of accepting the bone. When a bone is accepted, the wolf will leave and the door will unlock.
+      Grants 2,250 - 3,500 Wolf Slayer XP and 30,000 - 40,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
+
+  - Thick Logs
+    Requires Foraging 33 to unlock.
+    3-5 logs are attached on the door. While holding a suitable axe, cutting the logs with a high enough Foraging level will break those logs. Once all logs are cut, the door will unlock.
+      Grants 20,000 Foraging XP per log. Other players in the team are given 1%, or 10% if they meet requirements.
+
+
+
+Monsters:
+  Standard:
+    Each monster has 'supply', and standard rooms can only have a certain amount of supply.
+    If monsters are generated for a room and there is supply leftover below the cap, monsters in that room gain a stat bonus based on the floor (per unit of supply).
+    Floor 2 Supply Cap: 11
+    Floor 2 Stat Bonus: 7.5% per leftover supply
+
+    - Spawnling (1 Supply)
+      210,000 Health
+      1,700 Damage
+      Drops:
+        - 0-2 Tainted Coins
+
+    - Burstling (1 Supply)
+      60,000 Health
+      Abilities:
+        - Explosive Burst:
+          Explodes near players to deal 11,000 damage, but dies in the process.
+      Drops:
+        - 0-2 Tainted Coins
+
+    - Dark Sentinel (2 Supply)
+      160,000 Health
+      30 Defence
+      1,800 Damage
+      Abilities:
+        - Reconstruction:
+          Up to a maximum of one time, dying will place the Sentinel in stasis for 2 seconds, before being revived with full stats.
+      Drops:
+        - 0-3 Tainted Coins
+
+    - Armored Dark Sentinel (3 Supply)
+      225,000 Health
+      70 Defence
+      1,500 Damage
+      Abilities:
+        - Reconstruction:
+          Up to a maximum of one time, dying will place the Sentinel in stasis for 2 seconds, before being revived with full stats.
+      Drops:
+        - 0-4 Tainted Coins
+
+    - Destructive Dark Sentinel (3 Supply)
+      150,000 Health
+      25 Defence
+      4,500 Damage
+      Abilities:
+        - Deconstruction:
+          Upon death, create a 4-block wide sphere which slows players by 33% while inside. Lasts for 10 seconds. Deconstruction also deals 3% of affected targets' maximum health as true damage per second too.
+      Drops:
+        - 0-4 Tainted Coins
+
+
+  Special:
+    - Hybrid Reaver (Psionic)
+      275,000 Health
+      100 Defence
+      7,000 Damage
+      Abilities:
+        - Vicious Shredder:
+          Glow for 3 seconds. During this time, the next melee hit cleaves players for 22,500 damage - split across every target. While glowing, move 33% faster. The glow expires on cleave.
+      Drops:
+        - Xenomorph Hunter Talisman (1% chance)
+        - Reaver Thorn (0.5% chance)
+        - 1 Depth Resistance (60% chance)
+
+    - Hybrid Destroyer (Psionic)
+      150,000 Health
+      75,000 Shields
+      75 Defence
+      6,500 Damage (Ranged, 13 blocks)
+      Abilities:
+        - Caster Greed:
+          The Destroyer's ranged attacks restore 10% of maximum shields back per hit and reduce the cooldown of Piercing Bolt by 2 seconds.
+        - Piercing Bolt:
+          Shoot a bolt of energy in the target direction. The first target hit takes 15% of their current health as damage, and pierces through them for up to 3 additional targets. Additional targets take 5% less damage compared to the previous ones.
+          Cooldown: 9s
+      Drops:
+        - 1 Depth Resistance (75% chance)
+        - Psionic Talisman (1% chance)
+          RARE ACCESSORY - Reduce the amount of damage that you take from Psionic-class monsters by 5%.
+          
+
+
+
+Boss Room:
+  Entering the Boss Room requires all party members to be ready. When all members are ready, the boss begins.
+
+
+
+Boss - Aeren
+
+"You've arrived."
+
+"You know, Vuoi'h falling in battle was the last thing I would have expected."
+
+"There's actually an easy solution to this."
+
+Aeren summons a wind shockwave and knocks every player to the walls. Every player is dropped to 5% of their maximum health.
+
+"You stand here today, against me. You dare defile the Breath of Creation?"
+
+Aeren
+  1,500,000 Health
+  150 Defence
+  Basic Attacks:
+    - Melee:
+      7,500 Damage
+    - Magic:
+      5,000 Damage
+        Magic attacks reduce the target's defence by 25 on hit, stacking indefinitely. Lasts for 5 seconds.
+  Abilities:
+    - Wind Crescent:
+      Passively, melee attacks deal 750 bonus true damage to targets that are in the air.
+    - Gale Assault:
+      Rise up 4 blocks, before slamming into a target's location. On impact with the ground, deal up to 18,000 damage to players within 3 blocks and knock them in the air.
+
+    - Crimson Slash (Used starting from 1,200,000 HP):
+      Slash a target in melee range for 13,500 damage. If the target is below 50% of their maximum health, Crimson Slash bounces to additional targets.
+    - Reaver Summon (Used starting from 1,050,000 HP):
+      Spawn a Hybrid Reaver nearby. Reavers summoned by Aeren do not drop anything. Maximum of 3 Reavers at a time.
+    - Destroyer Summon (Used starting from 900,000 HP):
+      Spawn a Hybrid Destroyer nearby. Destroyers summoned by Aeren do not drop anything. Maximum of 2 Destroyers at a time.
+
+At 750,000 HP remaining, Aeren knocks everyone back to the walls and drops everyone to 5% of their maximum health again.
+Players already below that threshold are lowered to 1 HP.
+
+Aeren becomes invulnerable.
+
+"Those that dare to cross me don't live to tell the tale!"
+
+Aeren brings up 4 pillars near her which rise.
+After 2 seconds, the pillars are charged with energy and they become crystals.
+Each crystal shoots four lasers - one in each horizontal direction - against the walls.
+The lasers start off as green.
+
+"There can only be one punishment for trying to defeat the Breath of Creation!"
+
+Players can now try to destroy the crystals.
+Crystals have 1,750,000 HP (no defence) and after 5 seconds each, turn from green to yellow to orange to red.
+Lasers destroy player projectiles and passing through a laser deals 30% of the target's maximum HP as true damage per second.
+
+After 15 seconds, crystals are either destroyed or have red lasers.
+Remaining crystals stop shooting lasers and begin circling around Aeren, blocking projectiles.
+Remaining crystals also regain their life points.
+
+Aeren is no longer invulnerable.
+
+Crystal Formation
+  1,750,000 Health
+  Abilities:
+    - Laser Shift:
+      Mark a location underneath a player within 10 blocks. After 0.5 seconds, strike a laser at that point, dealing 3,500 damage per half second for up to 1.5 seconds.
+    - Metamorphic Crush:
+      Smash downwards onto any player within melee range of Aeren, dealing 66% of the target's current health as true damage and knocking them back.
+    - Sustenance:
+      While not destroyed, grant Aeren 100 bonus Defence and restore 10,000 HP to her, per second.
+    - Guard of Creation:
+      Upon being destroyed, cast a green laser on every living player. After 1 second, shoot a crystal shard in the laser's path (blocked by walls, etc). Shards deal 7,500 damage.
+
+Aeren
+  750,000 Health
+  150 Defence (+100 per existing Crystal (550 maximum))
+  Basic Attacks:
+    - Melee:
+      8,000 Damage
+    - Magic:
+      5,500 Damage
+        Magic attacks reduce the target's defence by 33 on hit, stacking indefinitely. Lasts for 5 seconds.
+  Abilities:
+    - Wind Crescent:
+      Passively, melee attacks deal 1,000 bonus true damage to targets that are in the air.
+    - Gale Assault:
+      Rise up 4 blocks, before slamming into a target's location. On impact with the ground, deal up to 22,000 damage (+500 true damage) to players within 3 blocks and knock them in the air.
+    - Crimson Slash:
+      Slash a target in melee range for 15,000 damage. If the target is below 50% of their maximum health, Crimson Slash bounces to additional targets.
+    - Reaver Summon:
+      Spawn a Hybrid Reaver nearby. Reavers summoned by Aeren do not drop anything. Maximum of 4 Reavers at a time.
+    - Destroyer Summon:
+      Spawn a Hybrid Destroyer nearby. Destroyers summoned by Aeren do not drop anything. Maximum of 3 Destroyers at a time.
+    - Lamenting Tempest:
+      Create a surge of wind energy in the target direction. All targets hit get blasted with high velocity back, take 13,000 damage, and are rooted for 4 seconds. Lamenting Tempest deals 10% of the target's missing health as true damage if they hit a wall.
+
+At 1 HP remaining, Aeren causes every player to start levitating, and she becomes invulnerable again.
+
+"I had so many plans... so many dreams."
+
+"They're not over yet..."
+
+Aeren creates a glowing-red ball of energy in front of her, and it glows for 5 seconds.
+Afterwards, the ball of energy opens up to reveal a Hybrid Behemoth in the middle.
+
+"After centuries, my creation is complete."
+
+"Promised by Xio'Eix, the first step to learning what true freedom is, all begins with this."
+
+"My child, bring forth destruction to their lands. Do what I could not. Merge with me and become eternal - like a god!"
+
+Aeren mixes with the Hybrid Behemoth's life force and the last stand begins.
+The Behemoth creates a shockwave, dealing 84,000 damage split across all players.
+
+Hybrid Behemoth (Psionic)
+  400,000 Health
+  100 Defence
+  13,500 Damage (Cleaves targets within 3 blocks for 15% damage)
+  Abilities:
+    - Psionic Shockwave:
+      Create a large shockwave, dealing 15,000 damage to targets within 7 blocks and knocking them airborne.
+    - Reaver Summon:
+      Spawn a Hybrid Reaver nearby. Reavers summoned by a Behemoth do not drop anything. Maximum of 2 Reavers at a time.
+    - Immortality:
+      The Behemoth cannot take more than 20,000 damage in a single hit.
+
+  While Aeren controls the Behemoth, she can use upgraded variants of her other abilities.
+    - Wind Crescent:
+      Passively, melee attacks deal 1,250 bonus true damage to targets that are in the air.
+    - Gale Assault:
+      The Behemoth rises up 4 blocks, before slamming into a target's location. On impact with the ground, deal up to 26,500 damage (+1,000 true damage) to players within 3 blocks and knock them in the air.
+    - Crimson Slash:
+      Slash a target in melee range for 18,000 damage. If the target is below 50% of their maximum health, Crimson Slash bounces to additional targets.
+
+Upon dying, the boss fight ends.
+
+"They're not over yet! Not until I say they are!"
+
+Aeren dashes towards the player with the highest HP, lowering them to 1HP before exploding.
+
+
+
+After defeating Aeren, a chest will spawn in the centre. You can open it to get your loot. Each player gets the same basic chest roll.
+
+Basic Loot:
+  - 250-400 Tainted Coins
+  - 1-3 Aether Fragments
+
+
+
+Special Loot:
+  - 1 Renown (20% chance)
+
+  - 1 Wind Quintessence (5% chance)
+    Requires an S rank or higher.
+    Used to craft the Aether Bow.
+
+  - Aether Core (2% chance)
+    Requires an S+ rank or higher.
+    Armor Reforge Stone.
+
+  - Ethereal Jewel (1% chance)
+    Requires an S+ rank or higher.
+    Used to craft elite Aether equipment.
