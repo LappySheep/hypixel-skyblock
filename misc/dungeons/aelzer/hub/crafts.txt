@@ -7,6 +7,10 @@ Materials
     Requires Aelzer Level 8.
     Recipe: 128 Enchanted Obsidian + 64 Enchanted Lapis Lazuli
 
+  - Crystal of Ephemerality [LEGENDARY]
+    Requires Aelzer Level 8.
+    Recipe: 4 Aether Cores + Ethereal Jewel
+
 
 
 Weapons
@@ -20,6 +24,7 @@ Weapons
         Gain +20% bonus damage for the next 2 seconds. Killing a monster refreshes the duration of Blight Stalker and increases the bonus damage by 5%. Stacks up to +100%.
         Cooldown: 180s
         Cooldown starts after Blight Stalker expires.
+
 
   - Null Staff [EPIC]
     Requires Aelzer Level 4.
@@ -36,14 +41,14 @@ Weapons
   - Pane of Pain [LEGENDARY]
     Requires Aelzer Level 5.
     Recipe: 6 Ancient Glass
-    +235 Damage
-    +190 Strength
-    Item Passive - Salt in the Wound
-      Targets marked from Shardsplitter take 66% bonus damage as a 3-second bleed. Duration stacks, damage does not.
-    Item Ability - Shardsplitter RIGHT CLICK
-      Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% Weapon Damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
-      Cooldown: 90s
-        Cooldown is reduced by 6 seconds on each hit.
+      +235 Damage
+      +190 Strength
+      Item Passive - Salt in the Wound
+        Targets marked from Shardsplitter take 66% bonus damage as a 3-second bleed. Duration stacks, damage does not.
+      Item Ability - Shardsplitter RIGHT CLICK
+        Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% Weapon Damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
+        Cooldown: 90s
+          Cooldown is reduced by 6 seconds on each hit.
 
 
 
@@ -51,32 +56,32 @@ Armor
   - Refined Abyssal Skull [LEGENDARY]
     Requires Aelzer Level 4.
     Recipe: Abyssal Skull + 4 Void Covenants
-    +300 Health
-    +250 Defence
-    Piece Bonus - Abyssal Whisper
-      For every 1% of your maximum health that you do not have, your damage dealt is increased by 1.5% (capped at 75% bonus damage at 50% max hp).
-    Full Set Bonus - Abyssal Aura
-      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+      +300 Health
+      +250 Defence
+      Piece Bonus - Abyssal Whisper
+        For every 1% of your maximum health that you do not have, your damage dealt is increased by 1.5% (capped at 75% bonus damage at 50% max hp).
+      Full Set Bonus - Abyssal Aura
+        Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
 
   - Refined Abyssal Breastplate [LEGENDARY]
     Requires Aelzer Level 4.
     Recipe: Abyssal Breastplate + 4 Void Covenants
-    +400 Health
-    +300 Defence
-    Piece Bonus - Absorption
-      5% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
-    Full Set Bonus - Abyssal Aura
-      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+      +400 Health
+      +300 Defence
+      Piece Bonus - Absorption
+        5% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
+      Full Set Bonus - Abyssal Aura
+        Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
 
   - Refined Abyssal Boots [LEGENDARY]
     Requires Aelzer Level 4.
     Recipe: Abyssal Boots + 4 Void Covenants
-    +275 Health
-    +225 Defence
-    Piece Bonus - Dark Charisma
-      The Abyssal Blade deals 15% more damage, and the ability damage is increased by 50%.
-    Full Set Bonus - Abyssal Aura
-      Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
+      +275 Health
+      +225 Defence
+      Piece Bonus - Dark Charisma
+        The Abyssal Blade deals 15% more damage, and the ability damage is increased by 50%.
+      Full Set Bonus - Abyssal Aura
+        Every player within 5 blocks of each other with a full Abyssal set gain 25% bonus crit damage each, stacking up to 125% extra.
 
   - Void Skull [LEGENDARY]
     Requires Aelzer Level 10.
@@ -113,3 +118,133 @@ Armor
       +5% Crit Damage
       Full Set Bonus - Critical Retribution
         Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+
+
+  - Gale Chestplate [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 8 Aether Fragments
+      +425 Health
+      +200 Defence
+      +25 Speed
+      +4% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Gale Leggings [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 7 Aether Fragments
+      +275 Health
+      +175 Defence
+      +25 Speed
+      +3.6% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Gale Boots [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 7 Aether Fragments
+      +150 Health
+      +150 Defence
+      +25 Speed
+      +2.4% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Surge Chestplate [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Chestplate + 20 Aether Fragments + 4 Wind Quintessences
+      +500 Health
+      +225 Defence
+      +30 Speed
+      +5% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Surge Leggings [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Leggings + 15 Aether Fragments + 4 Wind Quintessences
+      +350 Health
+      +200 Defence
+      +30 Speed
+      +4.6% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Surge Boots [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Boots + 10 Aether Fragments + 2 Wind Quintessences
+      +225 Health
+      +175 Defence
+      +30 Speed
+      +2.9% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Aether Chestplate [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Chestplate + 16 Wind Quintessences
+      +575 Health
+      +250 Defence
+      +35 Speed
+      +6% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Leggings [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Leggings + 14 Wind Quintessences
+      +425 Health
+      +225 Defence
+      +35 Speed
+      +5.6% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Boots [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Boots + 8 Wind Quintessences
+      +300 Health
+      +200 Defence
+      +35 Speed
+      +3.4% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Bow [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Hurricane Bow + 35 Wind Quintessences + Ethereal Jewel
+      +350 Damage
+      +170 Strength
+      +100% Crit Damage
+      Item Passive - Untouchable
+        Passively, every monster hit by every arrow grants 3 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
+      Item Ability - Chilled Core LEFT CLICK
+        Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
+        Mana Cost: 175
+        Cooldown: 30s
+
+  - Aether Crown [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: 96 Aether Fragments + 30 Wind Quintessences + 2 Ethereal Jewels
+      +650 Health
+      +275 Defence
+      +40 Speed
+      +6% Dodge Chance
+      Piece Ability - Ethereal Guard
+        Passively, take 15% reduced damage from Aeren. While at maximum health, gain 5% bonus Strength and 15% bonus Crit Damage.
+      Piece Passive - Ranged Affinity
+        6% of arrow damage dealt is converted to a stackable shield, up to 15% of your maximum health. The shield shatters if you deal melee or magic damage.
+
+  - Crown of Ephemerality [SUPREME]
+    Requires Aelzer Level 8.
+    Recipe: Aether Crown + 8 Crystals of Ephemerality
+      +700 Health
+      +300 Defence
+      +45 Speed
+      +8% Dodge Chance
+      Piece Ability - Ephemeral Guard
+        Passively, take 20% reduced damage from Aeren. While at maximum health, gain 7.5% bonus Strength, 20% bonus Crit Damage, and 2% bonus Dodge Chance.
+      Piece Passive - Ranged Affinity
+        10% of arrow damage dealt is converted to a stackable shield, up to 20% of your maximum health. The shield shatters if you deal melee or magic damage.
+      Piece Passive - Devotion
+        While out of combat, convert 10% of your total shields into healing, every half second.
