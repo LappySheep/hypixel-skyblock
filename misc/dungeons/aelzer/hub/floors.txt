@@ -7,6 +7,7 @@ Floor 1 - Vuoi'h
     - 1,000,000 Total Slayer XP
     - Combat 50
     - Aelzer Level 0
+    - 10 Depth Resistance
 
 Floor 2 - Aeren
   An agile assassin, wielding great air manipulation capabilties. Sometimes referred to as the 'Breath of Creation'.
@@ -15,6 +16,7 @@ Floor 2 - Aeren
     - Combat 50
     - Aelzer Level 4
     - Beaten Vuoi'h
+    - 50 Depth Resistance
 
 Floor 3 - Tsra'ki
   A speed demon, focused on nothing else other than complete destruction of the Aelzerian Rift. Incapable of breaching the deeper tunnels, he rests on this floor, waiting for an adventurer to one day match his crazed desires.
@@ -23,6 +25,7 @@ Floor 3 - Tsra'ki
     - Combat 50
     - Aelzer Level 8
     - Beaten Aeren
+    - 200 Depth Resistance
 
 Floor 4 - Barys
   The orb that remained dormant for millenia, awoken by tresspassers and the sounds of Tsra'ki's cries. Somehow both dead and alive at the same time.
@@ -31,6 +34,7 @@ Floor 4 - Barys
     - Combat 50
     - Aelzer Level 12
     - Beaten Tsra'ki
+    - 500 Depth Resistance
 
 Floor 5 - Pinqsci
   A demonic freak, created by accident by Zurion as a way to offload his insanity. Burning with rage, he incites toxicity even without touch.
@@ -39,6 +43,7 @@ Floor 5 - Pinqsci
     - Combat 50
     - Aelzer Level 16
     - Beaten Barys
+    - 1,250 Depth Resistance
 
 Floor 6 - Digitalis
   A beast that lives in the walls, comes out to bite to spread its virus to unsuspecting foes.
@@ -48,6 +53,7 @@ Floor 6 - Digitalis
     - Aelzer Level 20
     - Beaten Pinqsci
     - Costs 1 Abyssal Permit per entry
+    - 3,500 Depth Resistance
 
 Floor 7 - Shryder
   A cunning assassin who has spent decades training to one day match her oppressors. Incapable of shutting up, but very capable of blasting skulls off of her opponents.
@@ -57,6 +63,7 @@ Floor 7 - Shryder
     - Aelzer Level 24
     - Beaten Digitalis
     - Costs 1 Abyssal Permit per entry
+    - 10,000 Depth Resistance
 
 Floor 8 - Zurion
   A golem formed from the culminations of Aelzerian history. Incredibly durable, tamed by assassins in this domain to rival those that dare challenge Aelzerian heroes.
@@ -66,6 +73,7 @@ Floor 8 - Zurion
     - Aelzer Level 28
     - Beaten Shryder
     - Costs 2 Abyssal Permits per entry
+    - 25,000 Depth Resistance
 
 Floor 9 - Linc
   The apprentice assassin to Kyron, learning after his master's capabilities of purity and ascension above all.
@@ -75,6 +83,7 @@ Floor 9 - Linc
     - Aelzer Level 32
     - Beaten Shryder
     - Costs 4 Abyssal Permits per entry
+    - 50,000 Depth Resistance
 
 Floor 10 - Kyron
   A fallen God who has taken the form of a human to feel true empathy and weakness. Despite this handicap, still holds immense power and emanates this energy throughout Aelzer.
@@ -84,6 +93,7 @@ Floor 10 - Kyron
     - Aelzer Level 36
     - Beaten Linc
     - Costs 7 Abyssal Permits per entry
+    - 110,000 Depth Resistance
 
 Floor 11 - QK
   The final chapter of survivability. Only very few know the true bounds of this beast, yet to them, he seems like an angel.
@@ -93,6 +103,7 @@ Floor 11 - QK
     - Aelzer Level 40
     - Beaten Kyron
     - Costs 11 Abyssal Permits per entry
+    - 275,000 Depth Resistance
 
 Floor 12 - Xio'Eix
   Daughter of Rei'Eix. Heiress to the Aelzerian island, yet still greedy for power. Capable of mass destruction across entire sectors with very little investment.
@@ -103,6 +114,7 @@ Floor 12 - Xio'Eix
     - Beaten QK
     - Requires a Depth Resistance Artifact
     - Costs 16 Abyssal Permits per entry
+    - 650,000 Depth Resistance
 
 Floor 13 - Rei'Eix
   An immortal God which oversees the Aelzerian Rift. All, including those in an eternal suffering, will bow down to him. Summoner and creator of the Voidlings.
@@ -115,3 +127,4 @@ Floor 13 - Rei'Eix
     - Requires a Depth Resistance Relic
     - Costs 25 Abyssal Permits per entry
     - Costs 1,000,000 Renown per failed attempt
+    - 2,000,000 Depth Resistance
