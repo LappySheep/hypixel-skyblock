@@ -49,9 +49,9 @@ Special Doors:
       Grants 20,000 - 25,000 Enchanting XP and 17,500 - 20,000 Alchemy XP per Glyph. Other players in the team are given 1%, or 10% if they meet requirements.
 
   - Guard Dog
-    Requires 250,000 Wolf Slayer XP and Taming 28 to unlock.
+    Requires 250,000 Wolf Slayer XP and Taming 44 to unlock.
     A wolf blocks your passage. Right clicking with a high enough Taming level and enough Wolf Slayer XP, while holding an Enchanted Bone, will give the wolf the bone. The wolf has a 20% chance of accepting the bone. When a bone is accepted, the wolf will leave and the door will unlock.
-      Grants 2,250 - 3,500 Wolf Slayer XP and 30,000 - 40,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
+      Grants 2,250 - 3,500 Wolf Slayer XP and 45,000 - 55,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
 
   - Thick Logs
     Requires Foraging 33 to unlock.
@@ -310,3 +310,5 @@ Special Loot:
   - Ethereal Jewel (1% chance)
     Requires an S+ rank or higher.
     Used to craft elite Aether equipment.
+
+Completing Floor 2 rewards up to 85 Aelzer XP.
