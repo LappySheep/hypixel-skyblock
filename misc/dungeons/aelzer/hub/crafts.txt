@@ -18,7 +18,7 @@ Weapons
     Requires Aelzer Level 8.
     Recipe: Stalker Hilt + 512 Enchanted Eyes of Ender
       +280 Damage
-      +110 Strength
+      +120 Strength
       +0.1% Life Steal
       Item Ability - Blight Stalker RIGHT CLICK
         Gain +20% bonus damage for the next 2 seconds. Killing a monster refreshes the duration of Blight Stalker and increases the bonus damage by 5%. Stacks up to +100%.
@@ -232,7 +232,7 @@ Armor
       +6% Dodge Chance
       Piece Ability - Ethereal Guard
         Passively, take 15% reduced damage from Aeren. While at maximum health, gain 5% bonus Strength and 15% bonus Crit Damage.
-      Piece Passive - Ranged Affinity
+      Piece Ability - Ranged Affinity
         6% of arrow damage dealt is converted to a stackable shield, up to 15% of your maximum health. The shield shatters if you deal melee or magic damage.
 
   - Crown of Ephemerality [SUPREME]
@@ -244,7 +244,86 @@ Armor
       +8% Dodge Chance
       Piece Ability - Ephemeral Guard
         Passively, take 20% reduced damage from Aeren. While at maximum health, gain 7.5% bonus Strength, 20% bonus Crit Damage, and 2% bonus Dodge Chance.
-      Piece Passive - Ranged Affinity
+      Piece Ability - Ranged Affinity
         10% of arrow damage dealt is converted to a stackable shield, up to 20% of your maximum health. The shield shatters if you deal melee or magic damage.
-      Piece Passive - Devotion
+      Piece Ability - Devotion
         While out of combat, convert 10% of your total shields into healing, every half second.
+
+
+  - Scorching Ring [EPIC]
+    Requires Aelzer Level 8.
+    Recipe: 16 Charred Bones
+      +2 Strength
+      Grants +7 Speed while on fire.
+
+  - Scorching Artifact [LEGENDARY]
+    Requires Aelzer Level 9.
+    Recipe: Scorching Ring + 84 Charred Bones + Combustion Core
+      +4 Strength
+      Grants +12 Speed while on fire.
+
+  - Scorching Relic [MYTHIC]
+    Requires Aelzer Level 10.
+    Recipe: Scorching Artifact + 448 Charred Bones + 3 Combustion Cores
+      +6 Strength
+      Grants +18 Speed while on fire.
+
+  - Firefly's Skull [LEGENDARY]
+    Requires Aelzer Level 9.
+    Recipe: Blaze Hat + 2 Combustion Cores + 192 Charred Bones
+      +575 Health
+      +350 Defence
+      +200 Intelligence
+      +0.1% Spell Vamp
+      Piece Ability - Phoenix Guard
+        Passively, take 20% reduced damage from Tsra'ki. While burning, gain 10 bonus Intelligence every half-second, up to a maximum of 200. If extinguished, gain +0.1% Spell Vamp for 1.5 seconds.
+      Piece Ability - Blistering Strikes
+        6% of magic damage dealt builds up as Fury, lasting for up to 5 seconds out of combat. Casting a magic basic attack consumes half of your Fury to deal true damage over 2 seconds with 100% efficiency.
+
+  - Devil Tooth [LEGENDARY]
+    Requires Aelzer Level 10.
+    Recipe: Combustion Core + 2 Infernal Relics
+      +25 Damage
+      +250 Intelligence
+      Item Passive - Fuel the Fire
+        Passively, each Tsra'ki kill increases the weapon damage of all Devil's Teeth in your inventory by 1. At +250 bonus, the Devil Tooth is applied with Sharded, causing any reforge on it to double.
+      Item Passive - Overwhelm
+        Gain +3 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +300 Strength (at 50% over).
+
+  - Duskfire Blade [MYTHIC]
+    Requires Aelzer Level 12.
+    Recipe: 6 Infernal Relics + 3 Sharded Devil Teeth
+      +325 Damage
+      +100 Strength
+      +300 Intelligence
+      Item Passive - Fission Blade
+        Passively, gain +75 weapon damage and +25 Speed while within 16 blocks of Tsra'ki. Reforge bonuses on this weapon are increased by 150%.
+      Item Passive - Incineration Zone
+        While holding the Duskfire Blade, you create a 6 block aura around you. Monsters inside this aura are set on fire, and you gain +100 Strength against them.
+      Item Passive - Overwhelm
+        Gain +4 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +400 Strength (at 50% over).
+
+  - Volcanic Staff [MYTHIC]
+    Requires Aelzer Level 11.
+    Recipe: 3 Incendiary Shards
+      +300 Damage
+      +400 Intelligence
+      Item Ability - Ember Fragmentation SNEAK + RIGHT CLICK
+        Right clicking while sneaking cycles through available spells. Deal 10% bonus damage against targets on fire.
+      Item Ability - Cast Spell RIGHT CLICK
+        Cast an active spell, selected using Ember Fragmentation.
+      Spells:
+        - Ignition Rake:
+          Shoot three fireballs in a cone shape, in the target direction. Each fireball deals [6000 + 40x Intelligence] damage and sets them on fire for 4 seconds.
+          Mana Cost: 300
+          Cooldown: 3s
+        - Ring of Fire:
+          Toggleable spell. Can remain active while another spell is selected.
+          Create a ring of flames that swirl around you, damaging monsters within 3 blocks for [6000 + 15x Intelligence] damage every second.
+          Mana Cost: 150/s
+          Cooldown: N/A
+        - Extinguish:
+          Targets on fire within 7 blocks are extinguished, but take 100x your Intelligence as damage, instantly.
+          Extinguish deals 50% more damage against targets that have been burning for at least 4 seconds.
+          Mana Cost: 450
+          Cooldown: 10s
