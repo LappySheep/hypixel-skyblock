@@ -12,7 +12,7 @@ Depth Resistance
 Lethality
   Reduces the 'effective Defence' of the target.
     Formula:
-    r = x/[x+100]
+    r = d * x/[x+100]
 
 Dodge Chance
   The chance that you completely negate an enemy attack. Does not work against special attacks from special monsters or bosses.
