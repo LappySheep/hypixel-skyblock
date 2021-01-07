@@ -69,9 +69,9 @@ Special Doors:
       Grants 15,000 - 20,000 Enchanting XP and 12,500 - 15,000 Alchemy XP per Glyph. Other players in the team are given 1%, or 10% if they meet requirements.
 
   - Guard Dog
-    Requires 200,000 Wolf Slayer XP and Taming 25 to unlock.
+    Requires 200,000 Wolf Slayer XP and Taming 40 to unlock.
     A wolf blocks your passage. Right clicking with a high enough Taming level and enough Wolf Slayer XP, while holding an Enchanted Bone, will give the wolf the bone. The wolf has a 20% chance of accepting the bone. When a bone is accepted, the wolf will leave and the door will unlock.
-      Grants 2,000 - 3,000 Wolf Slayer XP and 25,000 - 35,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
+      Grants 2,000 - 3,000 Wolf Slayer XP and 40,000 - 50,000 Taming XP. Other players in the team are given 1%, or 10% if they meet requirements.
 
 
 
