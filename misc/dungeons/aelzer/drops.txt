@@ -56,6 +56,33 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
 
 
 
+- Demonic Cinder
+  EPIC REFORGE STONE
+  Used to apply the Cindered reforge on staffs.
+  Dropped by Tsra'ki (30% chance).
+
+- Charred Bone
+  EPIC ITEM
+  Blackened remains of older demons. Remains of those that tried to escape Aelzer, but of those that failed miserably. Used to craft Demonic equipment.
+  Dropped by Tsra'ki (20% chance, 2-4).
+
+- Combustion Core
+  LEGENDARY ITEM
+  A core used to start combustion. Very few demons still possess these, the rest remain dormant. Used to craft advanced Demonic equipment.
+  Dropped by Tsra'ki (5% chance).
+
+- Infernal Relic
+  LEGENDARY ITEM
+  A relic that burns inside, yet feels oddly cold. Used to craft the Devil Tooth and the Duskfire Blade.
+  Dropped by Tsra'ki (1.5% chance).
+
+- Incendiary Shard
+  MYTHIC ITEM
+  A shard created to promise an eternal flame. Used to craft the Volcanic Staff.
+  Dropped by Tsra'ki (0.75% chance).
+
+
+
 - Stalker Fragment
   RARE ITEM
   Used to trade for the Stalker Hilt.
