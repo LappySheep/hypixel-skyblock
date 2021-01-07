@@ -49,7 +49,7 @@ Floor 2 - Aeren:
 
 
   1 Aether Fragment - 1 Aeren Soul / 2 Aeren Souls
-  1 Renown - 8 Aeren Souls / 15 Aeren Soulls
+  1 Renown - 8 Aeren Souls / 15 Aeren Souls
   Wind Quintessence - 30 Aeren Souls / 50 Aeren Souls
   Aether Core - 75 Aeren Souls / 125 Aeren Souls
   Ethereal Jewel - 150 Aeren Souls / 250 Aeren Souls
@@ -59,3 +59,31 @@ Floor 2 - Aeren:
 
   Aeren's Visage - 825 Aeren Souls + Aether Mastery Trophy
     EPIC ACCESSORY - Reduces the amount of damage taken on Floor 3 and higher by 1%. Grants +2.5% bonus Aelzer Exp.
+
+
+
+Floor 3 - Tsra'ki:
+  75 Kills - Cinder Gem
+    EPIC ACCESSORY - Reduces the amount of damage taken by Tsra'ki by 2%.
+
+  200 Kills - Upgrade to Cinder Relic
+    Upgrades the Cinder Gem to the Cinder Relic:
+      LEGENDARY ACCESSORY - Reduces the amount of damage taken by Tsra'ki by 3.5%.
+
+  500 Kills - Upgrade to Cinder Pendant
+    Upgrades the Cinder Relic to the Cinder Pendant:
+      MYTHIC ACCESSORY - Reduces the amount of damage taken by Tsra'ki by 5%.
+
+
+  1 Renown - 4 Tsra'ki Souls / 7 Tsra'ki Souls
+  Demonic Cinder - 5 Tsra'ki Souls / 8 Tsra'ki Souls
+  Charred Bone - 3 Tsra'ki Souls / 5 Tsra'ki Souls
+  Combustion Core - 30 Tsra'ki Souls / 50 Tsra'ki Souls
+  Infernal Relic - 100 Tsra'ki Souls / 175 Tsra'ki Souls
+  Incendiary Shard - 250 Tsra'ki Souls / 350 Tsra'ki Souls
+
+  Cinder Mastery Trophy - 600 Tsra'ki Souls
+    RARE ACCESSORY - Reduces the amount of damage taken on Floor 4 and higher by 1%.
+
+  Tsra'ki's Visage - 900 Tsra'ki Souls + Cinder Mastery Trophy
+    EPIC ACCESSORY - Reduces the amount of damage taken on Floor 4 and higher by 1%. Grants +2.5% bonus Aelzer Exp.
