@@ -1,0 +1,75 @@
+Classes can be picked, based on playstyle. Classes gain XP too, just like your Aelzer level. Class Level requirements are the same as Aelzer Level requirements, except 10x lower.
+
+Classes max out at Level 25. Hitting Level 25 (and any other requirements necessary) unlocks subclasses of that class. You do not have to play a subclass, or you could play multiple. Subclasses (or archetypes) max out at Level 40.
+
+
+
+Classes:
+  - Berserker:
+    Melee Damage Specialist.
+    Passive Bonuses:
+      - Deal [Lvl + 25]% bonus Melee damage.
+      - Gain +50 Speed, increased by [(2 * Lvl) + 50]% for 3 seconds after a kill.
+    Abilities:
+      - Bloodlust (Passive):
+        After killing a monster, restore 6% of your missing health and gain 0.1% bonus Life Steal on your next melee hit.
+      - Throwing Axe (Basic Dungeon Orb Ability):
+        Throw an axe in the target direction, dealing 125% of your melee damage to the first target hit.
+          For every 6 Berserker Levels, the axe pierces through an additional target at no reduced damage (maximum 5 targets at Berserker Level 24).
+            Cooldown: 20s
+      - Volatile Rage (Ultimate Dungeon Orb Ability):
+        Go into a rage for the next 8 seconds. During this time, the effects of Bloodlust are doubled, and the next fatal source of damage while raging is reduced by 33%.
+          Cooldown: 180s (reduced by 3s on each kill)
+
+
+    At Berserker Level 25, you can branch into one of three subclasses. Note that you can still play the normal Berserker class.
+
+    - Warmonger:
+      Melee Area of Effect Specialist.
+      Passive Bonuses:
+        - Deal [Lvl + 35]% bonus Melee damage.
+        - Gain +0.025% Life Steal, increased by [2.5 * Lvl]% while above 50% of maximum HP.
+      Abilities:
+        - Warcry (Passive):
+          Shout after each kill, drawing aggro from monsters within 6 blocks, reducing their damage by 10%.
+        - Fracturing Whip (Basic Dungeon Orb Ability):
+          Crack a whip in the target direction, slowing the first target hit by 90% (decaying over 3 seconds), and dealing 200% melee damage. This target is feared for 3 seconds too, preventing them from coming near you.
+            Cooldown: 25s
+        - Pummelling Axe (Ultimate Dungeon Orb Ability):
+          You smash your axe down into the ground, dealing 1000% melee damage split across all targets (maximum 200% to a single target) within 4 blocks. Targets are slowed by 50% (decaying over 2 seconds).
+          Each target killed with Pummelling Axe grants a shield equal to 5% of your maximum health, lasting for 6 seconds.
+            Cooldown: 240s (reduced by 4s on each kill)
+
+    - Knight:
+      Melee Resistance Specialist.
+      Passive Bonuses:
+        - Deal [(0.5 * Lvl) + 25]% bonus Melee damage.
+        - Gain [(Lvl * 3) + 30] bonus Defence.
+        - Gain [Lvl * 0.1] bonus True Defence.
+      Abilities:
+        - Armor of Justice (Passive):
+          The next source of damage within 2 seconds of a kill is reduced by 33%.
+        - Shock Ring (Basic Dungeon Orb Ability):
+          Create a ring of energy around you for 0.5 seconds. Any monsters within 2 blocks are rooted for 4 seconds and take 110% melee damage.
+            Cooldown: 22s
+        - Blades of Fear (Ultimate Dungeon Orb Ability):
+          Your next three melee attacks deal bonus damage equal to 1000% of your True Defence and 200% of your Defence, as true damage, and reduce the defence of targets by 20% for 2 seconds.
+            Cooldown: 210s (reduced by 2s on each kill)
+
+    - Assassin:
+      Melee Stealth Specialist.
+      Passive Bonuses:
+        - Deal [(2 * Lvl) + 20]% bonus Melee damage.
+        - Weapons gain [Lvl * 0.25] bonus Weapon Damage.
+        - Lose [70 - (Lvl * 0.75)]% Defence
+      Abilities:
+        - True Stealth (Passive):
+          After each kill, gain true stealth for 0.5 seconds. While in true stealth, projectiles that would normally follow you will stop following you, and monsters lose aggro.
+        - Callback (Basic Dungeon Orb Ability):
+          Cast Callback first to mark a position. Within the next 7 seconds, trigger Callback again to dash back to the marked position. Maximum 32 block range.
+            Cooldown: 20s (30s if Callback is not triggered twice)
+        - Event Horizon (Ultimate Dungeon Orb Ability):
+          Shoot a flare in the target direction. The first target or block hit is flared for 15 seconds.
+          At any point while something is flared, cast Event Horizon again to create an Event Horizon at that location, pulling in enemies towards the flare, slowly, for up to 6 seconds.
+          Before the horizon expires, cast Event Horizon for a third time to instantly detonate the point, dealing 300% melee damage to the flared target, or 90% melee damage to targets within 1 block of the flare.
+            Cooldown: 450s (reduced by 5s on each kill)
