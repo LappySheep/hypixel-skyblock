@@ -243,7 +243,7 @@ Armor
       +45 Speed
       +8% Dodge Chance
       Piece Ability - Ephemeral Guard
-        Passively, take 20% reduced damage from Aeren. While at maximum health, gain 7.5% bonus Strength, 20% bonus Crit Damage, and 2% bonus Dodge Chance.
+        Passively, take 20% reduced damage from Aeren. While at maximum health, gain 10% bonus Strength, 25% bonus Crit Damage, and 2% bonus Dodge Chance.
       Piece Ability - Ranged Affinity
         10% of arrow damage dealt is converted to a stackable shield, up to 20% of your maximum health. The shield shatters if you deal melee or magic damage.
       Piece Ability - Devotion
