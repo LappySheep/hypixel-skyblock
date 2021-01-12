@@ -16,3 +16,4 @@ Lethality
 
 Dodge Chance
   The chance that you completely negate an enemy attack. Does not work against special attacks from special monsters or bosses.
+  Hard-capped at 50%.
