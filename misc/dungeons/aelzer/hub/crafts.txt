@@ -87,37 +87,41 @@ Armor
     Requires Aelzer Level 10.
     Recipe: Void Skull Mould + Reaver Thorn + 4 Crying Obsidian
       +300 Health
-      +200 Defence
-      +5% Crit Damage
-      Full Set Bonus - Critical Retribution
-        Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+      +325 Defence
+      +12.5% Crit Damage
+      Piece Bonus - Critical Retribution
+        Killing a monster in the Aelzerian Rift grants +2.5% bonus Crit Damage for 10 seconds, stacking up to +25%. Taking fatal damage while having a bonus of at least 25% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+        For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
 
 - Void Cataphract [LEGENDARY]
     Requires Aelzer Level 10.
     Recipe: Void Cataphract Mould + Reaver Thorn + 7 Crying Obsidian
       +450 Health
-      +300 Defence
-      +5% Crit Damage
-      Full Set Bonus - Critical Retribution
-        Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+      +500 Defence
+      +20% Crit Damage
+      Piece Bonus - Critical Retribution
+        Killing a monster in the Aelzerian Rift grants +2.5% bonus Crit Damage for 10 seconds, stacking up to +25%. Taking fatal damage while having a bonus of at least 25% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+        For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
 
 - Void Greaves [LEGENDARY]
     Requires Aelzer Level 10.
     Recipe: Void Greaves Mould + Reaver Thorn + 6 Crying Obsidian
       +400 Health
-      +275 Defence
-      +5% Crit Damage
-      Full Set Bonus - Critical Retribution
-        Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+      +450 Defence
+      +17.5% Crit Damage
+      Piece Bonus - Critical Retribution
+        Killing a monster in the Aelzerian Rift grants +2.5% bonus Crit Damage for 10 seconds, stacking up to +25%. Taking fatal damage while having a bonus of at least 25% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+        For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
 
 - Void Boots [LEGENDARY]
     Requires Aelzer Level 10.
     Recipe: Void Boots Mould + Reaver Thorn + 3 Crying Obsidian
       +250 Health
-      +175 Defence
-      +5% Crit Damage
-      Full Set Bonus - Critical Retribution
-        Killing a monster in the Aelzerian Rift grants +2% bonus Crit Damage for 10 seconds, stacking up to +100%. Taking fatal damage while having a bonus of at least 80% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+      +275 Defence
+      +10% Crit Damage
+      Piece Bonus - Critical Retribution
+        Killing a monster in the Aelzerian Rift grants +2.5% bonus Crit Damage for 10 seconds, stacking up to +25%. Taking fatal damage while having a bonus of at least 25% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
+        For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
 
 
   - Gale Chestplate [EPIC]
