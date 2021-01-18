@@ -95,6 +95,11 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
   +100 Damage
   Dropped by Hybrid Reavers (0.5% chance).
 
+- Weak Hybrid Fragment
+  EPIC ITEM
+  A fragment from the body of a lesser Hybrid. Used to craft Reaver Armor.
+  Dropped by Hybrid Behemoths (Floor 4) (3% chance).
+
 
 
 - Psionic Talisman
