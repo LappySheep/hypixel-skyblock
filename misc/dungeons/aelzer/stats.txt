@@ -7,13 +7,30 @@ Depth Resistance
   Required to do well in Aelzerian Rift floors. If you do not have enough Depth Resistance, you will only have a portion of your usual stats.
   Base: 1 Depth Resistance
     Formula:
-      m = x/r (if x < r) else 1
+    m = x/r (if x < r) else 1
 
 Lethality
   Reduces the 'effective Defence' of the target.
     Formula:
     r = d * x/[x+100]
 
+Magic Penetration
+  Reduces the 'effective Magic Resistance' of the target.
+    Formula:
+    r = m * x/[x+100]
+
 Dodge Chance
   The chance that you completely negate an enemy attack. Does not work against special attacks from special monsters or bosses.
   Hard-capped at 50%.
+
+Life Steal
+  Restores health back on melee hits. 1 Life Steal is 1 HP restored per 10,000 melee damage dealt.
+    Formula:
+    r = d / (10000 / L)
+  Hard-capped at 1,000.
+
+Spell Vamp
+  Restores health back on magic damage. 1 Spell Vamp is 1 HP restored per 10,000 magic damage dealt.
+    Formula:
+    r = d / (10000 / S)
+  Hard-capped at 1,000.
