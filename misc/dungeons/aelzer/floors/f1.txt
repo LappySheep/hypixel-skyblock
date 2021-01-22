@@ -227,7 +227,7 @@ Vuoi'h
       Dash to a player with 3 marks from Null Blast. Consumes the 3 marks but deals 17,500 damage instantly and a free melee hit. After 1.5 seconds, either dash back to the original position or create explosions through the dash trail, dealing 1250 true damage to all players hit.
     - Void Splitter:
       While within melee range of a player, slash them for 5,000 damage instantly. Additionally, they take 25,000 bonus damage split across the next 10 seconds. If they die during the bleed, Vuoi'h restores 35% of his missing health back.
-    - Passive; Eternal Hunger:
+    - Eternal Hunger:
       Passively, melee hits gain 33% Life Steal. Void Splitter deals bonus damage equal to 25% of the target's missing health as true damage.
 
 When dropped to 1 HP, the boss fight ends.
