@@ -97,8 +97,23 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
 
 - Weak Hybrid Fragment
   EPIC ITEM
-  A fragment from the body of a lesser Hybrid. Used to craft Reaver Armor.
+  A fragment from the body of a lesser Hybrid. Used to craft Hybrid Armor.
   Dropped by Hybrid Behemoths (Floor 4) (3% chance).
+
+- Ranger Fragment
+  EPIC ITEM
+  A fragment from a Rampage Construct. Used to craft Destroyer Armor and the Dominator's Chestplate.
+  Dropped by Rampage Constructs (Floor 4) (3% chance).
+
+- Caster Fragment
+  EPIC ITEM
+  A fragment from a Oblivion Construct. Used to craft Ravager Armor and the Prism's Leggings.
+  Dropped by Oblivion Constructs (Floor 4) (3% chance).
+
+- Warrior Fragment
+  EPIC ITEM
+  A fragment from a Torment Construct. Used to craft Reaver Armor and Behemoth Armor.
+  Dropped by Torment Constructs (Floor 4) (3% chance).
 
 
 
