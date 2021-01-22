@@ -189,9 +189,9 @@ Classes:
           Shoot an iron hook in the target direction. The first target hit takes 125% melee damage and is violently pulled towards you. If they are thrown into a wall, they are stunned for 2 seconds.
             Cooldown: 15s
         - Earthquake (Ultimate Dungeon Orb Ability):
-          Create an earthquake in the room you're in, dealing 2.5% of your effective health as damage to every monster, every 0.5 seconds, for 10 seconds. Only affects monsters on the ground.
-          Monsters killed by Earthquake increase your Weapon Damage and Defence by 5%, stacking up to 25%.
-            Cooldown: 200s (reduced by 6s on each kill)
+          Create an earthquake in the room you're in, dealing 10% of your effective health as damage to every monster, every 0.5 seconds, for 10 seconds. Only affects monsters on the ground.
+          Monsters killed by Earthquake increase your Weapon Damage and Defence by 15%, stacking up to 150%, lasting up to 20 seconds after Earthquake ends.
+            Cooldown: 270s (reduced by 6s on each kill)
 
     - Castle:
       Tanky Defensive Support Specialist
