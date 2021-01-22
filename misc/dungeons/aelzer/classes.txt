@@ -196,15 +196,16 @@ Classes:
     - Castle:
       Tanky Defensive Support Specialist
       Passive Bonuses:
-      - Gain [(5 * Lvl) + 50] bonus Defence.
+      - Gain [(5 * Lvl) + 75] bonus Defence.
       Abilities:
         - Impenetrable Wall (Passive):
           Take 10% less damage for every ally within 16 blocks.
         - Final Breath (Passive):
-          Attacks cannot deal more than 95% of your maximum health as damage in a single hit.
+          Attacks cannot deal more than 95% of your current health as damage in a single hit.
+            Cooldown: 14s (reduced by 1s on each kill)
         - Projectile Displacement (Basic Dungeon Orb Ability):
-          Gain 20% bonus Defence for 4 seconds, and cause projectiles within 3 blocks to target you instead.
+          Gain 20% bonus Defence for 4 seconds, and cause projectiles within 4 blocks to target you instead. Basic projectiles are completely nullified during this time.
             Cooldown: 30s
         - Soul Anvil (Ultimate Dungeon Orb Ability):
-          Summon an anvil to fall from the sky, dealing [(125 * Lvl) + 1500]% of your Defence as damage to all targets within 16 blocks. Targets hit are marked for 10 seconds. If you or any allies kill marked targets, you gain a shield equal to 10% of your maximum health. Shields last for up to 30 seconds.
+          Summon an anvil to fall from the sky, dealing [(125 * Lvl) + 1500]% of your Defence as damage to all targets within 16 blocks. Targets hit are marked for 10 seconds. If you or any allies kill marked targets, you and the ally gain a shield equal to 10% of your maximum health. Shields last for up to 30 seconds.
             Cooldown: 300s (reduced by 4s on eaach kill)
