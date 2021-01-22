@@ -104,7 +104,7 @@ Bow Reforges:
       - Aelzer Level 8
     Effects:
       Crit Chance: +6/7/8/9/10/11/12/13/14/15%
-      Life Steal: +0.02%
+      Life Steal: +2
 
       Splitting Bonus: Arrows split into two after killing a target. Split arrows deal 10% damage, do not apply on-hit, and cannot split onto the same target twice.
 
@@ -180,7 +180,7 @@ Staff Reforges:
       - Aelzer Level 13
     Effects:
       - Ability Damage: +4%
-      - Spell Vamp: +0.001/0.002/0.003/0.004/0.005/0.006/0.007/0.008/0.009/0.01%
+      - Spell Vamp: +1/2/3/4/5/6/7/8/9/10
 
       Cindered Bonus: Damaging abilities deal 25% of your total Intelligence as bonus true damage, as a burning effect over 5 seconds.
 
