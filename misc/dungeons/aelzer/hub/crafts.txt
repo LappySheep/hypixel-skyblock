@@ -19,7 +19,7 @@ Weapons
     Recipe: Stalker Hilt + 512 Enchanted Eyes of Ender
       +280 Damage
       +120 Strength
-      +0.1% Life Steal
+      +10 Life Steal
       Item Ability - Blight Stalker RIGHT CLICK
         Gain +20% bonus damage for the next 2 seconds. Killing a monster refreshes the duration of Blight Stalker and increases the bonus damage by 5%. Stacks up to +100%.
         Cooldown: 180s
@@ -125,7 +125,207 @@ Armor
           For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
 
 
+  - Hybrid Helmet [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: 10 Weak Hybrid Fragments
+      +325 Health
+      +325 Defence
+      +15 Strength
+      +15% Crit Damage
+      Piece Bonus - Essence Hunter
+        Killing a Psionic monster drops 2-3 Weak Essence. At 2,500 Weak Essence, this armor piece becomes a Standby Hybrid piece. Standby Hybrid pieces gain +25 bonus Defence.
 
+  - Hybrid Chestplate [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: 16 Weak Hybrid Fragments
+      +475 Health
+      +500 Defence
+      +24 Strength
+      +24% Crit Damage
+      Piece Bonus - Essence Hunter
+        Killing a Psionic monster drops 2-3 Weak Essence. At 4,000 Weak Essence, this armor piece becomes a Standby Hybrid piece. Standby Hybrid pieces gain +25 bonus Defence.
+
+  - Hybrid Leggings [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: 14 Weak Hybrid Fragments
+      +425 Health
+      +450 Defence
+      +21 Strength
+      +21% Crit Damage
+      Piece Bonus - Essence Hunter
+        Killing a Psionic monster drops 2-3 Weak Essence. At 3,500 Weak Essence, this armor piece becomes a Standby Hybrid piece. Standby Hybrid pieces gain +25 bonus Defence.
+
+  - Hybrid Boots [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: 8 Weak Hybrid Fragments
+      +275 Health
+      +275 Defence
+      +12 Strength
+      +12% Crit Damage
+      Piece Bonus - Essence Hunter
+        Killing a Psionic monster drops 2-3 Weak Essence. At 2,000 Weak Essence, this armor piece becomes a Standby Hybrid piece. Standby Hybrid pieces gain +25 bonus Defence.
+
+
+  - Destroyer Helmet [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Helmet + 8 Ranger Fragments
+      +250 Health
+      +300 Defence
+      +15 Strength
+      +40% Crit Damage
+      Full Set Bonus - Destroyer Assimilation
+        Hybrid Destroyers deal 15% less damage. Arrows deal 20% bonus damage if they travel further than 8 blocks.
+
+  - Destroyer Chestplate [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Chestplate + 8 Ranger Fragments
+      +400 Health
+      +475 Defence
+      +24 Strength
+      +64% Crit Damage
+      Full Set Bonus - Destroyer Assimilation
+        Hybrid Destroyers deal 15% less damage. Arrows deal 20% bonus damage if they travel further than 8 blocks.
+
+  - Destroyer Leggings [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Leggings + 8 Ranger Fragments
+      +350 Health
+      +425 Defence
+      +21 Strength
+      +56% Crit Damage
+      Full Set Bonus - Destroyer Assimilation
+        Hybrid Destroyers deal 15% less damage. Arrows deal 20% bonus damage if they travel further than 8 blocks.
+
+  - Destroyer Boots [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Boots + 8 Ranger Fragments
+      +200 Health
+      +250 Defence
+      +12 Strength
+      +32% Crit Damage
+      Full Set Bonus - Destroyer Assimilation
+        Hybrid Destroyers deal 15% less damage. Arrows deal 20% bonus damage if they travel further than 8 blocks.
+
+  - Dominator's Chestplate [MYTHIC]
+    Requires Aelzer Level 14.
+    Recipe: Destroyer Chestplate + 48 Ranger Fragments
+      +450 Health
+      +475 Defence
+      +36 Strength
+      +96% Crit Damage
+      Piece Bonus - Dominating Breath
+        The Dominator's Chestplate can replace the Destroyer Chestplate in the full set; buffing the effect.
+        Hybrid Destroyers and Hybrid Dominators deal 20% less damage. Arrows deal 30% bonus damage if they travel further than 6 blocks.
+      Full Set Bonus - Hybrid Amalgamation
+        While combined with the Prism's Leggings and the Behemoth's Boots, convert 10% of your damage into true damage, against other Hybrid monsters.
+
+
+  - Ravager Helmet [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Helmet + 8 Caster Fragments
+      +275 Health
+      +325 Defence
+      +120 Intelligence
+      +5 Spell Vamp
+      Full Set Bonus - Ravager Assimilation
+        Hybrid Ravagers deal 15% less damage. Deal 10% bonus magic damage against Aelzerian monsters and 15% bonus magic damage against Psionic monsters.
+
+  - Ravager Chestplate [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Chestplate + 8 Caster Fragments
+      +425 Health
+      +500 Defence
+      +192 Intelligence
+      +5 Spell Vamp
+      Full Set Bonus - Ravager Assimilation
+        Hybrid Ravagers deal 15% less damage. Deal 10% bonus magic damage against Aelzerian monsters and 15% bonus magic damage against Psionic monsters.
+
+  - Ravager Leggings [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Leggings + 8 Caster Fragments
+      +375 Health
+      +450 Defence
+      +168 Intelligence
+      +5 Spell Vamp
+      Full Set Bonus - Ravager Assimilation
+        Hybrid Ravagers deal 15% less damage. Deal 10% bonus magic damage against Aelzerian monsters and 15% bonus magic damage against Psionic monsters.
+
+  - Ravager Boots [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Boots + 8 Caster Fragments
+      +225 Health
+      +275 Defence
+      +120 Intelligence
+      +5 Spell Vamp
+      Full Set Bonus - Ravager Assimilation
+        Hybrid Ravagers deal 15% less damage. Deal 10% bonus magic damage against Aelzerian monsters and 15% bonus magic damage against Psionic monsters.
+
+  - Prism's Leggings [MYTHIC]
+    Requires Aelzer Level 14.
+    Recipe: Ravager Leggings + 48 Caster Fragments
+      +425 Health
+      +450 Defence
+      +252 Intelligence
+      +7.5 Spell Vamp
+      Piece Bonus - Dominating Breath
+        The Prism's Leggings can replace the Ravager Leggings in the full set; buffing the effect.
+        Hybrid Ravagers and Hybrid Behemoths deal 20% less damage. Deal 15% bonus magic damage against Aelzerian monsters and 20% bonus magic damage against Psionic monsters.
+      Full Set Bonus - Hybrid Amalgamation
+        While combined with the Dominator's Chestplate and the Behemoth's Boots, convert 10% of your damage into true damage, against other Hybrid monsters.
+
+
+  - Reaver Helmet [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Helmet + 8 Warrior Fragments
+      +400 Health
+      +350 Defence
+      +30 Strength
+      +3 Life Steal
+      Full Set Bonus - Reaver Assimilation
+        Hybrid Reavers deal 15% less damage. Killing a monster adds 5 Strength to your weapon for the next 8 seconds. Effect stacks, duration does not.
+
+  - Reaver Chestplate [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Chestplate + 8 Warrior Fragments
+      +550 Health
+      +525 Defence
+      +48 Strength
+      +3 Life Steal
+      Full Set Bonus - Reaver Assimilation
+        Hybrid Reavers deal 15% less damage. Killing a monster adds 5 Strength to your weapon for the next 8 seconds. Effect stacks, duration does not.
+
+  - Reaver Leggings [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Leggings + 8 Warrior Fragments
+      +500 Health
+      +475 Defence
+      +42 Strength
+      +3 Life Steal
+      Full Set Bonus - Reaver Assimilation
+        Hybrid Reavers deal 15% less damage. Killing a monster adds 5 Strength to your weapon for the next 8 seconds. Effect stacks, duration does not.
+
+  - Reaver Boots [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Standby Hybrid Boots + 8 Warrior Fragments
+      +350 Health
+      +300 Defence
+      +24 Strength
+      +3 Life Steal
+      Full Set Bonus - Reaver Assimilation
+        Hybrid Reavers deal 15% less damage. Killing a monster adds 5 Strength to your weapon for the next 8 seconds. Effect stacks, duration does not.
+
+  - Behemoth's Boots [MYTHIC]
+    Requires Aelzer Level 14.
+    Recipe: Reaver Boots + 48 Warrior Fragments
+      +500 Health
+      +475 Defence
+      +36 Strength
+      +4.5 Life Steal
+      Piece Bonus - Behemoth's Stomp
+        The Behemoth's Boots can replace the Ravager Leggings in the full set; buffing the effect.
+        Hybrid Reavers deal 20% less damage. Killing a monster adds 8 Strength to your weapon for the next 10 seconds. Effect stacks, duration does not.
+      Full Set Bonus - Hybrid Amalgamation
+        While combined with the Dominator's Chestplate and the Prism's Leggings, convert 10% of your damage into true damage, against other Hybrid monsters.
 
 
   - Gale Chestplate [EPIC]
@@ -282,9 +482,9 @@ Armor
       +575 Health
       +350 Defence
       +200 Intelligence
-      +0.1% Spell Vamp
+      +10 Spell Vamp
       Piece Ability - Phoenix Guard
-        Passively, take 20% reduced damage from Tsra'ki. While burning, gain 10 bonus Intelligence every half-second, up to a maximum of 200. If extinguished, gain +0.1% Spell Vamp for 1.5 seconds.
+        Passively, take 20% reduced damage from Tsra'ki. While burning, gain 10 bonus Intelligence every half-second, up to a maximum of 200. If extinguished, gain +10 Spell Vamp for 1.5 seconds.
       Piece Ability - Blistering Strikes
         6% of magic damage dealt builds up as Fury, lasting for up to 5 seconds out of combat. Casting a magic basic attack consumes half of your Fury to deal true damage over 2 seconds with 100% efficiency.
 
