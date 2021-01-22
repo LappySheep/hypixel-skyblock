@@ -12,7 +12,7 @@ Classes:
       - Gain +50 Speed, increased by [(2 * Lvl) + 50]% for 3 seconds after a kill.
     Abilities:
       - Bloodlust (Passive):
-        After killing a monster, restore 6% of your missing health and gain 0.1% bonus Life Steal on your next melee hit.
+        After killing a monster, restore 6% of your missing health and gain 10 bonus Life Steal on your next melee hit.
       - Throwing Axe (Basic Dungeon Orb Ability):
         Throw an axe in the target direction, dealing 125% of your melee damage to the first target hit.
           For every 6 Berserker Levels, the axe pierces through an additional target at no reduced damage (maximum 5 targets at Berserker Level 24).
@@ -28,7 +28,7 @@ Classes:
       Melee Area of Effect Specialist.
       Passive Bonuses:
         - Deal [Lvl + 35]% bonus Melee damage.
-        - Gain +0.025% Life Steal, increased by [2.5 * Lvl]% while above 50% of maximum HP.
+        - Gain +2.5 Life Steal, increased by [2.5 * Lvl]% while above 50% of maximum HP.
       Abilities:
         - Warcry (Passive):
           Shout after each kill, drawing aggro from monsters within 6 blocks, reducing their damage by 10%.
@@ -44,8 +44,8 @@ Classes:
       Melee Resistance Specialist.
       Passive Bonuses:
         - Deal [(0.5 * Lvl) + 25]% bonus Melee damage.
-        - Gain [(Lvl * 3) + 30] bonus Defence.
-        - Gain [Lvl * 0.1] bonus True Defence.
+        - Gain [(3 * Lvl) + 30] bonus Defence.
+        - Gain [0.1 * Lvl] bonus True Defence.
       Abilities:
         - Armor of Justice (Passive):
           The next source of damage within 2 seconds of a kill is reduced by 33%.
@@ -60,16 +60,151 @@ Classes:
       Melee Stealth Specialist.
       Passive Bonuses:
         - Deal [(2 * Lvl) + 20]% bonus Melee damage.
-        - Weapons gain [Lvl * 0.25] bonus Weapon Damage.
-        - Lose [70 - (Lvl * 0.75)]% Defence
+        - Weapons gain [0.25 * Lvl] bonus Weapon Damage.
+        - Lose [70 - (0.75 * Lvl)]% Defence
       Abilities:
         - True Stealth (Passive):
           After each kill, gain true stealth for 0.5 seconds. While in true stealth, projectiles that would normally follow you will stop following you, and monsters lose aggro.
         - Callback (Basic Dungeon Orb Ability):
-          Cast Callback first to mark a position. Within the next 7 seconds, trigger Callback again to dash back to the marked position. Maximum 32 block range.
-            Cooldown: 20s (30s if Callback is not triggered twice)
+          Cast Callback first to mark a position. Within the next 5 seconds, trigger Callback again to dash back to the marked position. Maximum 32 block range.
+            Cooldown: 8s (25s if Callback is not triggered twice)
         - Event Horizon (Ultimate Dungeon Orb Ability):
           Shoot a flare in the target direction. The first target or block hit is flared for 15 seconds.
           At any point while something is flared, cast Event Horizon again to create an Event Horizon at that location, pulling in enemies towards the flare, slowly, for up to 6 seconds.
           Before the horizon expires, cast Event Horizon for a third time to instantly detonate the point, dealing 300% melee damage to the flared target, or 90% melee damage to targets within 1 block of the flare.
             Cooldown: 450s (reduced by 5s on each kill)
+
+
+
+  - Archer:
+    Ranged Damage Specialist.
+    Passive Bonuses:
+      - Deal [(2 * Lvl) + 50]% bonus Ranged damage.
+      - Deal 33% bonus Arrow Knockback.
+    Abilities:
+      - Barbed Arrows (Passive):
+        Every second arrow shot slows targets by 75% for 0.5 seconds and pierce through up to 10 targets for full damage.
+      - Flurry (Passive):
+        Up to once every 15 seconds, shooting an arrow also shoots a flurry of 12 arrows around you dealing 20% arrow damage and dealing knockback.
+      - Pin Down (Basic Dungeon Orb Ability):
+        Shoot an arrow in the target direction, stunning the first target hit for 2.5 seconds. Targets that are pinned down take 25% bonus damage.
+          Cooldown: 15s
+      - Arrow Storm (Ultimate Dungeon Orb Ability):
+        Shoot 80 arrows over the next 8 seconds. Each arrow deals 10% arrow damage, but back-to-back arrows cannot hurt the same target. Every 20th arrow also applies the Barbed Arrows passive.
+          Cooldown: 160s (reduced by 1s on each arrow hit)
+
+
+    At Archer Level 25, you can branch into one of three subclasses. Note that you can still play the normal Archer class.
+
+    - Sniper:
+      Single Target Ranged Damage Specialist
+      Passive Bonuses:
+        - Deal [(4 * Lvl) + 100]% bonus Arrow damage.
+        - Gain [(0.5 * Lvl) + 5]% bonus Lethality.
+      Abilities:
+        - Piercing Power (Passive):
+          Up to once every 6 seconds, shooting a fully charged arrow deals 20% bonus damage as true damage, to all targets that it hits.
+        - Isolation Scope (Passive):
+          Targets that are hit by fully charged arrows take 25% bonus damage if they are not within 6 blocks of any other monster.
+        - Explosive Haste (Basic Dungeon Orb Ability):
+          For the next 6 seconds, gain +70 Speed, decaying over 2 seconds if you charge your bow. While Explosive Haste is active, all arrows shot are fully charged and deal 2% bonus damage for every block they travel.
+            Cooldown: 40s
+        - Clever-scope (Ultimate Dungeon Orb Ability):
+          Within 3 seconds, the first target that you hit with an arrow is marked. After 1 second, shoot 3 fast mini-arrows at that target. Each mini-arrow deals 125% arrow damage and has Aiming I applied.
+            Cooldown: 300s (Reduced by 6s on each fully charged arrow hit)
+
+    - Marksman:
+      Agile Ranged Damage Specialist
+      Passive Bonuses:
+        - Deal [(3 * Lvl) + 75]% bonus Arrow damage.
+        - Gain [0.5 * Lvl] bonus Speed.
+        - Lose [60 - (0.5 * Lvl)] Defence.
+      Abilities:
+        - Swiftness (Passive):
+          Passively, gain 15 bonus Speed on each arrow hit - stacking up to 5 times, lasting for 3 seconds. This bonus is doubled while moving away from enemies that you have recently hit.
+        - Tip Shredder (Passive):
+          Passively, fully charged arrow shots shred the target's armor, reducing enemy Defence by 5 per hit, with a maximum of 50 reduction.
+          Arrows can no longer pierce through multiple enemies.
+        - Safeguard (Basic Dungeon Orb Ability):
+          Knock enemies within 6 blocks backwards and deal 20% arrow damage. For the next 3 seconds, Tip Shredder's armor shred per hit is doubled.
+            Cooldown: 30s
+        - Relentless Assault (Ultimate Dungeon Orb Ability):
+          For the next 10 seconds, arrows gain 5 bonus Life Steal.
+            Cooldown: 150s (reduced by 5s on each kill)
+            Life Steal still requires Arrow Flux.
+
+    - Wraith:
+      Precision Ranged Damage Specialist
+      Restrictions:
+        - (Requirement) Slain Digitalis.
+        - Wraith bonuses and abilities do not work on legendary-tier bows or lower.
+      Passive Bonuses:
+        - Deal [7.5 * Lvl]% bonus Arrow damage.
+        - Gain [(3 * Lvl) + 30] bonus Strength.
+      Abilities:
+        - Corrupted Crossbolts (Passive):
+          Charging the bow past maximum charge increases the damage of the arrow by 25% every 0.5 seconds, up to a 100% bonus.
+        - Spawns of Chaos (Passive):
+          While charging a bow, chaos spawns float around you, reducing the first source of damage by 25%.
+          Up to once every 8 seconds.
+        - Chains of Shinigami (Basic Dungeon Orb Ability):
+          Shoot a flurry of 5 arrows in the target direction. These arrows deal 20% arrow damage but chain them to you for 5 seconds. Chained monsters take 15% increased damage and lose 80 Speed while moving towards you. Multiple chains can stack on the same target.
+            Cooldown: 45s
+        - Death's Grasp (Ultimate Dungeon Orb Ability):
+          While sneaking, the next fully charged bow shot within 5 seconds throws and pulls the first target towards you, in the air. Hitting them before they touch the ground will deal 400% increased damage but over 4 seconds.
+            Cooldown: 450s (reduced to 250s if you trigger the second half of Death's Grasp) (reduced by 2s on each fully charged arrow hit)
+
+
+
+  - Tank:
+    Defensive Support Specialist.
+    Passive Bonuses:
+      - Gain [(4 * Lvl) + 50] bonus Health.
+      - Gain [(4 * Lvl) + 25] bonus Defence.
+    Abilities:
+      - Protective Aura (Passive):
+        Nearby allies take 5% reduced damage. While you are below half of your maximum health, this effect increases to 10% reduced damage.
+      - Strongarm Guard (Passive):
+        Allies that kill monsters within 12 blocks of you gain 1% increased Defence, stacking up to 10% bonus. The bonus expires when they leave the range.
+      - Fissure (Basic Dungeon Orb Ability):
+        Create a fissure in the ground, creating a line of destruction in front of you, up to 8 blocks. Enemies take damage equal to [(200 * Lvl) + 2500]% of your Defence and are knocked into the air slightly. Damage is reduced by 10% for each block that it travels.
+          Cooldown: 30s
+      - Seismic Slam (Ultimate Dungeon Orb Ability):
+        Leap in the air, and smash the ground, dealing [(300 * Lvl) + 5000]% of your Defence as damage and slow targets within 6 blocks by 90% for 2 seconds.
+        Using Fissure while midair in Seismic Slam will instantly ground you, triggering both at the same time.
+          Cooldown: 240s (reduced by 10s on each kill)
+
+
+    At Tank Level 25, you can branch into one of three subclasses. Note that you can still play the normal Tank class.
+
+    - Juggernaut:
+      Forceful Defensive Support Specialist.
+      Passive Bonuses:
+      - Gain [(1 * Lvl) + 40 bonus Defence.
+      - Deal [(0.5 * Lvl) + 5]% bonus Melee damage.
+      Abilities:
+        - Balance of Power (Passive):
+          Gain 10% of your weapon's damage stat as bonus Defence and 0.1% of your base Defence as bonus weapon damage.
+        - Iron Hook (Basic Dungeon Orb Ability):
+          Shoot an iron hook in the target direction. The first target hit takes 125% melee damage and is violently pulled towards you. If they are thrown into a wall, they are stunned for 2 seconds.
+            Cooldown: 15s
+        - Earthquake (Ultimate Dungeon Orb Ability):
+          Create an earthquake in the room you're in, dealing 2.5% of your effective health as damage to every monster, every 0.5 seconds, for 10 seconds. Only affects monsters on the ground.
+          Monsters killed by Earthquake increase your Weapon Damage and Defence by 5%, stacking up to 25%.
+            Cooldown: 200s (reduced by 6s on each kill)
+
+    - Castle:
+      Tanky Defensive Support Specialist
+      Passive Bonuses:
+      - Gain [(5 * Lvl) + 50] bonus Defence.
+      Abilities:
+        - Impenetrable Wall (Passive):
+          Take 10% less damage for every ally within 16 blocks.
+        - Final Breath (Passive):
+          Attacks cannot deal more than 95% of your maximum health as damage in a single hit.
+        - Projectile Displacement (Basic Dungeon Orb Ability):
+          Gain 20% bonus Defence for 4 seconds, and cause projectiles within 3 blocks to target you instead.
+            Cooldown: 30s
+        - Soul Anvil (Ultimate Dungeon Orb Ability):
+          Summon an anvil to fall from the sky, dealing [(125 * Lvl) + 1500]% of your Defence as damage to all targets within 16 blocks. Targets hit are marked for 10 seconds. If you or any allies kill marked targets, you gain a shield equal to 10% of your maximum health. Shields last for up to 30 seconds.
+            Cooldown: 300s (reduced by 4s on eaach kill)
