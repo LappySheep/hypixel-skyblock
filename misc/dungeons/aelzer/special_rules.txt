@@ -13,7 +13,7 @@ Special Rules of the Aelzerian Rift
 - You gain 5 + 1% of your maximum mana back every time you hit an enemy with a sword/bow.
 - Any Speed above 100 Speed is nerfed by 80%.
 - Arrows deal reduced knockback.
-- Dying turns you into a Ghost, granting special abilities. Ghosts can only be revived in special circumstances.
+- Dying turns you into a Ghost. Ghosts can only be revived in special circumstances.
 - If you leave during a run, you can still return as a Ghost and be revived later.
 - Telekinesis is disabled.
 - Venomous slowness effect is reduced by 80%.
@@ -23,5 +23,11 @@ Special Rules of the Aelzerian Rift
 Stat Related Rules
   - Pure Defence is not multiplied by dungeon bonuses.
   - Dodge Chance is not multiplied by dungeon bonuses.
+  - Life Steal is not multiplied by dungeon bonuses.
+  - Spell Vamp is not multiplied by dungeon bonuses.
+  - Ability Damage is multiplied by dungeon bonuses, but only at 16.6% efficiency.
   - True Defence is multiplied by dungeon bonuses, but only at 20% efficiency.
   - Your Crit Chance is capped at 24%, +1% per Aelzer Level (24% - 75%)
+
+Damage Related Rules
+  - Magic Damage no longer scales with combat level or enchantments.
