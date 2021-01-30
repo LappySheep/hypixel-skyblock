@@ -11,6 +11,10 @@ Materials
     Requires Aelzer Level 8.
     Recipe: 4 Aether Cores + Ethereal Jewel
 
+  - Hybrid Trifecta Fragment [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: 3 Ranger Fragments + 3 Caster Fragments + 3 Warrior Fragments
+
 
 
 Weapons
@@ -326,6 +330,37 @@ Armor
         Hybrid Reavers deal 20% less damage. Killing a monster adds 8 Strength to your weapon for the next 10 seconds. Effect stacks, duration does not.
       Full Set Bonus - Hybrid Amalgamation
         While combined with the Dominator's Chestplate and the Prism's Leggings, convert 10% of your damage into true damage, against other Hybrid monsters.
+
+
+  - Talisman of Assimilation [RARE]
+    Requires Aelzer Level 12.
+    Recipe: 6 Ranger Fragments + 6 Caster Fragments + 6 Warrior Fragments
+      +11 Strength
+      RARE ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 5% rate of efficiency.
+
+  - Ring of Assimilation [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: Talisman of Assimilation + 8 Hybrid Trifecta Fragments
+      +16 Strength
+      EPIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at an 11% rate of efficiency.
+
+  - Artifact of Assimilation [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Ring of Assimilation + 32 Hybrid Trifecta Fragments
+      +22 Strength
+      LEGENDARY ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 20% rate of efficiency.
+
+  - Relic of Assimilation [MYTHIC]
+    Requires Aelzer Level 13.
+    Recipe: Artifact of Assimilation + 64 Hybrid Trifecta Fragments
+      +27 Strength
+      MYTHIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 32% rate of efficiency.
+
+  - Totem of Assimilation [SUPREME]
+    Requires Aelzer Level 14.
+    Recipe: Relic of Assimilation + 128 Hybrid Trifecta Fragments
+      +33 Strength
+      SUPREME ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 50% rate of efficiency.
 
 
   - Gale Chestplate [EPIC]
