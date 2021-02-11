@@ -111,6 +111,7 @@ Classes:
             Cooldown: 40s
         - Clever-scope (Ultimate Dungeon Orb Ability):
           Within 3 seconds, the first target that you hit with an arrow is marked. After 1 second, shoot 3 fast mini-arrows at that target. Each mini-arrow deals 125% arrow damage and has Aiming I applied.
+            Clever-scope gains +1 mini-arrow every 12 Sniper Class Levels (+3 at Level 36)
             Cooldown: 300s (Reduced by 6s on each fully charged arrow hit)
 
     - Marksman:
@@ -208,4 +209,20 @@ Classes:
             Cooldown: 30s
         - Soul Anvil (Ultimate Dungeon Orb Ability):
           Summon an anvil to fall from the sky, dealing [(125 * Lvl) + 1500]% of your Defence as damage to all targets within 16 blocks. Targets hit are marked for 10 seconds. If you or any allies kill marked targets, you and the ally gain a shield equal to 10% of your maximum health. Shields last for up to 30 seconds.
-            Cooldown: 300s (reduced by 4s on eaach kill)
+            Cooldown: 300s (reduced by 4s on each kill)
+
+    - Blitz:
+      Utility Defensive Support Specialist
+      Passive Bonuses:
+      - Gain [(2.5 * Lvl) + 25] bonus Defence.
+      Abilities:
+        - Falsify (Passive):
+          20% of true damage taken is reduced temporarily, and you receive that damage after 2 seconds, over a 2 second period.
+        - Inhibitor (Passive):
+          Enemy attacks that deal splash damage, deal 66% reduced damage against allies, if they deal at least 20% of your missing effective health as damage.
+        - Artillery (Basic Dungeon Orb Ability):
+          Blast three powerful shots in a cone shape, in the target direction. Each shot knocks the first enemy they hit backwards, up to 12 blocks, and deal [(100 * Lvl) + 2000]% of your Defence as damage.
+            Cooldown: 35s
+        - Orbital Strike (Ultimate Dungeon Orb Ability):
+          Shoot a flare in the target direction. The flare sticks on to the first enemy or block that it touches. After 2 seconds, call down 6 blasts of energy from the sky, dealing [(75 * Lvl) + 1000]% of your Defence as damage per blast, and reducing enemy Defence and True Defence by 33% for 5 seconds.
+            Cooldown: 300s (reduced by 4s on each kill, reduced by 15s for each strike that successfully hits a target)
