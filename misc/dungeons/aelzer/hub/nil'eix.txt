@@ -167,7 +167,7 @@ Accessories
 Dungeon Orbs
   - Thermal Orb
   Requires Aelzer Level 10.
-  Requires Catacombs Level 40.
+  Requires Catacombs Level 30.
   Cost: 5,000 Tainted Coins
   Applies the Thermal Lance passive ability on to your other available Dungeon Orb Abilities.
     Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
