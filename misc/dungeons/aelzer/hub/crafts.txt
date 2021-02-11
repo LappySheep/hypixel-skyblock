@@ -17,6 +17,58 @@ Materials
 
 
 
+Accessories
+  - Scorching Ring [EPIC]
+    Requires Aelzer Level 8.
+    Recipe: 16 Charred Bones
+      +2 Strength
+      Grants +7 Speed while on fire.
+
+  - Scorching Artifact [LEGENDARY]
+    Requires Aelzer Level 9.
+    Recipe: Scorching Ring + 84 Charred Bones + Combustion Core
+      +4 Strength
+      Grants +12 Speed while on fire.
+
+  - Scorching Relic [MYTHIC]
+    Requires Aelzer Level 10.
+    Recipe: Scorching Artifact + 448 Charred Bones + 3 Combustion Cores
+      +6 Strength
+      Grants +18 Speed while on fire.
+
+
+  - Talisman of Assimilation [RARE]
+    Requires Aelzer Level 12.
+    Recipe: 6 Ranger Fragments + 6 Caster Fragments + 6 Warrior Fragments
+      +11 Strength
+      RARE ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 5% rate of efficiency.
+
+  - Ring of Assimilation [EPIC]
+    Requires Aelzer Level 12.
+    Recipe: Talisman of Assimilation + 8 Hybrid Trifecta Fragments
+      +16 Strength
+      EPIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at an 11% rate of efficiency.
+
+  - Artifact of Assimilation [LEGENDARY]
+    Requires Aelzer Level 13.
+    Recipe: Ring of Assimilation + 32 Hybrid Trifecta Fragments
+      +22 Strength
+      LEGENDARY ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 20% rate of efficiency.
+
+  - Relic of Assimilation [MYTHIC]
+    Requires Aelzer Level 13.
+    Recipe: Artifact of Assimilation + 64 Hybrid Trifecta Fragments
+      +27 Strength
+      MYTHIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 32% rate of efficiency.
+
+  - Totem of Assimilation [SUPREME]
+    Requires Aelzer Level 14.
+    Recipe: Relic of Assimilation + 128 Hybrid Trifecta Fragments
+      +33 Strength
+      SUPREME ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 50% rate of efficiency.
+
+
+
 Weapons
   - Stalker Blade [EPIC]
     Requires Aelzer Level 8.
@@ -53,6 +105,67 @@ Weapons
         Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% Weapon Damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
         Cooldown: 90s
           Cooldown is reduced by 6 seconds on each hit.
+
+  - Aether Bow [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Hurricane Bow + 35 Wind Quintessences + Ethereal Jewel
+      +350 Damage
+      +170 Strength
+      +100% Crit Damage
+      Item Passive - Untouchable
+        Passively, every monster hit by every arrow grants 3 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
+      Item Ability - Chilled Core LEFT CLICK
+        Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
+        Mana Cost: 175
+        Cooldown: 30s
+
+  - Devil Tooth [LEGENDARY]
+    Requires Aelzer Level 10.
+    Recipe: Combustion Core + 2 Infernal Relics
+      +25 Damage
+      +250 Intelligence
+      Item Passive - Fuel the Fire
+        Passively, each Tsra'ki kill increases the weapon damage of all Devil's Teeth in your inventory by 1. At +250 bonus, the Devil Tooth is applied with Sharded, causing any reforge on it to double.
+      Item Passive - Overwhelm
+        Gain +3 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +300 Strength (at 50% over).
+
+  - Duskfire Blade [MYTHIC]
+    Requires Aelzer Level 12.
+    Recipe: 6 Infernal Relics + 3 Sharded Devil Teeth
+      +325 Damage
+      +100 Strength
+      +300 Intelligence
+      Item Passive - Fission Blade
+        Passively, gain +75 weapon damage and +25 Speed while within 16 blocks of Tsra'ki. Reforge bonuses on this weapon are increased by 150%.
+      Item Passive - Incineration Zone
+        While holding the Duskfire Blade, you create a 6 block aura around you. Monsters inside this aura are set on fire, and you gain +100 Strength against them.
+      Item Passive - Overwhelm
+        Gain +4 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +400 Strength (at 50% over).
+
+  - Volcanic Staff [MYTHIC]
+    Requires Aelzer Level 11.
+    Recipe: 3 Incendiary Shards
+      +300 Damage
+      +400 Intelligence
+      Item Ability - Ember Fragmentation SNEAK + RIGHT CLICK
+        Right clicking while sneaking cycles through available spells. Deal 10% bonus damage against targets on fire.
+      Item Ability - Cast Spell RIGHT CLICK
+        Cast an active spell, selected using Ember Fragmentation.
+      Spells:
+        - Ignition Rake:
+          Shoot three fireballs in a cone shape, in the target direction. Each fireball deals [6000 + 40x Intelligence] damage and sets them on fire for 4 seconds.
+          Mana Cost: 300
+          Cooldown: 3s
+        - Ring of Fire:
+          Toggleable spell. Can remain active while another spell is selected.
+          Create a ring of flames that swirl around you, damaging monsters within 3 blocks for [6000 + 15x Intelligence] damage every second.
+          Mana Cost: 150/s
+          Cooldown: N/A
+        - Extinguish:
+          Targets on fire within 7 blocks are extinguished, but take 100x your Intelligence as damage, instantly.
+          Extinguish deals 50% more damage against targets that have been burning for at least 4 seconds.
+          Mana Cost: 450
+          Cooldown: 10s
 
 
 
@@ -127,6 +240,135 @@ Armor
         Piece Bonus - Critical Retribution
           Killing a monster in the Aelzerian Rift grants +2.5% bonus Crit Damage for 10 seconds, stacking up to +25%. Taking fatal damage while having a bonus of at least 25% will grant a full heal, but Critical Retribution's bonus is reset and is placed on a 60 second cooldown.
           For each Void Armor piece, the Crit Damage cap is increased by 25% (100% bonus with 4/4 pieces).
+
+
+  - Gale Chestplate [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 8 Aether Fragments
+      +425 Health
+      +200 Defence
+      +25 Speed
+      +4% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Gale Leggings [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 7 Aether Fragments
+      +275 Health
+      +175 Defence
+      +25 Speed
+      +3.6% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Gale Boots [EPIC]
+    Requires Aelzer Level 5.
+    Recipe: 4 Aether Fragments
+      +150 Health
+      +150 Defence
+      +25 Speed
+      +2.4% Dodge Chance
+      Full Set Bonus - Gale Wings
+        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
+
+  - Surge Chestplate [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Chestplate + 20 Aether Fragments + 4 Wind Quintessences
+      +500 Health
+      +225 Defence
+      +30 Speed
+      +5% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Surge Leggings [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Leggings + 15 Aether Fragments + 4 Wind Quintessences
+      +350 Health
+      +200 Defence
+      +30 Speed
+      +4.6% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Surge Boots [LEGENDARY]
+    Requires Aelzer Level 6.
+    Recipe: Gale Boots + 10 Aether Fragments + 2 Wind Quintessences
+      +225 Health
+      +175 Defence
+      +30 Speed
+      +2.9% Dodge Chance
+      Full Set Bonus - Surge Wings
+        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
+
+  - Aether Chestplate [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Chestplate + 16 Wind Quintessences
+      +575 Health
+      +250 Defence
+      +35 Speed
+      +6% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Leggings [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Leggings + 14 Wind Quintessences
+      +425 Health
+      +225 Defence
+      +35 Speed
+      +5.6% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Boots [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: Surge Boots + 8 Wind Quintessences
+      +300 Health
+      +200 Defence
+      +35 Speed
+      +3.4% Dodge Chance
+      Full Set Bonus - Zephyr Wings
+        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
+
+  - Aether Crown [MYTHIC]
+    Requires Aelzer Level 7.
+    Recipe: 96 Aether Fragments + 30 Wind Quintessences + 2 Ethereal Jewels
+      +650 Health
+      +275 Defence
+      +40 Speed
+      +6% Dodge Chance
+      Piece Ability - Ethereal Guard
+        Passively, take 15% reduced damage from Aeren. While at maximum health, gain 5% bonus Strength and 15% bonus Crit Damage.
+      Piece Ability - Ranged Affinity
+        6% of arrow damage dealt is converted to a stackable shield, up to 15% of your maximum health. The shield shatters if you deal melee or magic damage.
+
+  - Crown of Ephemerality [SUPREME]
+    Requires Aelzer Level 8.
+    Recipe: Aether Crown + 8 Crystals of Ephemerality
+      +700 Health
+      +300 Defence
+      +45 Speed
+      +8% Dodge Chance
+      Piece Ability - Ephemeral Guard
+        Passively, take 20% reduced damage from Aeren. While at maximum health, gain 10% bonus Strength, 25% bonus Crit Damage, and 2% bonus Dodge Chance.
+      Piece Ability - Ranged Affinity
+        10% of arrow damage dealt is converted to a stackable shield, up to 20% of your maximum health. The shield shatters if you deal melee or magic damage.
+      Piece Ability - Devotion
+        While out of combat, convert 10% of your total shields into healing, every half second.
+
+  - Firefly's Skull [LEGENDARY]
+    Requires Aelzer Level 9.
+    Recipe: Blaze Hat + 2 Combustion Cores + 192 Charred Bones
+      +575 Health
+      +350 Defence
+      +200 Intelligence
+      +10 Spell Vamp
+      Piece Ability - Phoenix Guard
+        Passively, take 20% reduced damage from Tsra'ki. While burning, gain 10 bonus Intelligence every half-second, up to a maximum of 200. If extinguished, gain +10 Spell Vamp for 1.5 seconds.
+      Piece Ability - Blistering Strikes
+        6% of magic damage dealt builds up as Fury, lasting for up to 5 seconds out of combat. Casting a magic basic attack consumes half of your Fury to deal true damage over 2 seconds with 100% efficiency.
 
 
   - Hybrid Helmet [EPIC]
@@ -326,247 +568,7 @@ Armor
       +36 Strength
       +4.5 Life Steal
       Piece Bonus - Behemoth's Stomp
-        The Behemoth's Boots can replace the Ravager Leggings in the full set; buffing the effect.
+        The Behemoth's Boots can replace the Reaver Boots in the full set; buffing the effect.
         Hybrid Reavers deal 20% less damage. Killing a monster adds 8 Strength to your weapon for the next 10 seconds. Effect stacks, duration does not.
       Full Set Bonus - Hybrid Amalgamation
         While combined with the Dominator's Chestplate and the Prism's Leggings, convert 10% of your damage into true damage, against other Hybrid monsters.
-
-
-  - Talisman of Assimilation [RARE]
-    Requires Aelzer Level 12.
-    Recipe: 6 Ranger Fragments + 6 Caster Fragments + 6 Warrior Fragments
-      +11 Strength
-      RARE ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 5% rate of efficiency.
-
-  - Ring of Assimilation [EPIC]
-    Requires Aelzer Level 12.
-    Recipe: Talisman of Assimilation + 8 Hybrid Trifecta Fragments
-      +16 Strength
-      EPIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at an 11% rate of efficiency.
-
-  - Artifact of Assimilation [LEGENDARY]
-    Requires Aelzer Level 13.
-    Recipe: Ring of Assimilation + 32 Hybrid Trifecta Fragments
-      +22 Strength
-      LEGENDARY ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 20% rate of efficiency.
-
-  - Relic of Assimilation [MYTHIC]
-    Requires Aelzer Level 13.
-    Recipe: Artifact of Assimilation + 64 Hybrid Trifecta Fragments
-      +27 Strength
-      MYTHIC ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 32% rate of efficiency.
-
-  - Totem of Assimilation [SUPREME]
-    Requires Aelzer Level 14.
-    Recipe: Relic of Assimilation + 128 Hybrid Trifecta Fragments
-      +33 Strength
-      SUPREME ACCESSORY - Stat bonuses granted by levelling up your skills are multiplied and scale with your Aelzer level at a 50% rate of efficiency.
-
-
-  - Gale Chestplate [EPIC]
-    Requires Aelzer Level 5.
-    Recipe: 8 Aether Fragments
-      +425 Health
-      +200 Defence
-      +25 Speed
-      +4% Dodge Chance
-      Full Set Bonus - Gale Wings
-        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
-
-  - Gale Leggings [EPIC]
-    Requires Aelzer Level 5.
-    Recipe: 7 Aether Fragments
-      +275 Health
-      +175 Defence
-      +25 Speed
-      +3.6% Dodge Chance
-      Full Set Bonus - Gale Wings
-        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
-
-  - Gale Boots [EPIC]
-    Requires Aelzer Level 5.
-    Recipe: 7 Aether Fragments
-      +150 Health
-      +150 Defence
-      +25 Speed
-      +2.4% Dodge Chance
-      Full Set Bonus - Gale Wings
-        Gain 5% bonus Dodge Chance. Killing a monster grants 75 bonus Speed, decaying over 3 seconds.
-
-  - Surge Chestplate [LEGENDARY]
-    Requires Aelzer Level 6.
-    Recipe: Gale Chestplate + 20 Aether Fragments + 4 Wind Quintessences
-      +500 Health
-      +225 Defence
-      +30 Speed
-      +5% Dodge Chance
-      Full Set Bonus - Surge Wings
-        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
-
-  - Surge Leggings [LEGENDARY]
-    Requires Aelzer Level 6.
-    Recipe: Gale Leggings + 15 Aether Fragments + 4 Wind Quintessences
-      +350 Health
-      +200 Defence
-      +30 Speed
-      +4.6% Dodge Chance
-      Full Set Bonus - Surge Wings
-        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
-
-  - Surge Boots [LEGENDARY]
-    Requires Aelzer Level 6.
-    Recipe: Gale Boots + 10 Aether Fragments + 2 Wind Quintessences
-      +225 Health
-      +175 Defence
-      +30 Speed
-      +2.9% Dodge Chance
-      Full Set Bonus - Surge Wings
-        Gain 7% bonus Dodge Chance. Killing a monster grants 75 bonus Speed and 30 bonus Crit Damage, decaying over 3 seconds.
-
-  - Aether Chestplate [MYTHIC]
-    Requires Aelzer Level 7.
-    Recipe: Surge Chestplate + 16 Wind Quintessences
-      +575 Health
-      +250 Defence
-      +35 Speed
-      +6% Dodge Chance
-      Full Set Bonus - Zephyr Wings
-        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
-
-  - Aether Leggings [MYTHIC]
-    Requires Aelzer Level 7.
-    Recipe: Surge Leggings + 14 Wind Quintessences
-      +425 Health
-      +225 Defence
-      +35 Speed
-      +5.6% Dodge Chance
-      Full Set Bonus - Zephyr Wings
-        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
-
-  - Aether Boots [MYTHIC]
-    Requires Aelzer Level 7.
-    Recipe: Surge Boots + 8 Wind Quintessences
-      +300 Health
-      +200 Defence
-      +35 Speed
-      +3.4% Dodge Chance
-      Full Set Bonus - Zephyr Wings
-        Gain 9% bonus Dodge Chance. Killing a monster grants 90 bonus Speed, 45 bonus Crit Damage and 30 bonus Strength, decaying over 3 seconds.
-
-  - Aether Bow [MYTHIC]
-    Requires Aelzer Level 7.
-    Recipe: Hurricane Bow + 35 Wind Quintessences + Ethereal Jewel
-      +350 Damage
-      +170 Strength
-      +100% Crit Damage
-      Item Passive - Untouchable
-        Passively, every monster hit by every arrow grants 3 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
-      Item Ability - Chilled Core LEFT CLICK
-        Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
-        Mana Cost: 175
-        Cooldown: 30s
-
-  - Aether Crown [MYTHIC]
-    Requires Aelzer Level 7.
-    Recipe: 96 Aether Fragments + 30 Wind Quintessences + 2 Ethereal Jewels
-      +650 Health
-      +275 Defence
-      +40 Speed
-      +6% Dodge Chance
-      Piece Ability - Ethereal Guard
-        Passively, take 15% reduced damage from Aeren. While at maximum health, gain 5% bonus Strength and 15% bonus Crit Damage.
-      Piece Ability - Ranged Affinity
-        6% of arrow damage dealt is converted to a stackable shield, up to 15% of your maximum health. The shield shatters if you deal melee or magic damage.
-
-  - Crown of Ephemerality [SUPREME]
-    Requires Aelzer Level 8.
-    Recipe: Aether Crown + 8 Crystals of Ephemerality
-      +700 Health
-      +300 Defence
-      +45 Speed
-      +8% Dodge Chance
-      Piece Ability - Ephemeral Guard
-        Passively, take 20% reduced damage from Aeren. While at maximum health, gain 10% bonus Strength, 25% bonus Crit Damage, and 2% bonus Dodge Chance.
-      Piece Ability - Ranged Affinity
-        10% of arrow damage dealt is converted to a stackable shield, up to 20% of your maximum health. The shield shatters if you deal melee or magic damage.
-      Piece Ability - Devotion
-        While out of combat, convert 10% of your total shields into healing, every half second.
-
-
-  - Scorching Ring [EPIC]
-    Requires Aelzer Level 8.
-    Recipe: 16 Charred Bones
-      +2 Strength
-      Grants +7 Speed while on fire.
-
-  - Scorching Artifact [LEGENDARY]
-    Requires Aelzer Level 9.
-    Recipe: Scorching Ring + 84 Charred Bones + Combustion Core
-      +4 Strength
-      Grants +12 Speed while on fire.
-
-  - Scorching Relic [MYTHIC]
-    Requires Aelzer Level 10.
-    Recipe: Scorching Artifact + 448 Charred Bones + 3 Combustion Cores
-      +6 Strength
-      Grants +18 Speed while on fire.
-
-  - Firefly's Skull [LEGENDARY]
-    Requires Aelzer Level 9.
-    Recipe: Blaze Hat + 2 Combustion Cores + 192 Charred Bones
-      +575 Health
-      +350 Defence
-      +200 Intelligence
-      +10 Spell Vamp
-      Piece Ability - Phoenix Guard
-        Passively, take 20% reduced damage from Tsra'ki. While burning, gain 10 bonus Intelligence every half-second, up to a maximum of 200. If extinguished, gain +10 Spell Vamp for 1.5 seconds.
-      Piece Ability - Blistering Strikes
-        6% of magic damage dealt builds up as Fury, lasting for up to 5 seconds out of combat. Casting a magic basic attack consumes half of your Fury to deal true damage over 2 seconds with 100% efficiency.
-
-  - Devil Tooth [LEGENDARY]
-    Requires Aelzer Level 10.
-    Recipe: Combustion Core + 2 Infernal Relics
-      +25 Damage
-      +250 Intelligence
-      Item Passive - Fuel the Fire
-        Passively, each Tsra'ki kill increases the weapon damage of all Devil's Teeth in your inventory by 1. At +250 bonus, the Devil Tooth is applied with Sharded, causing any reforge on it to double.
-      Item Passive - Overwhelm
-        Gain +3 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +300 Strength (at 50% over).
-
-  - Duskfire Blade [MYTHIC]
-    Requires Aelzer Level 12.
-    Recipe: 6 Infernal Relics + 3 Sharded Devil Teeth
-      +325 Damage
-      +100 Strength
-      +300 Intelligence
-      Item Passive - Fission Blade
-        Passively, gain +75 weapon damage and +25 Speed while within 16 blocks of Tsra'ki. Reforge bonuses on this weapon are increased by 150%.
-      Item Passive - Incineration Zone
-        While holding the Duskfire Blade, you create a 6 block aura around you. Monsters inside this aura are set on fire, and you gain +100 Strength against them.
-      Item Passive - Overwhelm
-        Gain +4 Strength for every 0.5% of max HP you are above your target (e.g. 60% vs 30% max HP). Maximum +400 Strength (at 50% over).
-
-  - Volcanic Staff [MYTHIC]
-    Requires Aelzer Level 11.
-    Recipe: 3 Incendiary Shards
-      +300 Damage
-      +400 Intelligence
-      Item Ability - Ember Fragmentation SNEAK + RIGHT CLICK
-        Right clicking while sneaking cycles through available spells. Deal 10% bonus damage against targets on fire.
-      Item Ability - Cast Spell RIGHT CLICK
-        Cast an active spell, selected using Ember Fragmentation.
-      Spells:
-        - Ignition Rake:
-          Shoot three fireballs in a cone shape, in the target direction. Each fireball deals [6000 + 40x Intelligence] damage and sets them on fire for 4 seconds.
-          Mana Cost: 300
-          Cooldown: 3s
-        - Ring of Fire:
-          Toggleable spell. Can remain active while another spell is selected.
-          Create a ring of flames that swirl around you, damaging monsters within 3 blocks for [6000 + 15x Intelligence] damage every second.
-          Mana Cost: 150/s
-          Cooldown: N/A
-        - Extinguish:
-          Targets on fire within 7 blocks are extinguished, but take 100x your Intelligence as damage, instantly.
-          Extinguish deals 50% more damage against targets that have been burning for at least 4 seconds.
-          Mana Cost: 450
-          Cooldown: 10s
