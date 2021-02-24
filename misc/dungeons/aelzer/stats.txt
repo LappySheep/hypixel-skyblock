@@ -34,3 +34,15 @@ Spell Vamp
     Formula:
     r = d / (10000 / S)
   Hard-capped at 1,000.
+
+Tenacity
+  Reduces the duration of all enemy non-stun crowd control that affect you.
+    Formula:
+    d = t * (100 / (T+100))
+  E.g. 50 Tenacity = 9 second slow -> 6 second slow
+
+Swiftness
+  Reduces the potency of all enemy non-stun crowd control that affect you.
+    Formula:
+    d = s * (100 / (S+100))
+  E.g. 50 Swiftness = 75% reduced healing -> 50% reduced healing
