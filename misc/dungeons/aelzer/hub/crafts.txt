@@ -102,7 +102,7 @@ Weapons
       Item Passive - Salt in the Wound
         Targets marked from Shardsplitter take 66% bonus damage as a 3-second bleed. Duration stacks, damage does not.
       Item Ability - Shardsplitter RIGHT CLICK
-        Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% Weapon Damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
+        Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% melee damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
         Cooldown: 90s
           Cooldown is reduced by 6 seconds on each hit.
 
@@ -118,6 +118,7 @@ Weapons
         Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
         Mana Cost: 175
         Cooldown: 30s
+
 
   - Devil Tooth [LEGENDARY]
     Requires Aelzer Level 10.
