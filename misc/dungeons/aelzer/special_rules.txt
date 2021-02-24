@@ -3,6 +3,10 @@ Special Rules of the Aelzerian Rift
 - Items acquired outside of the Aelzerian Rift can be converted to Aelzerian items to grant a dungeons stat bonus when applicable.
 - Aelzerian items do not get their dungeons stat bonus when used outside of Aelzer.
 - Health regeneration excludes life steal, vampirism etc, until special upgrades are unlocked.
+  Exceptions:
+    - Healer Classes (+subclasses)
+    - Life Steal Stat
+    - Spell Vamp Stat
 - Aiming is disabled in the Aelzerian Rift.
 - Explosive Bows are disabled in the Aelzerian Rift.
 - Cannot warp to private island while in the Aelzerian Rift.
