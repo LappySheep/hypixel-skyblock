@@ -226,3 +226,25 @@ Classes:
         - Orbital Strike (Ultimate Dungeon Orb Ability):
           Shoot a flare in the target direction. The flare sticks on to the first enemy or block that it touches. After 2 seconds, call down 6 blasts of energy from the sky, dealing [(75 * Lvl) + 1000]% of your Defence as damage per blast, and reducing enemy Defence and True Defence by 33% for 5 seconds.
             Cooldown: 300s (reduced by 4s on each kill, reduced by 15s for each strike that successfully hits a target)
+
+
+
+  - Healer:
+    Healing Support Specialist.
+    Passive Bonuses:
+      - Gain [(Lvl * 6) + 50] bonus Health.
+    Abilities:
+      - Self Sustainability (Passive):
+        Regenerate [(0.06 * Lvl) + 1]% of your maximum health per second.
+      - Regeneration Aura (Passive):
+        20% of the health you restore is healed for allies within 12 blocks.
+      - Hopeful Blades (Passive):
+        You restore 1% of your missing health back whenever you or an ally within 8 blocks kills an enemy monster.
+      - Circle of Healing (Basic Dungeon Orb Ability):
+        You shoot a beam in the target direction. The beam creates a 6 block radius circle for the next 5 seconds, which applies Self Sustainability to everyone in the range. Circle of Healing applies Regeneration Aura as well.
+        If you sneak, Circle of Healing applies directly under you and triggers instantly.
+          Cooldown: 15s
+      - Last Stand (Ultimate Dungeon Orb Ability):
+        Instantly restore health back equal to 30 seconds worth of Self Sustainability to you and allies within 6 blocks. Additionally, reduce damage taken by 12% on the next 5 hits, gain 25 bonus Tenacity, and 25 bonus Swiftness. This lasts for the next 10 seconds.
+        Last Stand's base cooldown is reduced by 15% (stacks additively) for each ally (excluding you, max 60% reduction) healed from below 25% maximum health.
+          Cooldown: 300s (reduced by 2s every time you heal an ally)
