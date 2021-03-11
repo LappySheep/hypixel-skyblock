@@ -1,0 +1,19 @@
+Refined Tantalite [EPIC]
+  Forge Recipe: 16 Enchanted Tantalite + 4 Treasurite + Refined Mithril
+  Forging Time: 8h
+
+Refined Iridite [EPIC]
+  Forge Recipe: 14 Enchanted Iridite + 8 Treasurite + 3 Refined Mithril
+  Forging Time: 10h
+
+Refined Chromite [LEGENDARY]
+  Forge Recipe: 12 Enchanted Chromite + 14 Treasurite + 6 Refined Mithril
+  Forging Time: 12h
+
+Refined Tungstite [LEGENDARY]
+  Forge Recipe: 10 Enchanted Tungstite + 22 Treasurite + 10 Refined Mithril
+  Forging Time: 14h
+
+Refined Lustrite [MYTHIC]
+  Forge Recipe: 8 Enchanted Lustrite + 32 Treasurite + 15 Refined Mithril
+  Forging Time: 16h
