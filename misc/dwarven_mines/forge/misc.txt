@@ -1,8 +1,10 @@
 8 Bottles of Corrosion [RARE]
-  Forge Recipe: 8 Acidic Solutions + Refined Tantalite
-  Forging Time: 4h
-  Throw the bottle at a location to create a corroded region (3 block radius). For the next 5 seconds, Mining Speed is increased by 7.5% against corroded blocks.
-  Upgrades:
-    Radius: 3 blocks -> 3.5/4.5/6 blocks (Gunpowder / Enchanted Gunpowder / Enchanted Firework)
-    Duration: 5s -> 7.5/15/60s (Redstone Dust / Enchanted Redstone / Enchanted Redstone Block)
-    Mining Speed Increase: 7.5% -> 20/50/100% (Glowstone Dust / Enchanted Glowstone / Enchanted Glowstone Block)
+  Forge Recipe: 4 Acidic Solutions + Refined Mithril
+    Optional:
+      - Add (up to 6) Refined Tantalum to increase the amount of bottles forged per slot by 4 each.
+  Forging Time: 2h
+  Throw the bottle at a location to create a corroded region (2 block radius). For the next 4 seconds, Mining Speed is increased by 5% against corroded blocks.
+  Upgrades (BoCs can stack in brewing stands):
+    Radius: 2 blocks -> 2.5/4/6.5 blocks (Gunpowder / Enchanted Gunpowder / Enchanted Firework)
+    Duration: 4s -> 7/20/80s (Redstone Dust / Enchanted Redstone / Enchanted Redstone Block)
+    Mining Speed Increase: 5% -> 20/50/90% (Glowstone Dust / Enchanted Glowstone / Enchanted Glowstone Block)
