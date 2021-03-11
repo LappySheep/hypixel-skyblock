@@ -17,3 +17,19 @@ Refined Tungstite [LEGENDARY]
 Refined Lustrite [MYTHIC]
   Forge Recipe: 8 Enchanted Lustrite + 32 Treasurite + 15 Refined Mithril
   Forging Time: 16h
+
+Acidic Solution [EPIC]
+  Forge Recipe: 4 Enchanted Lava Buckets + 12 Plasma + 6 Enchanted Tantalite
+  Forging Time: 6h
+
+Fragile Concentrated Mineral [EPIC]
+  Forge Recipe: 12 Treasurite + 6 Refined Diamonds + 4 Refined Mithril + 3 Refined Titanium + Acidic Solution
+  Forging Time: 16h
+
+Dense Concentrated Mineral [LEGENDARY]
+  Forge Recipe: Fragile Concentrated Mineral + 36 Treasurite + 4 Refined Tantalite
+  Forging Time: 24h
+
+Greater Concentrated Mineral [LEGENDARY]
+  Forge Recipe: Dense Concentrated Mineral + 72 Treasurite + 2 Refined Iridite
+  Forging Time: 1d 12h (36h)
