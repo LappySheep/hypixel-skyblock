@@ -1,0 +1,4 @@
+Efficient Miner:
+  - Can no longer mine blocks with a higher Breaking Power requirement than the one initially mined.
+  - 10% base chance + 0.15% per level
+  - 1 adjacent block (2 at level 50, 3 at level 100)
