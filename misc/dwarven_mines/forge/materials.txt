@@ -22,14 +22,26 @@ Acidic Solution [EPIC]
   Forge Recipe: 4 Enchanted Lava Buckets + 12 Plasma + 6 Enchanted Tantalite
   Forging Time: 6h
 
-Fragile Concentrated Mineral [EPIC]
+Fragile Jewel [RARE]
   Forge Recipe: 12 Treasurite + 6 Refined Diamonds + 4 Refined Mithril + 3 Refined Titanium + Acidic Solution
-  Forging Time: 16h
+  Forging Time: 3h
 
-Dense Concentrated Mineral [LEGENDARY]
-  Forge Recipe: Fragile Concentrated Mineral + 36 Treasurite + 4 Refined Tantalite
-  Forging Time: 24h
+Dense Jewel [EPIC]
+  Forge Recipe: 2 Fragile Jewels + 8 Refined Tantalite
+  Forging Time: 4h
 
-Greater Concentrated Mineral [LEGENDARY]
-  Forge Recipe: Dense Concentrated Mineral + 72 Treasurite + 2 Refined Iridite
-  Forging Time: 1d 12h (36h)
+Greater Jewel [EPIC]
+  Forge Recipe: 2 Dense Jewels + 8 Refined Iridite
+  Forging Time: 5h
+
+Resistant Jewel [LEGENDARY]
+  Forge Recipe: 3 Greater Jewels + 6 Refined Chromite
+  Forging Time: 6h
+
+Refined Jewel [LEGENDARY]
+  Forge Recipe: 3 Resistant Jewels + 6 Refined Chromite
+  Forging Time: 7h
+
+Jewel of Perfection [MYTHIC]
+  Forge Recipe: 4 Refined Jewels + 4 Refined Lustrite
+  Forging Time: 8h
