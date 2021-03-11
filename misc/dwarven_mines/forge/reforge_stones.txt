@@ -1,0 +1,9 @@
+Titanium Liquifier [EPIC]
+  Forge Recipe: 2 Acidic Solutions + Golden Plate
+  Forging Time: 1d (24h)
+  Reforge Stone. Use in a Reforge Anvil with a pickaxe or drill to reforge it with Liquifying.
+    Effect:
+      Mining Speed: +5/10/15/20/25/30
+      Mining Fortune: +10/20/30/40/50/60
+
+      Liquifying Bonus: Gain +50 Mining Speed while mining Titanium. Gain +10 Mining Fortune while mining anything requiring 6 Breaking Power.
