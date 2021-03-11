@@ -1,4 +1,4 @@
-Bottle of Corrosion [RARE]
+8 Bottles of Corrosion [RARE]
   Forge Recipe: 8 Acidic Solutions + Refined Tantalite
   Forging Time: 4h
   Throw the bottle at a location to create a corroded region (3 block radius). For the next 5 seconds, Mining Speed is increased by 7.5% against corroded blocks.
