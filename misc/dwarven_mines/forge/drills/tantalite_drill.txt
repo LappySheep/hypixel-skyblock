@@ -1,0 +1,11 @@
+Tantalum Drill TM-L137 [RARE]
+  Forge Recipe: Drill Engine + Fuel Tank + 5 Mithril Plates + 8 Refined Tantalum
+  Forging Time: 2d 2h (50h)
+  +750 Mining Speed
+  +60 Mining Fortune
+  +90 Damage
+  Breaking Power 6
+  Item Ability - Anti-Corrosive Specificity SNEAK
+    Activate to enable/disable the Anti-Corrosive meter of your drill.
+    By default, the meter is disabled.
+    When enabled, increase the Breaking Power of the drill by 1 (enabling it to mine Tantalite), but mining any non-Tantalite ore will cost double the drill fuel.
