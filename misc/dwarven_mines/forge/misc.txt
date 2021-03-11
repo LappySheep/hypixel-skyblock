@@ -1,7 +1,12 @@
+Upgrade Perfector [RARE]
+  Forge Recipe: 64 Enchanted Glowstone + 48 Enchanted Redstone + 48 Enchanted Gunpowder + Refined Mithril
+  Forging Time: 2h
+  Used to count as an Enchanted Glowstone Block, Enchanted Redstone Block, and an Enchanted Firework, all in one go.
+
 8 Bottles of Corrosion [RARE]
-  Forge Recipe: 4 Acidic Solutions + Refined Mithril
+  Forge Recipe: 4 Acidic Solutions + 2 Refined Mithril
     Optional:
-      - Add (up to 6) Refined Tantalum to increase the amount of bottles forged per slot by 4 each.
+      - Add 5 Refined Mithril (up to 6 times) to increase the amount of bottles forged per slot by 4 each.
   Forging Time: 2h
   Throw the bottle at a location to create a corroded region (2 block radius). For the next 4 seconds, Mining Speed is increased by 5% against corroded blocks.
   Upgrades (BoCs can stack in brewing stands):
