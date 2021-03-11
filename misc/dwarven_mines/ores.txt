@@ -1,0 +1,44 @@
+- Tantalite (4tick Mining Speed Cap - 8,000) (Rare)
+  Breaking Power Requirement: 6
+  Requires Mining 35.
+    Base Drop: 1
+    Base Mining Exp: 180
+    Specials:
+      - Mined Tantalite counts for 2 Drill Fuel each.
+      - Tantalite cannot be weakened with Bottle of Corrosion.
+
+- Iridite (4tick Mining Speed Cap - 15,000) (Rare)
+  Breaking Power Requirement: 7
+  Requires Mining 42.
+    Base Drop: 1
+    Base Mining Exp: 265
+    Specials:
+      - Mined Iridite counts for 3 Drill Fuel each.
+      - Iridite is unaffected by X-Ray technology.
+
+- Chromite (4tick Mining Speed Cap - 27,000) (Epic)
+  Breaking Power Requirement: 8
+  Requires Mining 48.
+    Base Drop: 0.7
+    Base Mining Exp: 355
+    Specials:
+      - Mined Chromite counts for 5 Drill Fuel each.
+      - Mining Chromite (as the main block) breaks Efficient Miner.
+
+- Tungstite (4tick Mining Speed Cap - 43,500) (Epic)
+  Breaking Power Requirement: 9
+  Requires Mining 53.
+    Base Drop: 0.5
+    Base Mining Exp: 450
+    Specials:
+      - Mined Tungstite counts for 7 Drill Fuel each.
+      - Consecutive Tungstite mined reduces your Mining Speed by 4% (additively) as an overheat effect which decays over 3 seconds after mining non-Tungstite. Maximum -80% speed.
+
+- Lustrite (4tick Mining Speed Cap - 64,000) (Legendary)
+  Breaking Power Requirement: 10
+  Requires Mining 57.
+    Base Drop: 0.4
+    Base Mining Exp: 550
+    Specials:
+      - Mined Lustrite counts for 10 Drill Fuel each.
+      - Lustrite has a 75% chance of disabling your mining tool after being mined, for up to 8 seconds.
