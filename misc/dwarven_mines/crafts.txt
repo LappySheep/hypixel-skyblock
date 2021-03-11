@@ -1,0 +1,15 @@
+Ores:
+  Enchanted Tantalite [RARE]
+    Recipe: 160 Tantalite
+
+  Enchanted Iridite [RARE]
+    Recipe: 160 Iridite
+
+  Enchanted Chromite [EPIC]
+    Recipe: 160 Chromite
+
+  Enchanted Tungstite [EPIC]
+    Recipe: 160 Tungstite
+
+  Enchanted Lustrite [LEGENDARY]
+    Recipe: 160 Lustrite
