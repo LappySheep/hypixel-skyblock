@@ -8,3 +8,16 @@ Titanium Liquifier [EPIC]
       Mining Fortune: +10/20/30/40/50/60
 
       Liquifying Bonus: Gain +50 Mining Speed while mining Titanium. Gain +10 Mining Fortune while mining anything requiring 6 Breaking Power.
+
+Glacial Shard [EPIC]
+  Requires Heart of the Mountain Tier 7.
+  Forge Recipe: 4 Glacial Crystals + 4 Power Crystals + 4 Refined Tantalite
+  Forging Time: 1d (24h)
+  Reforge Stone. Use in a Reforge Anvil with a melee weapon or mining tool to reforge it with Preserved.
+    Effect:
+      Damage: +10/18/25/33/40/48
+      Intelligence: +30/50/70/90/110/130
+      Crit Chance: -10/8.5/7/5.5/4/2.5%
+
+      Preserved Bonus (melee weapon): Killing a Ghost deals damage to other Ghosts within 6 blocks, equal to 33% of your melee damage.
+      Preserved Bonus (mining tool): Mining ores within 12 blocks of any Ghost restores half of your missing health back (1s cd).
