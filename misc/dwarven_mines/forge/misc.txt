@@ -1,9 +1,11 @@
 Upgrade Perfector [RARE]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: 64 Enchanted Glowstone + 48 Enchanted Redstone + 48 Enchanted Gunpowder + Refined Mithril
   Forging Time: 2h
   Used to count as an Enchanted Glowstone Block, Enchanted Redstone Block, and an Enchanted Firework, all in one go.
 
 8 Bottles of Corrosion [RARE]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: 4 Acidic Solutions + 2 Refined Mithril
     Optional:
       - Add 5 Refined Mithril (up to 6 times) to increase the amount of bottles forged per slot by 4 each.
@@ -13,3 +15,13 @@ Upgrade Perfector [RARE]
     Radius: 2 blocks -> 2.5/4/6.5 blocks (Gunpowder / Enchanted Gunpowder / Enchanted Firework)
     Duration: 4s -> 7/20/80s (Redstone Dust / Enchanted Redstone / Enchanted Redstone Block)
     Mining Speed Increase: 5% -> 20/50/90% (Glowstone Dust / Enchanted Glowstone / Enchanted Glowstone Block)
+
+
+Ore Concealer [LEGENDARY]
+  Requires Heart of the Mountain Tier 7.
+  Forge Recipe: 56 Sorrows + Ghostly Boots + Refined Tantalite
+  Forging Time: 1d 8h (32h)
+    Toggle to conceal/reveal your Special Ores (Tantalite+).
+    Default: Revealed
+    While concealed, your Special Ores will only show on the client-side.
+    Cooldown: 60s
