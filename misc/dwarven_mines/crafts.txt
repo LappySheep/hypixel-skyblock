@@ -1,15 +1,21 @@
-Ores:
-  Enchanted Tantalite [RARE]
-    Recipe: 160 Tantalite
+Enchanted Tantalite [RARE]
+  Recipe: 160 Tantalite
 
-  Enchanted Iridite [RARE]
-    Recipe: 160 Iridite
+Enchanted Iridite [RARE]
+  Recipe: 160 Iridite
 
-  Enchanted Chromite [EPIC]
-    Recipe: 160 Chromite
+Enchanted Chromite [EPIC]
+  Recipe: 160 Chromite
 
-  Enchanted Tungstite [EPIC]
-    Recipe: 160 Tungstite
+Enchanted Tungstite [EPIC]
+  Recipe: 160 Tungstite
 
-  Enchanted Lustrite [LEGENDARY]
-    Recipe: 160 Lustrite
+Enchanted Lustrite [LEGENDARY]
+  Recipe: 160 Lustrite
+
+
+Glacite Jewel [RARE]
+  Recipe: 160 Glacite Particulates
+
+Glacial Crystal [EPIC]
+  Recipe: 160 Glacite Jewels
