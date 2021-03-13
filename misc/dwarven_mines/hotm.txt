@@ -1,0 +1,155 @@
+Upon unlocking Tier 5 of your Heart of the Mountain, commissions will no longer give HotM Exp and instead give Renown.
+Only some commissions give Renown. Additionally, commissions now have a counter for how many times a specific one has been finished. At milestones, you may receive bonus rewards.
+Renown is used to further unlock HotM Tiers and unlock new - more challenging - commissions and quests.
+New/special commissions give the usual Mithril Powder and Mining Exp rewards too.
+
+
+Heart of the Mountain Tiers:
+  Tier 6: Costs 10 Renown (total 10 so far)
+  Tier 7: Costs 60 Renown (total 70 so far)
+  Tier 8: Costs 300 Renown (total 370 so far)
+  Tier 9: Costs 1,200 Renown (total 1,570 so far)
+  Tier 10: Costs 4,250 Renown (total 5,820 so far)
+  Tier 11: Costs 12,500 Renown (total 18,320 so far)
+  Tier 12: Costs 37,500 Renown (total 55,820 so far)
+  Tier 13: Costs 80,000 Renown (total 135,820 so far)
+  Tier P: Costs 125,000 Renown (total 260,820 so far)
+
+
+Standard Renown Commissions:
+  - Mithril Miner
+    Mine 800 Mithril Ores.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 50 Completions -> Gain +20 Mining Speed while mining Mithril.
+      - 250 Completions -> Gain +35 Mining Speed while mining Mithril.
+      - 750 Completions -> Gain +50 Mining Speed while mining Mithril.
+
+  - Titanium Miner
+    Mine 40 Titanium Ores.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 50 Completions -> Gain +20 Mining Speed while mining Titanium.
+      - 250 Completions -> Gain +35 Mining Speed while mining Titanium.
+      - 750 Completions -> Gain +50 Mining Speed while mining Titanium.
+
+  - Star Sentry Puncher
+    Damage Star Sentries 20 times.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 20 Completions -> Fallen Stars increase powder gains from mined Mithril within 16 blocks by 5%
+      - 100 Completions -> Fallen Stars increase powder gains from mined Mithril within 16 blocks by 10%
+      - 300 Completions -> Fallen Stars increase powder gains from mined Mithril within 16 blocks by 15%
+
+  - Goblin Killer
+    Kill 350 Goblins.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 20 Completions -> Goblin Eggs have a 10% increased chance of spawning a Golden Goblin.
+      - 100 Completions -> Goblin Eggs have a 20% increased chance of spawning a Golden Goblin.
+      - 300 Completions -> Goblin Eggs have a 30% increased chance of spawning a Golden Goblin.
+
+  - Ice Walker Killer
+    Kill 150 Ice Walkers.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 20 Completions -> Ice Walker respawn locations spawn walkers 20% more frequently.
+      - 100 Completions -> Ice Walker respawn locations spawn walkers 35% more frequently.
+      - 300 Completions -> Ice Walker respawn locations spawn walkers 50% more frequently.
+
+
+New Renown Commissions:
+  - Ghast Slayer
+    Last-hit 2 Powder Ghasts.
+    Unlock Cost: 5 Renown
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 1
+    Counter Milestones:
+      - 10 Completions -> Powder Ghasts drop 5% more Mithril Powder.
+      - 50 Completions -> Powder Ghasts drop 10% more Mithril Powder.
+      - 150 Completions -> Powder Ghasts drop 15% more Mithril Powder.
+
+  - Tantalite Miner
+    Mine 10 Tantalite Ores.
+    Unlock Cost: 12 Renown + 8 Tantalite
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 2
+    Counter Milestones:
+      - 10 Completions -> Tantalite Ores have a 33.3% increased base chance of appearing from blocks you mine (0.133%).
+      - 50 Completions -> Tantalite Ores have a 66.6% increased base chance of appearing from blocks you mine (0.166%).
+      - 150 Completions -> Tantalite Ores have a 100% increased base chance of appearing from blocks you mine (0.2%).
+
+  - Mist Explorer
+    Travel a total of 1,000 blocks while in The Mist.
+    Unlock Cost: 12 Renown + 32 Plasma
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 2
+    Counter Milestones:
+      - 20 Completions -> Ghosts within 8 blocks take 10% longer to deal damage to you.
+      - 75 Completions -> Ghosts within 10 blocks take 15% longer to deal damage to you.
+      - 200 Completions -> Ghosts within 12 blocks take 20% longer to deal damage to you.
+
+  - Ghost Busters
+    Kill 50 Ghosts.
+    Unlock Cost: 15 Renown + 16 Sorrows
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 2.2
+    Counter Milestones:
+      - 20 Completions -> Sorrows have a 15% increased chance of dropping.
+      - 75 Completions -> Sorrows have a 20% increased chance of dropping.
+      - 200 Completions -> Sorrows have a 25% increased chance of dropping. Unlock the Edible Sorrow recipe.
+        Edible Sorrow
+          Recipe: Sorrow + 5 Enchanted Charcoal + 30 Enchanted Ghast Tears
+          Consume to gain +2% Magic Find and +2% Pet Luck for 5 minutes.
+          Consuming Edible Sorrows while the effect is already active will not refresh the timer, but increase the bonus by 0.5% additively (max +3% bonus)
+
+  - Titanium Driller
+    Use any Drill to mine 75 Titanium Ores.
+    Unlock Cost: 24 Renown + 2 Refined Titanium
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 3.5
+    Counter Milestones:
+      - 15 Completions -> Refined Titanium has a 5% chance of forging two for the same cost.
+      - 50 Completions -> Refined Titanium has a 10% chance of forging two for the same cost.
+      - 135 Completions -> Refined Titanium has a 15% chance of forging two for the same cost.
+
+  - Mithril Driller
+    Use any Drill to mine 1,500 Mithril Ores.
+    Unlock Cost: 24 Renown + 4 Refined Mithril
+    Requires Heart of the Mountain Tier 6.
+    Base Renown Reward: 3.5
+    Counter Milestones:
+      - 15 Completions -> Gain +25 Mining Fortune while mining Mithril Ore.
+      - 50 Completions -> Gain +50 Mining Fortune while mining Mithril Ore.
+      - 135 Completions -> Gain +75 Mining Fortune while mining Mithril Ore.
+
+
+  - Shooting Stars
+    Shoot a Star with an arrow before it lands on the surface.
+    Unlock Cost: 35 Renown + 12 Petrified Starfall
+    Requires Heart of the Mountain Tier 7.
+    Base Renown Reward: 5.75
+    Counter Milestones:
+      - 5 Completions -> Fallen Stars near you increase the rate of spawning of Special Ores (Tantalite+) by 1.5%.
+      - 20 Completions -> Fallen Stars near you increase the rate of spawning of Special Ores (Tantalite+) by 3.25%.
+      - 65 Completions -> Fallen Stars near you increase the rate of spawning of Special Ores (Tantalite+) by 5%.
+
+  - Glacial Mist Miner
+    Mine 100 Glacial Ores in the Mist.
+    Unlock Cost: 25 Renown + 48 Plasma + 32 Glacite Jewels
+    Requires Heart of the Mountain Tier 7.
+    Base Renown Reward: 4
+    Counter Milestones:
+      - 10 Completions -> Gain +20 Mining Speed while in The Mist.
+      - 45 Completions -> Gain +60 Mining Speed while in The Mist.
+      - 150 Completions -> Gain +100 Mining Speed while in The Mist. While within 6 blocks of any Glacial Ores, you cannot attack Ghosts and vice versa.
+
+  - Mithril Hoarder
+    Increase your Mithril Collection by 5,120.
+    Unlock Cost: 30 Renown + 8 Refined Mithril
+    Requires Heart of the Mountain Tier 7.
+    Base Renown Reward: 4.5
+    Counter Milestones:
+      - 20 Completions -> Increase your Speed Cap by 5 (stackable) while in the Dwarven Mines.
+      - 75 Completions -> Increase your Speed Cap by 10 (stackable) while in the Dwarven Mines.
+      - 200 Completions -> Increase your Speed Cap by 20 (stackable) while in the Dwarven Mines.
