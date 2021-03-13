@@ -1,4 +1,5 @@
 Titanium Liquifier [EPIC]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: 2 Acidic Solutions + Golden Plate
   Forging Time: 1d (24h)
   Reforge Stone. Use in a Reforge Anvil with a pickaxe or drill to reforge it with Liquifying.
