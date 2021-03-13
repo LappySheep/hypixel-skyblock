@@ -1,4 +1,5 @@
 Tantalum Drill TM-L137 [RARE]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: Drill Engine + Fuel Tank + 5 Mithril Plates + 8 Refined Tantalum
   Forging Time: 2d 2h (50h)
   +750 Mining Speed
