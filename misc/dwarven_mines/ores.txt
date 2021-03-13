@@ -3,6 +3,17 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
 
 
 
+- Glacial Ore (4tick Mining Speed Cap - 2,000) (Rare)
+  Breaking Power Requirement: 0
+  Requires Mining 30.
+    Base Drop: 2.5 Glacite Particulates
+    Base Mining Exp: 80
+    Specials:
+      - 5% chance of dropping 1 Glacite Jewel (increased by Mining Fortune).
+      - Takes 12 seconds to respawn, but respawns 4x as fast while any Ghost is within 24 blocks.
+    Requires a Frozen Pickaxe or higher to mine.
+
+
 - Tantalite (4tick Mining Speed Cap - 8,000) (Rare)
   Breaking Power Requirement: 6
   Requires Mining 35.
