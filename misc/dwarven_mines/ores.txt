@@ -1,3 +1,8 @@
+By default, special ores are server-side and other players can see ones that you spawn.
+At HotM 7, you can purchase an Ore Concealer which allows you to keep special ores that you spawn to only your client.
+
+
+
 - Tantalite (4tick Mining Speed Cap - 8,000) (Rare)
   Breaking Power Requirement: 6
   Requires Mining 35.
