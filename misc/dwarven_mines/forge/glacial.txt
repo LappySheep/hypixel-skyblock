@@ -1,0 +1,64 @@
+Frozen Pickaxe [UNCOMMON]
+  Requires Heart of the Mountain Tier 6.
+  Forge Recipe: 2 Bejeweled Handles + 48 Glacite Jewels
+  Forging Time: 1h
+  +150 Mining Speed
+  +30 Mining Fortune
+  +60 Damage
+  Breaking Power 4
+  Item Passive - Cold Augmentation
+    This pickaxe is able to mine Glacial Ores in The Mist.
+
+Reinforced Frozen Pickaxe [RARE]
+  Requires Heart of the Mountain Tier 6.
+  Forge Recipe: Frozen Pickaxe + 192 Glacite Jewels
+  Forging Time: 4h
+  +275 Mining Speed
+  +40 Mining Fortune
+  +65 Damage
+  Breaking Power 5
+  Item Passive - Cold Augmentation
+    This pickaxe is able to mine Glacial Ores in The Mist.
+    Gain +30 Mining Fortune while mining Glacial Ores.
+
+
+Glacite Drill GG-F050 [RARE]
+  Requires Heart of the Mountain Tier 6.
+  Forge Recipe: Drill Engine + Fuel Tank + 2 Glacial Crystals
+  Forging Time: 1d 4h (28h)
+  +550 Mining Speed
+  +45 Mining Fortune
+  +75 Damage
+  Breaking Power 5
+  Item Passive - Cold Augmentation
+    This drill is able to mine Glacial Ores in The Mist.
+    Gain +30 Mining Fortune while mining Glacial Ores.
+
+Glacite Drill GG-F150 [RARE]
+  Requires Heart of the Mountain Tier 6.
+  Forge Recipe: Glacite Drill GG-F050 + 8 Glacial Crystals
+  Forging Time: 2d 2h (50h)
+  +700 Mining Speed
+  +50 Mining Fortune
+  +80 Damage
+  Breaking Power 5
+  Item Passive - Cold Augmentation
+    This drill is able to mine Glacial Ores in The Mist.
+    Gain +50 Mining Fortune while mining Glacial Ores.
+  Item Passive - Drill Foundation
+    This drill grants +10% Mining Speed while mining Glacial Ores, and while above 70% Drill Fuel.
+
+Glacite Drill GG-F250 [EPIC]
+  Requires Heart of the Mountain Tier 7.
+  Forge Recipe: Glacite Drill GG-F150 + 32 Glacial Crystals
+  Forging Time: 3d (72h)
+  +850 Mining Speed
+  +55 Mining Fortune
+  +85 Damage
+  Breaking Power 6
+  Item Passive - Defrosting
+    This drill is able to mine Glacial Ores in The Mist.
+    Gain +70 Mining Fortune while mining Glacial Ores.
+    Glacial Ores can spawn special Titanium Ores which drop 20% bonus Titanium.
+  Item Passive - Drill Foundation
+    This drill grants +20% Mining Speed while mining Glacial Ores, and while above 55% Drill Fuel.
