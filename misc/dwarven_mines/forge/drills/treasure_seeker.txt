@@ -1,4 +1,5 @@
 Treasure Seeker TR-X220 [RARE]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: Drill Engine + Fuel Tank + 16 Treasurite + 8 Refined Titanium
   Forging Time: 1d 16h (40h)
   +500 Mining Speed
@@ -9,6 +10,7 @@ Treasure Seeker TR-X220 [RARE]
     Gain a 10% chance of mining a titanium block with extreme precision; allowing it to instantly respawn in the same place after being mined.
 
 Treasure Seeker TR-X320 [RARE]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: Treasure Seeker TR-X220 + 48 Treasurite + 16 Refined Titanium
   Forging Time: 2d 8h (56h)
   +650 Mining Speed
@@ -20,6 +22,7 @@ Treasure Seeker TR-X320 [RARE]
     Gain +20 Mining Fortune while mining Titanium.
 
 Treasure Hunter TR-X420 [EPIC]
+  Requires Heart of the Mountain Tier 6.
   Forge Recipe: Treasure Seeker TR-X320 + 4 Refined Tantalum + Mithril Plate
   Forging Time: 3d (72h)
   +800 Mining Speed
