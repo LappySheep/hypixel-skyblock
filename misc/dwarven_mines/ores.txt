@@ -6,6 +6,10 @@
     Specials:
       - Mined Tantalite counts for 2 Drill Fuel each.
       - Tantalite cannot be weakened with Bottle of Corrosion.
+    Tantalite ores spawn on bedrock blocks which were previously mithril ores.
+    This has a 1/1000 chance of happening (0.1%).
+    They also have a chance of spawning near a Fallen Star.
+    Mithril ores within 16 blocks of a Fallen Star have a 1/20000 (0.005%) chance of becoming a Tantalite ore, every game tick.
 
 - Iridite (4tick Mining Speed Cap - 15,000) (Rare)
   Breaking Power Requirement: 7
