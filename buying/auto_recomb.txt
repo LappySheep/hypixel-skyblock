@@ -1,8 +1,8 @@
 Buying anything which isn't in the list for:
-  - Bazaar Material Drops (e.g. Enchanted Gold): Normal Price + 100k
+  - Bazaar Material Drops (e.g. Enchanted Gold): Normal Price + 25k (up to +250k depending on the drop)
   - Assorted Gear (e.g. Mythic Skeleton Master Helmet): Normal Price + 50k (up to +750k depending on the drop)
     I will buy gear to replace my current gear if it's a higher quality/floor too.
-  - Priority List: 1.5m - 4.5m
+  - Priority List: 1.25m - 4.25m
 
 
 Priority List (unobtained currently):
@@ -11,62 +11,64 @@ Priority List (unobtained currently):
   Ghostly Boots
 
 
+Price paid (or if it was a drop) will be in brackets for obtained items.
+
 Auto Recombobulated Loot (Total: 37)
   Bazaar Material Drops (18)
-    Hay Bale
-    Enchanted Feather
-    Enchanted Rabbit Foot
+    Hay Bale (75k)
+    Enchanted Feather (75k)
+    Enchanted Rabbit Foot (75k)
 
-    Enchanted Iron
-    Gold Ingot
-    Enchanted Gold
-    Snow Block
+    Enchanted Iron (75k)
+    Gold Ingot (drop)
+    Enchanted Gold (75k)
+    Snow Block (75k)
 
-    Enchanted Rotten Flesh
-    Enchanted Bone
-    Ancient Claw
+    Enchanted Rotten Flesh (drop)
+    Enchanted Bone (100k)
+    Ancient Claw (75k)
 
-    Enchanted Prismarine Shard
-    Ink Sack
-    Dark Bait
-    Shark Fin
+    Enchanted Prismarine Shard (75k)
+    Ink Sack (75k)
+    Dark Bait (75k)
+    Shark Fin (75k)
 
-    Werewolf Skin
-    Green Candy
-    Purple Candy
-    White Gift
+    Werewolf Skin (75k)
+    Green Candy (75k)
+    Purple Candy (75k)
+    White Gift (75k)
 
   Dwarven Mines (4)
-    Glacite Jewel
-    Goblin Egg
-    Plasma
-    Sorrow
+    Glacite Jewel (drop)
+    Goblin Egg (drop)
+    Plasma (100k)
+    Sorrow (145k)
 
   Blood Fragments (1)
-    Bonzo Fragment
+    Bonzo Fragment (75k)
 
   Fishing (6)
-    Hunk of Ice
-    Hunk of Blue Ice
-    Sea Lantern
-    Lure VI Book
-    Luck of the Sea VI Book
-    Ice Rod
+    Hunk of Ice (75k)
+    Hunk of Blue Ice (75k)
+    Sea Lantern (75k)
+    Lure VI Book (75k)
+    Luck of the Sea VI Book (75k)
+    Ice Rod (75k)
 
   Dragon Fragments (2)
-    Unstable Dragon Fragment
-    Young Dragon Fragment
+    Unstable Dragon Fragment (drop)
+    Young Dragon Fragment (drop)
 
   Runes (2)
-    White Spiral Rune
-    Sparkling Rune
+    White Spiral Rune (drop)
+    Sparkling Rune (drop)
 
   Dungeon Gear (reforge does not matter) (2)
-    Heavy Skeleton Soldier Leggings (Floor 3 + 7%)
-    Legendary Dreadlord Sword (Floor 7 + 49%)
+    Heavy Skeleton Soldier Leggings (Floor 3 + 7%) (drop)
+    Legendary Dreadlord Sword (Floor 7 + 49%) (drop)
 
   Dungeon Other (1)
-    Fel Pearl
+    Fel Pearl (drop)
 
   Other Other (1)
-    Arrow
+    Arrow (drop)
