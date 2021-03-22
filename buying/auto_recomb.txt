@@ -1,6 +1,7 @@
 Buying anything which isn't in the list for:
   - Bazaar Material Drops (e.g. Enchanted Gold): Normal Price + 100k
-  - Assorted Gear (e.g. Mythic Skeleton Master Helmet): Normal Price + 150k
+  - Assorted Gear (e.g. Mythic Skeleton Master Helmet): Normal Price + 50k (up to +750k depending on the drop)
+    I will buy gear to replace my current gear if it's a higher quality/floor too.
   - Priority List: 1.5m - 4.5m
 
 
@@ -60,8 +61,8 @@ Auto Recombobulated Loot (Total: 36)
     Sparkling Rune
 
   Dungeon Gear (2)
-    Heavy Skeleton Soldier Leggings
-    Legendary Dreadlord Sword
+    Heavy Skeleton Soldier Leggings (Floor 3 + 7%)
+    Legendary Dreadlord Sword (Floor 7 + 49%)
 
   Dungeon Other (1)
     Fel Pearl
