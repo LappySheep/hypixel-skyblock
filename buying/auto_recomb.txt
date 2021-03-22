@@ -60,9 +60,9 @@ Auto Recombobulated Loot (Total: 36)
     White Spiral Rune
     Sparkling Rune
 
-  Dungeon Gear (2)
-    Heavy Skeleton Soldier Leggings (Floor 3 + 7%)
-    Legendary Dreadlord Sword (Floor 7 + 49%)
+  Dungeon Gear (reforge does not matter) (2)
+    Skeleton Soldier Leggings (Floor 3 + 7%)
+    Dreadlord Sword (Floor 7 + 49%)
 
   Dungeon Other (1)
     Fel Pearl
