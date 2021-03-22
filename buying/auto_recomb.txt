@@ -1,56 +1,70 @@
-Buying anything which isn't in the list:
+Buying anything which isn't in the list for:
+  - Bazaar Material Drops (e.g. Enchanted Gold): Normal Price + 100k
+  - Assorted Gear (e.g. Mythic Skeleton Master Helmet): Normal Price + 150k
+  - Priority List: 1.5m - 4.5m
 
-Auto Recombobulated Loot (Total: 35)
 
-Bazaar Drops (17)
-  Hay Bale
-  Enchanted Feather
-  Enchanted Rabbit Foot
-  Gold Ingot
-  Enchanted Iron
-  Enchanted Gold
-  Snow Block
-  Enchanted Rotten Flesh
-  Ancient Claw
-  Ink Sack
-  Shark Fin
-  Enchanted Prismarine Shard
-  Dark Bait
-  Green Candy
-  Purple Candy
-  White Gift
-  Werewolf Skin
+Priority List (unobtained currently):
+  Flaming Sword
+  Blaze Hat
+  Ghostly Boots
 
-Dwarven Mines (3)
-  Glacite Jewel
-  Goblin Egg
-  Plasma
 
-Blood Fragments (1)
-  Bonzo Fragment
+Auto Recombobulated Loot (Total: 36)
+  Bazaar Material Drops (18)
+    Hay Bale
+    Enchanted Feather
+    Enchanted Rabbit Foot
 
-Fishing (6)
-  Hunk of Ice
-  Hunk of Blue Ice
-  Sea Lantern
-  Lure VI Book
-  Luck of the Sea VI Book
-  Ice Rod
+    Enchanted Iron
+    Gold Ingot
+    Enchanted Gold
+    Snow Block
 
-Dragon Fragments (2)
-  Unstable Dragon Fragment
-  Young Dragon Fragment
+    Enchanted Rotten Flesh
+    Enchanted Bone
+    Ancient Claw
 
-Runes (2)
-  White Spiral Rune
-  Sparkling Rune
+    Enchanted Prismarine Shard
+    Ink Sack
+    Dark Bait
+    Shark Fin
 
-Dungeon Gear (2)
-  Heavy Skeleton Soldier Leggings
-  Legendary Dreadlord Sword
+    Werewolf Skin
+    Green Candy
+    Purple Candy
+    White Gift
 
-Dungeon Other (1)
-  Fel Pearl
+  Dwarven Mines (3)
+    Glacite Jewel
+    Goblin Egg
+    Plasma
 
-Other Other (1)
-  Arrow
+  Blood Fragments (1)
+    Bonzo Fragment
+
+  Fishing (6)
+    Hunk of Ice
+    Hunk of Blue Ice
+    Sea Lantern
+    Lure VI Book
+    Luck of the Sea VI Book
+    Ice Rod
+
+  Dragon Fragments (2)
+    Unstable Dragon Fragment
+    Young Dragon Fragment
+
+  Runes (2)
+    White Spiral Rune
+    Sparkling Rune
+
+  Dungeon Gear (2)
+    Heavy Skeleton Soldier Leggings
+    Legendary Dreadlord Sword
+
+  Dungeon Other (1)
+    Fel Pearl
+
+  Other Other (1)
+    Arrow
