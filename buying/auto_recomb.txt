@@ -11,7 +11,7 @@ Priority List (unobtained currently):
   Ghostly Boots
 
 
-Auto Recombobulated Loot (Total: 36)
+Auto Recombobulated Loot (Total: 37)
   Bazaar Material Drops (18)
     Hay Bale
     Enchanted Feather
@@ -36,10 +36,11 @@ Auto Recombobulated Loot (Total: 36)
     Purple Candy
     White Gift
 
-  Dwarven Mines (3)
+  Dwarven Mines (4)
     Glacite Jewel
     Goblin Egg
     Plasma
+    Sorrow
 
   Blood Fragments (1)
     Bonzo Fragment
@@ -61,8 +62,8 @@ Auto Recombobulated Loot (Total: 36)
     Sparkling Rune
 
   Dungeon Gear (reforge does not matter) (2)
-    Skeleton Soldier Leggings (Floor 3 + 7%)
-    Dreadlord Sword (Floor 7 + 49%)
+    Heavy Skeleton Soldier Leggings (Floor 3 + 7%)
+    Legendary Dreadlord Sword (Floor 7 + 49%)
 
   Dungeon Other (1)
     Fel Pearl
