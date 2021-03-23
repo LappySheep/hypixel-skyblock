@@ -13,7 +13,7 @@ Tantalite Drill TM-L137 [RARE]
 
 Tantalite Drill TM-L237 [RARE]
   Requires Heart of the Mountain Tier 6.
-  Forge Recipe: Tantalum Drill TM-L137 + 10 Mithril Plates + 24 Refined Tantalite
+  Forge Recipe: Tantalite Drill TM-L137 + 10 Mithril Plates + 24 Refined Tantalite
   Forging Time: 3d 3h (75h)
   +875 Mining Speed
   +80 Mining Fortune
@@ -27,7 +27,7 @@ Tantalite Drill TM-L237 [RARE]
 
 Tantalite Drill TM-L337 [RARE]
   Requires Heart of the Mountain Tier 7.
-  Forge Recipe: Tantalum Drill TM-L237 + 15 Mithril Plates + 72 Refined Tantalite
+  Forge Recipe: Tantalite Drill TM-L237 + 15 Mithril Plates + 72 Refined Tantalite
   Forging Time: 4d 4h (100h)
   +1000 Mining Speed
   +100 Mining Fortune
