@@ -1,0 +1,35 @@
+Starting from a Tier 6 Heart of the Mountain, you unlock a special block of additional Heart of the Mountain perks, which you can acquire by spending Tokens of the Mountain.
+These perks do not require a previous perk to be unlocked - only the right amount of tokens and HotM tier.
+
+Each perk is assumed to cost 1 Token of the Mountain to unlock, unless specified otherwise.
+
+You can convert Renown into Mithril Powder, at a 1:100 ratio.
+
+
+- Respectable Commissionee
+  Requires Heart of the Mountain Tier 6.
+  Levels: 50
+  Cost: [(Lvl + 2)^2.6] Mithril Powder + 1 Renown
+  Bonus: Gain +[Lvl * 2]% bonus Mining Exp from commissions.
+  Maxed: Gain +100% bonus Mining Exp from commissions.
+
+- Drill Infusion
+  Requires Heart of the Mountain Tier 6.
+  Levels: 30
+  Cost: [(Lvl + 2)^3.5] Mithril Powder + 1 Renown
+  Bonus: Drills gain +[Lvl * 0.1667] bonus Mining Fortune for every 100 Mining Speed.
+  Maxed: Drills gain +5 bonus Mining Fortune for every 100 Mining Speed.
+
+- Renown Condenser
+  Requires Heart of the Mountain Tier 6.
+  Levels: 50
+  Cost: [(Lvl + 2)^2.1] Renown
+  Bonus: Increase the amount of Mithril Powder earned when selling Renown by [100 - (0.16 * Lvl^2)].
+  Maxed: Increase the amount of Mithril Powder earned when selling Renown by 400.
+
+- Very Efficient Miner
+  Requires Heart of the Mountain Tier 6.
+  Levels: 100
+  Cost: [(Lvl + 2)^2.9] Mithril Powder + 2 Renown
+  Bonus: Earn +[Lvl * 0.02]% bonus Pet Exp for every 10,000,000 total Mining Exp earned.
+  Maxed: Earn +2% bonus Pet Exp for every 10,000,000 total Mining Exp earned.
