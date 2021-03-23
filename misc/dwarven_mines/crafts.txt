@@ -19,3 +19,7 @@ Glacite Jewel [RARE]
 
 Glacial Crystal [EPIC]
   Recipe: 160 Glacite Jewels
+
+Ice-VII [LEGENDARY]
+  Recipe: 160 Glacial Crystals
+  Requires Glacial Particulates Collection VIII
