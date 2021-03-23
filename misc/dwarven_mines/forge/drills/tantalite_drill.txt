@@ -1,6 +1,6 @@
-Tantalum Drill TM-L137 [RARE]
+Tantalite Drill TM-L137 [RARE]
   Requires Heart of the Mountain Tier 6.
-  Forge Recipe: Drill Engine + Fuel Tank + 5 Mithril Plates + 8 Refined Tantalum
+  Forge Recipe: Drill Engine + Fuel Tank + 5 Mithril Plates + 8 Refined Tantalite
   Forging Time: 2d 2h (50h)
   +750 Mining Speed
   +60 Mining Fortune
@@ -10,3 +10,30 @@ Tantalum Drill TM-L137 [RARE]
     Activate to enable/disable the Anti-Corrosive meter of your drill.
     By default, the meter is disabled.
     When enabled, increase the Breaking Power of the drill by 1 (enabling it to mine Tantalite), but mining any non-Tantalite ore will cost double the drill fuel.
+
+Tantalite Drill TM-L237 [RARE]
+  Requires Heart of the Mountain Tier 6.
+  Forge Recipe: Tantalum Drill TM-L137 + 10 Mithril Plates + 24 Refined Tantalite
+  Forging Time: 3d 3h (75h)
+  +875 Mining Speed
+  +80 Mining Fortune
+  +95 Damage
+  Breaking Power 6
+  Item Ability - Anti-Corrosive Specificity SNEAK
+    Activate to enable/disable the Anti-Corrosive meter of your drill.
+    By default, the meter is disabled.
+    When enabled, increase the Breaking Power of the drill by 1 (enabling it to mine Tantalite), but mining any non-Tantalite ore will cost double the drill fuel.
+    When enabled, gain +30 Mining Fortune while mining Tantalite.
+
+Tantalite Drill TM-L337 [RARE]
+  Requires Heart of the Mountain Tier 7.
+  Forge Recipe: Tantalum Drill TM-L237 + 15 Mithril Plates + 72 Refined Tantalite
+  Forging Time: 4d 4h (100h)
+  +1000 Mining Speed
+  +100 Mining Fortune
+  +100 Damage
+  Breaking Power 7
+  Item Ability - Anti-Corrosive Specificity SNEAK
+    Activate to enable/disable the Anti-Corrosive meter of your drill.
+    By default, the meter is disabled.
+    When enabled, gain +55 Mining Fortune while mining Tantalite, but mining any non-Tantalite ore will cost double the drill fuel.
