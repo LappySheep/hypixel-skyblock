@@ -6,14 +6,23 @@ New/special commissions give the usual Mithril Powder and Mining Exp rewards too
 
 Heart of the Mountain Tiers:
   Tier 6: Costs 10 Renown (total 10 so far)
+    Reward: +1 Token of the Mountain
   Tier 7: Costs 60 Renown (total 70 so far)
+    Reward: +1 Token of the Mountain
   Tier 8: Costs 300 Renown (total 370 so far)
+    Reward: +1 Token of the Mountain
   Tier 9: Costs 1,200 Renown (total 1,570 so far)
+    Reward: +1 Token of the Mountain
   Tier 10: Costs 4,250 Renown (total 5,820 so far)
+    Reward: +2 Tokens of the Mountain
   Tier 11: Costs 12,500 Renown (total 18,320 so far)
+    Reward: +2 Tokens of the Mountain
   Tier 12: Costs 37,500 Renown (total 55,820 so far)
+    Reward: +2 Tokens of the Mountain
   Tier 13: Costs 80,000 Renown (total 135,820 so far)
+    Reward: +2 Token of the Mountain
   Tier P: Costs 125,000 Renown (total 260,820 so far)
+    Reward: +3 Tokens of the Mountain
 
 
 Standard Renown Commissions:
