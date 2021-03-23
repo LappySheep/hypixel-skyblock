@@ -103,7 +103,7 @@ Glacite Particulate Collection
       Perk 2: Pet Benevolence
         Mining ores on a mining island grants [0.2 + (Lvl * 0.008)]% (1%) of your Mining Exp gains to every pet in your menu.
       Perk 3: Wind Tempest
-        Your attacks deal no knockback, but for every block they would have been knocked back, increase your damage dealt by [1 + (Lvl * 0.02)]% (max +25%).
+        Your attacks deal no knockback, but for every block they would have been knocked back, increase your damage dealt by [1 + (Lvl * 0.02)]% (3%) (max +25%).
 
 
   Collection Level 9 - 12,500,000 Glacite Particulates
