@@ -1,0 +1,89 @@
+Glacite Particulate Collection
+  Getting Glacite Jewels from mining is worth 160 Glacite Particulates.
+
+
+  Collection Level 1 - 200 Glacite Particulates
+    Glacite Orb
+    Recipe: 6 Glacite Jewels + Enchanted Gold Block
+      UNCOMMON ACCESSORY - Glacial Ores drop 10% more Glacite Particulates.
+
+
+  Collection Level 2 - 750 Glacite Particulates
+    Ice-Plating Drill Tips
+    Recipe: 64 Glacite Particulates + 32 Enchanted Cobblestone
+      Requires Heart of the Mountain Tier 6.
+      Apply onto a Drill to grant it 8 Cold Fuel.
+      Cold Fuel is consumed before Drill Fuel, if you meet the HotM tier requirement.
+      If used on a Glacite Drill, Cold Fuel causes ores requiring a Breaking Power of 6 or lower to count as mining an additional Glacial Ore; dropping Glacite Particulates along with the main ore drop.
+
+
+  Collection Level 3 - 3,000 Glacite Particulates
+    Chilly Glacite Orb
+    Recipe: Glacite Orb + 96 Glacite Jewels
+      RARE ACCESSORY - Glacial Ores drop 20% more Glacite Particulates.
+
+    Chilled Glacite Boots
+    Recipe: Glacite Boots + 64 Glacite Jewels
+      Requires Heart of the Mountain Tier 6.
+      +145 Defence
+      +20 Speed
+      +30 Mining Speed
+      Full Set Bonus: Superior Miner
+        Grants +2 Mining Speed per mining level.
+        Gain +1% total Mining Speed for every 20,000,000 Mining Exp (max +5%).
+        The defence of this item is doubled while on a mining island.
+
+
+  Collection Level 4 - 15,000 Glacite Particulates
+    Snowstorm Chestplate
+    Recipe: 4 Chilly Glacite Orbs + 192 Enchanted Packed Ice + Frozen Blaze Chestplate
+      Requires Heart of the Mountain Tier 6.
+      +55 Strength
+      +240 Defence
+      +5 Speed
+      +75 Mining Speed
+      Item Passive - Snowstorm Aura
+        The size of your Snowstorm Aura scales with your Glacite Particulate collection (size: [cbrt(b / 10000)]). Maximum 10 blocks (10m GP).
+      Item Passive - Frostbite
+        Blocks in the aura become weaker; reducing the maximum Mining Speed required for those blocks by 1% per second in the range (refreshing when you leave) (maximum -20%).
+        Your melee attacks deal 500 bonus true damage per hit, increased by 1% per 5 Strength, and doubled if using a pickaxe or drill.
+
+
+  Collection Level 5 - 100,000 Glacite Particulates
+    Blistering Glacite Orb
+    Recipe: Chilly Glacite Orb + 8 Glacial Crystals
+      +10 Strength
+      EPIC ACCESSORY - Glacial Ores drop 30% more Glacite Particulates.
+
+    Merciless Winter [LEGENDARY]
+    Recipe: 24 Glacial Crystals + 128 Enchanted Packed Ice + 384 Enchanted Iron Blocks
+      Requires Heart of the Mountain Tier 7.
+      +260 Damage
+      +100 Strength
+      +20 Speed
+      +20 Ferocity
+      Item Passive - Polar Pierce
+        Attacks are capped at 0% Bonus Attack Speed, but deal 1.5% bonus damage per 1% bonus AS (max +150%).
+      Item Ability - Numbing Wand RIGHT CLICK
+        You numb your muscles for 10 seconds, causing attacks (only with this weapon) to cap at 0 Ferocity, but deal 1.25% bonus damage per 1 Ferocity (max +250%).
+        Mana Cost: 200
+        Cooldown: 45s
+
+
+  Collection Level 6 - 450,000 Glacite Particulates
+    Weak Ore Affinity Talisman
+    Recipe: 9 Glacial Crystals
+      +20 Mining Speed
+      EPIC ACCESSORY - Ores that require a Breaking Power of 7 or lower earn +5% bonus Pet Exp when mined.
+
+
+  Collection Level 7 - 2,000,000 Glacite Particulates
+    Sub-Zero Shardbow [LEGENDARY]
+    Recipe: 48 Glacial Crystals + 192 Enchanted Packed Ice
+      Requires Heart of the Mountain Tier 8.
+      +300 Damage
+      +300 Strength
+      Item Passive - Perpetual Suspension
+        Attacks apply 1 stack of Suspense to each monster you damage, which last for up to 10s. Maximum 100 stacks.
+        Killing a monster with Suspense applies stacks to every monster within 4 blocks (not split).
+        Damaging a monster with Suspense will deal 2% bonus damage and hard-stun them for 0.1s per stack, and refresh the timer on each. Bosses are stunned for 25% of the normal duration.
