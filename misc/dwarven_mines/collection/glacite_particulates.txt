@@ -86,4 +86,39 @@ Glacite Particulate Collection
       Item Passive - Perpetual Suspension
         Attacks apply 1 stack of Suspense to each monster you damage, which last for up to 10s. Maximum 100 stacks.
         Killing a monster with Suspense applies stacks to every monster within 4 blocks (not split).
-        Damaging a monster with Suspense will deal 2% bonus damage and hard-stun them for 0.1s per stack, and refresh the timer on each. Bosses are stunned for 25% of the normal duration.
+        Damaging a monster with Suspense will deal 2% bonus damage and root them (cannot move, can still attack) for 0.1s per stack, and refresh the timer on each. Bosses are rooted for 20% of the normal duration.
+
+
+  Collection Level 8 - 5,500,000 Glacite Particulates
+    Ice-VII
+    Recipe: 160 Glacial Crystals
+
+    Glacial Silverfish Pet
+    Recipe: Silverfish Pet + Ice-VII + 224 Enchanted Packed Ice
+      Using a Rare (or lower) Silverfish will upgrade it to Epic by default. Legendary Silverfish pets remain at Legendary.
+      Glacial Silverfishes only gain Pet Exp from Mining, and only at a 50% rate.
+
+      Perk 1: Cold War
+        Gain +[Lvl * 0.4]% (+40%) bonus stats while in The Mist and the Abandoned Caverns.
+      Perk 2: Pet Benevolence
+        Mining ores on a mining island grants [0.2 + (Lvl * 0.008)]% (1%) of your Mining Exp gains to every pet in your menu.
+      Perk 3: Wind Tempest
+        Your attacks deal no knockback, but for every block they would have been knocked back, increase your damage dealt by [1 + (Lvl * 0.02)]% (max +25%).
+
+
+  Collection Level 9 - 12,500,000 Glacite Particulates
+    Indefinite Cascading [LEGENDARY]
+    Recipe: Merciless Winter + 4 Ice-VII + 4 Cavernous Teardrops
+      Requires Heart of the Mountain Tier 9.
+      +320 Damage
+      +135 Strength
+      +35 Speed
+      +35 Ferocity
+      Item Passive - Polar Pierce
+        Attacks are capped at 0% Bonus Attack Speed, but deal 1.75% bonus damage per 1% bonus AS (max +175%).
+      Item Passive - Cavernous Infliction
+        Slaying a Cavernous Boss grants a full heal and immunity to damage for 3 seconds. Dying while in the Perpetual Caves consumes 100 Renown to revive you at 10% of your maximum health.
+      Item Ability - Numbing Wand RIGHT CLICK
+        You numb your muscles for 10 seconds, causing attacks (only with this weapon) to cap at 0 Ferocity, but deal 1.5% bonus damage per 1 Ferocity (max +300%).
+        Mana Cost: 100
+        Cooldown: 30s
