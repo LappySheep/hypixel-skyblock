@@ -1,5 +1,5 @@
 Glacite Particulate Collection
-  Getting Glacite Jewels from mining is worth 160 Glacite Particulates.
+  Glacite Jewels from mining are worth 160 Glacite Particulates.
 
 
   Collection Level 1 - 200 Glacite Particulates
