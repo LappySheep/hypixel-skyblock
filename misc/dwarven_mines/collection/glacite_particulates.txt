@@ -94,8 +94,8 @@ Glacite Particulate Collection
     Recipe: 160 Glacial Crystals
 
     Glacial Silverfish Pet
-    Recipe: Silverfish Pet + Ice-VII + 224 Enchanted Packed Ice
-      Using a Rare (or lower) Silverfish will upgrade it to Epic by default. Legendary Silverfish pets remain at Legendary.
+    Recipe: Super Enchanted Egg + Ice-VII + 224 Enchanted Packed Ice
+      Common / Uncommon / Rare variants cannot be crafted.
       Glacial Silverfishes only gain Pet Exp from Mining, and only at a 50% rate.
 
       Perk 1: Cold War
