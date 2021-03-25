@@ -8,12 +8,11 @@ Buying anything which isn't in the list for:
 Priority List (unobtained currently):
   Flaming Sword
   Blaze Hat
-  Ghostly Boots
 
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 47)
+Auto Recombobulated Loot (Total: 49)
   Bazaar Material Drops (18)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -38,12 +37,14 @@ Auto Recombobulated Loot (Total: 47)
     Purple Candy (75k)
     White Gift (75k)
 
-  Dwarven Mines (5)
+  Dwarven Mines (7)
     Glacite Jewel (drop)
     Goblin Egg (drop)
     Plasma (100k)
     Sorrow (145k)
     Starfall (drop)
+    Volta (free)
+    Ghostly Boots (3.2mil)
 
   Blood Fragments (2)
     Bonzo Fragment (75k)
