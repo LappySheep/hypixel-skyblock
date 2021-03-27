@@ -12,7 +12,7 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 64)
+Auto Recombobulated Loot (Total: 65)
   Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -99,9 +99,12 @@ Auto Recombobulated Loot (Total: 64)
       Earth Shard (Floor 5 + 9%) (250k)
       Skeleton Soldier Leggings (Floor 3 + 7%) (drop)
 
-  Dungeon Other (1)
+  Dungeon Misc. (1)
     Fel Pearl (drop)
 
-  Other Other (2)
+  Various Misc. (1)
+    Arachne's Keeper Fragment
+
+  Other Misc. (2)
     Arrow (drop)
     Gold Nugget (75k)
