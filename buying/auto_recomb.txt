@@ -12,7 +12,7 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 65)
+Auto Recombobulated Loot (Total: 66)
   Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -38,7 +38,7 @@ Auto Recombobulated Loot (Total: 65)
     Purple Candy (75k)
     White Gift (75k)
 
-  Dwarven Mines (11)
+  Dwarven Mines (12)
     Glacite Jewel (drop)
     Goblin Egg (drop)
     Plasma (100k)
@@ -46,6 +46,7 @@ Auto Recombobulated Loot (Total: 65)
     Starfall (drop)
     Volta (free)
     Ghostly Boots (3.2mil)
+    Bag of Cash (2mil)
 
     Goblin Helmet (400k)
     Goblin Chestplate (399k)
@@ -103,7 +104,7 @@ Auto Recombobulated Loot (Total: 65)
     Fel Pearl (drop)
 
   Various Misc. (1)
-    Arachne's Keeper Fragment
+    Arachne's Keeper Fragment (100k)
 
   Other Misc. (2)
     Arrow (drop)
