@@ -12,8 +12,8 @@ Priority List (unobtained currently):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 56)
-  Bazaar Material Drops (18)
+Auto Recombobulated Loot (Total: 62)
+  Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
     Enchanted Rabbit Foot (75k)
@@ -25,6 +25,7 @@ Auto Recombobulated Loot (Total: 56)
 
     Enchanted Rotten Flesh (drop)
     Enchanted Bone (100k)
+    Enchanted Spider Eye (75k)
     Ancient Claw (75k)
 
     Enchanted Prismarine Shard (75k)
@@ -64,33 +65,38 @@ Auto Recombobulated Loot (Total: 56)
     Luck of the Sea VI Book (75k)
     Ice Rod (75k)
 
-  Dragon Fragments (2)
+  Dragon Fragments (3)
     Unstable Dragon Fragment (drop)
     Young Dragon Fragment (drop)
+    Holy Dragon Fragment (75k)
 
   Reforge Stones (2)
     Luxurious Spool (3.8m)
     Beating Heart (free)
 
-  Runes (3)
+  Runes (4)
     White Spiral Rune (drop)
     Sparkling Rune (drop)
     Blood Rune (drop)
+    Snow Rune (75k)
 
-  Dungeon Gear (reforge does not matter) (10)
+  Dungeon Gear (reforge does not matter) (12)
     Zombie Soldier Boots (Floor 7 + 50%) (free)
     Skeleton Soldier Chestplate (Floor 7 + 49%) (45k)
     Dreadlord Sword (Floor 7 + 49%) (drop)
     Zombie Commander Helmet (Floor 7 + 31%) (99k)
     Zombie Knight Boots (Floor 7 + 30%) (100k)
+    Soulstealer Bow (Floor 7 + 20%) (100k)
     Skeletor Chestplate (Floor 6 + 48%) (100k)
     Skeleton Soldier Helmet (Floor 6 + 38%) (18k)
     Skeleton Master Chestplate (Floor 6 + 21%) (39k)
     Zombie Soldier Helmet (Floor 5 + 36%) (45k)
+    Earth Shard (Floor 5 + 9%) (250k)
     Skeleton Soldier Leggings (Floor 3 + 7%) (drop)
 
   Dungeon Other (1)
     Fel Pearl (drop)
 
-  Other Other (1)
+  Other Other (2)
     Arrow (drop)
+    Gold Nugget (75k)
