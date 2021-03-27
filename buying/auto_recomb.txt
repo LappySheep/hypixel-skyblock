@@ -12,7 +12,7 @@ Priority List (unobtained currently):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 55)
+Auto Recombobulated Loot (Total: 56)
   Bazaar Material Drops (18)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -68,8 +68,9 @@ Auto Recombobulated Loot (Total: 55)
     Unstable Dragon Fragment (drop)
     Young Dragon Fragment (drop)
 
-  Reforge Stones (1)
+  Reforge Stones (2)
     Luxurious Spool (3.8m)
+    Beating Heart (free)
 
   Runes (3)
     White Spiral Rune (drop)
