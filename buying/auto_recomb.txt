@@ -2,17 +2,17 @@ Buying anything which isn't in the list for:
   - Bazaar Material Drops (e.g. Enchanted Gold): Normal Price + 25k (up to +250k depending on the drop)
   - Assorted Gear (e.g. Mythic Skeleton Master Helmet): Normal Price + 50k (up to +750k depending on the drop)
     I will buy gear to replace my current gear if it's a higher quality/floor too.
-  - Priority List: 1.25m - 4.25m
+    I will not buy starred gear.
 
 
-Priority List (unobtained currently):
+Priority List (unobtained currently, willing to overpay):
   Flaming Sword
   Blaze Hat
 
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 62)
+Auto Recombobulated Loot (Total: 64)
   Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -80,19 +80,24 @@ Auto Recombobulated Loot (Total: 62)
     Blood Rune (drop)
     Snow Rune (75k)
 
-  Dungeon Gear (reforge does not matter) (12)
-    Zombie Soldier Boots (Floor 7 + 50%) (free)
-    Skeleton Soldier Chestplate (Floor 7 + 49%) (45k)
-    Dreadlord Sword (Floor 7 + 49%) (drop)
-    Zombie Commander Helmet (Floor 7 + 31%) (99k)
-    Zombie Knight Boots (Floor 7 + 30%) (100k)
-    Soulstealer Bow (Floor 7 + 20%) (100k)
-    Skeletor Chestplate (Floor 6 + 48%) (100k)
-    Skeleton Soldier Helmet (Floor 6 + 38%) (18k)
-    Skeleton Master Chestplate (Floor 6 + 21%) (39k)
-    Zombie Soldier Helmet (Floor 5 + 36%) (45k)
-    Earth Shard (Floor 5 + 9%) (250k)
-    Skeleton Soldier Leggings (Floor 3 + 7%) (drop)
+  Dungeon Gear (reforge does not matter) (14)
+    Floor 7 + 50% (3)
+      Zombie Soldier Helmet (1mil)
+      Zombie Soldier Boots (free)
+      Skeleton Soldier Chestplate (1.29mil)
+
+    Other (11)
+      Skeleton Soldier Chestplate (Floor 7 + 49%) (45k)
+      Dreadlord Sword (Floor 7 + 49%) (drop)
+      Zombie Commander Helmet (Floor 7 + 31%) (99k)
+      Zombie Knight Boots (Floor 7 + 30%) (100k)
+      Soulstealer Bow (Floor 7 + 20%) (100k)
+      Skeletor Chestplate (Floor 6 + 48%) (100k)
+      Skeleton Soldier Helmet (Floor 6 + 38%) (18k)
+      Skeleton Master Chestplate (Floor 6 + 21%) (39k)
+      Zombie Soldier Helmet (Floor 5 + 36%) (45k)
+      Earth Shard (Floor 5 + 9%) (250k)
+      Skeleton Soldier Leggings (Floor 3 + 7%) (drop)
 
   Dungeon Other (1)
     Fel Pearl (drop)
