@@ -12,7 +12,7 @@ Priority List (unobtained currently):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 49)
+Auto Recombobulated Loot (Total: 54)
   Bazaar Material Drops (18)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -37,7 +37,7 @@ Auto Recombobulated Loot (Total: 49)
     Purple Candy (75k)
     White Gift (75k)
 
-  Dwarven Mines (7)
+  Dwarven Mines (11)
     Glacite Jewel (drop)
     Goblin Egg (drop)
     Plasma (100k)
@@ -45,6 +45,12 @@ Auto Recombobulated Loot (Total: 49)
     Starfall (drop)
     Volta (free)
     Ghostly Boots (3.2mil)
+
+    Goblin Helmet (400k)
+    Goblin Chestplate (399k)
+    Goblin Boots (199k)
+
+    Glacite Boots (178k)
 
   Blood Fragments (2)
     Bonzo Fragment (75k)
@@ -62,9 +68,10 @@ Auto Recombobulated Loot (Total: 49)
     Unstable Dragon Fragment (drop)
     Young Dragon Fragment (drop)
 
-  Runes (2)
+  Runes (3)
     White Spiral Rune (drop)
     Sparkling Rune (drop)
+    Blood Rune (drop)
 
   Dungeon Gear (reforge does not matter) (10)
     Zombie Soldier Boots (Floor 7 + 50%) (free)
