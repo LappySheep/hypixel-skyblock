@@ -12,7 +12,7 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 66)
+Auto Recombobulated Loot (Total: 67)
   Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -103,8 +103,9 @@ Auto Recombobulated Loot (Total: 66)
   Dungeon Misc. (1)
     Fel Pearl (drop)
 
-  Various Misc. (1)
+  Various Misc. (2)
     Arachne's Keeper Fragment (100k)
+    Flaming Sword (2.6mil)
 
   Other Misc. (2)
     Arrow (drop)
