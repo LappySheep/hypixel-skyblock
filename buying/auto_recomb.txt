@@ -12,7 +12,7 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 67)
+Auto Recombobulated Loot (Total: 69)
   Bazaar Material Drops (19)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -75,10 +75,12 @@ Auto Recombobulated Loot (Total: 67)
     Luxurious Spool (3.8m)
     Beating Heart (free)
 
-  Runes (4)
+  Runes (6)
     Blood Rune (lv1) (drop)
     Snow Rune (lv2) (75k)
     White Spiral Rune (lv6) (drop)
+    Hot Rune (lv8) (100k)
+    Hearts Rune (lv10) (100k)
     Sparkling Rune (lv11) (drop)
 
   Dungeon Gear (reforge does not matter) (14)
