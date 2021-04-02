@@ -266,3 +266,8 @@ Other
     Requires Aelzer Level 13.
     Cost: 1,000 Tainted Coins
     Used to reforge a Staff with Cindered.
+
+  - Passed-down Gathering Gloves
+    Requires Aelzer Level 15.
+    Cost: 30,000 Tainted Coins
+    Used to gather resources from scopes and can be upgraded to better tiers.
