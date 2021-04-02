@@ -232,7 +232,7 @@ Classes:
   - Healer:
     Healing Support Specialist.
     Passive Bonuses:
-      - Gain [(Lvl * 6) + 50] bonus Health.
+    - Gain [(Lvl * 6) + 50] bonus Health.
     Abilities:
       - Self Sustainability (Passive):
         Regenerate [(0.06 * Lvl) + 1]% of your maximum health per second.
@@ -247,4 +247,28 @@ Classes:
       - Last Stand (Ultimate Dungeon Orb Ability):
         Instantly restore health back equal to 30 seconds worth of Self Sustainability to you and allies within 6 blocks. Additionally, reduce damage taken by 12% on the next 5 hits, gain 25 bonus Tenacity, and 25 bonus Swiftness. This lasts for the next 10 seconds.
         Last Stand's base cooldown is reduced by 15% (stacks additively) for each ally (excluding you, max 60% reduction) healed from below 25% maximum health.
-          Cooldown: 300s (reduced by 2s every time you heal an ally)
+          Cooldown: 300s (reduced by 2 seconds, for each ability that procs in order to heal an ally, a maximum of one reduction per ability per ally per last stand cast (maximum 40s CDR))
+
+
+    At Healer Level 25, you can branch into one of three subclasses. Note that you can still play the normal Tank class.
+
+    - Inciter:
+      Offensive Healing Support Specialist.
+      Passive Bonuses:
+      - Gain [(Lvl * 3) + 30] bonus Health.
+      - Deal [(0.3 * Lvl) + 3]% bonus Melee damage.
+      Abilities:
+        - Healing Fortress (Passive):
+          Passively, you gain the Healer class' Self Sustainability ability, scaling with Healer level.
+        - Engaging the Enemy (Passive):
+          40% of the damage you deal is converted into an effective shield, split between you and allies within 6 blocks. The shield lasts for up to 6 seconds out of combat.
+            Effective shield means that it scales with your effective health; 100k ehp + 20k eshield == the shield is 20% of your maximum health.
+        - Shield Shatter (Passive):
+          While sneaking, damage taken to any of your shields is reduced by 10% and restores 1% of your missing health back.
+        - Heroic Fortitude (Basic Dungeon Orb Ability):
+          Create an aura around you for the next 6 seconds, granting +75 Speed and +20% bonus damage dealt by all allies within 6 blocks. After 6 seconds, each player restores health back equal to 0.1% of their missing health per kill.
+            Cooldown: 36s
+        - Redemption (Ultimate Dungeon Orb Ability):
+          Gain a shield equal to 200% of your Strength + Crit Damage, which lasts up to the next 12 seconds, and can stack with other shields. While your shield is still active, grant +3 Tenacity per second (max +36), and +0.2% bonus Weapon Damage per kill (by the buffed player), to each ally within 24 blocks.
+          If your shield is still available when a buffed ally takes fatal damage, your buff resets but they respawn with 1 HP and 2 seconds of invulnerability (max once per player).
+            Cooldown: 360s (reduced by 5s per kill)
