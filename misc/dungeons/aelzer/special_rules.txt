@@ -33,9 +33,13 @@ Stat Related Rules
   - Ability Damage is multiplied by dungeon bonuses, but only at 16.6% efficiency.
   - True Defence is multiplied by dungeon bonuses, but only at 20% efficiency.
   - Your Crit Chance is capped at 24%, +1% per Aelzer Level (24% - 75%)
+  - Gathering Fortune is not multiplied by dungeon bonuses.
+  - Gathering Efficiency is not multiplied by dungeon bonuses.
 
 Damage Related Rules
   - Magic Damage no longer scales with combat level or enchantments.
 
 Other Rules
-  - Ticks per second (tps, t/s) is set to 5. This means one tick lasts for 0.2 seconds.
+  - Ticks per second is by default 20. However, a separate tick measure is used for special or specific tick-requirements.
+    - Special ticks per second (tps, t/s) is set to 5. This means each special tick lasts for 0.2 seconds.
+      - This is the tick counter that things like the Cleric subclass will use.
