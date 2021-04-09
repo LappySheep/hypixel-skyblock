@@ -250,7 +250,7 @@ Classes:
           Cooldown: 300s (reduced by 2 seconds, for each ability that procs in order to heal an ally, a maximum of one reduction per ability per ally per last stand cast (maximum 40s CDR))
 
 
-    At Healer Level 25, you can branch into one of three subclasses. Note that you can still play the normal Tank class.
+    At Healer Level 25, you can branch into one of three subclasses. Note that you can still play the normal Healer class.
 
     - Inciter:
       Offensive Healing Support Specialist.
