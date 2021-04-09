@@ -106,6 +106,7 @@ Weapons
         Cooldown: 90s
           Cooldown is reduced by 6 seconds on each hit.
 
+
   - Aether Bow [MYTHIC]
     Requires Aelzer Level 7.
     Recipe: Hurricane Bow + 35 Wind Quintessences + Ethereal Jewel
@@ -118,6 +119,19 @@ Weapons
         Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
         Mana Cost: 175
         Cooldown: 30s
+
+  - Wind Blade [LEGENDARY]
+    Requires Aelzer Level 7.
+    Recipe: 6 Crystals of Ephemerality + 36 Wind Quintessences
+      +250 Damage
+      +200 Strength
+      Item Passive - Aether Flux
+        Killing a monster with either a melee hit or Vorpal Surge restores 5% of your missing health back, and grants a shield for 3 seconds equal to 5% of your current health.
+      Item Ability - Vorpal Surge RIGHT CLICK
+        Dash forward quickly and create a 4 block explosion at your destination for 175% melee damage. For each monster damaged by Vorpal Surge, empower your next melee or bow attack by +10% damage (resets on each cast).
+        Cooldown is reduced by 7 seconds if a monster is killed with Vorpal Surge.
+        Mana Cost: 10% of current/maximum mana (whichever is higher) (minimum 100) (+4% per consecutive cast)
+        Cooldown: 8s
 
 
   - Devil Tooth [LEGENDARY]
@@ -514,7 +528,7 @@ Armor
       +450 Defence
       +252 Intelligence
       +7.5 Spell Vamp
-      Piece Bonus - Dominating Breath
+      Piece Bonus - Prismatic Fragmentation
         The Prism's Leggings can replace the Ravager Leggings in the full set; buffing the effect.
         Hybrid Ravagers and Hybrid Behemoths deal 20% less damage. Deal 15% bonus magic damage against Aelzerian monsters and 20% bonus magic damage against Psionic monsters.
       Full Set Bonus - Hybrid Amalgamation
