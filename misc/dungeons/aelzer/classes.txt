@@ -15,11 +15,11 @@ Classes:
         After killing a monster, restore 6% of your missing health and gain 10 bonus Life Steal on your next melee hit.
       - Throwing Axe (Basic Dungeon Orb Ability):
         Throw an axe in the target direction, dealing 125% of your melee damage to the first target hit.
-          For every 6 Berserker Levels, the axe pierces through an additional target at no reduced damage (maximum 5 targets at Berserker Level 24).
-            Cooldown: 20s
+          For every 6 Berserker Levels, the axe pierces through an additional target for increased damage (maximum 5 targets at Berserker Level 24) (+12.5% per hit; 6th target takes 200% melee damage).
+            Cooldown: 20s (reduced by 3s on each kill with Throwing Axe)
       - Volatile Rage (Ultimate Dungeon Orb Ability):
         Go into a rage for the next 8 seconds. During this time, the effects of Bloodlust are doubled, and the next fatal source of damage while raging is reduced by 33%.
-          Cooldown: 180s (reduced by 3s on each kill)
+          Cooldown: 90s (reduced by 3s on each kill)
 
 
     At Berserker Level 25, you can branch into one of three subclasses. Note that you can still play the normal Berserker class.
@@ -34,7 +34,7 @@ Classes:
           Shout after each kill, drawing aggro from monsters within 6 blocks, reducing their damage by 10%.
         - Fracturing Whip (Basic Dungeon Orb Ability):
           Crack a whip in the target direction, slowing the first target hit by 90% (decaying over 3 seconds), and dealing 200% melee damage. This target is feared for 3 seconds too, preventing them from coming near you.
-            Cooldown: 25s
+            Cooldown: 20s
         - Pummelling Axe (Ultimate Dungeon Orb Ability):
           You smash your axe down into the ground, dealing 1000% melee damage split across all targets (maximum 200% to a single target) within 4 blocks. Targets are slowed by 50% (decaying over 2 seconds).
           Each target killed with Pummelling Axe grants a shield equal to 5% of your maximum health, lasting for 6 seconds.
@@ -51,6 +51,7 @@ Classes:
           The next source of damage within 2 seconds of a kill is reduced by 33%.
         - Shock Ring (Basic Dungeon Orb Ability):
           Create a ring of energy around you for 0.5 seconds. Any monsters within 2 blocks are rooted for 4 seconds and take 110% melee damage.
+          Each monster that gets killed while rooted reduces the cooldown of Shock Ring by 3s.
             Cooldown: 22s
         - Blades of Fear (Ultimate Dungeon Orb Ability):
           Your next three melee attacks deal bonus damage equal to 1000% of your True Defence and 200% of your Defence, as true damage, and reduce the defence of targets by 20% for 2 seconds.
@@ -67,7 +68,7 @@ Classes:
           After each kill, gain true stealth for 0.5 seconds. While in true stealth, projectiles that would normally follow you will stop following you, and monsters lose aggro.
         - Callback (Basic Dungeon Orb Ability):
           Cast Callback first to mark a position. Within the next 5 seconds, trigger Callback again to dash back to the marked position. Maximum 32 block range.
-            Cooldown: 8s (25s if Callback is not triggered twice)
+            Cooldown: 6s (20s if Callback is not triggered twice)
         - Event Horizon (Ultimate Dungeon Orb Ability):
           Shoot a flare in the target direction. The first target or block hit is flared for 15 seconds.
           At any point while something is flared, cast Event Horizon again to create an Event Horizon at that location, pulling in enemies towards the flare, slowly, for up to 6 seconds.
@@ -88,7 +89,7 @@ Classes:
         Up to once every 15 seconds, shooting an arrow also shoots a flurry of 12 arrows around you dealing 20% arrow damage and dealing knockback.
       - Pin Down (Basic Dungeon Orb Ability):
         Shoot an arrow in the target direction, stunning the first target hit for 2.5 seconds. Targets that are pinned down take 25% bonus damage.
-          Cooldown: 15s
+          Cooldown: 10s
       - Arrow Storm (Ultimate Dungeon Orb Ability):
         Shoot 80 arrows over the next 8 seconds. Each arrow deals 10% arrow damage, but back-to-back arrows cannot hurt the same target. Every 20th arrow also applies the Barbed Arrows passive.
           Cooldown: 160s (reduced by 1s on each arrow hit)
@@ -108,7 +109,7 @@ Classes:
           Targets that are hit by fully charged arrows take 25% bonus damage if they are not within 6 blocks of any other monster.
         - Explosive Haste (Basic Dungeon Orb Ability):
           For the next 6 seconds, gain +70 Speed, decaying over 2 seconds if you charge your bow. While Explosive Haste is active, all arrows shot are fully charged and deal 2% bonus damage for every block they travel.
-            Cooldown: 40s
+            Cooldown: 22s
         - Clever-scope (Ultimate Dungeon Orb Ability):
           Within 3 seconds, the first target that you hit with an arrow is marked. After 1 second, shoot 3 fast mini-arrows at that target. Each mini-arrow deals 125% arrow damage and has Aiming I applied.
             Clever-scope gains +1 mini-arrow every 12 Sniper Class Levels (+3 at Level 36)
@@ -124,11 +125,11 @@ Classes:
         - Swiftness (Passive):
           Passively, gain 15 bonus Speed on each arrow hit - stacking up to 5 times, lasting for 3 seconds. This bonus is doubled while moving away from enemies that you have recently hit.
         - Tip Shredder (Passive):
-          Passively, fully charged arrow shots shred the target's armor, reducing enemy Defence by 5 per hit, with a maximum of 50 reduction.
+          Passively, fully charged arrow shots shred the target's armor, reducing enemy Defence by 10 per hit, with a maximum reduction of 10% of the target's total Defence.
           Arrows can no longer pierce through multiple enemies.
         - Safeguard (Basic Dungeon Orb Ability):
           Knock enemies within 6 blocks backwards and deal 20% arrow damage. For the next 3 seconds, Tip Shredder's armor shred per hit is doubled.
-            Cooldown: 30s
+            Cooldown: 16s (reduced by 3s on each kill from an arrow)
         - Relentless Assault (Ultimate Dungeon Orb Ability):
           For the next 10 seconds, arrows gain 5 bonus Life Steal.
             Cooldown: 150s (reduced by 5s on each kill)
@@ -150,10 +151,10 @@ Classes:
           Up to once every 8 seconds.
         - Chains of Shinigami (Basic Dungeon Orb Ability):
           Shoot a flurry of 5 arrows in the target direction. These arrows deal 20% arrow damage but chain them to you for 5 seconds. Chained monsters take 15% increased damage and lose 80 Speed while moving towards you. Multiple chains can stack on the same target.
-            Cooldown: 45s
+            Cooldown: 25s
         - Death's Grasp (Ultimate Dungeon Orb Ability):
-          While sneaking, the next fully charged bow shot within 5 seconds throws and pulls the first target towards you, in the air. Hitting them before they touch the ground will deal 400% increased damage but over 4 seconds.
-            Cooldown: 450s (reduced to 250s if you trigger the second half of Death's Grasp) (reduced by 2s on each fully charged arrow hit)
+          While sneaking, the next fully charged bow shot within 5 seconds throws and pulls the first target towards you, in the air. Hitting them before they touch the ground will deal 500% increased damage but over 6 seconds.
+            Cooldown: 60s (reduced to 5s if you trigger the second half of Death's Grasp) (reduced by 2s on each fully charged arrow hit)
 
 
 
@@ -169,7 +170,7 @@ Classes:
         Allies that kill monsters within 12 blocks of you gain 1% increased Defence, stacking up to 10% bonus. The bonus expires when they leave the range.
       - Fissure (Basic Dungeon Orb Ability):
         Create a fissure in the ground, creating a line of destruction in front of you, up to 8 blocks. Enemies take damage equal to [(200 * Lvl) + 2500]% of your Defence and are knocked into the air slightly. Damage is reduced by 10% for each block that it travels.
-          Cooldown: 30s
+          Cooldown: 15s
       - Seismic Slam (Ultimate Dungeon Orb Ability):
         Leap in the air, and smash the ground, dealing [(300 * Lvl) + 5000]% of your Defence as damage and slow targets within 6 blocks by 90% for 2 seconds.
         Using Fissure while midair in Seismic Slam will instantly ground you, triggering both at the same time.
@@ -188,7 +189,7 @@ Classes:
           Gain 10% of your weapon's damage stat as bonus Defence and 0.1% of your base Defence as bonus weapon damage.
         - Iron Hook (Basic Dungeon Orb Ability):
           Shoot an iron hook in the target direction. The first target hit takes 125% melee damage and is violently pulled towards you. If they are thrown into a wall, they are stunned for 2 seconds.
-            Cooldown: 15s
+            Cooldown: 9s
         - Earthquake (Ultimate Dungeon Orb Ability):
           Create an earthquake in the room you're in, dealing 10% of your effective health as damage to every monster, every 0.5 seconds, for 10 seconds. Only affects monsters on the ground.
           Monsters killed by Earthquake increase your Weapon Damage and Defence by 15%, stacking up to 150%, lasting up to 20 seconds after Earthquake ends.
@@ -205,11 +206,11 @@ Classes:
           Attacks cannot deal more than 95% of your current health as damage in a single hit.
             Cooldown: 14s (reduced by 1s on each kill)
         - Projectile Displacement (Basic Dungeon Orb Ability):
-          Gain 20% bonus Defence for 4 seconds, and cause projectiles within 4 blocks to target you instead. Basic projectiles are completely nullified during this time.
-            Cooldown: 30s
+          Gain 20% bonus Defence for 6 seconds, and cause projectiles within 4 blocks to target you instead. Basic projectiles are completely nullified during this time.
+            Cooldown: 48s (reduced by 2s on each projectile diverted)
         - Soul Anvil (Ultimate Dungeon Orb Ability):
           Summon an anvil to fall from the sky, dealing [(125 * Lvl) + 1500]% of your Defence as damage to all targets within 16 blocks. Targets hit are marked for 10 seconds. If you or any allies kill marked targets, you and the ally gain a shield equal to 10% of your maximum health. Shields last for up to 30 seconds.
-            Cooldown: 300s (reduced by 4s on each kill)
+            Cooldown: 200s (reduced by 4s on each kill)
 
     - Blitz:
       Utility Defensive Support Specialist
@@ -222,7 +223,7 @@ Classes:
           Enemy attacks that deal splash damage, deal 66% reduced damage against allies, if they deal at least 20% of your missing effective health as damage.
         - Artillery (Basic Dungeon Orb Ability):
           Blast three powerful shots in a cone shape, in the target direction. Each shot knocks the first enemy they hit backwards, up to 12 blocks, and deal [(100 * Lvl) + 2000]% of your Defence as damage.
-            Cooldown: 35s
+            Cooldown: 25s
         - Orbital Strike (Ultimate Dungeon Orb Ability):
           Shoot a flare in the target direction. The flare sticks on to the first enemy or block that it touches. After 2 seconds, call down 6 blasts of energy from the sky, dealing [(75 * Lvl) + 1000]% of your Defence as damage per blast, and reducing enemy Defence and True Defence by 33% for 5 seconds.
             Cooldown: 300s (reduced by 4s on each kill, reduced by 15s for each strike that successfully hits a target)
@@ -232,7 +233,7 @@ Classes:
   - Healer:
     Healing Support Specialist.
     Passive Bonuses:
-    - Gain [(Lvl * 6) + 50] bonus Health.
+    - Gain [(6 * Lvl) + 50] bonus Health.
     Abilities:
       - Self Sustainability (Passive):
         Regenerate [(0.06 * Lvl) + 1]% of your maximum health per second.
@@ -247,7 +248,7 @@ Classes:
       - Last Stand (Ultimate Dungeon Orb Ability):
         Instantly restore health back equal to 30 seconds worth of Self Sustainability to you and allies within 6 blocks. Additionally, reduce damage taken by 12% on the next 5 hits, gain 25 bonus Tenacity, and 25 bonus Swiftness. This lasts for the next 10 seconds.
         Last Stand's base cooldown is reduced by 15% (stacks additively) for each ally (excluding you, max 60% reduction) healed from below 25% maximum health.
-          Cooldown: 300s (reduced by 2 seconds, for each ability that procs in order to heal an ally, a maximum of one reduction per ability per ally per last stand cast (maximum 40s CDR))
+          Cooldown: 180s (reduced by 2 seconds, for each ability that procs in order to heal an ally, a maximum of one reduction per ability per ally per last stand cast (maximum 40s CDR))
 
 
     At Healer Level 25, you can branch into one of three subclasses. Note that you can still play the normal Healer class.
@@ -255,7 +256,7 @@ Classes:
     - Inciter:
       Offensive Healing Support Specialist.
       Passive Bonuses:
-      - Gain [(Lvl * 3) + 30] bonus Health.
+      - Gain [(3 * Lvl) + 30] bonus Health.
       - Deal [(0.3 * Lvl) + 3]% bonus Melee damage.
       Abilities:
         - Healing Fortress (Passive):
@@ -267,8 +268,33 @@ Classes:
           While sneaking, damage taken to any of your shields is reduced by 10% and restores 1% of your missing health back.
         - Heroic Fortitude (Basic Dungeon Orb Ability):
           Create an aura around you for the next 6 seconds, granting +75 Speed and +20% bonus damage dealt by all allies within 6 blocks. After 6 seconds, each player restores health back equal to 0.1% of their missing health per kill.
-            Cooldown: 36s
+            Cooldown: 36s (reduced by 3s per kill)
         - Redemption (Ultimate Dungeon Orb Ability):
           Gain a shield equal to 200% of your Strength + Crit Damage, which lasts up to the next 12 seconds, and can stack with other shields. While your shield is still active, grant +3 Tenacity per second (max +36), and +0.2% bonus Weapon Damage per kill (by the buffed player), to each ally within 24 blocks.
-          If your shield is still available when a buffed ally takes fatal damage, your buff resets but they respawn with 1 HP and 2 seconds of invulnerability (max once per player).
+          If your shield is still available when a buffed ally takes fatal damage, your shield is drained to restore their health back (max once per player).
             Cooldown: 360s (reduced by 5s per kill)
+
+    - Fleshmoulder:
+      Leecher Healing Support Specialist
+      Passive Bonuses:
+      - Gain [(1.75 * Lvl) + 5]% bonus maximum Health.
+      - Gain [1.25 * Lvl] bonus Life Steal.
+      Abilities:
+        - Healing Fortress (Passive):
+          Passively, you gain the Healer class' Self Sustainability ability, scaling with Healer level.
+        - Spoiling Flair (Passive):
+          You restore 3% of your current health as healing when a monster dies within 24 blocks.
+        - Leeching Specialty (Passive):
+          Each ally within 12 blocks grants you +5 Life Steal and +2 Spell Vamp. This is doubled while below 25% of your maximum health.
+        - Vicious Tendrils (Basic Dungeon Orb Ability):
+          You summon side-tendrils (max 8) which release and attack an enemy within 10 blocks, and summon 3 additional main tendrils which shoot forward in front of you.
+          Side-tendrils deal 30% melee damage and pull in enemies with -250% knockback dealt.
+          Main tendrils deal 75% melee damage each and stun enemies for 1s.
+          Tendrils apply on-hit effects.
+          Healing from tendrils is split across allies within 8 blocks (does not heal you).
+            Cooldown: 40s (reduced by 8s per main tendril hit)
+        - Warping Blood (Ultimate Dungeon Orb Ability):
+          Channel for 2 seconds before creating a large flesh boundary between you and ~7 blocks away, which lasts for 10 seconds. Enemy attacks inside of this boundary deal 66% less damage to you and allies.
+          After the flesh boundary expires, all of the damage that you reduced is taken as true damage to you over 15 seconds.
+          If you would normally die to a tick of the true damage, create a large explosion which knocks enemies back equal to 200% of the damage you successfully survived and restore 20% of your maximum health.
+            Cooldown: 450s (reduced by 225s if you survive the true damage ticks) (reduced by 3s per kill)
