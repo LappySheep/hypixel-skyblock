@@ -12,7 +12,11 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 82)
+Auto Recombobulated Loot (Total: 84)
+  Not In Backpack (2)
+    Obsidian (drop)
+    Tasty Cheese (drop)
+
   Bazaar Material Drops (27)
     Hay Bale (75k)
     Enchanted Feather (75k)
