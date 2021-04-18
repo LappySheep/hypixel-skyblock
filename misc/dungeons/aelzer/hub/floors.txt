@@ -84,7 +84,7 @@ Floor 9 - Linc
   Requirements:
     - Combat 50
     - Aelzer Level 32
-    - Beaten Shryder
+    - Beaten Zurion
     - Costs 4 Abyssal Permits per entry
     - 24,000 Depth Resistance
 
