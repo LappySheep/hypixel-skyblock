@@ -166,24 +166,24 @@ Accessories
 
 Dungeon Orbs
   - Thermal Orb
-  Requires Aelzer Level 10.
-  Requires Catacombs Level 30.
-  Cost: 5,000 Tainted Coins
-  Applies the Thermal Lance passive ability on to your other available Dungeon Orb Abilities.
-    Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
+    Requires Aelzer Level 10.
+    Requires Catacombs Level 30.
+    Cost: 5,000 Tainted Coins
+    Applies the Thermal Lance passive ability on to your other available Dungeon Orb Abilities.
+      Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
 
   - Recall Orb
-  Requires Aelzer Level 15.
-  Requires 300,000,000 Alchemy Exp.
-  Cost: 11,000 Tainted Coins
-  Replaces your ultimate Dungeon Orb ability with the Mass Recall ultimate ability.
-    Mass Recall: Spawn a Pylon which lasts for 15 seconds. Pylons increase Strength of nearby allies by 10% (stackable).
-    If you have a Pylon Artifact, Mass Recall also spawns an allied Sentinel every second (maximum 10), lasting until the Pylon expires.
-    Sentinel:
-      10,000 Health (+30% of your maximum health)
-      1,500 Melee Damage (+1% per 1 Strength)
-      All damage dealt is converted into health, split across all players within 16 blocks of a Pylon.
-    Cooldown: 300s
+    Requires Aelzer Level 15.
+    Requires 300,000,000 Alchemy Exp.
+    Cost: 11,000 Tainted Coins
+    Replaces your ultimate Dungeon Orb ability with the Mass Recall ultimate ability.
+      Mass Recall: Spawn a Pylon which lasts for up to 60 seconds. Pylons increase Strength of allies and the Power stat of summoned units within 12 blocks by 10% (stackable). If a Pylon is not actively buffing any ally or summoned unit, its lifespan drains by 2 seconds per second instead.
+      Pylons also spawn an allied Sentinel every 2 seconds (maximum 5 alive), lasting until the Pylon expires.
+      Sentinel:
+        170 Health (+1 per 50 maximum Biomass)
+        30 Power (+1 per 500 Strength)
+        All damage dealt is converted into health, split across all players within 16 blocks of the Pylon.
+      Cooldown: 360s
 
 
 
