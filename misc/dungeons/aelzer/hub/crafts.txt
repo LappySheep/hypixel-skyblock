@@ -163,7 +163,8 @@ Weapons
       +300 Damage
       +400 Intelligence
       Item Ability - Ember Fragmentation SNEAK + RIGHT CLICK
-        Right clicking while sneaking cycles through available spells. Deal 10% bonus damage against targets on fire.
+        Right clicking while sneaking cycles through available spells.
+        Deal 10% bonus damage against targets on fire.
       Item Ability - Cast Spell RIGHT CLICK
         Cast an active spell, selected using Ember Fragmentation.
       Spells:
