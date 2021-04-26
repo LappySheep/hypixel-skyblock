@@ -335,4 +335,4 @@ Special Loot:
     Requires an S+ rank or higher.
     Used to craft the Volcanic Staff.
 
-Completing Floor 2 rewards up to 160 Aelzer XP.
+Completing Floor 3 rewards up to 160 Aelzer XP.
