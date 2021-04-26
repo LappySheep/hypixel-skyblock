@@ -9,6 +9,7 @@ Titanium Liquifier [EPIC]
 
       Liquifying Bonus: Gain +50 Mining Speed while mining Titanium. Gain +10 Mining Fortune while mining anything requiring 6 Breaking Power.
 
+
 Glacial Shard [EPIC]
   Requires Heart of the Mountain Tier 7.
   Forge Recipe: 4 Glacial Crystals + 4 Power Crystals + 4 Refined Tantalite
@@ -21,3 +22,15 @@ Glacial Shard [EPIC]
 
       Preserved Bonus (melee weapon): Killing a Ghost deals damage to other Ghosts within 6 blocks, equal to 33% of your melee damage.
       Preserved Bonus (mining tool): Mining ores within 12 blocks of any Ghost restores half of your missing health back (1s cd).
+
+
+Arctic Frosting [LEGENDARY]
+  Requires Heart of the Mountain Tier 8.
+  Forge Recipe: 2 Supercompressed Ice
+  Forging Time: 2d (48h)
+  Reforge Stone. Use in a Reforge Anvil with a pickaxe or drill to reforge it with Arctic.
+    Effect:
+      Mining Speed: +50/55/60/65/70/75
+      Magic Find: +3/4/4/5/5/6
+
+      Arctic Bonus: Mining an ore creates a 2 block aura which lasts for 5 seconds. This aura reduces the hardness of blocks by 10%. Stackable with the Snowstorm Chestplate.
