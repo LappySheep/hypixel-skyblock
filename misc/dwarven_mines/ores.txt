@@ -3,7 +3,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
 
 
 
-- Glacial Ore (4tick Mining Speed Cap - 2,000) (Rare)
+- Glacial Ore (4tick Mining Speed Cap - 2,000 (266.66 Block Hardness)) (Rare)
   Breaking Power Requirement: 0
   Requires Mining 30.
     Base Drop: 2.5 Glacite Particulates
@@ -14,7 +14,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
     Requires a Frozen Pickaxe or higher to mine.
 
 
-- Tantalite (4tick Mining Speed Cap - 8,000) (Rare)
+- Tantalite (4tick Mining Speed Cap - 8,000 (1,066.66 Block Hardness)) (Rare)
   Breaking Power Requirement: 6
   Requires Mining 35.
     Base Drop: 1
@@ -27,7 +27,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
     They also have a chance of spawning near a Fallen Star.
     Mithril ores within 16 blocks of a Fallen Star have a 1/20000 (0.005%) chance of becoming a Tantalite ore, every game tick.
 
-- Iridite (4tick Mining Speed Cap - 15,000) (Rare)
+- Iridite (4tick Mining Speed Cap - 15,000 (2,000 Block Hardness)) (Rare)
   Breaking Power Requirement: 7
   Requires Mining 42.
     Base Drop: 1
@@ -36,7 +36,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
       - Mined Iridite counts for 3 Drill Fuel each.
       - Iridite is unaffected by X-Ray technology.
 
-- Chromite (4tick Mining Speed Cap - 27,000) (Epic)
+- Chromite (4tick Mining Speed Cap - 27,000 (3,600 Block Hardness)) (Epic)
   Breaking Power Requirement: 8
   Requires Mining 48.
     Base Drop: 0.7
@@ -45,7 +45,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
       - Mined Chromite counts for 5 Drill Fuel each.
       - Mining Chromite (as the main block) breaks Efficient Miner.
 
-- Tungstite (4tick Mining Speed Cap - 43,500) (Epic)
+- Tungstite (4tick Mining Speed Cap - 43,500 (5,800 Block Hardness)) (Epic)
   Breaking Power Requirement: 9
   Requires Mining 53.
     Base Drop: 0.5
@@ -54,7 +54,7 @@ At HotM 7, you can acquire an Ore Concealer which allows you to keep special ore
       - Mined Tungstite counts for 7 Drill Fuel each.
       - Consecutive Tungstite mined reduces your Mining Speed by 4% (additively) as an overheat effect which decays over 3 seconds after mining non-Tungstite. Maximum -80% speed.
 
-- Lustrite (4tick Mining Speed Cap - 64,000) (Legendary)
+- Lustrite (4tick Mining Speed Cap - 64,000 (8,533.33 Block Hardness)) (Legendary)
   Breaking Power Requirement: 10
   Requires Mining 57.
     Base Drop: 0.4
