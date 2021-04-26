@@ -7,13 +7,36 @@ Materials
     Requires Aelzer Level 8.
     Recipe: 128 Enchanted Obsidian + 64 Enchanted Lapis Lazuli
 
+
   - Crystal of Ephemerality [LEGENDARY]
     Requires Aelzer Level 8.
     Recipe: 4 Aether Cores + Ethereal Jewel
 
+
   - Hybrid Trifecta Fragment [LEGENDARY]
     Requires Aelzer Level 13.
     Recipe: 3 Ranger Fragments + 3 Caster Fragments + 3 Warrior Fragments
+
+
+  - Ancient Eye [LEGENDARY]
+    Requires Aelzer Level 20.
+    Recipe: 7 Runner Meshes + Dark Pledge 
+
+  - Gemstruck Eye [LEGENDARY]
+    Requires Aelzer Level 20.
+    Recipe: 7 Runner Meshes + Fused Omnigem
+
+  - Ferocious Eye [LEGENDARY]
+    Requires Aelzer Level 20.
+    Recipe: 7 Runner Meshes + Vicious Calamity
+
+  - Bleeding Eye [LEGENDARY]
+    Requires Aelzer Level 20.
+    Recipe: 7 Runner Meshes + Bloodbath Atrophy
+
+  - Gazeseeker Covenant [MYTHIC]
+    Requires Aelzer Level 22.
+    Recipe: 56 Runner Meshes + 4 Ancient Eyes + 4 Gemstruck Eyes + 4 Ferocious Eyes + 4 Bleeding Eyes + Inhibitor Core
 
 
 
@@ -169,12 +192,12 @@ Weapons
         Cast an active spell, selected using Ember Fragmentation.
       Spells:
         - Ignition Rake:
-          Shoot three fireballs in a cone shape, in the target direction. Each fireball deals [6000 + 40x Intelligence] damage and sets them on fire for 4 seconds.
+          Shoot three fireballs in a cone shape, in the target direction. Each fireball deals [6,000 + 40x Intelligence] damage and sets them on fire for 4 seconds.
           Mana Cost: 300
           Cooldown: 3s
         - Ring of Fire:
           Toggleable spell. Can remain active while another spell is selected.
-          Create a ring of flames that swirl around you, damaging monsters within 3 blocks for [6000 + 15x Intelligence] damage every second.
+          Create a ring of flames that swirl around you, damaging monsters within 3 blocks for [6,000 + 15x Intelligence] damage every second.
           Mana Cost: 150/s
           Cooldown: N/A
         - Extinguish:
