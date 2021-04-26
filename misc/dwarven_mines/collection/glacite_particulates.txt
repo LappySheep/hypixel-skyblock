@@ -45,7 +45,7 @@ Glacite Particulate Collection
       Item Passive - Snowstorm Aura
         The size of your Snowstorm Aura scales with your Glacite Particulate collection (size: [cbrt(b / 10000)]). Maximum 10 blocks (10m GP).
       Item Passive - Frostbite
-        Blocks in the aura become weaker; reducing the maximum Mining Speed required for those blocks by 1% per second in the range (refreshing when you leave) (maximum -20%).
+        Blocks in the aura become weaker; reducing the hardness for those blocks by 5% per second in the range (refreshing when you leave) (maximum -20%).
         Your melee attacks deal 500 bonus true damage per hit, increased by 1% per 5 Strength, and doubled if using a pickaxe or drill.
 
 
@@ -122,3 +122,8 @@ Glacite Particulate Collection
         You numb your muscles for 10 seconds, causing attacks (only with this weapon) to cap at 0 Ferocity, but deal 1.5% bonus damage per 1 Ferocity (max +300%).
         Mana Cost: 100
         Cooldown: 30s
+
+
+  Collection Level 10 - 30,000,000 Glacite Particulates
+    Supercompressed Ice
+    Recipe: 8 Ice-VII + 256 Enchanted Packed Ice
