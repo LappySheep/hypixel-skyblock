@@ -6,7 +6,7 @@ Rarities available are - Common / Uncommon / Rare / Epic / Legendary / Mythic / 
 
 Armor Reforges:
   - Protective:
-    Cost: 20 Tainted Coins
+    Cost: 50 Tainted Coins
     Requirements:
       - Aelzer Level 2
     Effects:
@@ -15,7 +15,7 @@ Armor Reforges:
       Protective Bonus: While above 50% maximum health, increase the reforge's Defence bonus of this piece to the next rarity's bonus. (Infinite rarity grants a bonus of 163 Defence while boosted)
 
   - Empowered:
-    Cost: 100 Tainted Coins
+    Cost: 110 Tainted Coins
     Requirements:
       - Aelzer Level 3
     Effects:
@@ -24,7 +24,7 @@ Armor Reforges:
       Empowered Bonus: Grant 18 bonus Intelligence for every ally within 12 blocks.
 
   - Nullifying:
-    Cost: 250 Tainted Coins
+    Cost: 425 Tainted Coins
     Requirements:
       - Aelzer Level 5
     Effects:
@@ -34,7 +34,7 @@ Armor Reforges:
       Nullifying Bonus: Taking damage reduces damage taken by the next attack within 2 seconds by 5%. Maximum once per 5 seconds.
 
   - Mystic:
-    Cost: 750 Tainted Coins + Aether Core
+    Cost: 1,250 Tainted Coins + Aether Core
     Requirements:
       - Aelzer Level 6
     Effects:
@@ -47,27 +47,27 @@ Armor Reforges:
 
 Melee Weapon Reforges:
   - Enforcing:
-    Cost: 12 Tainted Coins
+    Cost: 45 Tainted Coins
     No Requirements
     Effects:
       Strength: +18/20/22/24/26/28/30/32/34/36
       Crit Damage: +18/20/22/24/26/28/30/32/34/36
 
   - Forceful:
-    Cost: 15 Tainted Coins
+    Cost: 50 Tainted Coins
     No Requirements
     Effects:
       Strength: +34/37/40/44/48/52/57/62/67/73
 
   - Decisive:
-    Cost: 20 Tainted Coins
+    Cost: 75 Tainted Coins
     No Requirements
     Effects:
       Crit Damage: +10/12/15/18/22/26/31/36/42/48
       Crit Chance: +5/6/8/9/11/12/14/15/17/18%
 
   - Sparkling:
-    Cost: 70 Tainted Coins
+    Cost: 120 Tainted Coins
     Requirements:
       - Aelzer Level 2
     Effects:
@@ -77,20 +77,28 @@ Melee Weapon Reforges:
       Sparkling Bonus: Attacks deal 0.1% bonus damage for every 5 Strength, up to +10%.
 
   - Vibrant:
-    Cost: 525 Tainted Coins
+    Cost: 1,750 Tainted Coins
     Requirements:
-      - Aelzer Level 4
+      - Aelzer Level 5
     Effects:
       Strength: +27/30/32/35/37/40/42/45/47/50
       Intelligence: +40/47/55/62/70/77/85/92/100/107
       Lethality: +1/3/4/6/7/9/10/12/13/15
 
-      Vibrant Bonus: Attacks deal 0.2% bonus damage for every 5 Strength, and +0.8% for every 1 Lethality, up to +25% total.
+      Vibrant Bonus: Attacks deal 0.15% bonus damage for every 5 Strength, and +0.6% for every 1 Lethality, up to +15% total.
 
 
 Bow Reforges:
-  - Piercing:
+  - Sharp-tipped:
     Cost: 100 Tainted Coins
+    Requirements:
+      - Aelzer Level 2
+    Effects:
+      Damage: +1/2/2/3/3/4/4/5/5/6
+      Crit Damage: +2/5/7/10/12/15/17/20/22/25
+
+  - Piercing:
+    Cost: 400 Tainted Coins
     Requirements:
       - Aelzer Level 3
     Effects:
@@ -99,7 +107,7 @@ Bow Reforges:
       Piercing Bonus: Arrows ignore 1% of defence. Grants 1 bonus Crit Damage to arrows for every 5 total Defence ignored by those arrows.
 
   - Splitting:
-    Cost: 330 Tainted Coins
+    Cost: 1,350 Tainted Coins
     Requirements:
       - Aelzer Level 8
     Effects:
@@ -113,47 +121,46 @@ Bow Reforges:
 
 Accessory Reforges:
   - Incisive:
-    Cost: 20 Tainted Coins
+    Cost: 50 Tainted Coins
     Requirements:
       - Aelzer Level 1
     Effects:
       - Intelligence: +2/3/4/5/6/7/8/9/10/11
 
   - Rigid:
-    Cost: 20 Tainted Coins
+    Cost: 50 Tainted Coins
     Requirements:
       - Aelzer Level 1
     Effects:
-      - Defence: +2/3/4/5/6/7/8/9/10/11
+      - Defence: +2/3/5/6/8/9/11/12/14/15
 
   - Careful:
-    Cost: 20 Tainted Coins
+    Cost: 50 Tainted Coins
     Requirements:
       - Aelzer Level 1
     Effects:
       - Crit Chance: +1/1/2/2/3/3/4/4/5/5%
 
   - Rapid:
-    Cost: 45 Tainted Coins
+    Cost: 75 Tainted Coins
     Requirements:
       - Aelzer Level 2
     Effects:
       - Attack Speed: +1/1/2/2/3/3/4/4/5/5%
 
   - Pure:
-    Cost: 60 Tainted Coins
+    Cost: 200 Tainted Coins
     Requirements:
       - Aelzer Level 3
     Effects:
-      - Health: +3/3/4/4/5/5/6/6/7/7
       - Defence: +2/3/3/4/4/5/5/6/6/7
       - Crit Damage: +2/2/3/3/4/4/5/5/6/6
       - Intelligence: +1/2/2/3/3/4/4/5/5/6
       - Strength: +1/1/2/2/3/3/4/4/5/5
-      - Crit Chance: +0/1/1/2/2/3/3/4/4/5%
+      - Crit Chance: +0/0/0/1/1/1/2/2/2/3%
 
   - Abyssal:
-    Cost: 100 Tainted Coins
+    Cost: 180 Tainted Coins
     Requirements:
       - Aelzer Level 3
     Effects:
@@ -174,7 +181,7 @@ Staff Reforges:
       - Cooldown Reduction: +1/1/2/2/3/3/4/4/5/5%
 
   - Cindered:
-    Cost: 1150 Tainted Coins + Demonic Cinder
+    Cost: 1,150 Tainted Coins + Demonic Cinder
     Requirements:
       - Mage Class Level 21
       - Aelzer Level 13
@@ -184,6 +191,17 @@ Staff Reforges:
 
       Cindered Bonus: Damaging abilities deal 25% of your total Intelligence as bonus true damage, as a burning effect over 5 seconds.
 
+  - Intense:
+    Cost: 3,750 Tainted Coins
+    Requirements:
+      - Mage Class Level 25
+      - Aelzer Level 16
+    Effects:
+      - Ability Damage: +4%
+      - Magic Penetration: +1/1/2/2/2/3/3/3/4/4
+
+      Intense Bonus: Area of Effect damage is increased by 5% at the centre of impact.
+
 
 Dungeon Orb Reforges:
   - Fragmented:
@@ -192,3 +210,10 @@ Dungeon Orb Reforges:
       - Aelzer Level 7
     Effects:
       Dungeon Orb cooldowns are reduced by 5%. Grants the user 3% bonus natural HP regeneration.
+
+  - Mysterious:
+    Cost: 4,000 Tainted Coins
+    Requirements:
+      - Aelzer Level 9
+    Effects: 
+      Casting a Dungeon Orb ability restores 6% of your missing mana.
