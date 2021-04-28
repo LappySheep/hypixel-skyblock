@@ -1,0 +1,95 @@
+There are numerous 'modes' available, which can be picked before starting a dungeon run.
+
+Each mode has its own features and pros/cons, which must be taken into consideration to maximise efficiency.
+
+Some modes have requirements - which must be fulfilled before you can choose them.
+
+
+General Information:
+  - Dungeon score is always rounded down; 199.9999 is rounded down to 199.
+  - Dungeon rank thresholds are always rounded up; 95% of 250 = 237.5 --> 238.
+  - Base Aelzer Exp earned from dungeon runs is quadratically proportional to the dungeon score; 225/250 score achieved grants 81% of the maximum base experience earned.
+  - Bosses account for 40% of the possible score (by default); avoiding the boss caps you at a C rank.
+  - Score : Rank thresholds:
+    S*: 100%, S+: 95%, S: 90%,
+    A: 80%, B: 70%, C: 60%,
+    D: 50%, E: <50%
+  - Score reduction multipliers are additive, and apply after flat reduction (e.g. 1 death + 36 seconds over in a standard run: 250 -> 247 -> 234.65 -> rounded down to 234).
+  - Default minimum score is 10% of maximum possible.
+  - Leaving a dungeon run prematurely grants no Aelzer Exp at all.
+
+
+Modes:
+  - Standard Mode:
+    Requirements:
+      - None!
+    Score Modifiers/Costs:
+      - Deaths reduce your score by 5%.
+      - Respawn-revivals reduce your score by 10% (excluding abilities).
+      - Every 12 seconds after the first [25 + (Floor * 5)] minutes reduces your score by 1.
+      - Every incomplete Special Door or Puzzle reduces your score by 5%.
+    Other Notes:
+      - None!
+    Maximum Dungeon Score: 250
+
+  - Adventure Mode:
+    Requirements:
+      - Slain Barys (Floor 4)
+    Score Modifiers/Costs:
+      - Deaths reduce your score by 50%.
+    Other Notes:
+      - Solo/Duo only.
+      - Floors 11-13 cannot be played in SIAUDIYAIUSD Mode.
+      - While in Adventure Mode, dungeon runs end once you reach the boss room. You cannot fight the boss of a floor during Adventure Mode.
+    Maximum Dungeon Score: 250 (Maximum Achievable: 150)
+
+  - Boss Rush Mode:
+    Requirements:
+      - Slain Pinqsci (Floor 5)
+    Score Modifiers/Costs:
+      - Deaths reduce your score by 100%.
+    Other Notes:
+      - Floors 11-13 cannot be played in Boss Rush Mode.
+      - Deaths end Boss Rush Mode runs immediately.
+      - Completed bosses before a fail will grant experience equal to the cube of the highest boss beaten (e.g. beating 4/5 bosses: 64/125 score).
+      - Choosing a certain floor will place you in the boss fight for each floor, from floor 1, up to the selected floor.
+      - While in Boss Rush Mode, dungeon runs consist strictly only of the boss fights of the selected floors. Bosses do not drop loot which require a dungeon run rank.
+    Maximum Dungeon Score: [FloorSelected^3]
+
+  - Completionist Mode:
+    Requirements:
+      - Slain Digitalis (Floor 6)
+    Score Modifiers/Costs:
+      - Floors 11-13 cannot be played in Completionist Mode.
+      - Deaths reduce your score by 10%.
+      - Failing a Completionist Mode dungeon run resets your Completionist Experience Bank.
+      - Respawn-revivals reduce your score by 20% (excluding abilities).
+      - Every 12 seconds after the first [25 + (Floor * 5)] minutes reduces your score by 1.
+      - Every incomplete Special Door or Puzzle reduces your score by 10%.
+    Other Notes:
+      - Monsters and bosses do not drop anything in Completionist Mode, other than Tainted Coins.
+      - While in Completionist Mode, completing a new floor marks it as Explored, and 20% of the Aelzer Exp earned is added to a Completionist Experience Bank (not subtracted from main exp earned).
+        - Experience is only added to the bank if the floor completed is not marked as Explored, and if the previous floor (excl F1) is marked as Explored.
+      - Explored floors replayed on Completionist Mode grant no bonus Aelzer Exp.
+      - At any point, you can reset your Explored marks on floors - maximum of once every 72 SkyBlock hours.
+      - Resetting the Explored marks on your floors earns Aelzer Exp equal to [102.5 + (F * 2.5)]% of Floor F's maximum exp, plus the experience in your Completionist Experience Bank.
+        - Floor F is the highest floor that is marked with Explored; but must be consecutive with a previous Explored floor.
+          e.g. F1, F2, F3, F4, F5, F7 Explored floors => Floor F == Floor 5 ==> earn 115% of floor 5's maximum Aelzer Exp + Bank Exp.
+    Maximum Dungeon Score: 250
+
+  - Randomiser Mode:
+    Requirements:
+      - Slain Shryder (Floor 7)
+    Score Modifiers/Costs:
+      - Floors 11-13 cannot be played in Randomiser Mode.
+      - Deaths reduce your score by 10%.
+      - Respawn-revivals reduce your score by 20% (excluding abilities).
+      - Every 12 seconds after the first [25 + (Floor * 5)] minutes reduces your score by 1.
+      - Every incomplete Special Door or Puzzle reduces your score by 10%.
+    Other Notes:
+      - Completing Randomiser dungeon runs adds points to a Randomiser Score, equal to the cube of the floor completed.
+        e.g. Floor 8 gives 512 Randomiser Score.
+      - Consecutive dungeon completions also grant a 1% bonus Randomiser Score, stacking up to +400% (rounds down).
+      - Gain bonus Aelzer Exp from Randomiser Mode dungeon runs equal to [1.1^(log_1.5(RandomiserScore))].
+        e.g. 750 Randomiser Score = 4.74% bonus Aelzer Exp.
+    Maximum Dungeon Score: 250
