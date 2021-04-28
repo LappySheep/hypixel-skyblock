@@ -1,0 +1,13 @@
+###
+
+This journal can be dropped by any monster on Floor 1. Requires journal f01_3 first.
+
+Drop Chance: 0.4% (1/250)
+
+###
+
+Agony.
+
+I have suffered the worst, and yet I will suffer more.
+
+For our promised enlightenment.
