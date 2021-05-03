@@ -139,7 +139,7 @@ Classes:
       Precision Ranged Damage Specialist
       Restrictions:
         - (Requirement) Slain Digitalis.
-        - Wraith bonuses and abilities do not work on legendary-tier bows or lower.
+        - Wraith bonuses and abilities do not work on legendary-tier bows or lower (must be base-mythic).
       Passive Bonuses:
         - Deal [7.5 * Lvl]% bonus Arrow damage.
         - Gain [(3 * Lvl) + 30] bonus Strength.
@@ -187,6 +187,8 @@ Classes:
       Abilities:
         - Balance of Power (Passive):
           Gain 10% of your weapon's damage stat as bonus Defence and 0.1% of your base Defence as bonus weapon damage.
+        - Dead Weights (Passive):
+          Melee attacks slow targets by 10% (stacking up to 50%) for 4 seconds. You and your allies deal bonus damage to targets affected by Dead Weights equal to +1% per 5 Speed reduced.
         - Iron Hook (Basic Dungeon Orb Ability):
           Shoot an iron hook in the target direction. The first target hit takes 125% melee damage and is violently pulled towards you. If they are thrown into a wall, they are stunned for 2 seconds.
             Cooldown: 9s
