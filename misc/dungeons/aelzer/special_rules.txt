@@ -15,7 +15,7 @@ Special Rules of the Aelzerian Rift
 - Your Drop key triggers your Ultimate Class Ability.
 - Your Drop Stack keys trigger your normal Class Ability.
 - You gain 5 + 1% of your maximum mana back every time you hit an enemy with a sword/bow.
-- Any Speed above 100 Speed is nerfed by 80%.
+- Any Speed above 100 Speed is reduced by 80%.
 - Arrows deal reduced knockback.
 - Dying turns you into a Ghost. Ghosts can only be revived in special circumstances.
 - If you leave during a run, you can still return as a Ghost and be revived later.
