@@ -139,9 +139,26 @@ Weapons
       Item Passive - Untouchable
         Passively, every monster hit by every arrow grants 3 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
       Item Ability - Chilled Core LEFT CLICK
-        Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of 20.
+        Your next arrow slows targets by 33% of your Bonus Speed, lasting for 6 seconds. Additionally, gain 1 Lethality on the arrow for every 25 Strength, up to a maximum of a 3% total increase.
         Mana Cost: 175
-        Cooldown: 30s
+        Cooldown: 20s
+
+  - Cyclonic Shockbow [SUPREME]
+    Requires Aelzer Level 13.
+    Recipe: Aether Bow + 2 Ethereal Jewels + 20 Wind Quintessences + 256 Aether Fragments
+      +444 Damage
+      +175 Strength
+      +100% Crit Damage
+      +50 Intelligence
+      Item Passive - Untouchable
+        Passively, every monster hit by every arrow grants 5 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
+        Additionally, arrows deal 2 extra blocks of knockback, which scales inversely proportional to your Speed (2 blocks at 100 speed).
+      Item Ability - Spinshot Shockwave LEFT CLICK
+        You create a swirling cyclone in the target direction, which moves at 1 block/s, and speeds up to 3 blocks/s over 8 seconds (x blocks travelled in total).
+        The cyclone deals 33% arrow damage to each target that it touches, every half second. Additionally, all enemy projectiles are destroyed if they come into contact with the cyclone (special abilities are slowed down instead).
+        While the cyclone is active, shooting it with the Cyclonic Shockbow will push it; changing its trajectory.
+        Mana Cost: 300
+        Cooldown: 45s
 
   - Wind Blade [LEGENDARY]
     Requires Aelzer Level 7.
