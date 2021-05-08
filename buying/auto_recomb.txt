@@ -11,8 +11,8 @@ Priority List (unobtained currently, willing to overpay):
 
 Price paid (or if it was a drop) will be in brackets for obtained items.
 
-Auto Recombobulated Loot (Total: 100)
-  Bazaar Material Drops (35)
+Auto Recombobulated Loot (Total: 102)
+  Bazaar Material Drops (36)
     Carrot (free)
     Hay Bale (75k)
     Enchanted Feather (75k)
@@ -31,6 +31,7 @@ Auto Recombobulated Loot (Total: 100)
     Enchanted Bone (100k)
     String (75k)
     Enchanted Spider Eye (75k)
+    Enchanted Gunpowder (drop)
     Enchanted Ender Pearl (drop)
     Ancient Claw (75k)
 
@@ -75,13 +76,14 @@ Auto Recombobulated Loot (Total: 100)
     Livid Fragment (180k)
     Bigfoot's Lasso (free)
 
-  Fishing (6)
+  Fishing (7)
     Hunk of Ice (75k)
     Hunk of Blue Ice (75k)
     Sea Lantern (75k)
+    Ice Rod (75k)
+    Magnet VI Book (75k)
     Lure VI Book (75k)
     Luck of the Sea VI Book (75k)
-    Ice Rod (75k)
 
   Dragon Fragments (4)
     Unstable Dragon Fragment (drop)
