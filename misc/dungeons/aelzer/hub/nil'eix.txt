@@ -110,7 +110,7 @@ Accessories
   - Talisman of Retribution
     Requires Aelzer Level 8.
     Cost: 1,500 Tainted Coins
-    UNCOMMON ACCESSORY - Gain 1 bonus Spell Vamp for every 12.5% of your maximum health that you are missing.
+    UNCOMMON ACCESSORY - Gain 1 bonus Spell Vamp for every 18% of your maximum health that you are missing.
 
   - Artifact Hunter
     Requires Aelzer Level 10.
