@@ -330,7 +330,7 @@ Classes:
         - Righteous Aura (Passive):
           Passively, restore 2 Devotion every second. Every 7 Cleric levels increases each tick of restored Devotion by 1 (max 7/s).
         - Reconciliation (Basic Dungeon Orb Ability):
-          For the next 8 seconds, toggleable Cleric spells will apply to an ally  within 8 blocks, as well as you. Reconciliation does not cost extra Devotion on its own, but it does increase the Devotion/tick cost of spells by 40%.
+          For the next 8 seconds, toggleable Cleric spells will apply to an ally within 8 blocks, as well as you. Reconciliation does not cost extra Devotion on its own, but it does increase the Devotion/tick cost of spells by 40%.
             Cooldown: 45s (reduced by 2s after buffing an ally)
         - Imbued Deity (Ultimate Dungeon Orb Ability):
           For the next 15 seconds, apply your Cleric Archetype passive at 200% efficiency. Additionally, Scythemir/Void/Retribution archetypes grant further buffs:
@@ -338,3 +338,59 @@ Classes:
             - Void - Allies within 6 blocks of you stack each other's Cleric buffs; but at a 33% efficiency rate on consecutive buffs. Maximum of 2 recursions.
             - Retribution - If you or an ally within 12 blocks, who has also been buffed by you within 5 seconds takes fatal damage, create an explosion for [(6 * Lvl) + 60]% of your effective health as damage - knocking enemies back and granting 2 seconds of invulnerability.
               Cooldown: 300s (reduced by 3s after buffing an ally)
+
+
+
+  - Mage:
+    Magic Damage Specialist.
+    Passive Bonuses:
+    - Gain [(6 * Lvl) + 100] bonus Intelligence.
+    Abilities:
+      - Mage Beam (Passive):
+        Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
+          BeamDamage: [[(0.02 * Lvl) + 0.1] * (d + int/10) * (1 + (int / 1000))]
+          DistanceScaling: [125 - (4|8-d|)^2]%
+          Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+      - Catalytic Flow (Passive):
+        'Successfully' casting a spell (such that the main purpose is fulfilled) restores 15% of the mana spent on that spell. This is tripled up to once every 6 seconds, if you are above 75% of your maximum health.
+      - Arcane Beam (Basic Dungeon Orb Ability):
+        While sneaking, every sixth Mage Beam is followed by an Arcane Beam, 0.5 seconds later. Arcane Beams deal magic damage equal to 120% of your Mage Beam, and applies all regular on-hit effects.
+        Casting Arcane Beam manually creates an explosion on impact - dealing 20% Arcane Beam damage to other targets within 4 blocks.
+          At Mage Level 10/20, increase the frequency of Arcane Beam up to once every fifth/fourth Mage Beam.
+          Cooldown (explosion): 18s (reduced by 2s on each Arcane Beam hit)
+      - Arcane Explosion (Ultimate Dungeon Orb Ability):
+        You shoot a quick blast of energy in the target direction. On impact, explode for 350% Mage Beam damage to targets within 7 blocks.
+        Each target damaged by Arcane Explosion grants +15 Speed for 10 seconds (stackable, max +150 Speed), and restores 2.5% of your maximum mana back.
+          Cooldown: 150s (reduced by 3s on each Arcane Beam hit)
+
+
+    At Mage Level 25, you can branch into one of three subclasses. Note that you can still play the normal Mage class.
+
+    - Dryad:
+      Auto-Attack Magic Damage Specialist.
+      Passive Bonuses:
+      - Gain [(5.5 * Lvl) + 90] bonus Intelligence.
+      - Gain [(1 * Lvl) + 10] bonus Attack Speed.
+      Abilities:
+      - Dryad Beam (Passive):
+        Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
+          BeamDamage: [[(0.02 * Lvl) + 0.2] * (d + int/10) * (1 + (int / 1000))]
+          DistanceScaling: [125 - (3.5|8-d|)^2]%
+          Cooldown: 0.667s (cannot be reduced by Attack Speed)
+      - Bolt Toggle (Basic Dungeon Orb Ability):
+        Cast to toggle between Dryad Beam and Dryad Bolt.
+        Bolts start at 6 blocks/s at first, dealing normal damage to the first target hit, and gaining both speed and damage per target hit:
+        +20% (additive, max +100%) damage per hit
+        +1 block/s (max +5 blocks/s) per hit
+          Cooldown (bolt): 0.667s (cannot be reduced by Attack Speed)
+          Cooldown (toggle): 9s (reduced to 2s if toggled while outside of combat)
+      - Bolt Flux (Passive):
+        While sneaking, bolts bounce from target to target instead of passing through in a straight trajectory. On each bounce, deal -10% (additive, max -50%) damage, and travel 1 block/s slower.
+        Flux Bolts expire after either 5 targets damaged or after travelling 25 blocks.
+        Flux Bolts deal -20% damage compared to regular Dryad Bolts.
+      - Ancient Overseer (Ultimate Dungeon Orb Ability):
+        Summon an Ancient Overseer for the next 10 seconds. While summoned, the Overseer casts Dryad Beam independently from you, striking up to 3 targets (max 1 beam per target) within 10 blocks (prioritising any 8 block distances).
+        If you have Bolt Toggle enabled, the Overseer will shoot standard Dryad Bolts instead.
+        Overseers will not use Bolt Flux.
+        After the Overseer expires, restore a portion of your missing mana back equal to 5% per kill (max 100%).
+          Cooldown: 450s (reduced by 3s on each Dryad Beam or Dryad Bolt/Bolt Flux hit)
