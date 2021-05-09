@@ -300,3 +300,41 @@ Classes:
           After the flesh boundary expires, all of the damage that you reduced is taken as true damage to you over 15 seconds.
           If you would normally die to a tick of the true damage, create a large explosion which knocks enemies back equal to 200% of the damage you successfully survived and restore 20% of your maximum health.
             Cooldown: 450s (reduced by 225s if you survive the true damage ticks) (reduced by 3s per kill)
+
+    - Cleric:
+      Fanatic Healing Support Specialist
+      Restrictions:
+        - (Requirement) Slain Barys.
+      Passive Bonuses:
+      - Gain [(3 * Lvl) + 40] bonus Health.
+      - Gain [(25 * Lvl) + 250] bonus Devotion.
+      While selecting your class, you can also select a specific Cleric Archetype as well:
+        - Durable:
+          - Spells that grant bonus defensive stats are [(0.25 * Lvl) + 5]% more effective.
+        - Forbidden:
+          - Spells that grant bonus offensive stats are [(0.25 * Lvl) + 5]% more effective.
+        - Scythemir:
+          - Requires Floor 5 Completion (Pinqsci)
+          - Allies within 5 blocks deal [0.0025 * Lvl]% more melee damage for every 1% of your maximum health that you have.
+        - Void:
+          - Requires Floor 7 Completion (Shryder)
+          - Allies within 7 blocks deal [(0.375 * Lvl) + 10]% more spell damage.
+        - Retribution:
+          - Requires Floor 9 Completion (Linc)
+          - Health-restoring spells are [0.00625 * Lvl]% more efficient for every 1% of the target's maximum health which is missing.
+      Abilities:
+        - Healing Fortress (Passive):
+          Passively, you gain the Healer class' Self Sustainability ability, scaling with Healer level.
+        - Honorary God (Passive):
+          Passively, applying a positive effect or restoring health back to an ally, will also restore 3% of your missing Devotion.
+        - Righteous Aura (Passive):
+          Passively, restore 2 Devotion every second. Every 7 Cleric levels increases each tick of restored Devotion by 1 (max 7/s).
+        - Reconciliation (Basic Dungeon Orb Ability):
+          For the next 8 seconds, toggleable Cleric spells will apply to an ally  within 8 blocks, as well as you. Reconciliation does not cost extra Devotion on its own, but it does increase the Devotion/tick cost of spells by 40%.
+            Cooldown: 45s (reduced by 2s after buffing an ally)
+        - Imbued Deity (Ultimate Dungeon Orb Ability):
+          For the next 15 seconds, apply your Cleric Archetype passive at 200% efficiency. Additionally, Scythemir/Void/Retribution archetypes grant further buffs:
+            - Scythemir - Spells that grant a positive effect on allies also apply the first applicable Buff of Mir as well.
+            - Void - Allies within 6 blocks of you stack each other's Cleric buffs; but at a 33% efficiency rate on consecutive buffs. Maximum of 2 recursions.
+            - Retribution - If you or an ally within 12 blocks, who has also been buffed by you within 5 seconds takes fatal damage, create an explosion for [(6 * Lvl) + 60]% of your effective health as damage - knocking enemies back and granting 2 seconds of invulnerability.
+              Cooldown: 300s (reduced by 3s after buffing an ally)
