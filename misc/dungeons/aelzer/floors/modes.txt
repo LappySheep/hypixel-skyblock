@@ -48,7 +48,6 @@ Modes:
         - Rolling from the best possible drop, all the way down to the most common drop. Drops below 10% are considered at 10% chance for rolling.
         - If a drop is successfully rolled, remove the quality rating from your loot rating, and repeat until drops can no longer be rolled at all.
         - Any remaining loot rating afterwards buffs the Tainted Coin quantity drop by [RemainingRating / 2.5]%.
-        you gain a loot rating which is random between 80% and 100% of your 
     Maximum Dungeon Score: 250
 
   - Underflow Mode:
@@ -75,7 +74,8 @@ Modes:
       - Solo/Duo only.
       - Floors 11-13 cannot be played in Adventure Mode.
       - While in Adventure Mode, dungeon runs end once you reach the boss room. You cannot fight the boss of a floor during Adventure Mode.
-      - Getting a special drop (<5%) from any special monster (e.g. minibosses) increases your dungeon run's exp gain by 1% (stacking additively).
+      - Getting a special drop from any special monster (e.g. minibosses) increases your dungeon run's exp gain by 1% (stacking additively).
+      - Special drops from special monsters have an increased drop rate equal to 5% (multiplicative) per Aelzer level after the first 11 levels.
     Maximum Dungeon Score: 250 (Maximum Achievable: 150)
 
   - Boss Rush Mode:
@@ -106,10 +106,10 @@ Modes:
       - While in Completionist Mode, completing a new floor marks it as Explored, and 20% of the Aelzer Exp earned is added to a Completionist Experience Bank (not subtracted from main exp earned).
         - Experience is only added to the bank if the floor completed is not marked as Explored, and if the previous floor (excl F1) is marked as Explored.
       - Explored floors replayed on Completionist Mode grant no bonus Aelzer Exp.
-      - At any point, you can reset your Explored marks on floors - maximum of once every 72 SkyBlock hours.
-      - Resetting the Explored marks on your floors earns Aelzer Exp equal to [102.5 + (F * 2.5)]% of Floor F's maximum exp, plus the experience in your Completionist Experience Bank.
+      - At any point, you can reset your Explored marks on floors - maximum of once every 864 SkyBlock hours (12 IRL hours).
+      - Resetting the Explored marks on your floors earns Aelzer Exp equal to [110 + (F * 2.5)]% of Floor F's maximum exp, plus the experience in your Completionist Experience Bank.
         - Floor F is the highest floor that is marked with Explored; but must be consecutive with a previous Explored floor.
-          e.g. F1, F2, F3, F4, F5, F7 Explored floors => Floor F == Floor 5 ==> earn 115% of floor 5's maximum Aelzer Exp + Bank Exp.
+          e.g. F1, F2, F3, F4, F5, F7 Explored floors => Floor F == Floor 5 ==> earn 122.5% of floor 5's maximum Aelzer Exp + Bank Exp.
     Maximum Dungeon Score: 250
 
   - Randomiser Mode:
@@ -125,7 +125,7 @@ Modes:
       - Completing Randomiser dungeon runs adds points to a Randomiser Score, equal to the cube of the floor completed.
         e.g. Floor 8 gives 512 Randomiser Score.
       - Consecutive dungeon completions also grant a 1% bonus Randomiser Score, stacking up to +400% (rounds down).
-      - Gain bonus Aelzer Exp from Randomiser Mode dungeon runs equal to [1.1^(log_1.5(RandomiserScore))].
+      - Gain bonus Aelzer Exp from Randomiser Mode dungeon runs equal to [1.1^(log_1.5(RandomiserScore))]% more.
         e.g. 750 Randomiser Score = 4.74% bonus Aelzer Exp.
     Maximum Dungeon Score: 250
 
