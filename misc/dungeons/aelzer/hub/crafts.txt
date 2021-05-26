@@ -101,6 +101,7 @@ Weapons
       +10 Life Steal
       Item Ability - Blight Stalker RIGHT CLICK
         Gain +20% bonus damage for the next 2 seconds. Killing a monster refreshes the duration of Blight Stalker and increases the bonus damage by 5%. Stacks up to +100%.
+        Blight Stalker's damage bonus can apply to other sources of damage, not only the Stalker Blade.
         Cooldown: 180s
         Cooldown starts after Blight Stalker expires.
 
@@ -127,7 +128,7 @@ Weapons
       Item Ability - Shardsplitter RIGHT CLICK
         Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% melee damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
         Cooldown: 90s
-          Cooldown is reduced by 6 seconds on each hit.
+          Cooldown is reduced by 6 seconds on each melee hit.
 
 
   - Aether Bow [MYTHIC]
