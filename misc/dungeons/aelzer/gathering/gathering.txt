@@ -1,0 +1,100 @@
+Skill - Gathering
+
+Starting Level: 0
+Maximum Level: 101
+
+Level 101 does not apply bonuses greater than Level 100, unless explicitly mentioned.
+
+
+Gathering Efficiency gains +1 per level.
+Gathering Fortune gains +1 per 5 levels.
+
+
+
+Unlocking the Gathering Skill (after beating Floor 3), you can purchase a pair of Passed-down Gathering Gloves from Nil'Eix for 30,000 Tainted Coins.
+While Gathering Gloves are in your inventory (only works with one; assumes the weakest pair), scopes may appear around dungeons.
+Scopes are marked regions and using any pair of Gathering Gloves on them will attempt to collect special items.
+
+- Passed-down Gathering Gloves [COMMON]
+  Requires Aelzer Level 15.
+  Cost: 30,000 Tainted Coins
+    +2 Gathering Efficiency
+    Item Passive - Irresponsible Gathering
+      Common scopes gain +1 Gathering Efficiency.
+
+Gathering Efficiency increases the chance that you successfully gather items from a scope (max 100%).
+  If a scope has an item which requires 100 Gathering Efficiency, then having 50 GE will grant a 50% chance of harvesting it from the scope.
+
+Gathering Fortune increases the chance that you gain multiple drops from a scope.
+  If a scope drops 2-4 items normally, having 50 GF means a 50% chance of getting 2-4 items, and a 50% chance of getting 4-8 items.
+
+
+Global scopes are scopes that can be found across any floor, but higher rarities require a minimum floor. Local scopes are scopes that are only found on a specific floor.
+
+Floors:
+  Floor 1 - Common, +0% scope spawns
+  Floor 2 - Common, +5% scope spawns
+  Floor 3 - Common-Uncommon, +10% scope spawns
+  Floor 4 - Common-Uncommon, +16% scope spawns
+  Floor 5 - Common-Rare, +23% scope spawns
+  Floor 6 - Common-Rare, +30% scope spawns
+  Floor 7 - Common-Epic, +38% scope spawns
+  Floor 8 - Common-Epic, +57% scope spawns
+  Floor 9 - Common-Legendary, +66% scope spawns
+  Floor 10 - Common-Legendary, +76% scope spawns
+  Floor 11 - Common-Legendary, +87% scope spawns
+  Floor 12 - Common-Legendary, +98% scope spawns
+  Floor 13 - Common-Legendary, +110% scope spawns
+
+Levelling:
+  Level 0:
+    Items:
+      - Salvaged Irresponsible Gathering Gloves [COMMON]
+        Requires Aelzer Level 17.
+        Recipe: 128 Enchanted Leather + Passed-down Gathering Gloves
+          +5 Gathering Efficiency
+          Item Passive - Irresponsible Gathering
+            Common gathering opportunities gain +1 Gathering Fortune.
+          Item Passive - Inconsistency
+            Passively, gain +1 Gathering Efficiency on the gloves for every 5,000 gathers. Maximum of 3 bonus Gathering Efficiency.
+
+    Collectables:
+      - Edible Rock [COMMON]
+        Minimum Floor: 1
+        Drops: 1-2
+        Guaranteed Drop: 10 Gathering Efficiency
+        +[1 * Floor] Gathering Exp
+          Consume to restore 25 Health back instantly.
+
+      - Mossy Cobblestone [COMMON]
+        Minimum Floor: 1
+        Drops: 1-2
+        Guaranteed Drop: 16 Gathering Efficiency
+        +[1.3 * Floor] Gathering Exp
+          Consume to gain +25 Defence for 5 seconds (stacks up to 60s)
+
+
+  Level 1:
+    Collectables:
+      - Earthy Vine [COMMON]
+        Minimum Floor: 1
+        Drops: 1-3
+        Guaranteed Drop: 24 Gathering Efficiency
+        +[1.75 * Floor] Gathering Exp
+          Consume to take 20% reduced knockback while on the ground. Lasts for 6 seconds.
+
+
+  Level 2:
+    Items:
+      - Scope Radar [COMMON]
+        While holding the Scope Radar, scopes within 16 blocks are highlighted. Additionally, scopes gain +5% spawn rates.
+
+
+  Level 3:
+    Collectables:
+      - Null Worm [COMMON]
+        Minimum Floor: Only Floor 1
+        Drops: 1-6
+        Guaranteed Drop: 50 Gathering Efficiency
+        +7 Gathering Exp
+          Consume to grant +5% item stats on any Floor 1 gear. Lasts for 15 seconds (stacks up to 60s).
