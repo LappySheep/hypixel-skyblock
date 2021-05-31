@@ -47,12 +47,12 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
 - Aether Core
   EPIC ITEM
   Aeren's core. In other words - her heart. Used to reforge armor.
-  Dropped by Aeren (5% chance).
+  Dropped by Aeren (2% chance).
 
 - Ethereal Jewel
   LEGENDARY ITEM
   An intangible, yet very real jewel. A myth to most but precious to those that seek it. Used to craft elite Aether equipment.
-  Dropped by Aeren (5% chance).
+  Dropped by Aeren (1% chance).
 
 
 
