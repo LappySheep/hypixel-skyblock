@@ -144,4 +144,4 @@ Levels (Exp from last level (Total Exp)) (Separated in sections of 5 levels):
   639350 (9,525,650)
 
   (101)
-  895350 (13,490,400)
+  3964750 (13,490,400)
