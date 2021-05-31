@@ -1,0 +1,167 @@
+After completing Floor 4 (slaying Barys), you unlock the Necromancy skill. This comes with the Mage/Necromancer subclass as an unlocked feature too.
+
+
+Skill - Necromancy
+
+Starting Level: 0
+Maximum Level: 101
+
+Level 101 does not apply bonuses greater than Level 100, unless explicitly mentioned.
+
+
+Starting Biomass: 200 (+3/level)
+Maximum Biomass: 1500 (+10/level)
+Biomass Passive Regeneration = 3/s (+0.02/s/level)
+Base Supply Cap = 9 (+0.06/level)
+Maximum Supply Cap = 25 (+0.25/level)
+Damage Dealt per 1 Power = 500 (+15/level)
+Damage Taken = 10% (-0.1%/level, after level 1 (0.1% @ level 100))
+
+
+After levelling up your Necromancy skill, every level rewards Abhorrent Biomass which can be spent on upgrades.
+Abhorrent Biomass Rewarded (x = level reached):
+  Level 1-5: +40 (200, 200 @ Level 5)
+  Level 6-10: +40 (600, 800 Total @ Level 10)
+  Level 11-100: +160x (799,200, 800,000 Total @ Level 100)
+  Level 101: +200,000 (200,000, 1,000,000 Total @ Level 101)
+
+Abhorrent Biomass is also rewarded by defeating bosses with an S* score.
+The amount rewarded is equal to [2.5 * (F - 3)^2] (rounded down), where F is the floor number, on Floor 4 and higher.
+Floors 1 and 2 reward no Abhorrent Biomass and Floor 3 rewards 1 Abhorrent Biomass.
+
+
+Abhorrent Biomass Shop:
+  - Units:
+    - Harvester:
+      This unit is unlocked by default.
+
+      Upgrade - Biomass Efficiency:
+        Reduces the cost of Biomass to summon this unit by [5] per tier.
+        Base Value: 100
+        Tier Costs (Max 5): 5 / 10 / 20 / 35 / 50 (Maxed: 120)
+      Upgrade - Healthy Spawns:
+        Increases the amount of health of this unit by [4] per tier.
+        Base Value: 65
+        Tier Costs (Max 5): 5 / 10 / 15 / 20 / 25 (Maxed: 75)
+      Upgrade - Powerful Tendrils:
+        Increases the Power stat of this unit by 1 per tier.
+        Base Value: 7
+        Tier Costs (Max 3): 10 / 30 / 60 (Maxed: 100)
+      Upgrade - Harvesting Efficiency:
+        Increases the Power Multiplier, granting more Biomass harvesting from damage dealt. The multiplier is increased by [0.4]x per tier.
+        Base Value: 2x
+        Tier Costs (Max 5): 30 / 80 / 175 / 325 / 500 (Maxed: 1,110)
+      Upgrade - Slower Decay:
+        Increases the amount of time that dropped Biomass lasts for, before expiring. Time is increased by [4s] per tier.
+        Base Value: 20s
+        Tier Costs (Max 5): 10 / 30 / 50 / 70 / 90 (Maxed: 250)
+
+
+    - Necrotic Prism:
+      This unit is unlocked by default.
+
+      Upgrade - Biomass Efficiency:
+        Reduces the cost of Biomass to summon this unit by [20] per tier.
+        Base Value: 400
+        Tier Costs (Max 5): 10 / 35 / 65 / 100 / 140 (Maxed: 350)
+      Upgrade - Faster Summoning:
+        Reduces the time taken to summon this unit by [1s] per tier.
+        Base Value: 5s
+        Tier Costs (Max 2): 100 / 500 (Maxed: 600)
+      Upgrade - Aggression:
+        Grants a melee attack to the Necrotic Prism, dealing 5 damage.
+        Base Value: No Attack
+        Tier Costs (Max 1): 200 (Maxed: 200)
+      Upgrade - Necrotic Aura:
+        Increases the maximum distance you can be from a Necrotic Prism in order to increase your Supply Cap, by [1 block] per tier.
+        Base Value: 24 blocks
+        Tier Costs (Max 4): 30 / 70 / 200 / 450 (Maxed: 750)
+      Perk - Prismatic Support:
+        Grants a passive ability; buffing the maximum health and defence of allied summoned monsters by 10% (increased by [3%] per tier), while within 5 blocks.
+        Unlock Cost: 1,000
+        Tier Costs (Max 5): 200, 500, 900, 1,400, 2,000 (Maxed: 6,000)
+
+
+    - Stinger:
+      This unit is unlocked by default.
+
+      Upgrade - Biomass Efficiency:
+        Reduces the cost of Biomass to summon this unit by [10] per tier.
+        Base Value: 225
+        Tier Costs (Max 5): 25 / 50 / 100 / 175 / 275 (Maxed: 625)
+      Upgrade - Healthy Spawns:
+        Increases the amount of health of this unit by [9] per tier.
+        Base Value: 90
+        Tier Costs (Max 5): 15 / 45 / 95 / 155 / 210 (Maxed: 520)
+      Ugrade - Powerful Claws:
+        Increases the Power stat of this unit by 1 per tier.
+        Base Value: 7
+        Tier Costs (Max 3): 10 / 40 / 100 (Maxed: 150)
+      Upgrade - Artillery Threshold:
+        Reduces the health threshold required for the Stinger's attacks to become ranged, by [5] health per tier.
+        Base Value: 90
+        Tier Costs (Max 6): 30 / 70 / 135 / 210 / 300 / 400 (Maxed: 1,145)
+      Upgrade - Shock Therapy:
+        Increases the duration of the Stinger's stun by [0.05s] per tier.
+        Base Value: 0.25s
+        Tier Costs (Max 5): 100 / 250 / 450 / 700 / 1,000 (Maxed: 2,500)
+
+
+    - Revived Burstling:
+      Unlock Cost: 200 Abhorrent Biomass
+      - Revived Burstling (200 Biomass + Burstling Carcass) (1 Supply) (6s)
+        25 Health
+          When killed, commanded, or on impact with a targeted monster - explode to deal 65 Power damage to targets within 4 blocks, at the cost of its own life.
+      Requires Necromancer Level 8
+
+      Upgrade - Biomass Efficiency:
+        Reduces the cost of Biomass to summon this unit by [8] per tier.
+        Base Value: 200
+        Tier Costs (Max 5): 40 / 100 / 180 / 375 / 625 (Maxed: 1,320)
+      Upgrade - Faster Summoning:
+        Reduces the time taken to summon this unit by [1s] per tier.
+        Base Value: 6s
+        Tier Costs (Max 3): 200 / 700 / 1,400 (Maxed: 2,300)
+      Upgrade - Vibrant Bursts:
+        Increases the damage dealt by the Revived Burstling by [7] Power per tier.
+        Base Value: 65
+        Tier Costs (Max 5): 250 / 750 / 1,875 / 3,750 / 5,625 (Maxed: 11,250)
+      Upgrade - Ligament Dexterity:
+        Increases the range of the Revived Burstling's explosion by [1] block.
+        Base Value: 4 blocks
+        Tier Costs (Max 1): 2,500 (Maxed: 2,500)
+      Perk - Revival Reconstituion:
+        Grants the Revived Burstling a 33% chance of living after exploding, setting its maximum health to 1. Any secondary explosion deals 25% (increased by 10% per tier) damage.
+        Unlock Cost: 1,500
+        Tier Costs (Max 5): 350 / 750 / 1,350 / 2,600 / 5,000 (Maxed: 11,550)
+
+
+    - Decaying Ghoul:
+      Unlock Cost: 400 Abhorrent Biomass
+      - Decaying Ghoul (400 Biomass) (3 Supply) (9s)
+        225 Health
+        10 Power
+          Attacks deal 6 bonus Power damage as magic damage over 2 seconds.
+          Kills restore 32 Health and drops a bonus of 7 Biomass on the floor.
+      Requires Necromancer Level 16
+
+      Upgrade - Biomass Efficiency:
+        Reduces the cost of Biomass to summon this unit by [10] per tier.
+        Base Value: 400
+        Tier Costs (Max 5): 50 / 125 / 260 / 525 / 1,000 (Maxed: 1,960)
+      Upgrade - Faster Summoning:
+        Reduces the time taken to summon this unit by [1s] per tier.
+        Base Value: 9s
+        Tier Costs (Max 3): 200 / 600 / 1,200 (Maxed: 2,000)
+      Upgrade - Lightweight:
+        Reduces the amount of Supply used by the Decaying Ghoul by 1.
+        Base Value: 3 Supply Used
+        Tier Costs (Max 1): 2,000 (Maxed: 2,000)
+      Upgrade - Efficient Hunter:
+        Kills restore [3] extra health per tier. Additionally, every 2nd tier increases Biomass drops by [1].
+        Base Values: 32 health, 7 Biomass
+        Tier Costs (Max 6): 400 / 700 / 1,200 / 2,000 / 3,200 / 4,800 (Maxed: 12,300)
+      Perk - Corrosive Chain:
+        If a target dies to the magic damage, they apply the magic damage to all monsters within 3 blocks. Additionally, increase the total magic damage on each hit by [1] Power per tier.
+        Unlock Cost: 2,500
+        Tier Costs (Max 4): 600 / 1,500 / 3,750 / 7,500 (Maxed: 13,350)
