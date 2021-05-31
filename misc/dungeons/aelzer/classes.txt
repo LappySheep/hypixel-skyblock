@@ -345,23 +345,25 @@ Classes:
     Magic Damage Specialist.
     Passive Bonuses:
     - Gain [(6 * Lvl) + 100] bonus Intelligence.
+    - Gain [(1 * Lvl) + 15] bonus Attack Speed.
     Abilities:
       - Mage Beam (Passive):
         Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
           BeamDamage: [[(0.02 * Lvl) + 0.1] * (d + int/10) * (1 + (int / 1000))]
           DistanceScaling: [125 - (4|8-d|)^2]%
           Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+        If Mage Beam kills a target, restore 3% of your missing mana back.
       - Catalytic Flow (Passive):
         'Successfully' casting a spell (such that the main purpose is fulfilled) restores 15% of the mana spent on that spell. This is tripled up to once every 6 seconds, if you are above 75% of your maximum health.
       - Arcane Beam (Basic Dungeon Orb Ability):
-        While sneaking, every sixth Mage Beam is followed by an Arcane Beam, 0.5 seconds later. Arcane Beams deal magic damage equal to 120% of your Mage Beam, and applies all regular on-hit effects.
-        Casting Arcane Beam manually creates an explosion on impact - dealing 20% Arcane Beam damage to other targets within 4 blocks.
-          At Mage Level 10/20, increase the frequency of Arcane Beam up to once every fifth/fourth Mage Beam.
+        While sneaking, every fifth Mage Beam is followed by an Arcane Beam, 0.5 seconds later. Arcane Beams deal magic damage equal to 125% of your Mage Beam, and applies all regular on-hit effects.
+        Casting Arcane Beam manually causes your next Arcane Beam to create an explosion on impact - dealing 40% Arcane Beam damage to other targets within 4 blocks.
+          At Mage Level 10/20, increase the frequency of Arcane Beam up to once every fourth/third Mage Beam.
           Cooldown (explosion): 18s (reduced by 2s on each Arcane Beam hit)
       - Arcane Explosion (Ultimate Dungeon Orb Ability):
-        You shoot a quick blast of energy in the target direction. On impact, explode for 350% Mage Beam damage to targets within 7 blocks.
+        You shoot a quick blast of energy in the target direction. On impact, explode for 400% Mage Beam damage to targets within 7 blocks.
         Each target damaged by Arcane Explosion grants +15 Speed for 10 seconds (stackable, max +150 Speed), and restores 2.5% of your maximum mana back.
-          Cooldown: 150s (reduced by 3s on each Arcane Beam hit)
+          Cooldown: 150s (reduced by 6s on each Arcane Beam hit)
 
 
     At Mage Level 25, you can branch into one of three subclasses. Note that you can still play the normal Mage class.
@@ -370,13 +372,13 @@ Classes:
       Auto-Attack Magic Damage Specialist.
       Passive Bonuses:
       - Gain [(5.5 * Lvl) + 90] bonus Intelligence.
-      - Gain [(1 * Lvl) + 10] bonus Attack Speed.
       Abilities:
       - Dryad Beam (Passive):
         Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
           BeamDamage: [[(0.02 * Lvl) + 0.2] * (d + int/10) * (1 + (int / 1000))]
-          DistanceScaling: [125 - (3.5|8-d|)^2]%
+          DistanceScaling: [150 - (3.5|8-d|)^2]%
           Cooldown: 0.667s (cannot be reduced by Attack Speed)
+        If Dryad Beam kills a target, restore 3% of your missing health back.
       - Bolt Toggle (Basic Dungeon Orb Ability):
         Cast to toggle between Dryad Beam and Dryad Bolt.
         Bolts start at 6 blocks/s at first, dealing normal damage to the first target hit, and gaining both speed and damage per target hit:
@@ -394,3 +396,26 @@ Classes:
         Overseers will not use Bolt Flux.
         After the Overseer expires, restore a portion of your missing mana back equal to 5% per kill (max 100%).
           Cooldown: 450s (reduced by 3s on each Dryad Beam or Dryad Bolt/Bolt Flux hit)
+
+    - Caster:
+      Ability Magic Damage Specialist
+      Passive Bonuses:
+      - Gain [(5.5 * Lvl) + 90] bonus Intelligence.
+      - Gain [(0.05 * Lvl) + 1] bonus Spell Vamp
+      Abilities:
+      - Caster Beam (Passive):
+        Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
+          BeamDamage: [[(0.008 * Lvl) + 0.08] * (d + int/10) * (1 + (int / 1000))]
+          DistanceScaling: [110 - (4.25|8-d|)^2]%
+          Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+        If Caster Beam kills a target, gain a shield equal to 4% of your maximum health, lasting for up to 3 seconds.
+      - Ability Diffusion (Passive):
+        Casting a spell different from your last one grants 1 Ability Fury for 10 seconds (refreshable). Maximum of 50.
+        Each 1 Ability Fury reduces the cooldown of spells by 1%.
+      - Beam Diffusion (Passive): 
+        While above 75% of your maximum health, Caster Beam marks targets for 3 seconds; causing them to take 15% increased spell damage.
+      - Spellcaster Affinity (Basic Dungeon Orb Ability):
+        For the next 8 seconds, Ability Diffusion builds Ability Fury twice as fast. Additionally, consume all current Ability Fury to gain +0.5% bonus Intelligence per stack, which also lasts for the 8 seconds.
+          Cooldown: 45s (reduced by 3s on each Caster Beam)
+      - Vampiric Barrier (Ultimate Dungeon Orb Ability):
+        For the next 15 seconds, health restored through Spell Vamp is converted into a shield at 150% effectiveness, which lasts for the duration of Vampiric Barrier. For every 1 Ability Fury, increase shield gains by 3% (additive; maximum 300% effectiveness).
