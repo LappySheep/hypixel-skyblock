@@ -1,0 +1,232 @@
+Tower of Ascension IA - Eikerlisk
+
+Requirements:
+  - Aelzer Level 7
+  - Beaten Tsra'ki
+
+Special Details:
+  - Ranged damage is disabled in this part of the ToA.
+  - Magic damage is disabled in this part of the ToA.
+
+
+Grinding ToA-IA rewards T1A experience. Levelling up your T1A skill grants unique bonuses from this section of Floor 1.
+  Starting Level: 0
+  Maximum Level: 16 (150,000 Exp to max)
+  Exp Required: [((Lvl + 1)^2 * 100) + 25] (per level)
+  Rewards):
+    Gain +[Lvl * 3]% of your usual Aelzer stat bonus while in ToA-IA.
+    Increase the chance of rare drops from the Eikerlisk by [Lvl^1.5 * 1.5625]%.
+
+
+On the first floor of the Tower of Ascension, one of the four minor rooms is the Powdered room.
+In this room, adventurers must slay any of the 3 available Guardians to gather Chimes.
+
+
+Powder-soul Havoc
+  1,700,000 Health
+  800,000 Shields
+  Abilities:
+    - Powder Charge:
+      Create a tether between the Havoc and the target, reducing damage dealt by the target by 15% and dealing 6,000 damage every second.
+    - Force Field:
+      Create a wall of energy at three locations. This pushes targets away and acts as part of the terrain; impassable. If a force field spawns on directly top of a target, they get pushed upwards and take 33% of their current health as damage.
+    - Target Lock:
+      Mark a target (max 1). This target takes 15% more damage from all sources, and draws aggro from other Guardians if they are not attacking anything else.
+  Drops:
+    - Chime (15% chance)
+    - 1-3 T1A Exp (20% chance)
+
+Ascension-chaser Reaver
+  3,000,000 Health
+  11,000 Damage
+  Abilities:
+    - Unseen Threat:
+      Stop moving for 1.5 seconds, and then create an explosion for 24,000 damage to targets in a 4 block range.
+    - Wrath Claws:
+      Deal 8,000 damage to all targets in a 3 block deep cone, twice, with a 0.5 second delay in between.
+  Drops:
+    - Chime (20% chance)
+    - 1-4 T1A Exp (25% chance)
+
+Mistfear Destroyer
+  2,000,000 Health
+  750,000 Shields
+  5,000 Damage
+  Abilities:
+    - Mist Bolt:
+      Shoot a bolt of mist in the target direction. The first target hit takes 14,000 damage.
+    - Reliving Chaos:
+      After a 0.5 second delay, teleport to a nearby location and explode for 10,000 damage. After another 2 seconds, teleport back to the starting location and explode again for another 15,000 damage. Explosions are 3 blocks wide.
+    - Phase System:
+      Gain 0.4% dodge chance for every 1% missing shields.
+  Drops:
+    - Chime (25% chance)
+    - 2-4 T1A Exp (30% chance)
+
+
+Chimes can be used to gain upgrades, which only apply in the ToA-IA rooms, or to make Imbued Chimes to unlock the major room.
+
+Chime Siphon:
+  - Increase the chance of getting a Chime by x%.
+    Bonus: 5 / 15 / 35 / 60 / 100% increased Chime drop rate
+    Cost: 3 / 23 / 70 / 150 / 250 Chimes
+
+Powder Catalyst:
+  - Increase the amount of damage dealt to monsters in ToA-IA rooms by x%.
+    Bonus: 2 / 6 / 10 / 17 / 25% increased damage
+    Cost: 5 / 18 / 40 / 75 / 160 Chimes
+
+Flight Regeneration:
+  - Increase passive Mana/Devotion regeneration by x%.
+    Bonus: 5 / 10 / 20 / 35 / 50% increased regeneration
+    Cost: 10 / 25 / 55 / 100 / 175 Chimes
+
+Increased Experience:
+  - Earn more T1A experience from monster kills.
+    Bonus: 2 / 6 / 10 / 20 / 30% increased T1A Exp
+    Cost: 10 / 35 / 105 / 260 / 520 Chimes
+
+Imbued Chimes:
+  - Used to unlock the major room once, and extend Boss Time.
+    Base Cost: 15 Chimes
+
+Stronger Imbuing:
+  - Decreases the cost of Imbued Chimes from regular Chimes.
+    Bonus: -1 / -2 / -3 / -4 / -5 Chimes per Imbued Chime
+    Cost: 12 / 60 / 210 / 420 / 600 Chimes
+
+
+Sacrifice 10 Imbued Chimes to unlock the major room. Afterwards, you may sacrifice additional Imbued Chimes to gain Boss Time.
+
+Boss Time is used up while fighting the boss of ToA-IA. If time runs out during the fight, you are booted out of the room and will be forced to restart.
+Each Imbued Chime is worth 1 minute of Boss Time. Maximum 10 minutes.
+You can also sacrifice Imbued Chimes midway through the boss.
+
+Note that while you may fight Guardians in the minor room as a group, you must solo the major room.
+
+
+
+Boss - Eikerlisk
+
+Eikerlisk
+  10,000,000 Health
+  150 Defence
+  20,000 Damage
+  Abilities (short):
+    - First Strike:
+      The first attack on a target (up to once every 8 seconds) marks the block they were standing on.
+      After a short delay, strike the block they were at, and nearby blocks, for 250% damage.
+    - Whisper Flux:
+      Channel for 1 second before dashing forwards. Passing through a target knocks them up and deals 14,000 damage.
+      At any point during the end of the dash, the Eikerlisk can stop abruptly, creating a surge of explosions in the direction it looks in, each one dealing from 8,000 damage upwards, and applying a slow.
+    - Aura of Terror:
+      Passively, targets which stay within melee range of the Eikerlisk take bonus damage from its melee attacks depending on the duration.
+      Resets if the target moves more than 5-7 blocks away.
+      While Aura of Terror is active on a target, they also deal reduced damage.
+    - Companion Aversion:
+      Pets that the target summons are able to bypass the ranged/magic damage restriction, but scaling on the Eikerlisk's missing health.
+
+  Abilities (verbose):
+    - First Strike:
+      The first attack on a target (up to once every 40 ticks) marks the X/Z coordinates they were at.
+      After 2 ticks, strike that coordinate (all Y heights) for 250% damage, and all horizontally (not diagonally) adjacent blocks for 150% damage.
+    - Whisper Flux:
+      Channel for 1 second before dashing forwards 12 blocks. Passing through a target knocks them up 12 blocks and deals 14,000 damage.
+      At any point after the first 6 blocks, the Eikerlisk can stop abruptly, creating a surge of 7 explosions (5 block radius) in the direction it looks in. Each explosion is separated 3 blocks behind the next, occurring every 2 ticks, and deals 8,000 damage (+2,000 damage per consecutive explosion hit) while also applying a 33% slow for 2 seconds (duration stacks).
+      Explosions have a damage diminisher of -16% additive damage per block away from the centre.
+    - Aura of Terror (Passive):
+      Targets which stay within melee range of the Eikerlisk take 8% bonus damage from its melee attacks for every tick (after the first 3) they remain too close. Range is 5 blocks to begin Aura of Terror, but requires leaving a distance of 6 blocks to cancel it.
+      While Aura of Terror is active on a target, they also deal 7.73191% less damage per tick (stacks multiplicatively (0.9226809x), down to a minimum of 20% damage dealt on attacks after 20 ticks, ignoring the first 3).
+    - Companion Aversion:
+      Pets that the target summons are able to bypass the ranged/magic damage restriction, but still deal a portion of their damage equal to 0.66% per 1% of the Eikerlisk's missing health.
+
+
+  Possible Drops:
+    Exc-A,B = Exclusive within brackets A and B, cannot be dropped with other bracket-A or bracket-B drops.
+
+    Minimum (at least one of the following):
+      - 75-100 Tainted Coins (50% chance)
+      - 4-6 Chimes (50% chance)
+
+    Base Exp: 50-75 ToA-1A Exp (100% chance)
+
+    Rare:
+      - 130-175 Tainted Coins (20% chance)
+      - 9-11 Chimes (20% chance)
+      - 30-60 Bonus ToA-1A Exp (20% chance)
+
+      - 1-2 Powder Jewels (15% chance) [Exc-A]
+        Consume while in the Tower of Ascension to restore 15% of your missing health back and gain 50% increased Mana/Devotion regeneration for 10 seconds.
+        Consume while not in the Tower of Ascension to gain 20% increased Mana/Devotion regeneration for 8 seconds.
+
+      - Companion Cube (12% chance) [Exc-A]
+        Legendary Pet Item. Increases direct damage dealt by pets by 20%.
+
+    Special:
+      - Mist Sentry (6% chance) [Exc-B]
+        Common Combat Pet.
+        Gains Pet Exp at an 80% efficiency rate.
+          Perk 1 (Common+) - Protective Cloud
+            - Gain [(Lvl * 0.04) + 2]% bonus Defence while within 3 blocks of the Sentry.
+            Uncommon: [(Lvl * 0.06) + 2]%
+            Epic: [(Lvl * 0.08) + 2]%
+            Mythic: [(Lvl * 0.1) + 2]%
+          Perk 2 (Rare+) - Lay Waste
+            - Blocks that the Sentry passes through are marked for 1.5 seconds. Enemies move 30% slower while inside of marked blocks, and take damage equal to [(Lvl * 0.066) + 5]% of your melee damage every half second.
+            Epic: [(Lvl * 0.083) + 7.5]%
+            Mythic: [(Lvl * 0.1) + 10]%
+          Perk 3 (Legendary+) - Energiser
+            - Every 4 melee attacks on the same target, become energised for 8 seconds; buffing Speed and Ferocity by [(Lvl * 0.03) + 3]%. Duration refreshes when appropriate, effect does not stack.
+            Mythic: [(Lvl * 0.05) + 4]%
+          Perk 4 (Mythic) - Sentinel Specialty
+            Attacking the Eikerlisk creates a tether (max 11 block range), dealing [(Lvl * 400) + 2,000] true damage per second to it. Stops attacking if you don't damage the Eikerlisk for at least 5 seconds.
+
+      - Energiser Energiser (6% chance) [Exc-B]
+        Can only be dropped if the Mist Sentry pet is active during an Eikerlisk death.
+        Upgrades a Mist Sentry's rarity.
+        Common -> Uncommon: 2 EE
+        Uncommon -> Rare: 6 EEs
+        Rare -> Epic: 12 EEs
+        Epic -> Legendary: 20 EEs
+
+      - Third Strike I Book (Max V) (5% chance) [Exc-C]
+        Increases the damage dealt by your third attack on a target by 4/8/12/16/20%. Doubled on melee attacks.
+
+      - Ancient Enchantment: Berserker Flux (3% chance) [Exc-C] (Melee Weapons)
+        750 Durability. Costs 1 Durability on kill.
+        Increases the amount damage dealt by melee attacks based on the sum of your Berserker (+subclasses) class levels.
+        Bonus damage: [(T + 5) * 0.2]% (T = sum of Berserker class levels)
+
+    Ungodly:
+      - Energised Shrine (0.8% chance) [Exc-B]
+        Can only be dropped if the Mist Sentry pet is active during an Eikerlisk death.
+        Upgrades a Legendary Mist Sentry into a Mythic Mist Sentry.
+
+      - Havoc's Chestguard [MYTHIC] (0.6% chance) [Exc-D]
+        +450 Health
+        +160 Defence
+        +48 Strength
+        +48 Crit Damage
+        Item Passive - Shameful Wreck
+          Melee attacks that are at least 6 ticks after the last, deal 35% increased damage to targets below 40% of their health.
+          Gain +7 Life Steal while above 90% health.
+
+      - Powdershrike Effigy [LEGENDARY] (0.33% chance) [Exc-D]
+        Item Ability - Shrike of Faith RIGHT CLICK
+          All sources of healing for the next 6 seconds are converted into shields instead. When the shield expires, convert shields into health at 120% efficiency, with excess remaining as a shield lasting for up to 45 seconds.
+          Excess shields can be saved for the next Shrike of Faith cast.
+            Mana Cost: 50% (minimum 350)
+            Cooldown: 30s
+
+      - Eikerblitz Scimitar [SUPREME] (0.05% chance)
+        +325 Damage
+        +225 Strength
+        +8 Lethality
+        Item Passive - Eikerian Pledge
+          Projectile damage from enemies is delayed by 2 seconds, and then dealt over a 3 second period.
+          Projectile damage received is also reduced by 15% against your shields.
+        Item Ability - Riven Dread RIGHT CLICK
+          Instantly slash in front of you, three times, dealing 130% melee damage per hit (0.25s delay between hits). Targets hit by all three slashes have their Defence reduced to 0, lasting for 1.5 seconds, and returning back to normal over the course of 6 seconds.
+          Targets can only have their Defence reduced a maximum of 3 times.
+            Mana Cost: 400
+            Cooldown: 66s
