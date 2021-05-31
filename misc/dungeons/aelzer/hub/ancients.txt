@@ -1,0 +1,8 @@
+All around the Aelzerian Rift, you can acquire Ancient Enchantments. These are similar to Ultimate Enchants in the way that they provide niche or stronger buffs, but unlike Ultimates - they have durability and can stack with multiple.
+
+Enchantments:
+  - Berserker Flux (Melee Weapons):
+    Increases the amount damage dealt by melee attacks based on the sum of your Berserker (+subclasses) class levels.
+    Bonus damage: [(T + 5) * 0.2]% (T = sum of Berserker class levels)
+      750 Durability. Costs 1 Durability on kill.
+      3% Drop Chance from the Eikerlisk, in Floor 1A of the Tower of Ascension.
