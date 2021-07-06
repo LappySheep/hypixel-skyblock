@@ -209,12 +209,11 @@ Eikerlisk
         +48 Crit Damage
         Item Passive - Shameful Wreck
           Melee attacks that are at least 6 ticks after the last, deal 35% increased damage to targets below 40% of their health.
-          Gain +7 Life Steal while above 90% health.
+          Gain +6 Life Steal while above 90% health.
 
       - Powdershrike Effigy [LEGENDARY] (0.33% chance) [Exc-D]
         Item Ability - Shrike of Faith RIGHT CLICK
-          All sources of healing for the next 6 seconds are converted into shields instead. When the shield expires, convert shields into health at 120% efficiency, with excess remaining as a shield lasting for up to 45 seconds.
-          Excess shields can be saved for the next Shrike of Faith cast.
+          All sources of healing for the next 6 seconds are converted into energy. Afterwards, convert energy into health at 120% efficiency, with excess remaining as a shield lasting for up to 45 seconds.
             Mana Cost: 50% (minimum 350)
             Cooldown: 30s
 
