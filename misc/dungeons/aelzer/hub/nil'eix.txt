@@ -165,19 +165,31 @@ Accessories
 
 
 Dungeon Orbs
+  - Eikerian Orb
+    Requires Aelzer Level 9.
+    Requires ToA-IA Level 10.
+    Requires 80,000,000 Combat Exp.
+    Cost: 160 Imbued Chimes
+    Replaces your Ultimate Dungeon Orb ability with the Eiker Surge Ultimate ability.
+      Eiker Surge: Channel for 0.5 seconds, before creating a 12 block explosion.
+      Standard targets hit have their defence reduced by 33.3% (6.6% vs special), decaying over 4 seconds, and are slowly pulled towards you at a rate of 0.5 blocks/s.
+      Re-cast Eiker Surge within the 4 seconds to create a secondary explosion, dealing high knockback and 400% melee damage to every target within 6 blocks.
+      Cooldown: 240s
+
   - Thermal Orb
     Requires Aelzer Level 10.
     Requires Catacombs Level 30.
     Cost: 5,000 Tainted Coins
-    Applies the Thermal Lance passive ability on to your other available Dungeon Orb Abilities.
+    Applies the Thermal Lance Passive ability on to your other available Dungeon Orb Abilities.
       Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
 
   - Recall Orb
     Requires Aelzer Level 15.
     Requires 300,000,000 Alchemy Exp.
     Cost: 11,000 Tainted Coins
-    Replaces your ultimate Dungeon Orb ability with the Mass Recall ultimate ability.
-      Mass Recall: Spawn a Pylon which lasts for up to 60 seconds. Pylons increase Strength of allies and the Power stat of summoned units within 12 blocks by 10% (stackable). If a Pylon is not actively buffing any ally or summoned unit, its lifespan drains by 2 seconds per second instead.
+    Replaces your Ultimate Dungeon Orb ability with the Mass Recall Ultimate ability.
+      Mass Recall: Spawn a Pylon which lasts for up to 60 seconds. Pylons increase Strength of allies and the Power stat of summoned units within 12 blocks by 10% (stackable).
+      If a Pylon is not actively buffing any ally or summoned unit, its lifespan drains by 2 seconds per second instead.
       Pylons also spawn an allied Sentinel every 2 seconds (maximum 5 alive), lasting until the Pylon expires.
       Sentinel:
         170 Health (+1 per 50 maximum Biomass)
