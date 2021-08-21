@@ -184,7 +184,7 @@ Eikerlisk
       - Energiser Energiser (6% chance) [Exc-B]
         Can only be dropped if the Mist Sentry pet is active during an Eikerlisk death.
         Upgrades a Mist Sentry's rarity.
-        Common -> Uncommon: 2 EE
+        Common -> Uncommon: 2 EEs
         Uncommon -> Rare: 6 EEs
         Rare -> Epic: 12 EEs
         Epic -> Legendary: 20 EEs
@@ -194,7 +194,7 @@ Eikerlisk
 
       - Ancient Enchantment: Berserker Flux (3% chance) [Exc-C] (Melee Weapons)
         750 Durability. Costs 1 Durability on kill.
-        Increases the amount damage dealt by melee attacks based on the sum of your Berserker (+subclasses) class levels.
+        Increases the amount of damage dealt by melee attacks based on the sum of your Berserker (+subclasses) class levels.
         Bonus damage: [(T + 5) * 0.2]% (T = sum of Berserker class levels)
 
     Ungodly:
