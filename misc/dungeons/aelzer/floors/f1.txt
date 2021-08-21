@@ -267,4 +267,7 @@ Special Loot:
     LEGENDARY ITEM
     Used to craft the Pane of Pain.
 
+  - Vuoi'h's Pet Orb (0.5% chance (1/200))
+    LEGENDARY PET
+
 Completing Floor 1 rewards up to 30 Aelzer XP.
