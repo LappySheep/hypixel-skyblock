@@ -36,7 +36,7 @@ Classes:
           Crack a whip in the target direction, slowing the first target hit by 90% (decaying over 3 seconds), and dealing 200% melee damage. This target is feared for 3 seconds too, preventing them from coming near you.
             Cooldown: 20s
         - Pummelling Axe (Ultimate Dungeon Orb Ability):
-          You smash your axe down into the ground, dealing 1000% melee damage split across all targets (maximum 200% to a single target) within 4 blocks. Targets are slowed by 50% (decaying over 2 seconds).
+          You smash your axe down into the ground, dealing 1000% melee damage split across all targets (maximum 250% to a single target) within 4 blocks. Targets are slowed by 50% (decaying over 2 seconds).
           Each target killed with Pummelling Axe grants a shield equal to 5% of your maximum health, lasting for 6 seconds.
             Cooldown: 240s (reduced by 4s on each kill)
 
@@ -113,7 +113,7 @@ Classes:
         - Clever-scope (Ultimate Dungeon Orb Ability):
           Within 3 seconds, the first target that you hit with an arrow is marked. After 1 second, shoot 3 fast mini-arrows at that target. Each mini-arrow deals 125% arrow damage and has Aiming I applied.
             Clever-scope gains +1 mini-arrow every 12 Sniper Class Levels (+3 at Level 36)
-            Cooldown: 300s (Reduced by 6s on each fully charged arrow hit)
+            Cooldown: 240s (Reduced by 6s on each fully charged arrow hit, reduced by 2s on any other arrow hit)
 
     - Marksman:
       Agile Ranged Damage Specialist
@@ -149,7 +149,7 @@ Classes:
         - Spawns of Chaos (Passive):
           While charging a bow, chaos spawns float around you, reducing the first source of damage by 25%.
           Up to once every 8 seconds.
-        - Chains of Shinigami (Basic Dungeon Orb Ability):
+        - Chains of Death (Basic Dungeon Orb Ability):
           Shoot a flurry of 5 arrows in the target direction. These arrows deal 20% arrow damage but chain them to you for 5 seconds. Chained monsters take 15% increased damage and lose 80 Speed while moving towards you. Multiple chains can stack on the same target.
             Cooldown: 25s
         - Death's Grasp (Ultimate Dungeon Orb Ability):
@@ -373,29 +373,29 @@ Classes:
       Passive Bonuses:
       - Gain [(5.5 * Lvl) + 90] bonus Intelligence.
       Abilities:
-      - Dryad Beam (Passive):
-        Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
-          BeamDamage: [[(0.02 * Lvl) + 0.2] * (d + int/10) * (1 + (int / 1000))]
-          DistanceScaling: [150 - (3.5|8-d|)^2]%
-          Cooldown: 0.667s (cannot be reduced by Attack Speed)
-        If Dryad Beam kills a target, restore 3% of your missing health back.
-      - Bolt Toggle (Basic Dungeon Orb Ability):
-        Cast to toggle between Dryad Beam and Dryad Bolt.
-        Bolts start at 6 blocks/s at first, dealing normal damage to the first target hit, and gaining both speed and damage per target hit:
-        +20% (additive, max +100%) damage per hit
-        +1 block/s (max +5 blocks/s) per hit
-          Cooldown (bolt): 0.667s (cannot be reduced by Attack Speed)
-          Cooldown (toggle): 9s (reduced to 2s if toggled while outside of combat)
-      - Bolt Flux (Passive):
-        While sneaking, bolts bounce from target to target instead of passing through in a straight trajectory. On each bounce, deal -10% (additive, max -50%) damage, and travel 1 block/s slower.
-        Flux Bolts expire after either 5 targets damaged or after travelling 25 blocks.
-        Flux Bolts deal -20% damage compared to regular Dryad Bolts.
-      - Ancient Overseer (Ultimate Dungeon Orb Ability):
-        Summon an Ancient Overseer for the next 10 seconds. While summoned, the Overseer casts Dryad Beam independently from you, striking up to 3 targets (max 1 beam per target) within 10 blocks (prioritising any 8 block distances).
-        If you have Bolt Toggle enabled, the Overseer will shoot standard Dryad Bolts instead.
-        Overseers will not use Bolt Flux.
-        After the Overseer expires, restore a portion of your missing mana back equal to 5% per kill (max 100%).
-          Cooldown: 450s (reduced by 3s on each Dryad Beam or Dryad Bolt/Bolt Flux hit)
+        - Dryad Beam (Passive):
+          Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
+            BeamDamage: [[(0.02 * Lvl) + 0.2] * (d + int/10) * (1 + (int / 1000))]
+            DistanceScaling: [150 - (3.5|8-d|)^2]%
+            Cooldown: 0.667s (cannot be reduced by Attack Speed)
+          If Dryad Beam kills a target, restore 3% of your missing health back.
+        - Bolt Toggle (Basic Dungeon Orb Ability):
+          Cast to toggle between Dryad Beam and Dryad Bolt.
+          Bolts start at 6 blocks/s at first, dealing normal damage to the first target hit, and gaining both speed and damage per target hit:
+          +20% (additive, max +100%) damage per hit
+          +1 block/s (max +5 blocks/s) per hit
+            Cooldown (bolt): 0.667s (cannot be reduced by Attack Speed)
+            Cooldown (toggle): 9s (reduced to 2s if toggled while outside of combat)
+        - Bolt Flux (Passive):
+          While sneaking, bolts bounce from target to target instead of passing through in a straight trajectory. On each bounce, deal -10% (additive, max -50%) damage, and travel 1 block/s slower.
+          Flux Bolts expire after either 5 targets damaged or after travelling 25 blocks.
+          Flux Bolts deal -20% damage compared to regular Dryad Bolts.
+        - Ancient Overseer (Ultimate Dungeon Orb Ability):
+          Summon an Ancient Overseer for the next 10 seconds. While summoned, the Overseer casts Dryad Beam independently from you, striking up to 3 targets (max 1 beam per target) within 10 blocks (prioritising any 8 block distances).
+          If you have Bolt Toggle enabled, the Overseer will shoot standard Dryad Bolts instead.
+          Overseers will not use Bolt Flux.
+          After the Overseer expires, restore a portion of your missing mana back equal to 5% per kill (max 100%).
+            Cooldown: 450s (reduced by 3s on each Dryad Beam or Dryad Bolt/Bolt Flux hit)
 
     - Caster:
       Ability Magic Damage Specialist
@@ -403,19 +403,44 @@ Classes:
       - Gain [(5.5 * Lvl) + 90] bonus Intelligence.
       - Gain [(0.05 * Lvl) + 1] bonus Spell Vamp
       Abilities:
-      - Caster Beam (Passive):
-        Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
-          BeamDamage: [[(0.008 * Lvl) + 0.08] * (d + int/10) * (1 + (int / 1000))]
-          DistanceScaling: [110 - (4.25|8-d|)^2]%
-          Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
-        If Caster Beam kills a target, gain a shield equal to 4% of your maximum health, lasting for up to 3 seconds.
-      - Ability Diffusion (Passive):
-        Casting a spell different from your last one grants 1 Ability Fury for 10 seconds (refreshable). Maximum of 50.
-        Each 1 Ability Fury reduces the cooldown of spells by 1%.
-      - Beam Diffusion (Passive): 
-        While above 75% of your maximum health, Caster Beam marks targets for 3 seconds; causing them to take 15% increased spell damage.
-      - Spellcaster Affinity (Basic Dungeon Orb Ability):
-        For the next 8 seconds, Ability Diffusion builds Ability Fury twice as fast. Additionally, consume all current Ability Fury to gain +0.5% bonus Intelligence per stack, which also lasts for the 8 seconds.
-          Cooldown: 45s (reduced by 3s on each Caster Beam)
-      - Vampiric Barrier (Ultimate Dungeon Orb Ability):
-        For the next 15 seconds, health restored through Spell Vamp is converted into a shield at 150% effectiveness, which lasts for the duration of Vampiric Barrier. For every 1 Ability Fury, increase shield gains by 3% (additive; maximum 300% effectiveness).
+        - Caster Beam (Passive):
+          Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
+            BeamDamage: [[(0.008 * Lvl) + 0.08] * (d + int/10) * (1 + (int / 1000))]
+            DistanceScaling: [110 - (4.25|8-d|)^2]%
+            Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+          If Caster Beam kills a target, gain a shield equal to 4% of your maximum health, lasting for up to 3 seconds.
+        - Ability Diffusion (Passive):
+          Casting a spell different from your last one grants 1 Ability Fury for 10 seconds (refreshable). Maximum of 50.
+          Each 1 Ability Fury reduces the cooldown of spells by 1%.
+        - Beam Diffusion (Passive): 
+          While above 75% of your maximum health, Caster Beam marks targets for 3 seconds; causing them to take 15% increased spell damage.
+        - Spellcaster Affinity (Basic Dungeon Orb Ability):
+          For the next 8 seconds, Ability Diffusion builds Ability Fury twice as fast. Additionally, consume all current Ability Fury to gain +0.5% bonus Intelligence per stack, which also lasts for the 8 seconds.
+            Cooldown: 45s (reduced by 3s on each Caster Beam)
+        - Vampiric Barrier (Ultimate Dungeon Orb Ability):
+          For the next 15 seconds, health restored through Spell Vamp is converted into a shield at 150% effectiveness, which lasts for the duration of Vampiric Barrier. For every 1 Ability Fury, increase shield gains by 3% (additive; maximum 300% effectiveness).
+
+    - Necromancer:
+      Summoner Specialist
+      Restrictions:
+        - (Requirement) Slain Barys.
+      Passives:
+      - [(3 * Lvl) + 200] Starting Biomass.
+      - [(10 * Lvl) + 1500] Maximum Biomass.
+      - [(0.02 * Lvl) + 3] Biomass Passive Regeneration.
+      - [(0.06 * Lvl) + 9] Base Supply Cap.
+      - [(0.25 * Lvl) + 25] Maximum Supply Cap.
+      - [(15 * Lvl) + 500] Damage/Power.
+      - 99.9% Minion Damage Reduction.
+      Abilities:
+        - Necrotic Lifeform:
+          Necromancer experience is gained and applied to a separate, unique Necromancy skill. Your Necromancer class level is equal to this skill level.
+          Necromancy starts at Level 0, going up to Level 101. Level 101 does not count towards bonuses unless explicitly stated.
+          Your health is equal to your Biomass, plus 1.
+        - Summoner Frenzy (Passive):
+          Summoning a monster grants yourself 0.5 (+0.02/Lvl) seconds of invulnerability.
+        - Strength of the Depths (Menu):
+          Accessing your Necromancy menu allows you to pick from varying abilities. You can only pick as many abilities as you want, but abilities cost Necro Tokens equal to a base, plus a penalty if you choose too many.
+            Token Penalty (n = abilities, n>2): [n^2 + n]
+            Tokens Available: 10 (+1 per 5 Necromancy Levels, +1 at Level 101)
+          You can view available Necromancer Abilities in the Necromancy tab in /hub/.
