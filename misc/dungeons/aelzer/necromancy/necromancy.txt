@@ -15,7 +15,7 @@ Biomass Passive Regeneration = 3/s (+0.02/s/level)
 Base Supply Cap = 9 (+0.06/level)
 Maximum Supply Cap = 25 (+0.25/level)
 Damage Dealt per 1 Power = 500 (+15/level)
-Damage Taken = 10% (-0.1%/level, after level 1 (0.1% @ level 100))
+99.9% Minion Damage Reduction
 
 
 After levelling up your Necromancy skill, every level rewards Abhorrent Biomass which can be spent on upgrades.
@@ -28,6 +28,80 @@ Abhorrent Biomass Rewarded (x = level reached):
 Abhorrent Biomass is also rewarded by defeating bosses with an S* score.
 The amount rewarded is equal to [2.5 * (F - 3)^2] (rounded down), where F is the floor number, on Floor 4 and higher.
 Floors 1 and 2 reward no Abhorrent Biomass and Floor 3 rewards 1 Abhorrent Biomass.
+
+
+Necro Tokens: 10 (+1 per 5 Necromancy Levels)
+Available Abilities:
+  Excess Necro Tokens after ability selections are converted into 25 bonus Starting Biomass.
+
+  - Passive (Utility) Abilities:
+    - Fling (2 NT):
+       Summoning a unit stores the direction you were looking in. When the unit successfully spawns, it will be flung in that stored direction from your location, instead of spawning next to you normally.
+    - Shredder (3 NT):
+      Unit attacks deal 55% damage, but units attack twice at a time instead of once. 1 tick delay between doubled hits.
+    - Double-edged (3 NT):
+      Units deal 20% more damage, but you take 25% more damage.
+    - 
+    - 
+    - 
+    - 
+    - 
+
+  - Passive (Self) Abilities:
+    - Necromancer Beam (2 NT):
+      Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit is slowed by 10% for 2.5 seconds (stacks up to 60%), and allied summons within 6 blocks of the target will aggro them instead.
+      Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+    - Flesh Gatherer (4 NT):
+      Your biomass collection range is increased from 1 block to 5 blocks.
+    - Splash Replicator (3 NT):
+      Splash damage dealt by units is copied, and dealt to targets near you as well, but at 50% efficiency.
+    - Stampede (3 NT):
+      
+    - 
+    - 
+    - 
+    - 
+
+  - Passive (Ultimate) Abilities:
+    - Self Regeneration (2 NT):
+      Units restore 2 Health back on kill. Harvesters gather +1 Biomass on every third hit.
+    - Extractor (4 NT):
+      Units drop 1 Biomass on the floor, on every 5th hit.
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+  - Basic Dungeon Orb Abilities (Right Click):
+    - Mend (3 NT):
+      Units within 3 blocks restore 33% of their maximum health back. Excess health remains as a shield for up to 2 seconds.
+        Cooldown: 16s
+    - Assimilation (5 NT):
+      Shoot a beam in the target direction, up to 20 blocks. After 1 second, you swap locations with the first allied summon that you hit.
+        Cooldown: 20s
+    - Abduct (3 NT):
+      Shoot a tendril in the target direction, up to 7 blocks. The first target hit is pulled towards you. If it is a non-special enemy, stun them for 1.5 seconds.
+        Cooldown: 18s
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+
+  - Ultimate Dungeon Orb Abilities (Left Click):
+    - Flash Freeze (5 NT):
+      Create a 7 block explosion at your location, applying a 95% slow to targets for 6 seconds. Allied summons gain 30% bonus Attack Speed for 6 seconds.
+        Cooldown: 180s
+    - Unstoppable (7 NT):
+      For the next 8 seconds, allies within 12 blocks take no knockback and cannot be displaced.
+        Cooldown: 180s
+    - 
+    - 
+    - 
 
 
 Abhorrent Biomass Shop:
@@ -77,7 +151,7 @@ Abhorrent Biomass Shop:
         Base Value: 24 blocks
         Tier Costs (Max 4): 30 / 70 / 200 / 450 (Maxed: 750)
       Perk - Prismatic Support:
-        Grants a passive ability; buffing the maximum health and defence of allied summoned monsters by 10% (increased by [3%] per tier), while within 5 blocks.
+        Grants a passive ability; buffing the maximum health of allied summoned monsters by 10% (increased by [3%] per tier), while within 5 blocks.
         Unlock Cost: 1,000
         Tier Costs (Max 5): 200, 500, 900, 1,400, 2,000 (Maxed: 6,000)
 
@@ -99,7 +173,7 @@ Abhorrent Biomass Shop:
         Tier Costs (Max 3): 10 / 40 / 100 (Maxed: 150)
       Upgrade - Artillery Threshold:
         Reduces the health threshold required for the Stinger's attacks to become ranged, by [5] health per tier.
-        Base Value: 90
+        Base Value: 30
         Tier Costs (Max 6): 30 / 70 / 135 / 210 / 300 / 400 (Maxed: 1,145)
       Upgrade - Shock Therapy:
         Increases the duration of the Stinger's stun by [0.05s] per tier.
@@ -112,7 +186,7 @@ Abhorrent Biomass Shop:
       - Revived Burstling (200 Biomass + Burstling Carcass) (1 Supply) (6s)
         25 Health
           When killed, commanded, or on impact with a targeted monster - explode to deal 65 Power damage to targets within 4 blocks, at the cost of its own life.
-      Requires Necromancer Level 8
+      Requires Necromancer Level 4
 
       Upgrade - Biomass Efficiency:
         Reduces the cost of Biomass to summon this unit by [8] per tier.
@@ -143,7 +217,7 @@ Abhorrent Biomass Shop:
         10 Power
           Attacks deal 6 bonus Power damage as magic damage over 2 seconds.
           Kills restore 32 Health and drops a bonus of 7 Biomass on the floor.
-      Requires Necromancer Level 16
+      Requires Necromancer Level 8
 
       Upgrade - Biomass Efficiency:
         Reduces the cost of Biomass to summon this unit by [10] per tier.
