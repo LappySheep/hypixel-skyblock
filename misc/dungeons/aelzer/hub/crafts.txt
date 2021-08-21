@@ -124,11 +124,11 @@ Weapons
       +235 Damage
       +190 Strength
       Item Passive - Salt in the Wound
-        Targets marked from Shardsplitter take 66% bonus damage as a 3-second bleed. Duration stacks, damage does not.
+        Targets marked from Shardsplitter take 66% bonus damage as a 3-second melee bleed. Duration stacks, damage does not.
       Item Ability - Shardsplitter RIGHT CLICK
         Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% melee damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
         Cooldown: 90s
-          Cooldown is reduced by 6 seconds on each melee hit.
+          Cooldown is reduced by 6 seconds on each basic-attack hit.
 
 
   - Aether Bow [MYTHIC]
@@ -157,7 +157,7 @@ Weapons
       Item Ability - Spinshot Shockwave LEFT CLICK
         You create a swirling cyclone in the target direction, which moves at 1 block/s, and speeds up to 3 blocks/s over 8 seconds (x blocks travelled in total).
         The cyclone deals 33% arrow damage to each target that it touches, every half second. Additionally, all enemy projectiles are destroyed if they come into contact with the cyclone (special abilities are slowed down instead).
-        While the cyclone is active, shooting it with the Cyclonic Shockbow will push it; changing its trajectory.
+        While the cyclone is active, shooting it with the Cyclonic Shockbow will push it; changing its trajectory, but also increasing the lifespan of it by 1 second.
         Mana Cost: 300
         Cooldown: 45s
 
