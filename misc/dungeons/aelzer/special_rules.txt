@@ -37,7 +37,7 @@ Stat Related Rules
   - Gathering Efficiency is not multiplied by dungeon bonuses.
 
 Damage Related Rules
-  - Magic Damage no longer scales with combat level or enchantments.
+  - Magic Damage no longer scales with enchantments.
 
 Other Rules
   - Ticks per second is by default 20. However, a separate tick measure is used for special or specific tick-requirements.
