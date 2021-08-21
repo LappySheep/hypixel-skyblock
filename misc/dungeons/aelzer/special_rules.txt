@@ -22,7 +22,7 @@ Special Rules of the Aelzerian Rift
 - Telekinesis is disabled.
 - Venomous slowness effect is reduced by 80%.
 
-- Reforges from non-Aelzerian dungeons do not work inside, and reforges from within do not work outside of Aelzer.
+- Reforges from non-Aelzerian dungeons do not work inside, but reforges from within do work outside of Aelzer.
 - Gear from non-Aelzerian dungeons do not work inside, and gear from within do not work outside of Aelzer.
 
 Stat Related Rules
