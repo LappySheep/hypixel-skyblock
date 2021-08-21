@@ -112,7 +112,7 @@ Some items can be dropped by monsters in the Aelzerian Rift, provided you have t
 
 - Warrior Fragment
   EPIC ITEM
-  A fragment from a Torment Construct. Used to craft Reaver Armor and Behemoth Armor.
+  A fragment from a Torment Construct. Used to craft Reaver Armor and the Behemoth's Boots.
   Dropped by Torment Constructs (Floor 4) (3% chance).
 
 
