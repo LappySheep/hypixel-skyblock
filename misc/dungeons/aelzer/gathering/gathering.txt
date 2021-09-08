@@ -97,4 +97,4 @@ Levelling:
         Drops: 1-6
         Guaranteed Drop: 50 Gathering Efficiency
         +7 Gathering Exp
-          Consume to grant +5% item stats on any Floor 1 gear. Lasts for 15 seconds (stacks up to 60s).
+          Consume to grant +5% item stats on any Floor 1 gear (+2% for any other). Lasts for 15 seconds (stacks up to 60s).
