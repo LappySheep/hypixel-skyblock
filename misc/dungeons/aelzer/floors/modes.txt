@@ -141,22 +141,22 @@ Modes:
     Other Notes:
       - Before starting the dungeon run, you can select up to 14 handicaps. Each handicap rewards you by increasing the base Exp gain, and the drop chances of items. Handicap rewards stack additively and apply multiplicatively.
       - Handicaps affect everyone in your team.
-      - Most handicaps have a 'harder' version too, which awards a higher drop rate buff.
+      - Handicaps have a 'harder' version too, which awards a higher drop rate buff.
       - Available Handicaps:
-        - 1 Health: Your maximum health is capped at 1. +10% base Exp gain. +5% drop rates.
-        - No Shields: Shield health is disabled. +10% base Exp gain. +5% drop rates.
-        - No Consumables: Food and Potions are disabled. +8% base Exp gain. +4% drop rates.
-        - No Life Steal/Spell Vamp: Life Steal and Spell Vamp are disabled / LS/SV are disabled and enchantments that provide a similar effect are disabled too. +8% base Exp gain. +4%/8% drop rates.
-        - No Pets: Pets are disabled and cannot be summoned / Pets are disabled, cannot be summoned, and Pet Score no longer grants bonus Magic Find. +6% base Exp gain. +3%/6% drop rates.
-        - No Teleporting: Teleportation is disabled / Teleportation is disabled and attempts also deal 20% maximum health true damage. +6% base Exp gain. +3%/6% drop rates.
-        - No Deaths: Dying instantly fails the run / Dying fails the run and all drops/exp earned are taken back. +6% base Exp gain. +3%/6% drop rates.
-        - No Devotion Regen: Devotion regeneration is disabled / Devotion is drained at 2/s. +6% base Exp gain. +3%/6% drop rates.
-        - No True/Pure Damage: True and Pure damage dealt is converted to normal damage / True and Pure damage is converted to healing for the enemy. +4% base Exp gain. +2%/4% drop rates.
+        - Last Hit: Your maximum health is capped at 1. / All sources of damage instantly kill you. +10% base Exp gain. +5%/10% drop rates.
+        - Shield Shatter: Shield health effectivity is reduced by 65%/95%. +10% base Exp gain. +5%/10% drop rates.
+        - No Consumables: Food/Food and Potions are disabled. +8% base Exp gain. +4%/8% drop rates.
+        - No Life Steal/Spell Vamp: Life Steal and Spell Vamp are disabled. / LS/SV are disabled and enchantments that provide a similar effect are disabled too. +8% base Exp gain. +4%/8% drop rates.
+        - No Pets: Pets are disabled and cannot be summoned. / Pets are disabled, cannot be summoned, and Pet Score no longer grants bonus Magic Find. +6% base Exp gain. +3%/6% drop rates.
+        - No Teleporting: Teleportation is disabled. / Teleportation is disabled and attempts also deal 20% maximum health true damage. +6% base Exp gain. +3%/6% drop rates.
+        - No Deaths: Dying instantly fails the run. / Dying fails the run and all drops/exp earned are taken back. +6% base Exp gain. +3%/6% drop rates.
+        - No Devotion Regen: Devotion regeneration is disabled. / Devotion is drained at 2/s. +6% base Exp gain. +3%/6% drop rates.
+        - No True/Pure Damage: True and Pure damage dealt is converted to normal damage. / True and Pure damage is converted to healing for the enemy. +4% base Exp gain. +2%/4% drop rates.
         - Reduced Melee Damage: Melee damage dealt is reduced by 66%/83%. +4% base Exp gain. +1%/2% drop rates.
         - Reduced Magic Damage: Magic damage dealt is reduced by 66%/83%. +4% base Exp gain. +1%/2% drop rates.
         - Reduced Ranged Damage: Ranged damage dealt is reduced by 66%/83%. +4% base Exp gain. +1%/2% drop rates.
-        - Reduced Speed: Speed above 100 is reduced by 95%/99% instead of 80%. +2% base Exp gain. +1% drop rates.
-        - Reduced Natural Regen: Natural regeneration is reduced by 75%/100%. +2% base Exp gain. +1% drop rates.
+        - Reduced Speed: Speed above 100 is reduced by 95%/99% instead of 80%. +2% base Exp gain. +1%/1.5% drop rates.
+        - Reduced Natural Regen: Natural regeneration is reduced by 75%/100%. +2% base Exp gain. +1%/1.5% drop rates.
       Maximum base Exp bonus: +80%
-      Maximum increased drop rates: +35% / +63%
+      Maximum increased drop rates: +35% / +80%
     Maximum Dungeon Score: 250
