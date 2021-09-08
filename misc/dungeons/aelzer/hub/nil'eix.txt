@@ -9,8 +9,8 @@ Enchantments stack with other enchants unless specified otherwise.
 - 100 Tainted Coins
   Cost: 100,000 Coins
 
-- 10,000 Coins
-  Cost: 100 Tainted Coins
+- 1 Coin
+  Cost: 1 Tainted Coin
 
 
 
@@ -75,14 +75,14 @@ Enchantment Books
 
   - Scorching Blade I Book (Max 5) (Swords)
     Requires Aelzer Level 11.
-    Cost: 1,750 Tainted Coins + 3 Enchanted Blaze Rods
-    Effect: Attacking a burning target reduces the duration of their burn effect by 1 second but deals 8% / 16% / 24% / 32% / 40% bonus damage.
+    Cost: 1,750 Tainted Coins + 6 Enchanted Blaze Rods
+    Effect: Attacking a burning target reduces the duration of their burn effect by 1 second but deals 3% / 4.5% / 6% / 7.5% / 9% bonus damage.
     Does not stack with Fire Aspect.
 
   - Immortality I Book (Max 5) (Chestplates)
     Requires Aelzer Level 32.
     Cost: 110,000 Tainted Coins + 3 Fragments of Irreducibility 
-    Effect: You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage in a single hit.
+    Effect: You cannot take more than 22.5% / 20% / 17.5% / 15% / 12.5% of your maximum health as damage in a single hit. 7/6.5/6/5.5/5 second cooldown.
 
   - Explicit I Book (Max 5) (Armor + Swords)
     Requires Aelzer Level 39.
@@ -92,7 +92,7 @@ Enchantment Books
   - God Slayer I Book (Max 5) (Swords)
     Requires Aelzer Level 44.
     Cost: 1,250,000 Tainted Coins + Ancient Relic
-    Effect: Deal 0.06% / 0.2% / 0.4% / 0.66% / 1% bonus damage as pure damage against Aelzerian bosses and monsters in Floor 8 or higher.
+    Effect: Deal 0.05% / 0.15% / 0.3% / 0.5% / 0.75% bonus damage as pure damage against Aelzerian bosses and monsters in Floor 8 or higher.
 
 
 
