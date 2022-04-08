@@ -32,7 +32,7 @@ guaranteed = ["REVENANT_FLESH", "TARANTULA_WEB", "WOLF_TOOTH", "NULL_SPHERE"]
 
 extra = ["PESTILENCE_RUNE", "SNAKE_RUNE", "BITE_RUNE", "SPIRIT_RUNE", "COUTURE_RUNE", "ENDERSNAKE_RUNE", "END_RUNE", "ENDERMAN_PET_SKIN", "ENCHANT_RUNE"]
 
-non_mf = [*guaranteed, *extra, "TOXIC_ARROW_POISON", "FOUL_FLESH", "REVENANT_VISCERA", "HAMSTER_WHEEL", "TWILIGHT_ARROW_POISON"]
+non_mf = [*guaranteed, "TOXIC_ARROW_POISON", "FOUL_FLESH", "REVENANT_VISCERA", "HAMSTER_WHEEL", "TWILIGHT_ARROW_POISON"]
 
 fancy1 = {"zombie": "Revenant Horror", "spider": "Tarantula Broodfather", "wolf": "Sven Packmaster", "enderman": "Voidgloom Seraph"}
 
@@ -42,6 +42,23 @@ fancy2 = {
   "WOLF_TOOTH": "Wolf Tooth", "HAMSTER_WHEEL": "Hamster Wheel", "SPIRIT_RUNE": "Spirit Rune", "CRITICAL_VI_BOOK": "Critical VI Book", "RED_CLAW_EGG": "Red Claw Egg", "COUTURE_RUNE": "Couture Rune", "OVERFLUX_CAPACITOR": "Overflux Capacitor", "GRIZZLY_BAIT": "Grizzly Bait",
   "NULL_SPHERE": "Null Sphere", "TWILIGHT_ARROW_POISON": "Twilight Arrow Poison", "ENDERSNAKE_RUNE": "Endersnake Rune", "SUMMONING_EYE": "Summoning Eye", "MANA_STEAL_I_BOOK": "Mana Steal I Book", "TRANSMISSION_TUNER": "Transmission Tuner", "NULL_ATOM": "Null Atom", "POCKET_ESPRESSO_MACHINE": "Pocket Espresso Machine", "SMARTY_PANTS_I_BOOK": "Smarty Pants I Book", "END_RUNE": "End Rune", "HANDY_BLOOD_CHALICE": "Handy Blood Chalice", "SINFUL_DICE": "Sinful Dice", "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": "Exceedingly Rare Ender Artifact Upgrader", "ENDERMAN_PET_SKIN": "Enderman Pet Skin", "ETHERWARP_MERGER": "Etherwarp Merger", "JUDGEMENT_CORE": "Judgement Core", "ENCHANT_RUNE": "Enchant Rune", "ENDER_SLAYER_VII_BOOK": "Ender Slayer VII Book"
 }
+
+thresholds = {"zombie": 40, "spider": 45, "wolf": 40, "enderman": 60}
+
+variations = {
+  "eman":"enderman", "emans":"enderman",
+  "sven":"wolf", "svens":"wolf",
+  "tara":"spider", "taras":"spider",
+  "rev":"zombie", "revs":"zombie"
+}
+
+
+
+def dynamic_round(value):
+  N,D=str(value).split(".")
+  indexes=[D.index(x)+1if x in D else 99999for x in[f"{z2}{z1}"for z1 in"456"for z2 in"12890"]]
+  if any([1if g!=99999else 0for g in indexes]):return float(f"{N}.{D[:min(indexes)]}")
+  else:return round(value,4)
 
 
 
@@ -55,7 +72,10 @@ def main(s):
 
   slayer = input("\nEnter slayer type (zombie/spider/wolf/enderman)\n> ")
   if slayer not in weights.keys():
-    main("Invalid slayer type.\n\n")
+    if slayer not in variations.keys():
+      main("Invalid slayer type.\n\n")
+    else:
+      slayer = variations[slayer]
   tiers = weights[slayer]
 
   tier = input("\nEnter slayer boss tier (1-4, 1-5 if zombie)\n> ")
@@ -75,14 +95,25 @@ def main(s):
   t_no_ex = total - sum([new_weights[x]for x in new_weights if x in extra])
 
   m = f"\nT{tier} {fancy1[slayer]} Drops{''if mf==0else f' (+{mf} Magic Find)'}\n"
+  threshold = thresholds[slayer]
   for drop in new_weights:
     if drop not in extra:
       if drop not in guaranteed:
-        m += f"  {fancy2[drop]}: {round(100 * new_weights[drop] / t_no_ex, 6)}%\n"
+        X = 100 * new_weights[drop] / t_no_ex
+        m2 = f"  {fancy2[drop]}: {round(X, 6)}%"
+        m += m2
+        if len(m2) < threshold:
+          m += " "*(threshold-len(m2))
+        m += f"(~1/{dynamic_round(100/X)})\n"
       else:
         m += f"  {fancy2[drop]}: 100%\n"
     elif drop in extra:
-      m += f"  {fancy2[drop]}: {round(100 * new_weights[drop] / (t_no_ex + new_weights[drop]), 6)}%\n"
+      X2 = 100 * new_weights[drop] / (t_no_ex + new_weights[drop])
+      m2 = f"  {fancy2[drop]}: {round(X2, 6)}%"
+      m += m2
+      if len(m2) < threshold:
+        m += " "*(threshold-len(m2))
+      m += f"(~1/{dynamic_round(100/X2)})\n"
 
   main(f"{m}\n\n")
 
