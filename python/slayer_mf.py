@@ -57,7 +57,9 @@ variations = {
 def dynamic_round(value):
   N,D=str(value).split(".")
   indexes=[D.index(x)+1if x in D else 99999for x in[f"{z2}{z1}"for z1 in"456"for z2 in"12890"]]
-  if any([1if g!=99999else 0for g in indexes]):return float(f"{N}.{D[:min(indexes)]}")
+  if any([1if g!=99999else 0for g in indexes]):
+    V=f"{N}.{D[:min(indexes)]}"
+    return float(V)if len(V.split(".")[1])<5else round(float(V),4)
   else:return round(value,4)
 
 
