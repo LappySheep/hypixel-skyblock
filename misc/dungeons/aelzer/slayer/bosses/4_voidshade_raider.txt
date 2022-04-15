@@ -1,0 +1,46 @@
+Cost to Spawn: 20,000 Tainted Coins
+Slayer Exp Reward: 150 Hybrid Slayer Exp
+
+Requirements:
+  - Beaten Pinqsci (Floor 5)
+  - Hybrid Slayer Level 3
+
+
+
+Voidshade Raider (Tier 4)
+  700,000,000 Health
+  725,000 Damage
+  100 Defence + 760 Magic Resistance
+  Perks:
+    - Ignores 28% of target Defence.
+    - Only 1 additional player other than the summoner can hurt the Voidshade.
+    - Consecutive enemy hits within 10 ticks deal 0.9x damage (stacking).
+
+  Abilities:
+    - Role Reversal (Passive)
+      Attacking the Voidshade increases its Anger by 1. Every second, its Anger is reduced by 1.
+      At 5 Anger, it creates a 8-block explosion, which deals 75% of the target's current health as true damage.
+      It also moves twice as fast, and deals 3x the damage, for 5 seconds.
+
+    - Shellshocked (Passive)
+      The Voidshade does not take any knockback.
+      For every block of knockback that you would normally deal, your damage is increased (multiplicatively) by 10%.
+      The Voidshade, however, has a base (and minimum) attack cooldown of 0 ticks.
+
+    - Peaking Smite
+      Occasionally, the Voidshade will stop and channel an attack for 1.5 seconds. Afterwards, it lunges forward, dealing 1,100,000 damage to targets in front.
+      Targets that get hit also have their current Mana and Devotion halved, and regeneration reduced to 0 for 5 seconds.
+
+    - Sinister Suffering (Passive)
+      Every time the Voidshade loses 10% of its maximum health, it creates a large red bubble around it and the target.
+      The bubble lasts for 3 seconds, and deals 1% of the target's current health as true damage, every second, for every 5% of their missing mana.
+      Every third bubble grants the Voidshade a permanent 15% bonus damage reduction (additive), lasting for the rest of the fight.
+        The damage reduction only applies to new tiers; if the Voidshade is dropped below 70% and then regenerates to above 70%, this will not occur if it is dropped below 70% again.
+
+    - Mode of Aggression
+      Occasionally, the Voidshade will change colour; to either green, blue, or red. This lasts for 6 seconds before reverting.
+      While green, the Voidshade only takes damage from non-magic projectiles.
+      While blue, it only takes magic damage.
+      While red, it only takes melee damage.
+      If the target cannot deal at least 2% of its maximum health while its coloured, the Voidshade gains a non-expiring shield equal to 10% of its maximum health.
+      Mode of Aggression cannot be used during Sinister Suffering, Submissive Augury, and Truly Immortal.
