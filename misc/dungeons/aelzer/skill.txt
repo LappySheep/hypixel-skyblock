@@ -111,107 +111,107 @@ Level - Exp from last level - Exp total, bonuses (newline)
   Increase your base True Defence by 6.
   Reduce the cost of Abyssal Permits by 5%.
   Reduce the effects of insufficient Depth Resistance by 5%.
-30 - 115000 - 3133005
+30 - 1150000 - 4168005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 195%.
   Increase your base True Defence by 6.
   Reduce the cost of Abyssal Permits by 5%.
   Reduce the effects of insufficient Depth Resistance by 5%.
-31 - 1575000 - 4708005
+31 - 1575000 - 5743005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 209%.
   Increase your base True Defence by 7.
   Reduce the cost of Abyssal Permits by 6%.
   Reduce the effects of insufficient Depth Resistance by 6%.
   Reduce the stat punishments of duplicate team classes by 2%.
-32 - 2180000 - 6888005
+32 - 2180000 - 7923005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 223%.
   Increase your base True Defence by 7.
   Reduce the cost of Abyssal Permits by 6%.
   Reduce the effects of insufficient Depth Resistance by 6%.
   Reduce the stat punishments of duplicate team classes by 2%.
-33 - 3020000 - 9908005
+33 - 3020000 - 10943005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 237%.
   Increase your base True Defence by 8.
   Reduce the cost of Abyssal Permits by 6%.
   Reduce the effects of insufficient Depth Resistance by 7%.
   Reduce the stat punishments of duplicate team classes by 4%.
-34 - 4175000 - 14083005
+34 - 4175000 - 15118005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 251%.
   Increase your base True Defence by 8.
   Reduce the cost of Abyssal Permits by 6%.
   Reduce the effects of insufficient Depth Resistance by 7%.
   Reduce the stat punishments of duplicate team classes by 4%.
-35 - 5750000 - 19833005
+35 - 5750000 - 20868005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 265%.
   Increase your base True Defence by 9.
   Reduce the cost of Abyssal Permits by 7%.
   Reduce the effects of insufficient Depth Resistance by 8%.
   Reduce the stat punishments of duplicate team classes by 6%.
-36 - 7950000 - 27783005
+36 - 7950000 - 28818005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 282%.
   Increase your base True Defence by 11.
   Reduce the cost of Abyssal Permits by 7%.
   Reduce the effects of insufficient Depth Resistance by 8%.
   Reduce the stat punishments of duplicate team classes by 6%.
-37 - 11000000 - 38783005
+37 - 11000000 - 39818005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 299%.
   Increase your base True Defence by 14.
   Reduce the cost of Abyssal Permits by 7%.
   Reduce the effects of insufficient Depth Resistance by 9%.
   Reduce the stat punishments of duplicate team classes by 8%.
-38 - 15150000 - 53933005
+38 - 15150000 - 54968005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 316%.
   Increase your base True Defence by 18.
   Reduce the cost of Abyssal Permits by 7%.
   Reduce the effects of insufficient Depth Resistance by 9%.
   Reduce the stat punishments of duplicate team classes by 8%.
-39 - 21000000 - 74933005
+39 - 21000000 - 75968005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 333%.
   Increase your base True Defence by 23.
   Reduce the cost of Abyssal Permits by 8%.
   Reduce the effects of insufficient Depth Resistance by 10%.
   Reduce the stat punishments of duplicate team classes by 10%.
-40 - 28800000 - 103733005
+40 - 28800000 - 104768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 350%.
   Increase your base True Defence by 29.
   Reduce the cost of Abyssal Permits by 8%.
   Reduce the effects of insufficient Depth Resistance by 10%.
   Reduce the stat punishments of duplicate team classes by 10%.
-41 - 40000000 - 143733005
+41 - 40000000 - 144768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 370%.
   Increase your base True Defence by 36.
   Reduce the cost of Abyssal Permits by 8%.
   Reduce the effects of insufficient Depth Resistance by 11%.
   Reduce the stat punishments of duplicate team classes by 12%.
   Increase the effects of Ancient enchantments by 1%.
-42 - 55000000 - 198733005
+42 - 55000000 - 199768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 390%.
   Increase your base True Defence by 44.
   Reduce the cost of Abyssal Permits by 8%.
   Reduce the effects of insufficient Depth Resistance by 12%.
   Reduce the stat punishments of duplicate team classes by 12%.
   Increase the effects of Ancient enchantments by 2%.
-43 - 76000000 - 274733005
+43 - 76000000 - 275768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 410%.
   Increase your base True Defence by 53.
   Reduce the cost of Abyssal Permits by 9%.
   Reduce the effects of insufficient Depth Resistance by 13%.
   Reduce the stat punishments of duplicate team classes by 14%.
   Increase the effects of Ancient enchantments by 3%.
-44 - 105000000 - 379733005
+44 - 105000000 - 380768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 430%.
   Increase your base True Defence by 63.
   Reduce the cost of Abyssal Permits by 9%.
   Reduce the effects of insufficient Depth Resistance by 14%.
   Reduce the stat punishments of duplicate team classes by 14%.
   Increase the effects of Ancient enchantments by 4%.
-45 - 145000000 - 524733005
+45 - 145000000 - 525768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 450%.
   Increase your base True Defence by 74.
   Reduce the cost of Abyssal Permits by 9%.
   Reduce the effects of insufficient Depth Resistance by 15%.
   Reduce the stat punishments of duplicate team classes by 16%.
   Increase the effects of Ancient enchantments by 5%.
-46 - 200000000 - 724733005
+46 - 200000000 - 725768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 475%.
   Increase your base True Defence by 86.
   Reduce the cost of Abyssal Permits by 9%.
@@ -219,7 +219,7 @@ Level - Exp from last level - Exp total, bonuses (newline)
   Reduce the stat punishments of duplicate team classes by 16%.
   Increase the effects of Ancient enchantments by 6%.
   Increase your base Pure Defence by 1.
-47 - 275000000 - 999733005
+47 - 275000000 - 1000768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 500%.
   Increase your base True Defence by 99.
   Reduce the cost of Abyssal Permits by 10%.
@@ -227,7 +227,7 @@ Level - Exp from last level - Exp total, bonuses (newline)
   Reduce the stat punishments of duplicate team classes by 18%.
   Increase the effects of Ancient enchantments by 7%.
   Increase your base Pure Defence by 2.
-48 - 380000000 - 1379733005
+48 - 380000000 - 1380768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 525%.
   Increase your base True Defence by 113.
   Reduce the cost of Abyssal Permits by 10%.
@@ -235,25 +235,25 @@ Level - Exp from last level - Exp total, bonuses (newline)
   Reduce the stat punishments of duplicate team classes by 18%.
   Increase the effects of Ancient enchantments by 8%.
   Increase your base Pure Defence by 3.
-49 - 525000000 - 1904733005
+49 - 525000000 - 1905768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 550%.
-  Increase your base True Defence by 118.
+  Increase your base True Defence by 128.
   Reduce the cost of Abyssal Permits by 10%.
   Reduce the effects of insufficient Depth Resistance by 19%.
   Reduce the stat punishments of duplicate team classes by 20%.
   Increase the effects of Ancient enchantments by 9%.
   Increase your base Pure Defence by 6.
-50 - 725000000 - 2629733005
+50 - 725000000 - 2630768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 575%.
-  Increase your base True Defence by 134.
+  Increase your base True Defence by 144.
   Reduce the cost of Abyssal Permits by 10%.
   Reduce the effects of insufficient Depth Resistance by 20%.
   Reduce the stat punishments of duplicate team classes by 20%.
   Increase the effects of Ancient enchantments by 10%.
   Increase your base Pure Defence by 10.
-51 - 1000000000 - 3629733005
+51 - 1000000000 - 3630768005
   Increase the base stats of your dungeon items while in the Aelzerian Rift by 650%.
-  Increase your base True Defence by 150.
+  Increase your base True Defence by 160.
   Reduce the cost of Abyssal Permits by 12.5%.
   Reduce the effects of insufficient Depth Resistance by 25%.
   Reduce the stat punishments of duplicate team classes by 25%.
