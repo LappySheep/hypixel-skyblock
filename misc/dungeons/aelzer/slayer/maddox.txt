@@ -1,0 +1,102 @@
+Upon defeating Pinqsci, Maddox grants the ability to fight a new Slayer monster.
+
+However, unlike the other Slayer types, this one is different. Instead of killing many weaker monsters to fight a boss, this one requires you to only fight the boss. Starting a quest will give you a Fission Tablet, which spawns the boss a few seconds after activating it.
+
+You may start a new slayer quest after either successfully beating the last, or every 3 minutes. Cooldowns are applied per boss tier and pause during a slayer quest, but completing a tier refreshes the cooldowns for that tier and the ones below:
+  - If you fail to complete a Tier IV slayer, then spend 3 minutes doing a Tier III slayer and beat it successfully, you can do any of Tiers I/II/III, while the Tier IV cooldown remains at 3 minutes.
+    - In order for Tier IV to no longer have a cooldown, you must wait 3 minutes without doing any slayers at all.
+
+Maddox can give you additional Fission Tablets, but the cost is increased by 20% (additively) for every additional tablet other than the first - until a slayer boss is completed. This additive cost increase can be reduced by using Permanent Etching talismans.
+
+
+
+Slayer Type: Voidshade Hybrids
+
+Voidshades do not have a boss timer; they do not despawn due to being too slow to be killed.
+
+Slayer Level | Slayer Exp Required | Bonuses (cumulative)
+1 | 10
+  +1% damage dealt against Hybrid-type monsters.
+
+2 | 35
+  +2% damage dealt against Hybrid-type monsters.
+
+3 | 200
+  +3% damage dealt against Hybrid-type monsters.
+
+4 | 2,000
+  +4% damage dealt against Hybrid-type monsters.
+  -1% damage taken from Hybrid-type monsters.
+
+5 | 7,500
+  +5% damage dealt against Hybrid-type monsters.
+  -2% damage taken from Hybrid-type monsters.
+
+6 | 30,000
+  +6% damage dealt against Hybrid-type monsters.
+  -3.5% damage taken from Hybrid-type monsters.
+
+7 | 150,000
+  +7 damage dealt against Hybrid-type monsters.
+  -5% damage taken from Hybrid-type monsters.
+  +5 True Defence.
+
+8 | 650,000
+  +8.5% damage dealt against Hybrid-type monsters.
+  -7.5% damage taken from Hybrid-type monsters.
+  +10 True Defence.
+  +1 Pure Defence.
+  
+9 | 2,200,000
+  +10% damage dealt against Hybrid-type monsters.
+  -10% damage taken from Hybrid-type monsters.
+  +15 True Defence.
+  +2 Pure Defence.
+
+10 | 7,000,000
+  +12.5% damage dealt against Hybrid-type monsters.
+  -15% damage taken from Hybrid-type monsters.
+  +20 True Defence.
+  +3 Pure Defence.
+
+11 | 27,000,000
+  +15% damage dealt against Hybrid-type monsters.
+  -20% damage taken from Hybrid-type monsters.
+  +25 True Defence.
+  +5 Pure Defence.
+
+
+
+Reaching a new Hybrid Slayer level also unlocks recipes. Crafting an item or obtaining any drop from a Voidshade Hybrid marks it as Voidbound, and means it cannot be used or crafted into something else.
+
+You can give an item to Maddox, and in return of a fee, he will remove the Voidbound tag for you. This requires the associated Hybrid Slayer level.
+
+The fee is dependent on the item's Hybrid Slayer level requirement.
+
+Level | Fee
+1 | 7 Dark Wisps
+2 | 18 Dark Wisps
+3 | 40 Dark Wisps
+4 | 105 Dark Wisps
+5 | 1 Shaded Wisp
+6 | 2 Shaded Wisps
+7 | 4 Shaded Wisps
+8 | 8 Shaded Wisps
+9 | 16 Shaded Wisps
+10 | 32 Shaded Wisps
+11 | 64 Shaded Wisps
+
+
+Hybrid Slayer items which are not Voidbound cannot be traded nor sold. You can talk to Maddox to apply a new Voidbound tag, which costs an additional fee.
+
+Level | Fee
+1 | 500 Tainted Coins
+2 | 1,500 Tainted Coins
+3 | 4,000 Tainted Coins
+4 | 10,500 Tainted Coins
+5 | 28,000 Tainted Coins
+6 | 60,000 Tainted Coins
+7 | 160,000 Tainted Coins
+8 | 400,000 Tainted Coins
+9 | 1,000,000 Tainted Coins
+10 | 2,500,000 Tainted Coins
