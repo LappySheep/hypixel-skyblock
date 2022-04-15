@@ -1,0 +1,740 @@
+- Shade Talisman [UNCOMMON]
+  Requires Hybrid Slayer Level 1.
+  Recipe: 6 Dark Wisps + 6 Enchanted Iron Blocks
+    Uncommon Talisman.
+    Right click to toggle.
+    Increases the amount of knockback you take by 15%.
+    This also re-enables knockback taken (e.g. a Slime Hat).
+
+- Spot Shifter [UNCOMMON]
+  Requires Hybrid Slayer Level 1.
+  Recipe: 3 Dark Wisps + 4 Enchanted Eyes of Ender
+    Item Ability - Shift RIGHT CLICK
+      Swap places with the nearest enemy within 4 blocks. If you're looking at a target, you prioritise them instead.
+      Consumed on use.
+      Cooldown: 10s
+
+- Hardened Gel [RARE]
+  Requires Hybrid Slayer Level 1.
+  Recipe: 16 Dark Wisps + 8 Enchanted Slimeballs
+    Can be applied to any melee weapon in an anvil, up to 5 times.
+    On melee hit, grants a [5 * amt]% chance to increase the target's attack cooldown by 1 tick, for 3 seconds.
+    Maximum: 25% chance to increase target attack cooldown by 1 tick for 3 seconds.
+
+- Scaled Plating [UNCOMMON]
+  Requires Hybrid Slayer Level 1.
+  Recipe: Perfect Amethyst Gemstone + 4 Enchanted Iron Blocks + 4 Enchanted Emerald Blocks
+    Apply to any chestplate-type armor piece to grant it a new ability.
+    Item Passive - Dual Expectancy
+      For every 75 base Defence granted by this armor piece, reduce incoming damage from Voidshade Hybrids by 0.2%.
+
+----------------
+
+- Umbral Guard [UNCOMMON]
+  Requires Hybrid Slayer Level 2.
+  Recipe: 60 Dark Wisps + 24 Crying Obsidian + 64 Revenant Viscera
+    Item Passive - Defensive Darkness
+      While holding the Umbral Guard, gain +75 Defence against Hybrid-type monsters and gain +150% base natural regeneration.
+      Lasts for up to 4 seconds after swapping to a different item.
+
+- Shaded Wisp [RARE]
+  Requires Hybrid Slayer Level 2.
+  Recipe: 128 Dark Wisps + 8 Void Rocks
+    Used to craft various Hybrid Slayer items.
+
+- Terrashrike [EPIC]
+  Requires Aelzer Level 22.
+  Requires Hybrid Slayer Level 2.
+  Recipe: 4 Shaded Wisps + 60 Enchanted Gold Blocks
+    +375 Damage
+    Item Passive - Weak Shrike
+      Deal +50% damage against Hybrid-type monsters, but 1% against all other types.
+      Gain up to +100 Defence against Hybrid-type monsters over 2.5 seconds while holding the Terrashrike. Lasts for up to 3 seconds before expiring.
+    Item Ability - Expulsion RIGHT CLICK
+      Your next melee attack with the Terrashrike hits 6 times for 20% damage. Damage is increased by 50% against targets above 60% maximum health.
+      Mana Cost: 300
+      Cooldown: 14s
+
+- Cascading Minion Devolver [RARE]
+  Requires Hybrid Slayer Level 2.
+  Requires at least one Slayer Level 9.
+  Recipe: 3 Shaded Wisps + 36 Null Ovoids + 20 Refined Mithril
+    Minion Upgrade. Multiplies base minion speed by 3x.
+    Every 3 hours, the minion's overall speed is multiplied by 0.95x (min 0.3855x at 120 hours).
+    If taken out of a minion, it cannot be put in the same minion for 24 hours, but refreshes the timer.
+
+- Minion Evolution Synthesiser [RARE]
+  Requires Hybrid Slayer Level 2.
+  Requires at least one Slayer Level 9.
+  Recipe: 1 Shaded Wisp + 8 Mutant Nether Warts
+    Item Ability - Dark Infusion RIGHT CLICK
+      Resets the timer of a minion with a Cascading Minion Devolver.
+      Consumed on use.
+
+- Void Rock [RARE]
+  Requires Hybrid Slayer Level 2.
+  Requires Gathering Level 20.
+  Recipe: 24 Void Particles + Enchanted Diamond Block
+    Used to craft Shaded Wisps and Void Crystals.
+    Can also be obtained through the Gathering skill.
+
+- Fission Vault [RARE]
+  Requires Hybrid Slayer Level 2.
+  Recipe: 12 Shaded Wisps + 96 Enchanted Diamond Blocks
+    Item Ability - Condensed Vault RIGHT CLICK
+      Open up the vault, allowing you to take out or put in Fission Tablets.
+    Item Ability - Voidshade Trigger LEFT CLICK
+      You shatter a stored Fission Tablet, summoning a Voidshade Hybrid boss.
+      This only works if there is only one tier of Fission Tablet stored in the vault.
+      If there's an active Voidshade Hybrid boss, this won't work.
+      Cooldown: 5s
+
+----------------
+
+- Void Rock [RARE]
+  Requires Hybrid Slayer Level 2.
+  Requires Gathering Level 20.
+  Minimum Floor: 5
+  Drops: 1
+  Guaranteed Drop: 1800 Gathering Efficiency
+  30-tick Mining Speed: 30,000
+  Requires Breaking Power 9.
+  +[33 * Floor] Gathering Exp
+    Used to craft Shaded Wisps and Void Crystals.
+    Can also be obtained through crafting.
+
+----------------
+
+- Sacred Auspice [RARE]
+  Requires Hybrid Slayer Level 3.
+  Recipe: 16 Shaded Wisps + 32 Flawless Amethyst Gemstones
+    Apply to any leg-type armor piece to grant it a new ability.
+    Item Passive - Mortal Border
+      Leaving combat for at least 5 seconds grants you a 2-hp hitshield which expires 3 seconds after entering combat.
+
+- Spot Warper [RARE]
+  Requires Hybrid Slayer Level 3.
+  Recipe: Spot Shifter + 12 Shaded Wisps + 20 Enchanted Emerald Blocks
+    Item Ability - Warp RIGHT CLICK
+      Swap places with the nearest enemy within 7 blocks. If you're looking at a target, you prioritise them instead.
+      Can be casted again within 1 second for free.
+      Can be used 16 times before consumed.
+      Cooldown: 8s
+
+- Shockwave Talisman [UNCOMMON]
+  Requires Hybrid Slayer Level 3.
+  Recipe: 16 Shaded Wisps + Pulsating Core
+    Uncommon Talisman.
+    Every 6th melee attack avoids the Voidshade Hybrid's Role Reversal passive ability and deals 15% more damage.
+
+- Microscopic Refinery [RARE]
+  Requires Hybrid Slayer Level 3.
+  Recipe: 8 Shaded Wisps + Pulsating Core + 32 Refined Mithril
+    Rare Talisman.
+    Ores in the Dwarven Mines grant 2.5% more drops for every Hybrid Slayer level.
+
+- Chromium Plating [EPIC]
+  Requires Hybrid Slayer Level 3.
+  Recipe: Scaled Plating + 8 Perfect Amethyst Gemstones + 64 Enchanted Iron Blocks + 64 Enchanted Emerald Blocks
+    Apply to any chestplate-type armor piece to grant it a new ability.
+    Item Passive - Threefold Expectancy
+      For every 60 base Defence granted by this armor piece, reduce incoming damage from Voidshade Hybrids by 0.2%.
+
+- Hardened Clot [RARE]
+  Requires Hybrid Slayer Level 3.
+  Recipe: 4 Hardened Gel + 4 Shaded Wisps + 24 Enchanted Slimeballs
+    Can be applied to any melee weapon in an anvil, up to 5 times, as long as it has 5 Hardened Gel applied. Bonus is additive with the gel's bonus.
+    On melee hit, grants a [5 * amt]% chance to increase the target's attack cooldown by 1 tick, for 3 seconds.
+    Maximum: 50% chance to increase target attack cooldown by 1 tick for 3 seconds.
+
+----------------
+
+- Supershrike [MYTHIC]
+  Requires Aelzer Level 26.
+  Requires Hybrid Slayer Level 4.
+  Recipe: Terrashrike + 36 Shaded Wisps + 224 Enchanted Gold Blocks
+    +450 Damage
+    Item Passive - Strong Shrike
+      Deal +150% damage against Hybrid-type monsters, but 1% against all other types.
+      Gain up to +225 Defence against Hybrid-type monsters over 2 seconds while holding the Supershrike. Lasts for up to 4 seconds before expiring.
+      Gain up to +40 Crit Damage based on the target's missing health.
+    Item Ability - Eradication RIGHT CLICK
+      Your next melee attack with the Supershrike hits 5 times for 36% damage. Damage is increased by 75% against targets above 50% maximum health.
+      Mana Cost: 200
+      Cooldown: 9s
+
+- Shade Ring [RARE]
+  Requires Hybrid Slayer Level 4.
+  Recipe: Shade Talisman + 12 Shaded Wisps + 36 Enchanted Iron Blocks
+    Rare Talisman.
+    Right click to toggle.
+    Increases the amount of knockback you take by 25%.
+    This also re-enables knockback taken (e.g. a Slime Hat).
+
+- Voidshade Chestplate [LEGENDARY]
+  Requires Aelzer Level 27.
+  Requires Hybrid Slayer Level 4.
+  Recipe: Pulsating Core + 28 Shaded Wisps + 32 Enchanted Quartz Blocks
+    Full Set: Chestplate, Boots
+    +550 Health
+    +325 Defence
+    +35 Speed
+    Item Passive - Voidshade Tank
+      Killing a Voidshade Hybrid permanently increases the Defence bonus of this armor piece by 9. Maximum of +800 Defence.
+    Full Set Bonus - Voidshade Assimilation
+      While the armor set is equipped, Voidshades can occasionally drop Void Chambers.
+      Void Chambers can be applied to the Chestplate to grant small bonuses. Chambers can be upgraded by killing a specific tier of Voidshade Hybrid.
+
+- Voidshade Boots [LEGENDARY]
+  Requires Aelzer Level 27.
+  Requires Hybrid Slayer Level 4.
+  Recipe: Pulsating Core + 16 Shaded Wisps + 32 Enchanted Quartz Blocks
+    Full Set: Chestplate, Boots
+    +350 Health
+    +275 Defence
+    +30 Speed
+    Item Passive - Voidshade Soak
+      Killing a Voidshade Hybrid permanently increases the Health bonus of this armor piece by 16. Maximum of +1600 Health.
+    Full Set Bonus - Voidshade Assimilation
+      While the armor set is equipped, Voidshades can occasionally drop Void Chambers.
+      Void Chambers can be applied to the Chestplate to grant small bonuses. Chambers can be upgraded by killing a specific tier of Voidshade Hybrid.
+
+Voidshade Armor Chambers:
+  Killing a specific Voidshade Hybrid tier gives 1 Energy to the respective Void Chamber unless it has maximum energy. If multiple chambers are upgradable from a single tier kill, a chamber will be randomly chosen to be given 1 Energy instead.
+
+  - Role Chamber
+    Dropped by Voidshade Rebels (6% chance).
+    Maximum Energy: 300
+    Base Bonus: Reduces the explosion damage dealt by Role Reversal by 10%.
+      Stacking Bonus: Damage reduction is increased by 0.05% per 1 Energy.
+      Max Bonus: Reduces the explosion damage dealt by Role Reversal by 25%.
+
+  - Peaking Chamber
+    Dropped by Voidshade Outlaws (5% chance).
+    Maximum Energy: 250
+    Base Bonus: Reduces the damage dealt by Peaking Smite by 10%.
+      Stacking Bonus: Damage reduction is increased by 0.04% per 1 Energy.
+      Max Bonus: Reduces the damage dealt by Peaking Smite by 20%.
+
+  - Sinister Chamber
+    Dropped by Voidshade Bandits (4% chance).
+    Maximum Energy: 300
+    Base Bonus: You ignore 5% of the damage reduction granted by Sinister Suffering.
+      Stacking Bonus: Percentage of ignored damage reduction is increased by 0.025% per 1 Energy.
+      Max Bonus: You ignore 12.5% of the damage reduction granted by Sinister Suffering.
+
+  - Augury Chamber
+    Dropped by Voidshade Exiles (3% chance).
+    Maximum Energy: 150
+    Base Bonus: Reduces the hitbox of Submissive Augury's path of light (for you) by 0.1 blocks.
+      Stacking Bonus: Hitbox reduction is increased by 0.001 blocks per 1 Energy.
+      Max Bonus: Reduces the hitbox of Submissive Augury's path of light (for you) by 0.25 blocks.
+
+  - Immortality Chamber
+    Dropped by Voidshade Vanguards (2% chance).
+    Maximum Energy: 300
+    Base Bonus: Breaking a ring increases the duration allowed by Truly Immortal by 0.5 seconds.
+      Stacking Bonus: Duration extension is increased by 0.05 seconds per 30 Energy.
+      Max Bonus: Breaking a ring increases the duration allowed by Truly Immortal by 1 second.
+
+  - Exodus Chamber
+    Dropped by Elite Voidshade Vanguards (1% chance).
+    Maximum Energy: 300
+    Base Bonus: Reduces damage dealt by Voidshade Archons by 20%.
+      Stacking Bonus: Damage reduction is increased by 0.1% per 1 Energy.
+      Max Bonus: Reduces damage dealt by Voidshade Archons by 50%.
+
+  - Truth Chamber
+    Dropped by all Voidshade Hybrids (0.5% chance).
+    Maximum Energy: 1,000
+    Base Bonus: 0.4% of damage dealt is converted to true damage against Voidshade Hybrids.
+      Stacking Bonus: Percentage of damage converted to true damage is increased by 0.0016% per 1 Energy.
+      Max Bonus: 2% of damage dealt is converted to true damage against Voidshade Hybrids.
+
+  - Excess Chamber
+    Dropped by all Voidshade Hybrids (0.25% chance).
+    Maximum Energy: 25,000
+      Energy is increased by [1 + (Tier // 2)] instead of just 1. T6b counts as 7, T7 counts as 8.
+      Requires 7 fully charged unique Chambers to start charging.
+    Base Bonus: None.
+      Stacking Bonus: Increase damage dealt bonus by 0.004% per 1 Energy.
+      Max Bonus: Gain +100% (mutliplicative) damage against Voidshade Hybrids.
+
+- Glacial Ring [EPIC]
+  Requires Hybrid Slayer Level 4.
+  Recipe: Mood Ring + 70 Enchanted Packed Ice + 40 Glacite Jewels
+    Apply to any weapon to grant it a new ability.
+    Item Passive - Freeze
+      Attacks apply a 10% slow onto targets for 1.25 seconds. During this time, their attack cooldown is also increased by 1 tick.
+      Ranged attacks apply Freeze with 40% of the normal duration.
+
+----------------
+
+- Warp Energy [RARE]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 32 Dark Wisps + 8 Enchanted Eyes of Ender
+    Used to power the Warp Synthesiser.
+
+- Superwarp Energy [EPIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 16 Shaded Wisps + 64 Enchanted Eyes of Ender
+    Used to power the Warp Synthesiser.
+
+- Hyperwarp Energy [EPIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 320 Shaded Wisps + 32 Absolute Ender Pearls
+    Used to power the Warp Synthesiser.
+
+- Warp Synthesiser [EPIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: Spot Warper + 48 Shaded Wisps + 64 Enchanted Slime Blocks
+    Item Ability - Absorb LEFT CLICK
+      Consume all Warp Energy and grant it to the Warp Synthesiser for use.
+      Superwarp Energy grants 50 Warp Energy to the Warp Synthesiser.
+      Hyperwarp Energy grants 750 Warp Energy to the Warp Synthesiser.
+      Hovering over the Warp Synthesiser will show you how much Warp Energy is available for use.
+    Item Ability - Warp RIGHT CLICK
+      Swap places with the nearest enemy within 12 blocks. If you're looking at a target, you prioritise them instead.
+      Casting Warp during the soft cooldown will consume 1 extra Warp Energy per consecutive use (with no cap). Extra cost resets when the cooldown runs out.
+      Warp Energy Cost: 1
+      Soft Cooldown: 6s
+
+- Shockwave Ring [EPIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: Shockwave Talisman + Pulsating Core + 21 Shaded Wisps
+    Epic Talisman.
+    Every 5th melee attack avoids the Voidshade Hybrid's Role Reversal passive ability and deals 25% more damage.
+
+- Void Crystal [MYTHIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 96 Void Rocks + Any Perfect Gemstone
+
+- Hand of Omnipotency [SUPREME]
+  Requires Aelzer Level 31.
+  Requires Hybrid Slayer Level 5.
+  Recipe: Hybrid Nucleus + 3 Gazeseeker Covenants + 160 Crying Obsidian
+
+- Volatile Auspice [LEGENDARY]
+  Requires Hybrid Slayer Level 5.
+  Recipe: Sacred Auspice + Void Crystal
+    Apply to any leg-type armor piece to grant it a new ability.
+    Item Passive - Volatile Border
+      Leaving combat for at least 5 seconds grants you a 3-hp hitshield which expires 4 seconds after entering combat.
+
+- Hypershrike [MYTHIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 4 Pulsating Cores + 2 Hybrid Nuclei + Void Crystal
+    +20 Lethality
+    Item Passive - Balance Transfer
+      Holding a Hypershrike for at least 1.5 seconds grants you its Lethality bonus for 3 seconds after swapping to a different item.
+      The Hypershrike gains +4 Lethality (max +60 total) if you get a Voidshade Hybrid kill during its Lethality buff.
+
+- Superfrost [MYTHIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: Hand of Omnipotency + 4 Glacial Rings + 256 Enchanted Packed Ice
+    Apply to any weapon with the Glacial Ring's ability to upgrade it.
+    Item Passive - Superfreeze
+      Attacks apply a 15% slow onto targets for 1.5 seconds. During this time, their attack cooldown is also increased by 2 ticks.
+      Ranged attacks apply Superfreeze with 40% of the normal duration.
+
+- Umbral Barrier [EPIC]
+  Requires Hybrid Slayer Level 5.
+  Recipe: Umbral Guard + 3 Void Crystals + 48 Myxtri Essence
+    Item Passive - Defensive Darkness
+      While holding the Umbral Barrier, gain +225 Defence against Hybrid-type monsters and gain +250% base natural regeneration.
+      Lasts for up to 5 seconds after swapping to a different item.
+
+- Golden Permanent Etching [LEGENDARY]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 16 Myxtri Essence + 3 Pulsating Cores + 192 Enchanted Gold Blocks
+    Legendary Talisman.
+    Extra Fission Tablets additively cost 10% less than normal (20% -> 10%).
+
+- Hardened Coagulant [RARE]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 4 Hardened Clots + Hand of Omnipotency + 128 Enchanted Slimeballs
+    Can be applied to any melee weapon in an anvil, up to 5 times, as long as it has 5 Hardened Clots applied. Bonus is additive with the clot's bonus.
+    On melee hit, grants a [5 * amt]% chance to increase the target's attack cooldown by 1 tick, for 3 seconds.
+    Maximum: 75% chance to increase target attack cooldown by 1 tick for 3 seconds.
+
+----------------
+
+- Shade Artifact [EPIC]
+  Requires Hybrid Slayer Level 6.
+  Recipe: Shade Ring + Void Crystal + 30 Shaded Wisps + 128 Enchanted Iron Blocks
+    Epic Talisman.
+    Right click to toggle.
+    Increases the amount of knockback you take by 35%.
+    This also re-enables knockback taken (e.g. a Slime Hat).
+
+- Compressed Frostburn [GODLY]
+  Requires Aelzer Level 30.
+  Requires Hybrid Slayer Level 6.
+  Recipe: Superfrost + Hand of Omnipotency + 224 Enchanted Iron Blocks
+    Item Ability - Frost Charge LEFT CLICK
+      Consumes 1 Impure Xixopple and grants 20 Energy to the item.
+      Sneak while casting Frost Charge to consume 20 IX at 90% efficiency instead.
+    Item Ability - Toggle Frostburn RIGHT CLICK
+      While toggled on, consume 1 Energy every tick (0.2s).
+      If you run out of Energy, this automatically toggles off.
+      Attacks apply Frostburn onto targets hit for 2 seconds, increasing their attack cooldown by 3 ticks and slowing their movement speed by 20%.
+      Ranged attacks apply Frostburn with 50% of the normal duration.
+
+- Perdition Blade [GODLY]
+  Requires Aelzer Level 32.
+  Requires Hybrid Slayer Level 6.
+  Recipe: 2 Hands of Omnipotency + 3 Hypershrikes
+    Using 2 Hypershrikes and a Supershrike instead will transfer the enchants/bonuses applied to the Supershrike onto the Perdition Blade.
+    +550 Damage
+    Item Passive - Destructor Core
+      Deal +300% damage against Hybrid-type monsters, but 1% against all other types.
+      Gain up to +475 Defence against Hybrid-type monsters over 1.5 seconds while holding the Perdition Blade. Lasts for up to 5 seconds before expiring.
+      Gain up to +80 Lethality based on the target's missing health.
+    Item Ability - Muscle Fissure RIGHT CLICK
+      Your next three attacks against a Hybrid-type monster gain +1.5% damage for every 1% of their current health, *and gain +10% damage (multiplicative) for every block of knockback that you inflict on them.
+      *If all three attacks are used on the same target, that target is both stunned and silenced for 1 second.
+        *Not applied if Muscle Fissure is used without enough Impure Xixopple.
+      Impure Xixopple (soft) Cost: 3
+      Cooldown: 10s (reduced to 4s if Impure Xixopple is consumed)
+
+- Xixoppolic Siphon [MYTHIC]
+  Requires Aelzer Level 33.
+  Requires Hybrid Slayer Level 6.
+  Recipe: 4 Hands of Omnipotency + 4 Void Crystals + 1600 Impure Xixopple
+    Impure Xixopple is consumed on craft. If you do not have enough, the item is not crafted and you lose all items in the recipe.
+    Combine with any pair of Gathering Gloves to increase the amount of Impure Xixopple harvested by Scopes by 50%.
+    Item Passive - Void Chipper
+      Attacking a Voidshade Hybrid with the Xixoppolic Siphon has a small chance of looting Impure Xixopple.
+      Base Chance: 0.5%
+      Base Reward: 1 Impure Xixopple
+      Successfully looting Impure Xixopple increases the chance of looting more, by 0.01% (additively). Maximum chance: 5%.
+      For every 2 Aelzer Levels above 33, increase base Xixopple rewards by 1.
+
+- Unstable Hit Parameter [MYTHIC]
+  Requires Hybrid Slayer Level 6.
+  Recipe: 192 Myxtri Essence + 6 Pulsating Cores + 12 Perfect Amethyst Gemstones
+    Combine with a Warp Synthesiser to grant it a new passive ability.
+    Item Passive - Accuracy Dissolver
+      Casting Warp onto an enemy increases their attack cooldown by 1 tick for 3 seconds. The duration nor the effect stacks on multiple casts.
+
+- Niobium Plating [MYTHIC]
+  Requires Hybrid Slayer Level 6.
+  Recipe: Chromium Plating + 64 Perfect Amethyst Gemstones + 192 Enchanted Iron Blocks + 192 Enchanted Emerald Blocks
+    Apply to any chestplate-type armor piece to grant it a new ability.
+    Item Passive - Fourfold Expectancy
+      For every 50 base Defence granted by this armor piece, reduce incoming damage from Voidshade Hybrids by 0.2%.
+
+----------------
+
+- Void Wisp [GODLY]
+  Requires Hybrid Slayer Level 7.
+  Recipe: 128 Shaded Wisps + 6 Void Crystals
+
+- 64x Gelyxian Arrowheads [MYTHIC]
+  Requires Aelzer Level 34.
+  Requires Hybrid Slayer Level 7.
+  Requires Gathering Level 55.
+  Recipe: 4 Gelyxian Steel + 64 Enchanted Iron Blocks
+    Left click to open a menu to attach arrowheads onto any ranged projectile weapon. Arrowheads will be shot first, before arrows, and are not saved by Infinite Quiver.
+    Arrowheads last for 30 seconds inside of the last target hit, and are dropped on the floor if they die before expiring.
+      +80 Damage
+      +80% Crit Damage
+      Bonus Effect: Killing a target multiplies the arrow's velocity by 1.2x, and creates a 2 block explosion for 33% arrow damage.
+
+- Anti-Wall Shredder [MYTHIC]
+  Requires Hybrid Slayer Level 7.
+  Recipe: 2 Void Wisps + 6 Pulsating Cores + 64 Enchanted Iron Blocks
+    Combine with a Warp Synthesiser to grant it a new passive ability.
+    Item Passive - Border Bypass
+      While sneaking, casting Warp will teleport you to the other side of a block or wall, as long as it is 1 block thick.
+      Costs the same as Warp.
+
+- Supersynthesiser [SUPREME]
+  Requires Hybrid Slayer Level 7.
+  Recipe: 2 Void Wisps + 6 Pulsating Cores + 16 Tessellated Ender Pearls
+    Combine with a Warp Synthesiser to grant it a new passive ability.
+    Item Passive - Advanced Synthesising Technology
+      Up to once every 8 seconds, the first cast of Warp is free.
+      Additionally, every cast of Warp has a 20% chance of refunding half of the cost (cost is rounded up).
+
+- Shockwave Artifact [LEGENDARY]
+  Requires Hybrid Slayer Level 7.
+  Recipe: Shockwave Ring + 3 Void Wisps + 48 Perfect Jasper Gemstones
+    Legendary Talisman.
+    Every 4th melee attack avoids the Voidshade Hybrid's Role Reversal passive ability and deals 35% more damage.
+
+- Prescient Auspice [MYTHIC]
+  Requires Hybrid Slayer Level 7.
+  Recipe: Volatile Auspice + Void Wisp
+    Apply to any leg-type armor piece to grant it a new ability.
+    Item Passive - Prescient Border
+      Leaving combat for at least 4 seconds grants you a 3-hp hitshield which expires 5 seconds after entering combat.
+      Entering combat by dealing damage before taking any grants a 90% damage bonus (multiplicative) which decays over 3 hits. Max once per 15s.
+
+- Platelegs of Gelyxia [SUPREME]
+  Requires Aelzer Level 33.
+  Requires Hybrid Slayer Level 7.
+  Recipe: Hand of Omnipotency + 2 Void Wisps + 30 Gelyxian Steel
+    +625 Defence
+    Item Passive - Auspicious Sustenance
+      The first hitpoint with any hitshield granted by an Auspice has a chance of not being used up on a hit.
+      Chance is based on the tier of Auspice; Sacred/Volatile/Prescient/Pernicious -> 15/30/45/60% chance.
+    Item Passive - Ace Up A Leg
+      If an Auspice's hitshield is broken, increase total Defence by 90%, which decays over 3 seconds. Max once per 15s.
+
+- Voidshade Deathcrown [SUPREME]
+  Requires Aelzer Level 33.
+  Requires Hybrid Slayer Level 7.
+  Recipe: Pereo Insignia + Hand of Omnipotency + 4 Void Wisps
+    +750 Health
+    Item Passive - True Form
+      While equipped with full Voidshade Armor, the stats of the Deathcrown are doubled.
+      Additionally, all Impure Xixopple drops from bosses are instantly consumed by the Deathcrown while wearing it, granting +0.25 base Health and +0.01 base Lethality per 1 Impure Xixopple.
+      Maximum increase obtained at 3,000 Impure Xixopple (750 Health, 30 Lethality).
+
+- Talisman of Elitism [MYTHIC]
+  Requires Hybrid Slayer Level 7.
+  Recipe: Hand of Omnipotency + 4 Void Wisps + 32 Perfect Jasper Gemstones
+    Mythic Talisman.
+    Right click to toggle.
+    Increases the chance of spawning Elite Voidshade Vanguards from 10% to 100%.
+    Grants +1.25% bonus Defence per Hybrid Slayer Level after the first 7.
+
+- Curdled Slime [RARE]
+  Requires Hybrid Slayer Level 5.
+  Recipe: 4 Hardened Coagulants + Void Wisp + 8 Enchanted Slime Blocks
+    Can be applied to any melee weapon in an anvil, up to 5 times, as long as it has 5 Hardened Coagulants applied. Bonus is additive with the coagulant's bonus.
+    On melee hit, grants a [5 * amt]% chance to increase the target's attack cooldown by 1 tick, for 3 seconds.
+    Maximum: All attacks increase target attack cooldown by 1 tick for 3 seconds.
+
+----------------
+
+- Umbral Emblem [SUPREME]
+  Requires Hybrid Slayer Level 8.
+  Recipe: 4 Gelyxian Steel + 36 Myxtri Essence
+
+- Effigy of the Fallen God [GODLY]
+  Requires Hybrid Slayer Level 8.
+  Recipe: 4 Void Wisps + 2 Gelyxian Steel + 64 Enchanted Gold Blocks
+
+- Rift Amulet [GODLY]
+  Requires Hybrid Slayer Level 8.
+  Recipe: Effigy of the Fallen God + 4 Jewels of the Void
+
+- 64x Gelyxian Dart [SUPREME]
+  Requires Aelzer Level 36.
+  Requires Hybrid Slayer Level 8.
+  Requires Gathering Level 64.
+  Recipe: 64 Gelyxian Arrowheads + 12 Gelyxian Steel
+    Left click to open a menu to attach darts onto any ranged projectile weapon. Darts will be shot first, before arrows, and are not saved by Infinite Quiver.
+    Darts last for 30 seconds inside of the last target hit, and are dropped on the floor if they die before expiring.
+      +125 Damage
+      +125% Crit Damage
+      Bonus Effect: Killing a target multiplies the dart's velocity by 1.4x, and creates a 3 block explosion for 50% projectile damage. Targets killed by the explosion heal you for 0.8% of your maximum health each.
+
+- Umbral Benevolence [GODLY]
+  Requires Hybrid Slayer Level 8.
+  Recipe: Umbral Barrier + 3 Rift Amulets + 3 Umbral Emblems + 9 Void Wisps
+    Item Passive - Benevolent Darkness
+      While holding the Umbral Benevolence, gain +675 Defence against Hybrid-type monsters and gain +350% base natural regeneration.
+      Lasts for up to 6 seconds after swapping to a different item.
+    Item Passive - Soul Tithe
+      Taking fatal damage while holding the Umbral Benevolence reduces the amount of damage taken on that tick by 20% and grants 1.5 seconds of invulnerability if you still survive. Can only happen once every 30 seconds.
+
+- Voidshade Etherfang [GODLY]
+  Requires Aelzer Level 40.
+  Requires Hybrid Slayer Level 8.
+  Recipe: Ethereal Voidfang + 4 Rift Amulets + 24 Myxtri Essence
+    Apply to any weapon to increase its base Lethality by 5.
+    Each applied Etherfang also increases damage dealt towards Voidshade Hybrids by 2% (multiplicative).
+    Maximum of 5 Etherfangs per weapon.
+
+- Pernicious Auspice [GODLY]
+  Requires Hybrid Slayer Level 8.
+  Recipe: Prescient Auspice + Effigy of the Fallen God + 10 Void Wisps + 60 Myxtri Essence
+    Apply to any leg-type armor piece to grant it a new ability, but also reduces the piece's base Defence by 125.
+    Item Passive - Pernitious Border
+      Leaving combat for at least 3.5 seconds grants you a 4-hp hitshield which expires 7 seconds after entering combat.
+      Entering combat by dealing damage before taking any grants a 135% damage bonus (multiplicative) which decays over 3 hits. Max once per 12s.
+      Taking hitshield damage grants 30 Speed and 5 Weapon Damage for 4 seconds, with effect (but not duration) stacking.
+
+- Polar Frostbite [GODLY]
+  Requires Aelzer Level 35.
+  Requires Hybrid Slayer Level 8.
+  Recipe: Compressed Frostburn + 4 Rift Amulets + 16 Void Wisps + 96 Myxtri Essence
+    +500 Damage
+    Item Passive - Sub-Zero Suspension
+      The Polar Frostbite can only attack once every 1.5 seconds.
+      Attacks against Voidshades reduce their Anger by 1, and increase their attack cooldown by 2 ticks for 3 seconds.
+    Item Ability - Rectification RIGHT CLICK
+      Your next attack with the Polar Frostbite within 3 seconds reduces Voidshade Anger by 5 (can go below 0).
+      Additionally, gain +75 Lethality on-hit, decaying over 6 seconds.
+      Mana Cost: 300
+      Impure Xixopple Cost: 2
+      Cooldown: 12s
+
+- Predator's Claw [GODLY]
+  Requires Aelzer Level 35.
+  Requires Hybrid Slayer Level 8.
+  Recipe: Defiant Core + 20 Void Wisps + 105 Myxtri Essence
+    +650 Damage
+    Item Passive - Concussive Blade
+      Attacks cleave targets within 3 blocks for 33% damage, and the main target takes 10% increased damage.
+      All enemies damaged by Concussive Blade are marked as Weakened for 1 second.
+      Weakened targets move 33% slower, regenerate 33% less health, and have their attack cooldown increased by 2 ticks. Weakened Hybrid-type monsters take 2x damage.
+      While sneaking, Concussive Blade's cleave effect is applied around you instead of the target, and lasts for 3 extra seconds.
+
+----------------
+
+- 64x Gelyxian Bolts [GODLY]
+  Requires Aelzer Level 38.
+  Requires Hybrid Slayer Level 9.
+  Requires Gathering Level 75.
+  Recipe: 64 Gelyxian Darts + 48 Gelyxian Steel
+    Left click to open a menu to attach bolts onto any ranged projectile weapon. Bolts will be shot first, before arrows, and are not saved by Infinite Quiver.
+    Bolts last for 30 seconds inside of the last target hit, and are dropped on the floor if they die before expiring.
+      +180 Damage
+      +180% Crit Damage
+      +50 Lethality
+      Bonus Effect: Killing a target multiplies the bolt's velocity by 1.75x, and creates a 4 block explosion for 66% projectile damage. Targets killed by the explosion heal you for 1.25% of your maximum health each.
+
+- Gelyxian Spraybow [GODLY]
+  Requires Aelzer Level 38.
+  Requires Hybrid Slayer Level 9.
+  Recipe: 12 Void Wisps + 240 Gelyxian Steel
+    +300 Damage
+    Item Passive - Spraybow
+      Holding the Spraybow for 1.5 seconds in a row stacks one unit of ammunition. Maximum 5 stacks.
+      Firing the Spraybow is instant.
+      Every target damaged by the Spraybow grants 1 stack, with a maximum of 100 stacks. Stacks are bound to the player and expire if they leave combat for 6 seconds.
+    Item Ability - Split Ring Quiver LEFT CLICK
+      You instantly shoot 7 fully-charged arrows in a cone, in the target direction (5deg between arrows).
+      Arrows deal damage equal to 75% of your average arrow damage, based on the last 25 arrows.
+      All arrows apply arrow-addition bonus effects, but the middle arrow deals 2% bonus damage and 1% increased Lethality per Spraybow stack.
+      Arrows shot by SRQ can grant Spraybow stacks, and is dynamically buffed mid-use.
+      Impure Xixopple Cost: 6 (-1 per 20 Spraybow stacks)
+      Cooldown: 0.5s
+
+- Shockwave Relic [SUPREME]
+  Requires Hybrid Slayer Level 9.
+  Recipe: Shockwave Artifact + 24 Void Wisps + 96 Gelyxian Steel + 128 Perfect Jasper Gemstones
+    Supreme Talisman.
+    Every 3rd melee attack avoids the Voidshade Hybrid's Role Reversal passive ability and deals 35% more damage.
+
+- Volatile Mutilator [ETERNAL]
+  Requires Aelzer Level 39.
+  Requires Hybrid Slayer Level 9.
+  Recipe: Perdition Blade + Proboscis of Descension + 6 Voidshade Etherfangs + 15 Umbral Emblems
+    +750 Damage
+    +200 Strength
+    Item Passive - Mutilation Core
+      Deal +500% damage against Hybrid-type monsters, but 1% against all other types. The damage bonus is increased by 2% on each T6+ kill, up to a maximum bonus of +1150% at 325 kills.
+      Gain up to +750 Defence against Hybrid-type monsters over 1.25 seconds while holding the Volatile Mutilator. Lasts for up to 6 seconds before expiring.
+    Item Passive - Irreversibility
+      For every 10% of a Hybrid-type target's maximum health lost, a checkpoint is marked; preventing the Hybrid from restoring health past that point.
+      Each checkpoint reduces the amount of shields that the target can be granted by 5% (additively).
+    Item Ability - Defiling Machine RIGHT CLICK
+      The passive abilities of the Volatile Mutilator are disabled by default.
+      Activate to consume 20 Impure Xixopple, which enables the passive abilities for the next 10 minutes.
+      Successful Voidshade Hybrid kills extend the duration of Defiling Machine by 75 seconds, up to a cap of 15 minutes.
+      Cooldown starts when the duration of Defiling Machine ends.
+      Impure Xixopple Cost: 20
+      Cooldown: 10s
+
+- Malevolent Gemstone [GODLY]
+  Requires Hybrid Slayer Level 9.
+  Recipe: 36 Void Wisps + 256 Myxtri Essence + 256 Perfect Gemstones
+    Must be the same gemstone type.
+    Godly Talisman.
+    Right click to toggle.
+    While out of combat, your Defence and True Defence is reduced by 25%.
+    Over 4 seconds after entering combat, the talisman's debuffs decay and you gain up to a 10% increase in both Strength and Crit Damage.
+
+- Numbing Potion
+  Requires Aelzer Level 39.
+  Requires Hybrid Slayer Level 9.
+  Requires Gathering Level 65.
+  Requires 500m Alchemy Exp.
+    Brewing Steps:
+      - Water Bottle + Gelyxian Wart --> Ancient Flask (n)
+        +5k Alchemy Exp
+      - Ancient Flask (n) + Void Wisp --> Numbing Potion
+        +70k Alchemy Exp
+  Base: 2 Doses (+1/2 doses at 1b/1.5b Alchemy Exp)
+  Duration: 2 minutes (+1/2/3 minutes at 750m/1.25b/1.75b Alchemy Exp)
+  Effects:
+    - Instantly gain +5% Defence.
+    - Consecutive same-attack hits within 3 seconds deal -6% less damage, stacking up to a 30% damage reduction.
+
+- Potion of Superstrength
+  Requires Aelzer Level 40.
+  Requires Hybrid Slayer Level 9.
+  Requires Gathering Level 73.
+  Requires 1b Alchemy Exp.
+    Brewing Steps:
+      - Water Bottle + Elysium Tear --> Ancient Flask (s)
+        +125k Alchemy Exp
+      - Ancient Flask (s) + Mirthicial Fragment --> Potion of Superstrength
+        +70k Alchemy Exp
+  Base: 1 Dose (+1/2 doses at 2.5b/4b Alchemy Exp)
+  Duration: 1 minute (+0.25/0.5/0.75/1 minute at 1.5b/2b/3b/3.5b Alchemy Exp)
+  Effects:
+    - Instantly gain +25% Strength.
+
+----------------
+
+- Accessory Reconfiguration Module [GODLY]
+  Requires Aelzer Level 39.
+  Requires Hybrid Slayer Level 10.
+  Recipe: Ethereal Voidfang + 6 Void Wisps + 32 Gelyxian Steel
+    Combine with any talisman in an anvil to apply your Aelzer level's stat multiplier to it.
+
+- Xio'Feric Infusion Module [GODLY]
+  Requires Aelzer Level 39.
+  Requires Hybrid Slayer Level 10.
+  Recipe: 24 Gelyxian Steel + 8 Pulsating Cores
+    Right click to open a menu to add Impure Xixopple to the module.
+    Combine with any Aelzerian item in an anvil to infuse the item with the Impure Xixopple in the module.
+    The item gains a 2% stat increase (additive with the Aelzer level bonus) per 1,000 Impure Xixopple, up to 10,000 IX maximum.
+    Infusion Modules can only store up to 500 IX each.
+
+- Hybrid Disruptor [GODLY]
+  Requires Aelzer Level 40.
+  Requires Hybrid Slayer Level 10.
+  Recipe: Defiant Core + 6 Voidshade Etherfangs + 32 Void Wisps
+    Item Ability - Disruption Mesh RIGHT CLICK
+      You create a 3x3x3 mesh at the target location. Targets inside of the mesh have their attack cooldown increased by 5 ticks, and movement speed halved.
+      The mesh has 20 Health, which is drained by 1 HP/s. The HP drain is increased by 1 HP/s for every enemy in the mesh.
+      Cooldown starts when the mesh expires.
+      Impure Xixopple Cost: 30
+      Mana Cost: 400
+      Cooldown: 20s
+
+- Ethereal Permanent Etching [GODLY]
+  Requires Hybrid Slayer Level 10.
+  Recipe: Golden Permanent Etching + Defiant Core + 4 Ethereal Voidfangs + 20 Congealed Biomass
+    Godly Talisman.
+    Extra Fission Tablets additively cost 15% less than normal (additive, 20% -> 5%).
+    Takes precedence over a Golden Permanent Etching.
+
+- Voidshade Insignia [INFINITE]
+  Requires Aelzer Level 42.
+  Requires Hybrid Slayer Level 10.
+  Recipe: Amorphous Viscera + 9 Voidshade Etherfangs + 12 Defiant Cores + 72 Void Wisps
+    +888 Damage
+    Item Passive - Tempest of the Void
+      The Voidshade Insignia can be combined with up to 3 other unique weapons with an anvil. This can be reversed by leaving it in an anvil with no secondary item for 6 seconds (requires enough inventory space).
+      Combining the Insignia with a weapon grants 33% of the weapon's stats, and also grants the Insignia the ability to copy the weapon's main active ability.
+    Item Ability - Infinite Cycle SNEAK + RIGHT CLICK
+      Cycles through available abilities in the Insignia.
+      Cooldown: 1s
+    Item Ability - Voidshade Conduit RIGHT CLICK
+      Activates the selected ability from Infinite Cycle. Abilities use the stats of the Insignia (including combined stats) and use the cooldowns and resource costs of the original.
+    Item Ability - End of the Void LEFT CLICK
+      You shoot a surge of void energies in the target direction. On impact, explode to deal 350% of each of melee, ranged, and magic damage to targets within 3 blocks, over 15 seconds. Damage is calculated based on the item itself.
+      If at least 3 targets are hit, refund 60% of the resources spent and deal 200% increased damage on your next melee hit within 3 seconds.
+      Impure Xixopple Cost: 20 (+10 per combined weapon)
+      Mana Cost: 1600
+      Cooldown: 30s
+
+
