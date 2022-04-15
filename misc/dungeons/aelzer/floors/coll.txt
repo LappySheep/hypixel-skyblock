@@ -86,4 +86,4 @@ Floor 3 - Tsra'ki:
     RARE ACCESSORY - Reduces the amount of damage taken on Floor 4 and higher by 1%.
 
   Tsra'ki's Visage - 900 Tsra'ki Souls + Cinder Mastery Trophy
-    EPIC ACCESSORY - Reduces the amount of damage taken on Floor 4 and higher by 1%. Grants +2.5% bonus Aelzer Exp.
+    EPIC ACCESSORY - Reduces the amount of damage taken on Floor 4 and higher by 1%. Grants +4% bonus Aelzer Exp.
