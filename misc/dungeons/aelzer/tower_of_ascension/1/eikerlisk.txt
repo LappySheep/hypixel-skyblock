@@ -7,9 +7,10 @@ Requirements:
 Special Details:
   - Ranged damage is disabled in this part of the ToA.
   - Magic damage is disabled in this part of the ToA.
+  - Ticks refer to 0.2s intervals (5t/s)
 
 
-Grinding ToA-IA rewards T1A experience. Levelling up your T1A skill grants unique bonuses from this section of Floor 1.
+Grinding ToA-IA rewards Eikerlisk experience. Levelling up your Eikerlisk skill grants unique bonuses from this section of Floor 1.
   Starting Level: 0
   Maximum Level: 16 (150,000 Exp to max)
   Exp Required: [((Lvl + 1)^2 * 100) + 25] (per level)
@@ -34,7 +35,7 @@ Powder-soul Havoc
       Mark a target (max 1). This target takes 15% more damage from all sources, and draws aggro from other Guardians if they are not attacking anything else.
   Drops:
     - Chime (15% chance)
-    - 1-3 T1A Exp (20% chance)
+    - 1-3 Eikerlisk Exp (20% chance)
 
 Ascension-chaser Reaver
   3,000,000 Health
@@ -46,7 +47,7 @@ Ascension-chaser Reaver
       Deal 8,000 damage to all targets in a 3 block deep cone, twice, with a 0.5 second delay in between.
   Drops:
     - Chime (20% chance)
-    - 1-4 T1A Exp (25% chance)
+    - 1-4 Eikerlisk Exp (25% chance)
 
 Mistfear Destroyer
   2,000,000 Health
@@ -61,7 +62,7 @@ Mistfear Destroyer
       Gain 0.4% dodge chance for every 1% missing shields.
   Drops:
     - Chime (25% chance)
-    - 2-4 T1A Exp (30% chance)
+    - 2-4 Eikerlisk Exp (30% chance)
 
 
 Chimes can be used to gain upgrades, which only apply in the ToA-IA rooms, or to make Imbued Chimes to unlock the major room.
@@ -82,13 +83,13 @@ Flight Regeneration:
     Cost: 10 / 25 / 55 / 100 / 175 Chimes
 
 Increased Experience:
-  - Earn more T1A experience from monster kills.
+  - Earn more Eikerlisk experience from monster kills.
     Bonus: 2 / 6 / 10 / 20 / 30% increased T1A Exp
     Cost: 10 / 35 / 105 / 260 / 520 Chimes
 
 Imbued Chimes:
   - Used to unlock the major room once, and extend Boss Time.
-    Base Cost: 15 Chimes
+    Base Cost: 15 Chimes + 8 Enchanted Sand
 
 Stronger Imbuing:
   - Decreases the cost of Imbued Chimes from regular Chimes.
@@ -148,12 +149,12 @@ Eikerlisk
       - 75-100 Tainted Coins (50% chance)
       - 4-6 Chimes (50% chance)
 
-    Base Exp: 50-75 ToA-1A Exp (100% chance)
+    Base Exp: 50-75 Eikerlisk Exp (100% chance)
 
     Rare:
       - 130-175 Tainted Coins (20% chance)
       - 9-11 Chimes (20% chance)
-      - 30-60 Bonus ToA-1A Exp (20% chance)
+      - 30-60 Bonus Eikerlisk Exp (20% chance)
 
       - 1-2 Powder Jewels (15% chance) [Exc-A]
         Consume while in the Tower of Ascension to restore 15% of your missing health back and gain 50% increased Mana/Devotion regeneration for 10 seconds.
@@ -195,7 +196,8 @@ Eikerlisk
       - Ancient Enchantment: Berserker Flux (3% chance) [Exc-C] (Melee Weapons)
         750 Durability. Costs 1 Durability on kill.
         Increases the amount of damage dealt by melee attacks based on the sum of your Berserker (+subclasses) class levels.
-        Bonus damage: [(T + 5) * 0.2]% (T = sum of Berserker class levels)
+          Bonus Damage: [(T + 5) * 0.2]% (T = sum of Berserker class levels)
+          Combining extra Berserker Flux books onto a melee weapon which already has Berserker Flux refreshes the enchantment's durability.
 
     Ungodly:
       - Energised Shrine (0.8% chance) [Exc-B]
@@ -229,3 +231,11 @@ Eikerlisk
           Targets can only have their Defence reduced a maximum of 3 times.
             Mana Cost: 400
             Cooldown: 66s
+
+    Other:
+      - Eikerlisk Tooth [LEGENDARY] (0.1% chance)
+        Used to craft the Weak Tower Badge and the Weak Tower Artifact.
+
+      - Pereo Insignia [MYTHIC]
+        Combine with a Meshed Arcane Gun to create the Fallen Arcane Crypt. Also used to craft the Deathmarked Crossbow.
+        The drop rate is dependent on your Prestige Points; ranging from 1/200m to 1/1k. This drop rate is also improved by your Tower of Ascension level.
