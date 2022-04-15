@@ -73,23 +73,22 @@ Modes:
     Other Notes:
       - Solo/Duo only.
       - Floors 11-13 cannot be played in Adventure Mode.
-      - While in Adventure Mode, dungeon runs end once you reach the boss room. You cannot fight the boss of a floor during Adventure Mode.
-      - Getting a special drop from any special monster (e.g. minibosses) increases your dungeon run's exp gain by 1% (stacking additively).
+      - While in Adventure Mode, dungeon runs end once you reach the boss room. You cannot fight the boss of a floor during Adventure Mode (soft cap of 150 score).
+      - Getting a special drop from any special monster (e.g. minibosses) increases the score of your run by 10.
       - Special drops from special monsters have an increased drop rate equal to 5% (stacking additively) per Aelzer level after the first 11 levels.
-    Maximum Dungeon Score: 250 (Maximum Achievable: 150)
+    Maximum Dungeon Score: 250
 
   - Boss Rush Mode:
     Requirements:
       - Slain Pinqsci (Floor 5)
     Score Modifiers/Costs:
-      - Deaths reduce your score by 100%.
+      - Deaths end Boss Rush Mode runs immediately.
     Other Notes:
       - Floors 11-13 cannot be played in Boss Rush Mode.
-      - Deaths end Boss Rush Mode runs immediately.
       - Completed bosses before a fail will grant experience equal to the cube of the highest boss beaten (e.g. beating 4/5 bosses: 64/125 score).
       - Choosing a certain floor will place you in the boss fight for each floor, from floor 1, up to the selected floor.
       - While in Boss Rush Mode, dungeon runs consist strictly only of the boss fights of the selected floors. Bosses do not drop loot which require a dungeon run rank.
-      - Completing Boss Rush Mode rolls rank-required loot in a final loot chest instead. Boss loot gains +5% drop chance.
+      - Completing Boss Rush Mode rolls rank-required loot in a final loot chest instead. Boss loot gains +5% drop chance per maximum floor.
     Maximum Dungeon Score: [FloorSelected^3]
 
   - Completionist Mode:
@@ -142,6 +141,7 @@ Modes:
       - Before starting the dungeon run, you can select up to 14 handicaps. Each handicap rewards you by increasing the base Exp gain, and the drop chances of items. Handicap rewards stack additively and apply multiplicatively.
       - Handicaps affect everyone in your team.
       - Handicaps have a 'harder' version too, which awards a higher drop rate buff.
+      - Failing a run does not award any handicap bonuses.
       - Available Handicaps:
         - Last Hit: Your maximum health is capped at 1. / All sources of damage instantly kill you. +10% base Exp gain. +5%/10% drop rates.
         - Shield Shatter: Shield health effectivity is reduced by 65%/95%. +10% base Exp gain. +5%/10% drop rates.
