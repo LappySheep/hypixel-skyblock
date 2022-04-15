@@ -1,0 +1,31 @@
+Cost to Spawn: 750 Tainted Coins
+Slayer Exp Reward: 8 Hybrid Slayer Exp
+
+Requirements:
+  - Beaten Pinqsci (Floor 5)
+  - Hybrid Slayer Level 1
+
+
+
+Voidshade Outlaw (Tier 2)
+  17,500,000 Health
+  225,000 Damage
+  33 Defence + 126 Magic Resistance
+  Perks:
+    - Ignores 16% of target Defence.
+    - Only 2 additional players other than the summoner can hurt the Voidshade.
+
+  Abilities:
+    - Role Reversal (Passive)
+      Attacking the Voidshade increases its Anger by 1. Every second, its Anger is reduced by 1.
+      At 6 Anger, it creates a 6-block explosion, which deals 51% of the target's current health as true damage.
+      It also moves twice as fast, and deals 3x the damage, for 5 seconds.
+
+    - Shellshocked (Passive)
+      The Voidshade does not take any knockback.
+      For every block of knockback that you would normally deal, your damage is increased (multiplicatively) by 10%.
+      The Voidshade, however, has a base (and minimum) attack cooldown of 0 ticks.
+
+    - Peaking Smite
+      Occasionally, the Voidshade will stop and channel an attack for 1.5 seconds. Afterwards, it lunges forward, dealing 260,000 damage to targets in front.
+      Targets that get hit also have their current Mana and Devotion halved, and regeneration reduced to 0 for 5 seconds.
