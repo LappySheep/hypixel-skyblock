@@ -1,0 +1,220 @@
+Tower of Ascension IB - Shulker-14A
+
+Requirements:
+  - Aelzer Level 7
+  - Beaten Tsra'ki
+
+Special Details:
+  - Melee damage is disabled in this part of the ToA.
+  - Magic damage is disabled in this part of the ToA.
+  - Abilities deal no damage in this part of the ToA. This can be changed with a perk.
+  - Ticks refer to 0.2s intervals (5t/s)
+
+
+Grinding ToA-IB rewards Shulker experience. Levelling up your Shulker skill grants unique bonuses from this section of Floor 1.
+  Starting Level: 0
+  Maximum Level: 16 (150,000 Exp to max)
+  Exp Required: [((Lvl + 1)^2 * 100) + 25] (per level)
+  Rewards):
+    Gain +[Lvl * 3]% of your usual Aelzer stat bonus while in ToA-IB.
+    Increase the chance of rare drops from the Shulker-14A by [Lvl^1.5 * 1.5625]%.
+
+
+On the first floor of the Tower of Ascension, one of the four minor rooms is the Boxed room.
+In this room, adventurers must slay any of the 3 available Guardians to gather Tetrated Boxes.
+
+
+Definite Polyarch
+  2,000,000 Health
+  22,000 Damage
+  Abilities:
+    - Boxplate Origins:
+      Create 5 boxes which rise up and circle around the Polyarch. After 2 seconds, shoot them quickly in the target direction from the various angles, dealing 6,000 damage each.
+    - Bloodseeker Ward:
+      Place down a ward within 2 blocks. This ward has 3 health - 1 damage per projectile - and lasts for 10 seconds. The ward causes players within 5 blocks to take +0.5% bonus damage for every 1% of their health that they do not have.
+    - Blindness Falter:
+      Every 450,000 health lost, channel for 8 ticks before creating a 6 block explosion. This deals 18,000 damage and applies blindness to players for 3 seconds - causing ranged attacks to miss.
+  Drops:
+    - Tetrated Box (22.5% chance)
+    - 1-3 Shulker Exp (15% chance)
+
+Mystic Essmonger
+  1,000,000 Health
+  5,000 Damage
+  Abilities:
+    - Soulgrinder (Passive):
+      Players within 7 blocks which are below 40% of their health are marked until they leave the range. Players marked for longer than 24 ticks are pulled in and devoured on contact, killing them instantly. Teleporting out of the pull allows the player to avoid death.
+    - Compounded Shockbolt:
+      Channel for 3 ticks before shooting a quick projectile which deals up to 32,000 damage. For every block it travels, the damage is reduced by 4,000 (minimum 4,000).
+    - Senseless Fantasy:
+      Shoot a slow tendril in the target direction, up to 10 blocks away. The first target hit takes 16,000 damage and receive Blindness until they leave the 10 block range.
+  Drops:
+    - Tetrated Box (25% chance)
+    - 1-3 Shulker Exp (17.5% chance)
+
+Lucid Frustum
+  3,600,000 Health
+  17,500 Damage
+  Abilities:
+    - Ether Proboscis (Passive):
+      Players within melee range are occasionally sucked in for 0.5 seconds before being shot back out with great force. This deals 19,500 damage to the target and silences them for the 0.5 second duration.
+    - Red Refractor (Passive):
+      Projectiles which deal more than 15% of the Frustum's current health as damage cause it to release 5 beams of energy in random directions, each dealing 15% of the target's maximum health as true damage.
+  Drops:
+    - Tetrated Box (27.5% chance)
+    - 2-4 Shulker Exp (30% chance)
+
+
+Tetrated Boxes can be used to gain upgrades, which only apply in the ToA-IB rooms, or to make Pentated Boxes to unlock the major room.
+
+Box Magnet:
+  - Increase the chance of getting a Tetrated Box by x%.
+    Bonus: 5 / 15 / 35 / 60 / 100% increased Tetrated Box drop rate
+    Cost: 3 / 23 / 70 / 150 / 250 Tetrated Boxes
+
+Mysticism:
+  - Increase the amount of damage dealt to monsters in ToA-IB rooms by x%.
+    Bonus: 2 / 6 / 10 / 17 / 25% increased damage
+    Cost: 5 / 18 / 40 / 75 / 160 Tetrated Boxes
+
+Caster Fusion:
+  - Enables ability damage (not magic damage). Damage dealt is x% as effective.
+    Bonus: 3.3 / 6.6 / 13.3 / 23.3 / 33.3% increased regeneration
+    Cost: 10 / 25 / 55 / 100 / 175 Tetrated Boxes
+
+Increased Experience:
+  - Earn more Shulker experience from monster kills.
+    Bonus: 2 / 6 / 10 / 20 / 30% increased Shulker Exp
+    Cost: 10 / 35 / 105 / 260 / 520 Tetrated Boxes
+
+Pentated Boxes:
+  - Used to unlock the major room once, and extend Boss Time.
+    Base Cost: 15 Tetrated Boxes + 8 Enchanted Endstone
+
+Hypertask:
+  - Decreases the cost of Pentated Boxes from regular Tetrated Boxes.
+    Bonus: -1 / -2 / -3 / -4 / -5 Tetrated Boxes per Pentated Boxes
+    Cost: 12 / 60 / 210 / 420 / 600 Tetrated Boxes
+
+
+Sacrifice 10 Pentated Boxes to unlock the major room. Afterwards, you may sacrifice additional Pentated Boxes to gain Boss Time.
+
+Boss Time is used up while fighting the boss of ToA-IB. If time runs out during the fight, you are booted out of the room and will be forced to restart.
+Each Pentated Box is worth 1 minute of Boss Time. Maximum 10 minutes.
+You can also sacrifice Pentated Boxes midway through the boss.
+
+Note that while you may fight Guardians in the minor room as a group, you must solo the major room.
+
+
+
+Boss - Shulker-14A
+
+Shulker-14A
+  18,000,000 Health
+  400 Defence
+  10,000 Damage (ranged, infinite range)
+  Abilities (short):
+    - Oyster Vulnerability:
+      The Shulker occasionally opens up, reducing its own defence. After 2 seconds, it shoots a small blast of energy at the target, dealing up to 35,000 damage and reducing the target's defence for 3 seconds.
+    - Void Ward:
+      The Shulker places a small dark fragment in the target location, which lasts up to 20 seconds. Void Wards have 6 range, and deal increasing damage as the target stays in the range for longer. Each one has 10 health, taking 1 damage from each source, and 2 damage from melee attacks.
+    - Dark Embedding:
+      The Shulker-14A's boss room contains 9 blocks which are marked with extra enchantment particles. At any point, the boss can dash towards one of these 9 blocks, creating an explosion after landing for 60,000 damage.
+    - Desperation:
+      While below 6,000,000 Health, the Shulker-14A will start shooting multiple of its ranged basic attacks at once, and attack cooldown is significantly reduced. Desperation is buffed again below 2,000,000 Health.
+    - Death Ball:
+      Every 20 basic attack shots, the Shulker releases a 'Death Ball' at the player. The Death Ball moves slowly and follows the player until it hits them, or until the Shulker-14A dies. Death Balls will bounce off of each other if they come into contact with each other. There can only be a maximum of 10 Death Balls in the room at any time. Death Balls move twice as fast if the Shulker-14A is under 2,000,000 Health.
+
+  Abilities (verbose):
+    - Oyster Vulnerability:
+      The Shulker occasionally opens up, reducing its own defence by 300. After 2 seconds, it shoots a small blast of energy at the target, dealing up to 35,000 damage and reducing the target's defence to 0 for 3 seconds.
+    - Void Ward:
+      The Shulker places a small dark fragment in the target location, which lasts up to 20 seconds. Void Wards have a 6 block range, and deal 12,500 damage/s, increasing by 5,000 damage/s per consecutive second up to a maximum of 82,500/s. Each one has 10 health, taking 1 damage from each source, and 3 damage from projectiles.
+    - Dark Embedding:
+      The Shulker-14A's boss room contains 9 blocks which are marked with extra enchantment particles. At any point, the boss can dash towards one of these 9 blocks, creating an explosion after landing for 60,000 damage. The explosion has a damage diminisher of 12,000 dmaage per block.
+    - Desperation:
+      While below 6,000,000 Health, the Shulker-14A will start shooting 2 of its ranged basic attacks at once, and attack cooldown is reduced from 19 ticks to 14 ticks (1 attack/s -> 1.33 attacks/s). The cooldown is reduced to 11 ticks below 2,000,000 Health (1.67 attacks/s) and shoots 3 attacks at a time.
+    - Death Ball:
+      Every 20 basic attack shots, the Shulker releases a 'Death Ball' at the player. The Death Ball moves at 2.5 blocks/s and follows the player until it hits them, or until the Shulker-14A dies. Death Balls will bounce off of each other with 120% knockback (to each) if they come into contact with each other. There can only be a maximum of 10 Death Balls in the room at any time. Death Balls move at 5 blocks/s if the Shulker-14A is under 2,000,000 Health.
+
+
+  Possible Drops:
+    Exc-A,B = Exclusive within brackets A and B, cannot be dropped with other bracket-A or bracket-B drops.
+
+    Minimum (at least one of the following):
+      - 75-100 Tainted Coins (50% chance)
+      - 4-6 Tetrated Boxes (50% chance)
+
+    Base Exp: 50-75 Shulker Exp (100% chance)
+
+    Rare:
+      - 150-200 Tainted Coins (20% chance)
+      - 12-16 Tetrated Boxes (20% chance)
+      - 40-75 Bonus Shulker Exp (20% chance)
+
+      - 4-8 Bolt Racks (30% chance) [Exc-A]
+        Insert at least 1 unit of any type of ammunition into a Bolt Rack to infuse the rack with the ammo. Maximum of 20 per Bolt Rack. You cannot retrieve infused ammunition, and must use the same type of ammo.
+        Ammunition is consumed at a 50% rate (as opposed to 30% with Infinite Quiver X).
+        When the ammunition runs out, the Bolt Rack consumes its own durability when shooting to preserve the ammunition's effects.
+        Initial Bolt Rack durability is equal to 4 * amount of ammunition.
+
+      - 2-3 Stimulant Tips (20% chance) [Exc-A]
+        Apply to a ranged weapon to empower it for the next 30 shots, increasing damage dealt multiplicatively by 15%.
+        Shots that hit allied units or other players restore 3% of their maximum health and grant 20 bonus Speed which decays over 2 seconds.
+
+    Special:
+      - Interceptor Ward (5% chance) [Exc-B]
+        Place to create a ward with a glowing aura. The aura has a spherical radius of 4 blocks.
+        If an enemy dashes through this glowing aura, the dash is stopped and the target is rooted for 1 second. Special monsters and bosses are not rooted.
+
+      - Executioning Ward (5% chance) [Exc-B]
+        Place to create a ward with a red aura. The aura has a spherical radius of 7 blocks.
+        If an enemy is inside of the aura, they take 3% increased projectile damage. If they are below 12% of their maximum health, attacks will execute them; killing them instantly regardless of damage dealt. Special monsters and bosses are not executed, and instead take 7% increased proejctile damage.
+
+      - Ancient Enchantment: Arrow Flux (5% chance) [Exc-B] (Ranged Weapons)
+        1,000 Durability. Costs 1 Durability on kill.
+        Allows projectiles to apply Life Steal, with 10% efficiency per book.
+          Life Steal Efficiency: [books * 10]%
+          Combining extra Arrow Flux blocks onto a melee weapon which already has Arrow Flux refreshes the enchantment's durability, and increases the life steal efficiency by 10%. Maximum of 30% efficiency.
+
+      - Golden Roll (2.5% chance) [Exc-C]
+        Consume to restore 350 health back, and gain a shield equal to 7.5% of your maximum health, lasting for 10 seconds. The shield stacks up to a maximum of 75% of your maximum health.
+
+    Ungodly:
+      - Shield Battery (0.75% chance) [Exc-C]
+        Item Ability - Shield Manifestation LEFT CLICK
+          Drains 100% of your shields, but stores the amount permanently into the battery (or until replaced by a new amount) (maximum of 300% of your maximum health).
+          Cooldown: 4s
+        Item Ability - Toggle Recharge RIGHT CLICK
+          Activate to toggle.
+          While enabled, gain shields up to 5% of your maximum health, refreshing every second unless undamaged. The shields you gain are drained from the shields stored in the battery.
+          Mana Cost: [30 + 2% of maximum mana]/s
+          Cooldown: 2s
+
+      - Last Promise (0.5% chance) [Exc-C]
+        Item Ability - Farewell RIGHT CLICK
+          Deal +20% ranged damage for the next 6 seconds.
+          During this time, the first fatal source of damage is reduced by a shield equal to 10% of your maximum health. This shield lasts for the duration of your bonus ranged damage.
+          Shield Cost: 10% of maximum health
+          Cooldown: 45s
+
+      - Shield Duplication Device (0.33% chance) [Exc-D]
+        Combine with a Shield Battery in an anvil to grant it a new passive ability.
+        Item Passive - Shield Rejuvenation
+          Shields stored by Shield Manifestation grows by 1% (multiplicative) every 8 seconds, up to a maximum of 300% of your maximum health.
+          Shields take 5% less damage from targets below half of their maximum health.
+
+      - Revitalising Rune (0.25% chance) [Exc-D]
+        Combine with any enchantable item to grant it a new passive ability.
+        Item Passive - Dispensable Runic Charge
+          Ultimate Enchantments are 10% stronger.
+          Ancient Enchantments have a 20% chance of not consuming any durability.
+
+    Other:
+      - Aera Box [LEGENDARY] (0.1% chance)
+        Used to craft the Weak Tower Badge and the Weak Tower Relic.
+
+      - Pereo Insignia [MYTHIC]
+        Combine with a Meshed Arcane Gun to create the Fallen Arcane Crypt. Also used to craft the Deathmarked Crossbow.
+        The drop rate is dependent on your Prestige Points; ranging from 1/200m to 1/1k. This drop rate is also improved by your Tower of Ascension level.
+
