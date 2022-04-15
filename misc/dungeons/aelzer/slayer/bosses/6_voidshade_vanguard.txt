@@ -1,0 +1,64 @@
+Cost to Spawn: 250,000 Tainted Coins
+Slayer Exp Reward: 3,200 Hybrid Slayer Exp
+
+Requirements:
+  - Beaten Pinqsci (Floor 5)
+  - Hybrid Slayer Level 6
+
+
+
+Voidshade Vanguard (Tier 6)
+  10,000,000,000 Health
+  2,400,000 Damage
+  200 Defence + 1900 Magic Resistance
+  Perks:
+    - Ignores 40% of target Defence.
+    - Only the summoner can hurt the Voidshade.
+    - Consecutive enemy hits within 10 ticks deal 0.7x damage (stacking).
+    - Heals for 0.3% missing health on each hit (1s cooldown).
+
+  Abilities:
+    - Role Reversal (Passive)
+      Attacking the Voidshade increases its Anger by 1. Every second, its Anger is reduced by 1.
+      At 4 Anger, it creates a 12-block explosion, which deals 99% of the target's current health as true damage.
+      It also moves twice as fast, and deals 3x the damage, for 5 seconds.
+
+    - Shellshocked (Passive)
+      The Voidshade does not take any knockback.
+      For every block of knockback that you would normally deal, your damage is increased (multiplicatively) by 10%.
+      The Voidshade, however, has a base (and minimum) attack cooldown of 0 ticks.
+
+    - Peaking Smite
+      Occasionally, the Voidshade will stop and channel an attack for 1.5 seconds. Afterwards, it lunges forward, dealing 6,500,000 damage to targets in front.
+      Targets that get hit also have their current Mana and Devotion halved, and regeneration reduced to 0 for 5 seconds.
+
+    - Sinister Suffering (Passive)
+      Every time the Voidshade loses 10% of its maximum health, it creates a large red bubble around it and the target.
+      The bubble lasts for 3 seconds, and deals 1% of the target's current health as true damage, every second, for every 5% of their missing mana.
+      Every third bubble grants the Voidshade a permanent 25% bonus damage reduction (additive), lasting for the rest of the fight.
+        The damage reduction only applies to new tiers; if the Voidshade is dropped below 70% and then regenerates to above 70%, this will not occur if it is dropped below 70% again.
+
+    - Mode of Aggression
+      Occasionally, the Voidshade will change colour; to either green, blue, or red. This lasts for 6 seconds before reverting.
+      While green, the Voidshade only takes damage from non-magic projectiles.
+      While blue, it only takes magic damage.
+      While red, it only takes melee damage.
+      If the target cannot deal at least 6% of its maximum health while its coloured, the Voidshade gains a non-expiring shield equal to 25% of its maximum health.
+      Mode of Aggression cannot be used during Sinister Suffering, Submissive Augury, and Truly Immortal.
+
+    - Submissive Augury (Passive)
+      At 75%, 45%, and 15% health, the Voidshade becomes invulnerable and creates a large green bubble around it and the target.
+      After a second, it shoots a beam of energy in the target direction; creating a path of light. This reflects off of the walls of the bubble up to 4 times. This path of light does not deal any damage yet.
+      When the beam touches the wall for the 5th time, the path of light explodes - instantly killing any target within 0.75 blocks of it.
+      The Voidshade shoots a total of 3 beams per bubble.
+
+    - Truly Immortal (Passive)
+      At 67%, 34%, and 1% health, the Voidshade becomes invulnerable and creates a large white bubble around it and the target.
+      After a second, the Voidshade splits into 8 identical copies - each surrounded by 3 rings.
+      Each ring is either blue, red, or green. Each ring must be shattered by dealing damage to them with their appropriate combat type (as shown in Mode of Aggression); outer rings first.
+      After 15 seconds (if not all rings are broken), the Voidshade copies merge back into one, and it restores health back equal to 1.5% maximum health per ring.
+
+    - Final Breath (Passive)
+      On death, the Voidshade leaves behind a shadow.
+      After 1 second, the shadow creates a 10-block explosion. This explosion deals damage equal to 100% of the target's maximum health, minus 1, as pure damage.
+      If the target dies to this explosion, the shadow revives, and the 'kill' does not count towards Slayer XP, and does not drop anything.
