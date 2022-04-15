@@ -71,12 +71,12 @@ Enchantment Books
     Requires Aelzer Level 7.
     Cost: 1,200 Tainted Coins + 512 Enchanted String
     Effect: Hitting a target slightly pulls in nearby other enemies within 3 blocks and deal 5% / 10% / 15% damage towards them.
-    Does not stack with Cleave.
+    Does not stack with Cleave or Anti-Knockback.
 
   - Scorching Blade I Book (Max 5) (Swords)
     Requires Aelzer Level 11.
     Cost: 1,750 Tainted Coins + 6 Enchanted Blaze Rods
-    Effect: Attacking a burning target reduces the duration of their burn effect by 1 second but deals 3% / 4.5% / 6% / 7.5% / 9% bonus damage.
+    Effect: Attacking a burning target reduces the duration of their burn effect by 1 second but deals 2% / 4% / 6% / 8% / 10% bonus (multiplicative) damage.
     Does not stack with Fire Aspect.
 
   - Immortality I Book (Max 5) (Chestplates)
@@ -110,7 +110,7 @@ Accessories
   - Talisman of Retribution
     Requires Aelzer Level 8.
     Cost: 1,500 Tainted Coins
-    UNCOMMON ACCESSORY - Gain 1 bonus Spell Vamp for every 18% of your maximum health that you are missing.
+    UNCOMMON ACCESSORY - Gain 1 bonus Spell Vamp for every 21% of your maximum health that you are missing.
 
   - Artifact Hunter
     Requires Aelzer Level 10.
@@ -178,17 +178,17 @@ Dungeon Orbs
 
   - Thermal Orb
     Requires Aelzer Level 10.
-    Requires Catacombs Level 30.
+    Requires Catacombs Level 31.
     Cost: 5,000 Tainted Coins
     Applies the Thermal Lance Passive ability on to your other available Dungeon Orb Abilities.
-      Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 2% of your maximum health as true damage per second. Overrides any Fire Aspect enchants.
+      Thermal Lance: Attacking a target sets them on fire for 3 seconds, dealing 1% of your effective health as true damage per second. Overrides any Fire Aspect enchants.
 
   - Recall Orb
-    Requires Aelzer Level 15.
+    Requires Aelzer Level 14.
     Requires 300,000,000 Alchemy Exp.
     Cost: 11,000 Tainted Coins
-    Replaces your Ultimate Dungeon Orb ability with the Mass Recall Ultimate ability.
-      Mass Recall: Spawn a Pylon which lasts for up to 60 seconds. Pylons increase Strength of allies and the Power stat of summoned units within 12 blocks by 10% (stackable).
+    Replaces your Ultimate Dungeon Orb ability with the Ally Recall Ultimate ability.
+      Ally Recall: Spawn a Pylon which lasts for up to 60 seconds. Pylons increase Strength of allies and the Power stat of summoned units within 12 blocks by 10% (stackable).
       If a Pylon is not actively buffing any ally or summoned unit, its lifespan drains by 2 seconds per second instead.
       Pylons also spawn an allied Sentinel every 2 seconds (maximum 5 alive), lasting until the Pylon expires.
       Sentinel:
@@ -232,7 +232,7 @@ Armor
     +375 Health
     +275 Defence
     Piece Bonus - Absorption
-      3% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
+      16% of damage taken by monsters in the Aelzerian Rift is stored as grey health. If you kill a monster in the Aelzerian Rift, you consume all of your grey health to restore health back with 100% efficiency.
     Full Set Bonus - Abyssal Aura
       Every player within 5 blocks of each other with a full Abyssal set gain 20% bonus crit damage each, stacking up to 100% extra.
 
