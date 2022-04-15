@@ -155,7 +155,7 @@ Weapons
         Passively, every monster hit by every arrow grants 5 Lethality, lasting for 2 seconds. Bonus stacks, but the duration does not refresh.
         Additionally, arrows deal 2 extra blocks of knockback, which scales inversely proportional to your Speed (2 blocks at 100 speed).
       Item Ability - Spinshot Shockwave LEFT CLICK
-        You create a swirling cyclone in the target direction, which moves at 1 block/s, and speeds up to 3 blocks/s over 8 seconds (x blocks travelled in total).
+        You create a swirling cyclone in the target direction, which moves at 1 block/s, and speeds up to 3 blocks/s over 8 seconds.
         The cyclone deals 33% arrow damage to each target that it touches, every half second. Additionally, all enemy projectiles are destroyed if they come into contact with the cyclone (special abilities are slowed down instead).
         While the cyclone is active, shooting it with the Cyclonic Shockbow will push it; changing its trajectory, but also increasing the lifespan of it by 1 second.
         Mana Cost: 300
