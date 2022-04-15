@@ -1,0 +1,26 @@
+Cost to Spawn: 100 Tainted Coins
+Slayer Exp Reward: 2 Hybrid Slayer Exp
+
+Requirements:
+  - Beaten Pinqsci (Floor 5)
+
+
+
+Voidshade Rebel (Tier 1)
+  2,000,000 Health
+  120,000 Damage
+  20 Defence
+  Extra Perks:
+    - Ignores 10% of target Defence.
+    - Only 3 additional players other than the summoner can hurt the Voidshade.
+
+  Abilities:
+    - Role Reversal (Passive)
+      Attacking the Voidshade increases its Anger by 1. Every second, its Anger is reduced by 1.
+      At 7 Anger, it creates a 5-block explosion, which deals 39% of the target's current health as true damage.
+      It also moves twice as fast, and deals 3x the damage, for 5 seconds.
+
+    - Shellshocked (Passive)
+      The Voidshade does not take any knockback.
+      For every block of knockback that you would normally deal, your damage is increased (multiplicatively) by 10%.
+      The Voidshade, however, has a base (and minimum) attack cooldown of 0 ticks.
