@@ -13,7 +13,7 @@ Gathering Fortune gains +1 per 5 levels.
 
 Unlocking the Gathering Skill (after beating Floor 3), you can purchase a pair of Passed-down Gathering Gloves from Nil'Eix for 30,000 Tainted Coins.
 While Gathering Gloves are in your inventory (only works with one; assumes the weakest pair), scopes may appear around dungeons.
-Scopes are marked regions and using any pair of Gathering Gloves on them will attempt to collect special items.
+Scopes are marked regions and using any pair of Gathering Gloves (or other special items if applicable) on them will attempt to collect special items.
 
 - Passed-down Gathering Gloves [COMMON]
   Requires Aelzer Level 15.
@@ -26,7 +26,7 @@ Gathering Efficiency increases the chance that you successfully gather items fro
   If a scope has an item which requires 100 Gathering Efficiency, then having 50 GE will grant a 50% chance of harvesting it from the scope.
 
 Gathering Fortune increases the chance that you gain multiple drops from a scope.
-  If a scope drops 2-4 items normally, having 50 GF means a 50% chance of getting 2-4 items, and a 50% chance of getting 4-8 items.
+  If a scope drops 2-5 items normally, if you collect 4 items from this scope and have 40 GF, you have a 40% chance of collecting 8 items instead, and a 60% chance of collecting 4.
 
 
 Global scopes are scopes that can be found across any floor, but higher rarities require a minimum floor. Local scopes are scopes that are only found on a specific floor.
@@ -46,55 +46,126 @@ Floors:
   Floor 12 - Common-Legendary, +98% scope spawns
   Floor 13 - Common-Legendary, +110% scope spawns
 
-Levelling:
-  Level 0:
-    Items:
-      - Salvaged Irresponsible Gathering Gloves [COMMON]
-        Requires Aelzer Level 17.
-        Recipe: 128 Enchanted Leather + Passed-down Gathering Gloves
-          +5 Gathering Efficiency
-          Item Passive - Irresponsible Gathering
-            Common gathering opportunities gain +1 Gathering Fortune.
-          Item Passive - Inconsistency
-            Passively, gain +1 Gathering Efficiency on the gloves for every 5,000 gathers. Maximum of 3 bonus Gathering Efficiency.
-
-    Collectables:
-      - Edible Rock [COMMON]
-        Minimum Floor: 1
-        Drops: 1-2
-        Guaranteed Drop: 10 Gathering Efficiency
-        +[1 * Floor] Gathering Exp
-          Consume to restore 25 Health back instantly.
-
-      - Mossy Cobblestone [COMMON]
-        Minimum Floor: 1
-        Drops: 1-2
-        Guaranteed Drop: 16 Gathering Efficiency
-        +[1.3 * Floor] Gathering Exp
-          Consume to gain +25 Defence for 5 seconds (stacks up to 60s)
+Rarity Ratios:
+  Common: 50% chance
+  Uncommon: 25% chance
+  Rare: 15% chance
+  Epic: 8% chance
+  Legendary: 2% chance
 
 
-  Level 1:
-    Collectables:
-      - Earthy Vine [COMMON]
-        Minimum Floor: 1
-        Drops: 1-3
-        Guaranteed Drop: 24 Gathering Efficiency
-        +[1.75 * Floor] Gathering Exp
-          Consume to take 20% reduced knockback while on the ground. Lasts for 6 seconds.
+Scopes can be harvested multiple times before they expire. All scopes have a minimum gather count of 2, increased by 1 for every 20 Gathering levels (7 at level 100). Only fully harvested scopes count towards dungeon score (does not have to be successful).
+
+Scopes will only award one type of item or resource each - the same scope will not give you two different items.
 
 
-  Level 2:
-    Items:
-      - Scope Radar [COMMON]
-        While holding the Scope Radar, scopes within 16 blocks are highlighted. Additionally, scopes gain +5% spawn rates.
+Scopes can be found in many different places, but some places require additional gear or items to be gathered. Using incorrect gear for these other scopes will significantly reduce the likelihood of success. If a skill exp requirement is present, but not met, then the likelihood of success is reduced by 80%. Success reduction modifiers stack multiplicatively.
+
+Types:
+  - Normal (Any)
+
+  - Mining (Pickaxes)
+    Incorrect Gear: -80% Success Rate
+
+  - Woodcutting (Axes)
+    Incorrect Gear: -80% Success Rate
+
+  - Fishing (Fishing Rods, Harpoons, Fishing Gloves)
+    Incorrect Gear (Gathering Gloves): -80% Success Rate
+    Incorrect Gear (Other): -100% Success Rate
+
+  - Hunting (Weapons)
+    Incorrect Gear (Gathering Gloves): -80% Success Rate
+    Incorrect Gear (Other): -100% Success Rate
 
 
-  Level 3:
-    Collectables:
-      - Null Worm [COMMON]
-        Minimum Floor: Only Floor 1
-        Drops: 1-6
-        Guaranteed Drop: 50 Gathering Efficiency
-        +7 Gathering Exp
-          Consume to grant +5% item stats on any Floor 1 gear (+2% for any other). Lasts for 15 seconds (stacks up to 60s).
+
+Items:
+  - Salvaged Irresponsible Gathering Gloves [COMMON]
+    Requires Aelzer Level 17.
+    Recipe: 128 Enchanted Leather + Passed-down Gathering Gloves
+      +5 Gathering Efficiency
+      Item Passive - Irresponsible Gathering
+        Common gathering opportunities gain +1 Gathering Efficiency.
+      Item Passive - Inconsistency
+        Passively, gain +1 Gathering Efficiency on the gloves for every 1,000 gathers. Maximum of 3 bonus Gathering Efficiency.
+
+  - Scope Radar [COMMON]
+    Requires Gathering Level 2.
+    Recipe: 128 Enchanted Iron + 32 Enchanted Redstone Dust
+      While holding the Scope Radar, scopes within 16 blocks are highlighted by a beacon. Additionally, scopes gain +5% spawn rates in general.
+
+  - Axe Sharpener [COMMON]
+    Requires Gathering Level 3.
+    Recipe: 15 Enchanted Diamond Blocks + 30 Enchanted Gold Blocks
+      Apply to any axe (including weapons) to allow it to gather from scopes, and grants +5 Gathering Efficiency (does not stack).
+
+  - Pickaxe Sharpener [COMMON]
+    Requires Gathering Level 3.
+    Recipe: 15 Enchanted Diamond Blocks + 30 Enchanted Iron Blocks
+      Apply to any pickaxe to allow it to gather from scopes, and grants +5 Gathering Efficiency (does not stack).
+
+
+
+Collectables:
+  - Edible Rock [COMMON]
+    Minimum Floor: 1
+    Type: Normal
+    Drops: 1-2
+    Guaranteed Drop: 10 Gathering Efficiency
+    +[1 * Floor] Gathering Exp
+      Consume to restore 25 Health back instantly.
+
+  - Mossy Cobblestone [COMMON]
+    Minimum Floor: 1
+    Type: Normal
+    Drops: 1-2
+    Guaranteed Drop: 16 Gathering Efficiency
+    +[2 * Floor] Gathering Exp
+      Consume to gain +25 Defence for 5 seconds (stacks up to 60s).
+
+  - Earthy Vine [COMMON]
+    Requires Gathering Level 1.
+    Minimum Floor: 1
+    Type: Normal
+    Drops: 1-3
+    Guaranteed Drop: 24 Gathering Efficiency
+    +[2 * Floor] Gathering Exp
+      Consume to take 20% reduced knockback while on the ground. Lasts for 6 seconds. Does not stack.
+
+  - Edible Rust [COMMON]
+    Requires Gathering Level 2.
+    Minimum Floor: 1
+    Type: Normal
+    Drops: 3-5
+    Guaranteed Drop: 45 Gathering Efficiency
+    +[3 * Floor] Gathering Exp
+      Consume to increase the amount of combat experience earned from the next kill by 5%. Does not stack.
+
+  - Null Worm [COMMON]
+    Requires Gathering Level 3.
+    Minimum Floor: Only Floor 1
+    Type: Normal
+    Drops: 1-6
+    Guaranteed Drop: 50 Gathering Efficiency
+    +7 Gathering Exp
+      Consume to grant +6% item stats on any Floor 1 gear. Lasts for 15 seconds (stacks up to 60s).
+
+  - Decaying Ivy [COMMON]
+    Requires Gathering Level 3.
+    Minimum Floor: 1
+    Type: Woodcutting
+    Drops: 1-2
+    Guaranteed Drop: 12 Gathering Efficiency
+    +[3 * Floor] Gathering Exp
+      Apply to any ranged weapon to grant +3 Weapon Damage for the next 50 shots.
+
+  - Steel-tipped Arrowhead [COMMON]
+    Requires Gathering Level 3.
+    Minimum Floor: 1
+    Type: Mining
+    Drops: 16-24
+    Guaranteed Drop: 12 Gathering Efficiency
+    +[3 * Floor] Gathering Exp
+      +4 Damage
+      Consumed alongside other arrows.
