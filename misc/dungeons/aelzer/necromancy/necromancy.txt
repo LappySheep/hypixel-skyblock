@@ -33,75 +33,68 @@ Floors 1 and 2 reward no Abhorrent Biomass and Floor 3 rewards 1 Abhorrent Bioma
 Necro Tokens: 10 (+1 per 5 Necromancy Levels)
 Available Abilities:
   Excess Necro Tokens after ability selections are converted into 25 bonus Starting Biomass.
+  Necro Tokens can be spent on the same perk to get bonuses (with diminishing returns).
 
   - Passive (Utility) Abilities:
-    - Fling (2 NT):
+    - Fling (2 NT) (max 1):
        Summoning a unit stores the direction you were looking in. When the unit successfully spawns, it will be flung in that stored direction from your location, instead of spawning next to you normally.
-    - Shredder (3 NT):
-      Unit attacks deal 55% damage, but units attack twice at a time instead of once. 1 tick delay between doubled hits.
-    - Double-edged (3 NT):
-      Units deal 20% more damage, but you take 25% more damage.
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Shredder (3 NT) (max 3):
+      Unit attacks deal 45/50/35% damage, but units attack 2/2/3 times at a time instead of once. 1 tick delay between doubled hits.
+    - Double-edged (3 NT) (max 2):
+      Units deal 10/15% more damage, but you take 25% more damage.
+    - Basic Connector (7 NT) (max 1):
+      Allied summons have their basic attacks count as your own basic attacks.
+      This affects ability cooldowns that are reduced from basic attacks, such as the Pane of Pain's ability, or from effects that stack based on your basic attacks.
 
   - Passive (Self) Abilities:
     - Necromancer Beam (2 NT):
       Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit is slowed by 10% for 2.5 seconds (stacks up to 60%), and allied summons within 6 blocks of the target will aggro them instead.
-      Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
+        Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
     - Flesh Gatherer (4 NT):
       Your biomass collection range is increased from 1 block to 5 blocks.
     - Splash Replicator (3 NT):
       Splash damage dealt by units is copied, and dealt to targets near you as well, but at 50% efficiency.
     - Stampede (3 NT):
-      
-    - 
-    - 
-    - 
-    - 
+      Your own melee attacks against your own units will knock them around, dealing 5% of their maximum health as damage. However, each hit also grants them 10% bonus attack speed and 10% increased damage for 5 seconds.
 
   - Passive (Ultimate) Abilities:
-    - Self Regeneration (2 NT):
-      Units restore 2 Health back on kill. Harvesters gather +1 Biomass on every third hit.
-    - Extractor (4 NT):
-      Units drop 1 Biomass on the floor, on every 5th hit.
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Self Regeneration (2 NT) (max 3):
+      Units restore 2/3/4 Health back on kill. Harvesters gather +1/1/2 Biomass on every third hit.
+    - Extractor (4 NT) (max 2):
+      Units drop 1 Biomass on the floor, on every 5th/4th hit.
+    - Bio-Siphon (5 NT) (max 2):
+      Your Biomass collection range is extended from 1 block to 6/9 blocks.
+    - Biomass Growth (6 NT) (max 2):
+      You gain 1% of your current Biomass for every kill that an allied unit gets.
+        Cooldown: 1/0.5s
 
   - Basic Dungeon Orb Abilities (Right Click):
-    - Mend (3 NT):
-      Units within 3 blocks restore 33% of their maximum health back. Excess health remains as a shield for up to 2 seconds.
+    - Mend (3 NT) (max 2):
+      Units within 3 blocks restore 20/30% of their maximum health back. Excess health remains as a shield for up to 2 seconds.
         Cooldown: 16s
-    - Assimilation (5 NT):
-      Shoot a beam in the target direction, up to 20 blocks. After 1 second, you swap locations with the first allied summon that you hit.
+    - Assimilation (5 NT) (max 1):
+      You shoot a beam in the target direction, up to 20 blocks. After 1 second, you swap locations with the first allied summon that you hit.
         Cooldown: 20s
-    - Abduct (3 NT):
-      Shoot a tendril in the target direction, up to 7 blocks. The first target hit is pulled towards you. If it is a non-special enemy, stun them for 1.5 seconds.
-        Cooldown: 18s
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - Abduct (3 NT) (max 2):
+      You shoot a tendril in the target direction, up to 7/11 blocks. The first target hit is pulled towards you. If it is a non-special enemy, stun them for 1.5 seconds. Bosses are not pulled.
+        Cooldown: 16s
+    - Necrotic Dart (2 NT) (max 3):
+      You shoot a bolt of energy in the target direction, travelling indefinitely until impact. The first target hit takes 25/40/50% of your melee damage and receives -10% health regeneration for 1s.
+        Cooldown: 1.5s
 
   - Ultimate Dungeon Orb Abilities (Left Click):
-    - Flash Freeze (5 NT):
-      Create a 7 block explosion at your location, applying a 95% slow to targets for 6 seconds. Allied summons gain 30% bonus Attack Speed for 6 seconds.
+    - Flash Freeze (5 NT) (max 2):
+      You create a 7 block explosion at your location, applying a 95% slow to targets for 4/6 seconds. Allied summons within range gain 30% Bonus Attack Speed for 6 seconds.
         Cooldown: 180s
-    - Unstoppable (7 NT):
+    - Unstoppable (7 NT) (max 2):
       For the next 8 seconds, allies within 12 blocks take no knockback and cannot be displaced.
-        Cooldown: 180s
-    - 
-    - 
-    - 
+        Cooldown: 180/150s
+    - Feral Aura (5 NT) (max 2):
+      Allied summons within 5 blocks gain +50/75% maximum health and 10/15% increased damage dealt for 10 seconds. Buffed summons have their damage buff increased in effectivity by 1% per 1% missing health.
+        Cooldown: 120/90s
+    - Resuscitation (6 NT) (max 2):
+      The next 2/3 units spawned within 10 seconds cost 75% reduced Biomass.
+        Cooldown: 60/50s
 
 
 Abhorrent Biomass Shop:
