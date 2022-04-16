@@ -12,7 +12,6 @@ Green Room
     If the crystal hits 0%, the door unlocks and the crystal stops charging with no reward.
     If the crystal hits 100%, the door unlocks and every player is granted a stat bonus.
   Floor 3 Pod Stat Bonus: +8% per pod.
-    Pod stat bonuses are reduced to 0% during a boss, but can be increased using accessories.
 
 Main Rooms - 1 Space Unit
 Puzzle Rooms - 3 Space Units
@@ -25,13 +24,16 @@ Boss Room
 Depth Resistance Requirement - 200
 
 
+Base Scopes - 4
+Scope Generation - 1 per 70s per room
+Maximum Additional Scopes - 3
+
+
 
 Puzzles:
   - Stone Inverter
 
   - Laser Pierce
-
-  - Sequencer
 
 
 

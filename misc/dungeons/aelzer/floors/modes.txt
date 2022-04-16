@@ -10,10 +10,14 @@ General Information:
   - Dungeon rank thresholds are always rounded up; 95% of 250 = 237.5 --> 238.
   - Base Aelzer Exp earned from dungeon runs is quadratically proportional to the dungeon score; 225/250 score achieved grants 81% of the maximum base experience earned.
   - Bosses account for 40% of the possible score (by default); avoiding the boss caps you at a C rank.
+  - Gathering Scopes account for 20% of the possible score.
+  - Special Doors account for 10% of the possible score.
+  - Puzzles and room completions account for 10% of the possible score.
+  - Mini-boss room completions account for 5% of the possible score.
   - Score : Rank thresholds:
     S*: 100%, S+: 95%, S: 90%,
     A: 80%, B: 70%, C: 60%,
-    D: 50%, E: <50%
+    D: 50%, E: 40%, F: <40%
   - Score reduction multipliers are additive, and apply after flat reduction (e.g. 1 death + 36 seconds over in a standard run: 250 -> 247 -> 234.65 -> rounded down to 234).
   - Default minimum score is 10% of maximum possible.
   - Leaving a dungeon run prematurely grants no Aelzer Exp at all.
