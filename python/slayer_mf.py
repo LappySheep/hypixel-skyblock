@@ -15,37 +15,45 @@ weights = {
  "wolf": {
   "tier1": {"WOLF_TOOTH": 10000},
   "tier2": {"WOLF_TOOTH": 10000, "HAMSTER_WHEEL": 2000, "SPIRIT_RUNE": 83},
-  "tier3": {"WOLF_TOOTH": 10000, "HAMSTER_WHEEL": 2000, "SPIRIT_RUNE": 333, "CRITICAL_VI_BOOK": 50, "RED_CLAW_EGG": 5},
-  "tier4": {"WOLF_TOOTH": 10000, "HAMSTER_WHEEL": 2000, "SPIRIT_RUNE": 833, "CRITICAL_VI_BOOK": 100, "RED_CLAW_EGG": 15, "COUTURE_RUNE": 30, "OVERFLUX_CAPACITOR": 5, "GRIZZLY_BAIT": 7}
+  "tier3": {"WOLF_TOOTH": 10000, "HAMSTER_WHEEL": 2000, "SPIRIT_RUNE": 333, "CRITICAL_VI_BOOK": 50, "FURBALL": 100, "RED_CLAW_EGG": 5},
+  "tier4": {"WOLF_TOOTH": 10000, "HAMSTER_WHEEL": 2000, "SPIRIT_RUNE": 833, "CRITICAL_VI_BOOK": 100, "FURBALL": 100, "RED_CLAW_EGG": 15, "COUTURE_RUNE": 30, "OVERFLUX_CAPACITOR": 5, "GRIZZLY_BAIT": 7}
  },
  "enderman": {
   "tier1": {"NULL_SPHERE": 10000},
   "tier2": {"NULL_SPHERE": 10000, "TWILIGHT_ARROW_POISON": 1800, "SUMMONING_EYE": 80},
-  "tier3": {"NULL_SPHERE": 10000, "TWILIGHT_ARROW_POISON": 1800, "ENDERSNAKE_RUNE": 333, "SUMMONING_EYE": 80, "MANA_STEAL_I_BOOK": 600, "TRANSMISSION_TUNER": 300, "NULL_ATOM": 500},
-  "tier4": {"NULL_SPHERE": 10000, "TWILIGHT_ARROW_POISON": 1800, "ENDERSNAKE_RUNE": 800, "SUMMONING_EYE": 80, "MANA_STEAL_I_BOOK": 600, "TRANSMISSION_TUNER": 300, "NULL_ATOM": 700, "POCKET_ESPRESSO_MACHINE": 55, "SMARTY_PANTS_I_BOOK": 250, "END_RUNE": 100, "HANDY_BLOOD_CHALICE": 25, "SINFUL_DICE": 65, "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": 4, "ENDERMAN_PET_SKIN": 25, "ETHERWARP_MERGER": 60, "JUDGEMENT_CORE": 8, "ENCHANT_RUNE": 7, "ENDER_SLAYER_VII_BOOK": 2}
+  "tier3": {"NULL_SPHERE": 10000, "TWILIGHT_ARROW_POISON": 1800, "ENDERSNAKE_RUNE": 333, "SUMMONING_EYE": 80, "MANA_STEAL_I_BOOK": 600, "TRANSMISSION_TUNER": 300, "NULL_ATOM": 500, "HAZMAT_ENDERMAN": 140},
+  "tier4": {"NULL_SPHERE": 10000, "TWILIGHT_ARROW_POISON": 1800, "ENDERSNAKE_RUNE": 800, "SUMMONING_EYE": 80, "MANA_STEAL_I_BOOK": 600, "TRANSMISSION_TUNER": 300, "NULL_ATOM": 700, "HAZMAT_ENDERMAN": 140, "POCKET_ESPRESSO_MACHINE": 55, "SMARTY_PANTS_I_BOOK": 250, "END_RUNE": 100, "HANDY_BLOOD_CHALICE": 25, "SINFUL_DICE": 65, "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": 4, "ENDERMAN_PET_SKIN": 25, "ETHERWARP_MERGER": 60, "JUDGEMENT_CORE": 8, "ENCHANT_RUNE": 7, "ENDER_SLAYER_VII_BOOK": 2}
+ },
+ "blaze": {
+  "tier1": {"DERELICT_ASHE": 10000},
+  "tier2": {"DERELICT_ASHE": 10000, "WISPS_ICE_FLAVORED_SPLASH_POTION": 500, "BUNDLE_OF_MAGMA_ARROWS": 1500, "MANA_DISINTEGRATOR": 700, "SCORCHED_BOOKS": 400, "KELVIN_INVERTER": 500, "BLAZE_ROD_DISTILLATE": 900, "GLOWSTONE_DISTILLATE": 900, "MAGMA_CREAM_DISTILLATE": 900, "NETHER_WART_DISTILLATE": 900, "GABAGOOL_DISTILLATE": 500},
+  "tier3": {"DERELICT_ASHE": 10000, "LAVATEARS_RUNE": 200, "WISPS_ICE_FLAVORED_SPLASH_POTION": 500, "BUNDLE_OF_MAGMA_ARROWS": 1500, "MANA_DISINTEGRATOR": 700, "SCORCHED_BOOKS": 400, "KELVIN_INVERTER": 500, "BLAZE_ROD_DISTILLATE": 900, "GLOWSTONE_DISTILLATE": 900, "MAGMA_CREAM_DISTILLATE": 900, "NETHER_WART_DISTILLATE": 900, "GABAGOOL_DISTILLATE": 500, "SCORCHED_POWER_CRYSTAL": 600, "ARCHFIEND_DICE": 200},
+  "tier4": {"DERELICT_ASHE": 10000, "LAVATEARS_RUNE": 200, "WISPS_ICE_FLAVORED_SPLASH_POTION": 500, "BUNDLE_OF_MAGMA_ARROWS": 1500, "MANA_DISINTEGRATOR": 700, "SCORCHED_BOOKS": 400, "KELVIN_INVERTER": 500, "BLAZE_ROD_DISTILLATE": 900, "GLOWSTONE_DISTILLATE": 900, "MAGMA_CREAM_DISTILLATE": 900, "NETHER_WART_DISTILLATE": 900, "GABAGOOL_DISTILLATE": 500, "SCORCHED_POWER_CRYSTAL": 600, "ARCHFIEND_DICE": 200, "FIRE_ASPECT_III_BOOK": 250, "FIERY_BURST_RUNE": 40, "FLAWED_OPAL_GEMSTONE": 550, "DUPLEX_I_BOOK": 350, "HIGH_CLASS_ARCHFIEND_DICE": 50, "WILSONS_ENGINEERING_PLANS": 17, "SUBZERO_INVERTER": 17}
  }
 }
 
 
 
-guaranteed = ["REVENANT_FLESH", "TARANTULA_WEB", "WOLF_TOOTH", "NULL_SPHERE"]
+guaranteed = ["REVENANT_FLESH", "TARANTULA_WEB", "WOLF_TOOTH", "NULL_SPHERE", "DERELICT_ASHE"]
 
-extra = ["PESTILENCE_RUNE", "SNAKE_RUNE", "BITE_RUNE", "SPIRIT_RUNE", "COUTURE_RUNE", "ENDERSNAKE_RUNE", "END_RUNE", "ENDERMAN_PET_SKIN", "ENCHANT_RUNE"]
+extra = ["PESTILENCE_RUNE", "SNAKE_RUNE", "BITE_RUNE", "SPIRIT_RUNE", "COUTURE_RUNE", "ENDERSNAKE_RUNE", "END_RUNE", "ENDERMAN_PET_SKIN", "ENCHANT_RUNE", "LAVATEARS_RUNE", "FIERY_BURST_RUNE", "HIGH_CLASS_ARCHFIEND_DICE"]
 
-non_mf = [*guaranteed, "TOXIC_ARROW_POISON", "FOUL_FLESH", "REVENANT_VISCERA", "HAMSTER_WHEEL", "TWILIGHT_ARROW_POISON"]
+non_mf = [*guaranteed, "TOXIC_ARROW_POISON", "FOUL_FLESH", "REVENANT_VISCERA", "HAMSTER_WHEEL", "TWILIGHT_ARROW_POISON", "BUNDLE_OF_MAGMA_ARROWS"]
 
-fancy1 = {"zombie": "Revenant Horror", "spider": "Tarantula Broodfather", "wolf": "Sven Packmaster", "enderman": "Voidgloom Seraph"}
+fancy1 = {"zombie": "Revenant Horror", "spider": "Tarantula Broodfather", "wolf": "Sven Packmaster", "enderman": "Voidgloom Seraph", "blaze": "Inferno Demonlord"}
 
 fancy2 = {
  "REVENANT_FLESH": "Revenant Flesh", "FOUL_FLESH": "Foul Flesh", "PESTILENCE_RUNE": "Pestilence Rune", "UNDEAD_CATALYST": "Undead Catalyst", "SMITE_VI_BOOK": "Smite VI Book", "BEHEADED_HORROR": "Beheaded Horror", "REVENANT_CATALYST": "Revenant Catalyst", "SNAKE_RUNE": "Snake Rune", "SCYTHE_BLADE": "Scythe Blade", "SHARD_OF_THE_SHREDDED": "Shard of the Shredded", "WARDEN_HEART": "Warden Heart", "REVENANT_VISCERA": "Revenant Viscera", "SMITE_VII_BOOK": "Smite VII Book",
  "TARANTULA_WEB": "Tarantula Web", "TOXIC_ARROW_POISON": "Toxic Arrow Poison", "BITE_RUNE": "Bite Rune", "SPIDER_CATALYST": "Spider Catalyst", "BANE_OF_ARTHROPODS_VI_BOOK": "Bane Of Arthropods VI Book", "FLY_SWATTER": "Fly Swatter", "TARANTULA_TALISMAN": "Tarantula Talisman", "DIGESTED_MOSQUITO": "Digested Mosquito",
- "WOLF_TOOTH": "Wolf Tooth", "HAMSTER_WHEEL": "Hamster Wheel", "SPIRIT_RUNE": "Spirit Rune", "CRITICAL_VI_BOOK": "Critical VI Book", "RED_CLAW_EGG": "Red Claw Egg", "COUTURE_RUNE": "Couture Rune", "OVERFLUX_CAPACITOR": "Overflux Capacitor", "GRIZZLY_BAIT": "Grizzly Bait",
- "NULL_SPHERE": "Null Sphere", "TWILIGHT_ARROW_POISON": "Twilight Arrow Poison", "ENDERSNAKE_RUNE": "Endersnake Rune", "SUMMONING_EYE": "Summoning Eye", "MANA_STEAL_I_BOOK": "Mana Steal I Book", "TRANSMISSION_TUNER": "Transmission Tuner", "NULL_ATOM": "Null Atom", "POCKET_ESPRESSO_MACHINE": "Pocket Espresso Machine", "SMARTY_PANTS_I_BOOK": "Smarty Pants I Book", "END_RUNE": "End Rune", "HANDY_BLOOD_CHALICE": "Handy Blood Chalice", "SINFUL_DICE": "Sinful Dice", "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": "Exceedingly Rare Ender Artifact Upgrader", "ENDERMAN_PET_SKIN": "Enderman Pet Skin", "ETHERWARP_MERGER": "Etherwarp Merger", "JUDGEMENT_CORE": "Judgement Core", "ENCHANT_RUNE": "Enchant Rune", "ENDER_SLAYER_VII_BOOK": "Ender Slayer VII Book"
+ "WOLF_TOOTH": "Wolf Tooth", "HAMSTER_WHEEL": "Hamster Wheel", "SPIRIT_RUNE": "Spirit Rune", "CRITICAL_VI_BOOK": "Critical VI Book", "FURBALL": "Furball", "RED_CLAW_EGG": "Red Claw Egg", "COUTURE_RUNE": "Couture Rune", "OVERFLUX_CAPACITOR": "Overflux Capacitor", "GRIZZLY_BAIT": "Grizzly Bait",
+ "NULL_SPHERE": "Null Sphere", "TWILIGHT_ARROW_POISON": "Twilight Arrow Poison", "ENDERSNAKE_RUNE": "Endersnake Rune", "SUMMONING_EYE": "Summoning Eye", "MANA_STEAL_I_BOOK": "Mana Steal I Book", "TRANSMISSION_TUNER": "Transmission Tuner", "NULL_ATOM": "Null Atom", "HAZMAT_ENDERMAN": "Hazmat Enderman", "POCKET_ESPRESSO_MACHINE": "Pocket Espresso Machine", "SMARTY_PANTS_I_BOOK": "Smarty Pants I Book", "END_RUNE": "End Rune", "HANDY_BLOOD_CHALICE": "Handy Blood Chalice", "SINFUL_DICE": "Sinful Dice", "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": "Exceedingly Rare Ender Artifact Upgrader", "ENDERMAN_PET_SKIN": "Enderman Pet Skin", "ETHERWARP_MERGER": "Etherwarp Merger", "JUDGEMENT_CORE": "Judgement Core", "ENCHANT_RUNE": "Enchant Rune", "ENDER_SLAYER_VII_BOOK": "Ender Slayer VII Book",
+ "DERELICT_ASHE": "Derelict Ashe", "LAVATEARS_RUNE": "Lavatears Rune", "WISPS_ICE_FLAVORED_SPLASH_POTION": "Wisp's Ice-Flavored I Splash Potion", "BUNDLE_OF_MAGMA_ARROWS": "Bundle of Magma Arrows", "MANA_DISINTEGRATOR": "Mana Disintegrator", "SCORCHED_BOOKS": "Scorched Books", "KELVIN_INVERTER": "Kelvin Inverter", "BLAZE_ROD_DISTILLATE": "Blaze Rod Distillate", "GLOWSTONE_DISTILLATE": "Glowstone Distillate", "MAGMA_CREAM_DISTILLATE": "Magma Cream Distillate", "NETHER_WART_DISTILLATE": "Nether Wart Distillate", "GABAGOOL_DISTILLATE": "Gabagool Distillate", "SCORCHED_POWER_CRYSTAL": "Scorched Power Crysta;", "ARCHFIEND_DICE": "Archfiend Dice", "FIRE_ASPECT_III_BOOK": "Fire Aspect III Book", "FIERY_BURST_RUNE": "Fiery Burst Rune", "FLAWED_OPAL_GEMSTONE": "Flawed Opal Gemstone", "DUPLEX_I_BOOK": "Duplex I", "HIGH_CLASS_ARCHFIEND_DICE": "High Class Archfiend Dice", "WILSONS_ENGINEERING_PLANS": "Wilson's Engineering Plans", "SUBZERO_INVERTER": "Subzero Inverter"
 }
 
-thresholds = {"zombie": 40, "spider": 45, "wolf": 40, "enderman": 60}
+thresholds = {"zombie": 40, "spider": 45, "wolf": 40, "enderman": 60, "blaze": 56}
 
 variations = {
+ "inferno":"blaze", "demon":"blaze", "demonlord":"blaze",
  "eman":"enderman", "emans":"enderman",
  "sven":"wolf", "svens":"wolf",
  "tara":"spider", "taras":"spider",
@@ -69,7 +77,7 @@ def main(s):
  except:
   main("Invalid Magic Find.\n\n")
 
- slayer = input("\nEnter slayer type (zombie/spider/wolf/enderman)\n> ")
+ slayer = input("\nEnter slayer type (zombie/spider/wolf/enderman/blaze)\n> ")
  if slayer not in weights.keys():
   if slayer not in variations.keys():
    main("Invalid slayer type.\n\n")
