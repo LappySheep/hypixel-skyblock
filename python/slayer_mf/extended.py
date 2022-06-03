@@ -1,4 +1,4 @@
-__version__ = "1.2.0"
+__version__ = "1.2.1"
 
 
 weights = {
@@ -66,7 +66,7 @@ variations = {
 
 
 def dynamic_round(v):
- N,D,F,R=*str(v).split("."),float,round;I=[D.index(x)+1if x in D else 99for x in[f"{z2}{z1}"for z1 in"456"for z2 in"12890"]]
+ N,D,F,R=*str(v).split("."),float,round;I=[D.index(x)+1if x in D else 99for x in[f"{z1}{z2}"for z1 in"456"for z2 in"12890"]]
  if any(g!=99for g in I):v=F(f"{N}.{D[:min(I)]}")
  return R(v,4)
 
