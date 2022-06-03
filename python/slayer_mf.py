@@ -1,3 +1,6 @@
+__version__ = "1.2.0"
+
+
 weights = {
  "zombie": {
   "tier1": {"REVENANT_FLESH": 10000},
@@ -53,11 +56,11 @@ fancy2 = {
 thresholds = {"zombie": 40, "spider": 45, "wolf": 40, "enderman": 60, "blaze": 56}
 
 variations = {
- "inferno":"blaze", "demon":"blaze", "demonlord":"blaze",
- "eman":"enderman", "emans":"enderman",
- "sven":"wolf", "svens":"wolf",
- "tara":"spider", "taras":"spider",
- "rev":"zombie", "revs":"zombie"
+ "inferno":"blaze", "demon":"blaze", "demonlord":"blaze", "b":"blaze",
+ "eman":"enderman", "emans":"enderman", "e":"enderman",
+ "sven":"wolf", "svens":"wolf", "w":"wolf",
+ "tara":"spider", "taras":"spider", "s":"spider",
+ "rev":"zombie", "revs":"zombie", "z":"zombie",
 }
 
 
@@ -70,14 +73,22 @@ def dynamic_round(v):
 
 
 def main(s):
- print(s)
+ print(f"{s}\nUse a semi-colon followed by the inputs\n(space separated) in order to skip steps.\n")
+ skip = False
  mf = input("Enter Magic Find\n> ")
  try:
   mf = int(mf)
  except:
-  main("Invalid Magic Find.\n\n")
+  try:
+   if mf[0] != ";": raise Exception
+   mf,slayer,tier=mf[1:].split(" ")
+   mf = int(mf)
+   skip = True
+  except:
+   main("Invalid Magic Find.\n\n")
 
- slayer = input("\nEnter slayer type (zombie/spider/wolf/enderman/blaze)\n> ")
+ if not skip:
+  slayer = input("\nEnter slayer type (zombie/spider/wolf/enderman/blaze)\n> ")
  if slayer not in weights.keys():
   if slayer not in variations.keys():
    main("Invalid slayer type.\n\n")
@@ -85,7 +96,8 @@ def main(s):
    slayer = variations[slayer]
  tiers = weights[slayer]
 
- tier = input("\nEnter slayer boss tier (1-4, 1-5 if zombie)\n> ")
+ if not skip:
+  tier = input("\nEnter slayer boss tier (1-4, 1-5 if zombie)\n> ")
  try:
   drops = tiers[f"tier{tier}"]
  except:
