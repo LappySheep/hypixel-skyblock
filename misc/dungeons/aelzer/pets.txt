@@ -1,0 +1,92 @@
+Pets outside of Aelzer can be used while inside, but the nature of the realm may call for some more specialised pets to assist you.
+
+
+
+- Vuoi'h's Pet Orb
+  Requires Aelzer Level 3.
+  Variants: Legendary
+  Method to Obtain: Dropped by Vuoi'h (0.5% (1/200) chance).
+  Type: Combat Pet
+  Exp Rate: 75%
+  Stats:
+    Intelligence: +[0.8 * Lvl]
+    Strength: +[0.6 * Lvl]
+  Debuff: Your projectiles deal 33% less damage while you're below half of your health.
+  Abilities:
+    Lost Souls - Unlocks at Level 11
+      Killing Vuoi'h with melee infuses the weapon with his soul temporarily. Killing Vuoi'h again, with the same weapon consumes the soul inside, but rewards [Lvl * 2]% more soul drops.
+
+    Doubly Refining - Unlocks at Level 41
+      Refined Abyssal Armor gains +[Lvl * 0.35] base Health and +[Lvl * 0.35] base Defence.
+
+    Critically Recursive - Unlocks at Level 71
+      Critically hitting a standard monster grants a [Lvl * 0.3]% chance of triggering another critical hit. Each extra crit can trigger additional critical hits recursively.
+
+
+- Aether Spiny
+  Requires Aelzer Level 7.
+  Variants: Legendary
+  Method to Obtain: 4 Crystals of Ephemerality + Super Enchanted Egg
+  Type: Combat Pet
+  Exp Rate: 70%
+  Stats:
+    Crit Chance: -[40 - (0.3 * Lvl)]
+    Crit Damage: +[1.35 * Lvl]
+    Lethality: +[0.06 * Lvl]
+  Debuff: Magic damage that you deal is affected by Magic Resistance with 150% efficiency.
+  Abilities:
+    Wind Whirl - Unlocks at Level 11
+      Projectiles that critically hit targets deal [Lvl * 0.45]% bonus damage (additive) and knock them to the side slightly. Knockback is applied a maximum of once every 2 seconds.
+
+    Protective Shell - Unlocks at Level 41
+      Gain +[Lvl * 0.2]% bonus shields. Arrow Flux is [Lvl * 0.05]% stronger.
+
+    Behemoth's Alter Ego - Unlocks at Level 71
+      Taking more than [57.5 - (Lvl * 0.5)]% of your health as premitigated damage grants 1.15x projectile damage (additive) for 6 seconds. Does not stack.
+
+
+- Demon Highling
+  Requires Aelzer Level 11.
+  Variants: Legendary
+  Method to Obtain: Dropped by Tsra'ki (0.33% (1/200) chance).
+  Type: Combat Pet
+  Exp Rate: 65%
+  Stats:
+    Intelligence: +[1.6 * Lvl]
+    Damage: +[0.12 * Lvl]
+  Debuff: Your melee damage dealt is reduced by 90% if you are stationary.
+  Abilities:
+    Eruption - Unlocks at Level 11
+      Dealing single-target magic damage applies a [2.5 + (Lvl * 0.225)]% slow to that target for 0.5 seconds.
+
+    Crimson Blade - Unlocks at Level 41
+      Deal [4 + (Lvl * 0.12)]% Mage Beam damage as bonus physical damage dealt, against targets on fire.
+
+    Ravaging Greed - Unlocks at Level 71
+      Damage dealt, if based on a percentage of the target's health, is increased by [2.5 + (Lvl * 0.075)]%.
+
+
+- Orb Mythic
+  Requires Aelzer Level 15.
+  Variants: Legendary, Mythic
+  Method to Obtain: Dropped by Barys.
+    Legendary: 0.25% (1/300) chance
+    Mythic: 0.13% (1/600) chance
+  Type: Combat/Necromancy Pet
+  Exp Rate: 60% (Combat), 250x (Necromancy)
+  Stats:
+    Defence: +[3 * Lvl]
+    Maximum Biomass: +[6 * Lvl]
+  Debuff: Your total defence is reduced by 80% while you are not a Necromancer.
+  Abilities:
+    Proficient Macro - Unlocks at Level 11
+      Harvesters collect [Lvl * 0.3]% more Biomass on every second gather.
+
+    Sticky Unit - Unlocks at Level 41
+      While within [Lvl * 0.05] blocks of a summoned unit, attacks no longer deal knockback against you.
+
+    Necrotic Siphon - Unlocks at Level 71
+      Summoned units restore [1 + (Lvl * 0.04)] health on each hit.
+
+    Cascading Barys Discharger (Mythic) - Unlocks at Level 91
+      Increases the drop rate of Ungodly-tier drops by [(Lvl - 90) * 2.5]%. Projectiles from Barys have their hitboxes reduced by [(Lvl - 90) * 0.2] blocks against you.
