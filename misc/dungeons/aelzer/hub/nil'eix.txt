@@ -100,67 +100,20 @@ Accessories
   - Infernal Compactor
     Requires Aelzer Level 4.
     Cost: 160 Tainted Coins
-    UNCOMMON ACCESSORY - Deal 25% bonus damage towards targets on fire, but immediately extinguish them.
+      Uncommon Talisman.
+      Deal 25% bonus damage towards targets on fire, but immediately extinguish them.
 
   - Xenomorph Hunter Ring
     Requires Aelzer Level 6.
     Cost: 500 Tainted Coins + Xenomorph Hunter Talisman
-    RARE ACCESSORY - Every 5.5 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 2% of your damage as true damage towards them.
-
-  - Talisman of Retribution
-    Requires Aelzer Level 8.
-    Cost: 1,500 Tainted Coins
-    UNCOMMON ACCESSORY - Gain 1 bonus Spell Vamp for every 21% of your maximum health that you are missing.
+      Rare Talisman.
+      Every 5.5 seconds, mark one random target (prioritising special/boss monsters) as a Xenomorph for 3 seconds. You deal 2% of your damage as true damage towards them.
 
   - Artifact Hunter
     Requires Aelzer Level 10.
     Cost: 2,000 Tainted Coins
-    RARE ACCESSORY - Gain +1 Crit Damage and +1 Strength for every Artifact active.
-
-  - Rampage Talisman
-    Requires Aelzer Level 12.
-    Cost: 3,000 Tainted Coins
-    RARE ACCESSORY - Rampage Constructs deal 5% less damage. Secondary attacks deal 6% more damage.
-
-  - Oblivion Talisman
-    Requires Aelzer Level 12.
-    Cost: 4,000 Tainted Coins
-    RARE ACCESSORY - Oblivion Constructs deal 5% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 4% of the damage as bonus true damage.
-
-  - Torment Talisman
-    Requires Aelzer Level 12.
-    Cost: 5,000 Tainted Coins
-    RARE ACCESSORY - Torment Constructs deal 5% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 5%, and cause 3% of their damage to be deflected to every target within 4 blocks.
-
-  - Rampage Ring
-    Requires Aelzer Level 17.
-    Cost: 20,000 Tainted Coins + Rampage Talisman
-    RARE ACCESSORY - Rampage Constructs deal 12% less damage. Secondary attacks deal 15% more damage.
-
-  - Oblivion Ring
-    Requires Aelzer Level 17.
-    Cost: 27,000 Tainted Coins + Oblivion Talisman
-    RARE ACCESSORY - Oblivion Constructs deal 12% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 9% of the damage as bonus true damage.
-
-  - Torment Ring
-    Requires Aelzer Level 17.
-    Cost: 35,000 Tainted Coins + Torment Talisman
-    RARE ACCESSORY - Torment Constructs deal 12% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 9%, and cause 6% of their damage to be deflected to every target within 4 blocks.
-
-  - Rampage Artifact
-    Requires Aelzer Level 25.
-    Cost: 200,000 Tainted Coins + Rampage Ring
-    EPIC ACCESSORY - Rampage Constructs deal 20% less damage. Secondary attacks deal 30% more damage.
-
-  - Oblivion Artifact
-    Requires Aelzer Level 25.
-    Cost: 245,000 Tainted Coins + Oblivion Ring
-    EPIC ACCESSORY - Oblivion Constructs deal 20% less damage. Ranged attacks shoot an additional blast of energy to targets that you hit, dealing 15% of the damage as bonus true damage.
-
-  - Torment Artifact
-    Requires Aelzer Level 25.
-    Cost: 290,000 Tainted Coins + Torment Ring
-    EPIC ACCESSORY - Torment Constructs deal 20% less damage. Getting attacked creates a tether between you and them. The tether increases damage that you deal to the target by 13%, and cause 9% of their damage to be deflected to every target within 4 blocks.
+      Rare Talisman
+      Gain +1 Crit Damage and +1 Strength for every Artifact active.
 
 
 

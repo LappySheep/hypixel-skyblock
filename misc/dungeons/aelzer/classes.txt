@@ -296,7 +296,7 @@ Classes:
           Each ally within 12 blocks grants you +5 Life Steal and +2 Spell Vamp. This is doubled while below 25% of your maximum health.
         - Flesh Siphon (Basic Dungeon Orb Ability):
           Activate to toggle.
-          While enabled, you drain 2% of your maximum health every second and 75% of that health is split as health regeneration to allies within 10 blocks.
+          While enabled, you drain 2% of your maximum health every second and reduce health regeneration to 0, but 75% of both health drain and health regen negated is split as health regeneration to allies within 10 blocks.
           While disabled, Life Steal and Spell Vamp is increased by 20%.
         - Warping Blood (Ultimate Dungeon Orb Ability):
           Channel for 2 seconds before creating a large flesh boundary between you and 7 blocks away, which lasts for 10 seconds. Enemy attacks inside of this boundary deal 66% less damage to you and allies.
@@ -352,11 +352,11 @@ Classes:
     Abilities:
       - Mage Beam (Passive):
         Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
-          BeamDamage: [[(0.02 * Lvl) + 0.1] * (d + int/10) * (1 + (int / 1000))]
+          BeamDamage: [[(0.03 * Lvl) + 0.2] * (d + int/8) * (1 + (str/100)) * (1 + (int / 50))]
           BeamHitbox: 0.3 blocks
           DistanceScaling: [125 - (4|8-d|)^2]%
           Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
-        If Mage Beam kills a target, restore 6% of your missing mana back.
+        If Mage Beam kills a target, restore 10% of your missing mana back.
       - Catalytic Flow (Passive):
         'Successfully' casting a spell (such that the main purpose is fulfilled) restores 15% of the mana spent on that spell. This is tripled up to once every 6 seconds, if you are above 75% of your maximum health.
       - Arcane Beam (Basic Dungeon Orb Ability):
@@ -379,7 +379,7 @@ Classes:
       Abilities:
         - Dryad Beam (Passive):
           Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
-            BeamDamage: [[(0.025 * Lvl) + 0.25] * (d + int/7) * (1 + (int / 700))]
+            BeamDamage: [[(0.045 * Lvl) + 0.45] * (d + int/6) * (1 + (str/100)) * (1 + (int/80))]
             BeamHitbox: 0.2 blocks
             DistanceScaling: [150 - (3.5|8-d|)^2]%
             Cooldown: 0.667s (cannot be reduced by Attack Speed)
@@ -391,6 +391,7 @@ Classes:
           +1 block/s (max +5 blocks/s) per hit
             Cooldown (bolt): 0.667s (cannot be reduced by Attack Speed)
             Cooldown (toggle): 2s (reduced to 1s if toggled while outside of combat)
+          At Dryad level 25, Dryad Bolts will apply bonus damage stacks to previously hurt enemies retroactively if new targets are damaged.
         - Bolt Flux (Passive):
           While sneaking, bolts bounce from target to target instead of passing through in a straight trajectory. On each bounce, deal -10% (additive, max -50%) damage, and travel 1 block/s slower.
           Flux Bolts expire after either 5 targets damaged or after travelling 25 blocks.
@@ -400,7 +401,7 @@ Classes:
           If you have Bolt Toggle enabled, the Overseer will shoot standard Dryad Bolts instead.
           Overseers will not use Bolt Flux.
           After the Overseer expires, restore a portion of your missing mana back equal to 5% per kill (max 100%).
-            Cooldown: 450s (reduced by 3s on each Dryad Beam or Dryad Bolt/Bolt Flux hit)
+            Cooldown: 450s (reduced by 3s on each Dryad Beam hit or 1s on each Dryad Bolt/Bolt Flux hit)
 
     - Caster:
       Ability Magic Damage Specialist
@@ -410,11 +411,11 @@ Classes:
       Abilities:
         - Caster Beam (Passive):
           Passively, your melee attacks deal no damage. However, swinging shoots a beam of magical energy in the target direction. The first target hit takes magic damage equal to [BeamDamage * DistanceScaling]:
-            BeamDamage: [[(0.008 * Lvl) + 0.08] * (d + int/10) * (1 + (int / 1000))]
+            BeamDamage: [[(0.008 * Lvl) + 0.08] * (d + int/10) * (1 + (str/100)) * (1 + (int / 70))]
             BeamHitbox: 0.35 blocks
             DistanceScaling: [110 - (4.25|8-d|)^2]%
             Cooldown: 1s (can be reduced down to 0.5s at 100 Bonus Attack Speed)
-          If Caster Beam kills a target, gain a shield equal to 4% of your maximum health, lasting for up to 3 seconds.
+          If Caster Beam hits a target, gain a shield equal to 3% of your maximum health, lasting for 2.5 seconds, but stacking up to 30% of your maximum health.
         - Ability Diffusion (Passive):
           Casting a spell different from your last one grants 1 Ability Fury for 10 seconds (refreshable). Maximum of 50.
           Each 1 Ability Fury reduces the cooldown of spells by 1%.
@@ -447,6 +448,5 @@ Classes:
           Summoning a monster grants yourself 0.5 (+0.02/Lvl) seconds of invulnerability.
         - Strength of the Depths (Menu):
           Accessing your Necromancy menu allows you to pick from varying abilities. You can only pick as many abilities as you want, but abilities cost Necro Tokens equal to a base, plus a penalty if you choose too many.
-            Token Penalty (n = abilities, n>2): [n^2 + n]
             Tokens Available: 10 (+1 per 5 Necromancy Levels, +1 at Level 101)
           You can view available Necromancer Abilities in the Necromancy tab in /hub/.

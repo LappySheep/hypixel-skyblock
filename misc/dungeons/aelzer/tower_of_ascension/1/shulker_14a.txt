@@ -7,7 +7,7 @@ Requirements:
 Special Details:
   - Melee damage is disabled in this part of the ToA.
   - Magic damage is disabled in this part of the ToA.
-  - Abilities deal no damage in this part of the ToA. This can be changed with a perk.
+  - Abilities deal no damage in this part of the ToA.
   - Ticks refer to 0.2s intervals (5t/s)
 
 
@@ -79,7 +79,7 @@ Mysticism:
 
 Caster Fusion:
   - Enables ability damage (not magic damage). Damage dealt is x% as effective.
-    Bonus: 3.3 / 6.6 / 13.3 / 23.3 / 33.3% increased regeneration
+    Bonus: 3.3 / 6.6 / 13.3 / 23.3 / 33.3% damage effectivity
     Cost: 10 / 25 / 55 / 100 / 175 Tetrated Boxes
 
 Increased Experience:
@@ -114,7 +114,7 @@ Shulker-14A
   400 Defence
   10,000 Damage (ranged, infinite range)
   Abilities (short):
-    - Oyster Vulnerability:
+    - Oyster Core:
       The Shulker occasionally opens up, reducing its own defence. After 2 seconds, it shoots a small blast of energy at the target, dealing up to 35,000 damage and reducing the target's defence for 3 seconds.
     - Void Ward:
       The Shulker places a small dark fragment in the target location, which lasts up to 20 seconds. Void Wards have 6 range, and deal increasing damage as the target stays in the range for longer. Each one has 10 health, taking 1 damage from each source, and 2 damage from melee attacks.
@@ -126,7 +126,7 @@ Shulker-14A
       Every 20 basic attack shots, the Shulker releases a 'Death Ball' at the player. The Death Ball moves slowly and follows the player until it hits them, or until the Shulker-14A dies. Death Balls will bounce off of each other if they come into contact with each other. There can only be a maximum of 10 Death Balls in the room at any time. Death Balls move twice as fast if the Shulker-14A is under 2,000,000 Health.
 
   Abilities (verbose):
-    - Oyster Vulnerability:
+    - Oyster Core:
       The Shulker occasionally opens up, reducing its own defence by 300. After 2 seconds, it shoots a small blast of energy at the target, dealing up to 35,000 damage and reducing the target's defence to 0 for 3 seconds.
     - Void Ward:
       The Shulker places a small dark fragment in the target location, which lasts up to 20 seconds. Void Wards have a 6 block range, and deal 12,500 damage/s, increasing by 5,000 damage/s per consecutive second up to a maximum of 82,500/s. Each one has 10 health, taking 1 damage from each source, and 3 damage from projectiles.
@@ -164,12 +164,14 @@ Shulker-14A
 
     Special:
       - Interceptor Ward (5% chance) [Exc-B]
+        Consumed on use.
         Place to create a ward with a glowing aura. The aura has a spherical radius of 4 blocks.
         If an enemy dashes through this glowing aura, the dash is stopped and the target is rooted for 1 second. Special monsters and bosses are not rooted.
 
       - Executioning Ward (5% chance) [Exc-B]
+        Consumed on use.
         Place to create a ward with a red aura. The aura has a spherical radius of 7 blocks.
-        If an enemy is inside of the aura, they take 3% increased projectile damage. If they are below 12% of their maximum health, attacks will execute them; killing them instantly regardless of damage dealt. Special monsters and bosses are not executed, and instead take 7% increased proejctile damage.
+        If an enemy is inside of the aura, they take 8% increased projectile damage. If they are below 12% of their maximum health, attacks will execute them; killing them instantly regardless of damage dealt. Special monsters and bosses are not executed, and instead take 12% increased proejctile damage.
 
       - Ancient Enchantment: Arrow Flux (5% chance) [Exc-B] (Ranged Weapons)
         1,000 Durability. Costs 1 Durability on kill.
@@ -178,7 +180,7 @@ Shulker-14A
           Combining extra Arrow Flux blocks onto a melee weapon which already has Arrow Flux refreshes the enchantment's durability, and increases the life steal efficiency by 10%. Maximum of 30% efficiency.
 
       - Golden Roll (2.5% chance) [Exc-C]
-        Consume to restore 350 health back, and gain a shield equal to 7.5% of your maximum health, lasting for 10 seconds. The shield stacks up to a maximum of 75% of your maximum health.
+        Consume to restore 105 health back, and gain a shield equal to 0.75% of your maximum health, lasting for 10 seconds. The shield stacks up to a maximum of 7.5% of your maximum health.
 
     Ungodly:
       - Shield Battery (0.75% chance) [Exc-C]
@@ -187,7 +189,7 @@ Shulker-14A
           Cooldown: 4s
         Item Ability - Toggle Recharge RIGHT CLICK
           Activate to toggle.
-          While enabled, gain shields up to 5% of your maximum health, refreshing every second unless undamaged. The shields you gain are drained from the shields stored in the battery.
+          While enabled, gain shields up to 5% of your maximum health, refreshing every second unless undamaged. The shields you gain are drained from the shields stored in the battery, but at a 90% rate and only if damaged.
           Mana Cost: [30 + 2% of maximum mana]/s
           Cooldown: 2s
 
@@ -217,4 +219,3 @@ Shulker-14A
       - Pereo Insignia [MYTHIC]
         Combine with a Meshed Arcane Gun to create the Fallen Arcane Crypt. Also used to craft the Deathmarked Crossbow.
         The drop rate is dependent on your Prestige Points; ranging from 1/200m to 1/1k. This drop rate is also improved by your Tower of Ascension level.
-
