@@ -1,0 +1,51 @@
+Cost to Spawn: 100 Tainted Coins
+Slayer Exp Reward: 2 Construct Slayer Exp
+
+Requirements:
+  - Gathering Level 8
+  - Beaten Shryder (Floor 7)
+  - Slain a Tier V Hybrid (Voidshade Exile)
+
+
+
+Weak Maw Construct (Tier 1)
+  1000 Health
+  Damage Cap: 20
+  Toughness: 10
+  Extra Perks:
+    - Only the summoner can hurt the construct.
+    - The Damage Cap value of the construct is the maximum amount of damage that you can deal to it in a single hit. Damage dealt is reduced by a flat amount, equal to the construct's Toughness. Minimum damage dealt is 0.5.
+      Various Slayer items can increase the amount of damage that you deal by increasing the Damage Cap value or ignoring a portion of Toughness.
+
+  Abilities:
+    - Crystallised Construction (Passive)
+      The Construct spawns with 3 Maw Crystals which circle around it. All 3 Maw Crystals must be destroyed, or it cannot be damaged.
+
+
+Maw Crystal (Tier 1)
+  7,500,000 Health
+  5,500,000 Shields
+  160,000 Damage (7 blocks, all enemies in range are attacked)
+  Maximum Energy: 250
+  Abilities:
+    - Defined Protection (Passive)
+      Every second, it drains 15 Energy to the Construct it circles around, which prevents it from taking any damage. Only one Maw Crystal will drain its Energy to protect the Construct. If a Maw Crystal is draining its Energy, it deals 50% increased damage and gains +3 block attack range.
+      When it runs out of Energy (or can no longer afford the next second of protection), it extends outwards 6 blocks and takes 50% extra damage, stops applying protection to the Construct, and regenerates 10 Energy every second.
+    - Psionic Redistribution (Passive)
+      If out of combat for at least 8 seconds, regenerate 10% max shields every half second.
+    - Field of Spite (Passive)
+      Players within 5 blocks have their Bonus Speed, Bonus Attack Speed, Strength, and Crit Damage multiplied by 0.95x. Stacks multiplicatively with other Maw Crystals.
+    - Panic Zone (Passive)
+      If the Maw Crystal takes more than 20% of its maximum health in a single attack, it channels for 2.5 seconds. If the channel is successful, it creates an allied Pyle Construct (random choice) nearby which lasts indefinitely or until killed.
+      Cancel the channel by applying any form of crowd control to the Maw Crystal.
+
+
+Rampaging Pyle Construct (Tier 1)
+  3,000,000 Health
+  3,000,000 Shields
+  Abilities:
+    - Exiler (Passive)
+      Enemies in combat with the Pyle Construct take 1% of their maximum health as true damage every second.
+    - Rampage Volley
+      The Pyle Construct glows for 1 second, before shooting a volley of 30 bolts in the target direction. Each bolt deals 6% of any damaged target's maximum health as true damage on hit.
+      Moving past a volley bolt within 0.8 blocks without taking damage from any volley bolt counts as a 'graze'.

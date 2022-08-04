@@ -1,0 +1,75 @@
+Cost to Spawn: 3,000 Tainted Coins
+Slayer Exp Reward: 40 Construct Slayer Exp
+
+Requirements:
+  - Gathering Level 24
+  - Construct Slayer Level 2
+  - Beaten Shryder (Floor 7)
+  - Slain a Tier V Hybrid (Voidshade Exile)
+
+
+
+Desolated Maw Construct (Tier 3)
+  9,500 Health
+  Damage Cap: 20
+  Toughness: 14
+  Extra Perks:
+    - Only the summoner can hurt the construct.
+    - The Damage Cap value of the construct is the maximum amount of damage that you can deal to it in a single hit. Damage dealt is reduced by a flat amount, equal to the construct's Toughness. Minimum damage dealt is 0.5.
+      Various Slayer items can increase the amount of damage that you deal by increasing the Damage Cap value or ignoring a portion of Toughness.
+
+  Abilities:
+    - Crystallised Construction (Passive)
+      The Construct spawns with 4 Maw Crystals which circle around it. All 4 Maw Crystals must be destroyed, or it cannot be damaged.
+      If every Maw Crystal have been destroyed, but it has been at least 80 seconds, they revive with 80% of the amount of health/shields they previously had (multiplicatively).
+    - Aether Effigy (Passive)
+      Damaging an enemy with an ability or basic attack grants 1 Aether Charge, stacking indefinitely with no cooldown (counts per tick of damage).
+      Each Aether Charge grants 5 Defence towards active Maw Crystals and Pyle Constructs, and every 10 AC increases the Maw Construct's Toughness by 1.
+    - Dispersion
+      The Construct releases an intense wavelength of energy, extending to a 12 block radius. The wavelength stuns enemies for 1 second and marks their current positions. After 1.25 seconds pass, the Construct shoots a quick shockwave towards marked positions, dealing 425,000 damage to targets hit.
+    - Infestation
+      The Construct occasionally shoots out a void tendril in the target direction. The first target hit takes 50,000 damage and is blinded for 2 seconds. The tendril can bounce between targets which are 6 blocks between each other.
+      After the tendril expires, the tendril deals 100,000 damage to every affected target, multiplied by the amount of targets.
+
+
+Maw Crystal (Tier 3)
+  80,000,000 Health
+  40,000,000 Shields
+  450,000 Damage (7 blocks, all enemies in range are attacked)
+  Maximum Energy: 250
+  Abilities:
+    - Defined Protection (Passive)
+      Every second, it drains 13 Energy to the Construct it circles around, which prevents it from taking any damage. Only one Maw Crystal will drain its Energy to protect the Construct. If a Maw Crystal is draining its Energy, it deals 50% increased damage and gains +3 block attack range.
+      When it runs out of Energy (or can no longer afford the next second of protection), it extends outwards 6 blocks and takes 50% extra damage, stops applying protection to the Construct, and regenerates 10 Energy every second.
+    - Psionic Redistribution (Passive)
+      If out of combat for at least 8 seconds, regenerate 10% max shields every half second.
+    - Field of Spite (Passive)
+      Players within 5 blocks have their Bonus Speed, Bonus Attack Speed, Strength, and Crit Damage multiplied by 0.85x. Stacks multiplicatively with other Maw Crystals.
+    - Panic Zone (Passive)
+      If the Maw Crystal takes more than 18% of its maximum health in a single attack, it channels for 2 seconds. If the channel is successful, it creates an allied Pyle Construct (random choice) nearby which lasts indefinitely or until killed.
+      Cancel the channel by applying any form of crowd control to the Maw Crystal.
+
+
+Rampaging Pyle Construct (Tier 3)
+  30,000,000 Health
+  30,000,000 Shields
+  Abilities:
+    - Exiler (Passive)
+      Enemies in combat with the Pyle Construct take 2% of their maximum health as true damage every second.
+    - Harsh Lining (Passive)
+      Up to once every 6 seconds, the next incoming attack deals 99% less damage. Attacks which apply crowd control bypasses this damage reduction and puts it on cooldown again.
+    - Rampage Volley
+      The Pyle Construct glows for 1 second, before shooting a volley of 40 bolts in the target direction. Each bolt deals 8% of any damaged target's maximum health as true damage on hit.
+      Moving past a volley bolt within 0.8 blocks without taking damage from any volley bolt counts as a 'graze'.
+
+
+Oblivion Pyle Construct (Tier 3)
+  15,000,000 Health
+  55,000,000 Shields
+  Abilities:
+    - Animating Aura (Passive)
+      Allied Pyle Constructs and Maw Crystals within 16 blocks regenerate 8% of their maximum shields back every second, and gain +100 Shield Defence.
+    - Oblivion Orb
+      Occasionally, the Pyle Construct charges up for 1 second, before choosing 3 random locations within 6 blocks - prioritising locations underneath enemy players or units. Afterwards, it shoots 1 dark ball at each location, stunning targets hit for 1.5 seconds and dealing 600,000 damage over 6 seconds.
+    - Crushing Baseline
+      If a unit attempts to walk underneath the Pyle Construct, they are crushed every half second for 60% of their maximum health as true damage, and dealt a large amount of knockback.
