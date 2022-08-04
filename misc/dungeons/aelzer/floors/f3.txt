@@ -337,4 +337,8 @@ Special Loot:
     Requires an S+ rank or higher.
     Used to craft the Volcanic Staff.
 
+  - Demon Highling (0.33% chance (1/300))
+    Requires Aelzer Level 11.
+    LEGENDARY PET
+
 Completing Floor 3 rewards up to 160 Aelzer XP.
