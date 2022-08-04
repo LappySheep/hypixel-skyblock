@@ -4,7 +4,7 @@ At the right Aelzer level, you are able to craft various items. This is another 
 
 Materials
   - Crying Obsidian [RARE]
-    Requires Aelzer Level 8.
+    Requires Aelzer Level 3.
     Recipe: 128 Enchanted Obsidian + 64 Enchanted Lapis Lazuli
 
 
@@ -114,7 +114,7 @@ Weapons
       Item Passive - Intelligence Haste
         Passively, casting Null Strike or a magic basic attack on an enemy increases your base Intelligence by 2% (additively), up to a maximum of 20%. Lasts for 5 seconds. Decays while out of combat for at least 6 seconds.
       Item Ability - Null Strike RIGHT CLICK
-        Shoot a blast of null energy in the target direction, dealing [4,500 + 33x Intelligence] magic damage to the first target hit, and slowing them by 20% for 2 seconds. Killing a target with Null Strike causes it to bounce to nearby other enemies for 10% less damage per bounce, up to a maximum of 5 enemies total.
+        Shoot a blast of null energy in the target direction, dealing [4,500 + 33x Intelligence] magic damage to the first target hit, and slowing them by 20% for 2 seconds. Killing a target with Null Strike causes it to bounce to nearby other enemies for 10% less damage (additive) per bounce, up to a maximum of 5 enemies total.
         Mana Cost: 480
         Cooldown: 16s
 
@@ -124,7 +124,7 @@ Weapons
       +235 Damage
       +190 Strength
       Item Passive - Salt in the Wound
-        Targets marked from Shardsplitter take 66% bonus damage as a 3-second melee bleed. Duration stacks, damage does not.
+        Targets marked from Shardsplitter take 66% bonus damage as a 3-second melee bleed. Additional hits 'reset' the timer, using the new damage dealt (if applicable).
       Item Ability - Shardsplitter RIGHT CLICK
         Shoot a fragment of the pane in the target direction. The first enemy hit takes 120% melee damage. The main target and up to 3 nearby enemies get marked for 4 seconds. Mark duration refreshes when attacked.
         Cooldown: 90s
@@ -629,3 +629,10 @@ Armor
         Hybrid Reavers deal 20% less damage. Killing a monster adds 8 Strength to your weapon for the next 10 seconds. Effect stacks, duration does not.
       Full Set Bonus - Hybrid Amalgamation
         While combined with the Dominator's Chestplate and the Prism's Leggings, convert 10% of your damage into true damage, against other Hybrid monsters.
+
+
+
+Pets
+  - Aether Spiny [LEGENDARY]
+    Requires Aelzer Level 7.
+    Recipe: 4 Crystals of Ephemerality + Super Enchanted Egg
