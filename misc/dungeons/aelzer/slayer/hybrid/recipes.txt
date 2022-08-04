@@ -501,7 +501,7 @@ Voidshade Armor Chambers:
     Grants +1.25% bonus Defence per Hybrid Slayer Level after the first 7.
 
 - Curdled Slime [RARE]
-  Requires Hybrid Slayer Level 5.
+  Requires Hybrid Slayer Level 7.
   Recipe: 4 Hardened Coagulants + Void Wisp + 8 Enchanted Slime Blocks
     Can be applied to any melee weapon in an anvil, up to 5 times, as long as it has 5 Hardened Coagulants applied. Bonus is additive with the coagulant's bonus.
     On melee hit, grants a [5 * amt]% chance to increase the target's attack cooldown by 1 tick, for 3 seconds.
