@@ -55,6 +55,8 @@ Burning Wisp Pets:
       Does not work if you have an alive Inferno Demonlord.
       Health restoration only applies on melee kills.
 
+  - Wraith Chaining bonus damage is multiplicative.
+
 
 
 
@@ -122,6 +124,8 @@ Chilled Wisp Pets:
     Perk 4: Inverting Fury
       Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400% damage, which lasts until the Inferno Demonlord is killed.
       Killing a Demon adds 50% to your stacking damage bonus.
+
+  - Demon Tithe's bonus damage is multiplicative.
 
 
 
