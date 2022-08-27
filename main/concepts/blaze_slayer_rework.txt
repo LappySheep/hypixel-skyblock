@@ -87,15 +87,15 @@ Chilled Wisp Pets:
   Chilled:
     +5 True Defence, +100 Health
     Perk 1: Blaze Bulwark
-      Every 100 Blazes killed awards +1 Defense against Blazes. Max +200.
-      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +35.
+      Every Inferno Demonlord killed awards +1 Defense against Blazes. Max +200.
+      Every 4 Inferno Demonlords killed awards +1 True Defense against Blazes. Max +35.
       Destroying a Fire Pillar multiplies the amount of damage you take from Blazes and Demons by 0.9x for 0.5 seconds.
 
   Frost:
     +15 True Defence, +200 Health, +5% Intelligence
     Perk 1: Blaze Bulwark
-      Every 100 Blazes killed awards +1 Defense against Blazes. Max +325.
-      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +50.
+      Every Inferno Demonlord killed awards +1 Defense against Blazes. Max +325.
+      Every 4 Inferno Demonlords killed awards +1 True Defense against Blazes. Max +50.
       Destroying a Fire Pillar multiplies the amount of damage you take from Blazes and Demons by 0.8x for 1 second.
     Perk 2: Demon Tithe
       While above 50% health, Demons take 20% increased damage. If below 50% health, Demons deal 10% reduced damage against you instead.
@@ -103,8 +103,8 @@ Chilled Wisp Pets:
   Glacial:
     +25 True Defence, +300 Health, +10% Intelligence
     Perk 1: Blaze Bulwark
-      Every 100 Blazes killed awards +1 Defense against Blazes. Max +500.
-      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +70.
+      Every Inferno Demonlord killed awards +1 Defense against Blazes. Max +500.
+      Every 3 Inferno Demonlords killed awards +1 True Defense against Blazes. Max +70.
       Destroying a Fire Pillar multiplies the amount of damage you take from Blazes and Demons by 0.65x for 1.5 seconds.
     Perk 2: Demon Tithe
       While above 50% health, Demons take 30% increased damage. If below 50% health, Demons deal 20% reduced damage against you instead.
@@ -114,8 +114,8 @@ Chilled Wisp Pets:
   Subzero:
     +35 True Defence, +400 Health, +15% Intelligence, +20% Bonus Attack Speed
     Perk 1: Blaze Bulwark
-      Every 100 Blazes killed awards +1 Defense against Blazes. Max +750.
-      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +100.
+      Every Inferno Demonlord killed awards +1 Defense against Blazes. Max +750.
+      Every 3 Inferno Demonlords killed awards +1 True Defense against Blazes. Max +100.
       Destroying a Fire Pillar multiplies the amount of damage you take from Blazes and Demons by 0.5x for 2 seconds.
     Perk 2: Demon Tithe
       While above 50% health, Demons take 40% increased damage. If below 50% health, Demons deal 30% reduced damage against you instead.
@@ -126,6 +126,7 @@ Chilled Wisp Pets:
       Killing a Demon adds 50% to your stacking damage bonus.
 
   - Demon Tithe's bonus damage is multiplicative.
+  - Frost+ Wisp Pets grant a multiplier on Intelligence, which does not work with Chimera or similar.
 
 
 
