@@ -1,6 +1,6 @@
 Infernum Gemstone
   Requires Blaze Slayer Level 6.
-  Recipe: 128 Molten Powder + Flawless Opal Gemstone
+  Recipe: 16 Molten Powder + Flawless Opal Gemstone
 
 Burning Wisp Pets:
   Burning (Uncommon)
@@ -17,7 +17,7 @@ Burning Wisp Pets:
     Burning: Omega Enchanted Egg + Molten Powder + 4 Enchanted Blaze Rods
     Cindered: Burning Wisp + Kelvin Inverter + 2 Inferno Vertexes + 8 Molten Powder
     Incinerating: Cindered Wisp + 12 Kelvin Inverters + 8 Inferno Vertexes + 64 Molten Powder
-    Infernal: Incinerating Wisp + Subzero Inverter + 2 Inferno Apexes + 4 Infernum Gemstones
+    Infernal: Incinerating Wisp + Subzero Inverter + 2 Inferno Apexes + 32 Infernum Gemstones
 
   Burning:
     +30 Speed, +25 Defense
@@ -59,6 +59,10 @@ Burning Wisp Pets:
 
 
 
+Frostfire Gemstone
+  Requires Blaze Slayer Level 6.
+  Recipe: 8 Molten Powder + 8 Enchanted Packed Ice + Flawless Opal Gemstone
+
 Chilled Wisp Pets:
   Chilled (Uncommon)
   Frost (Rare)
@@ -74,7 +78,7 @@ Chilled Wisp Pets:
     Chilled: Omega Enchanted Egg + 4 Derelict Ashe + 4 Enchanted Packed Ice
     Frost: Chilled Wisp + Kelvin Inverter + Inferno Vertex + 6 Molten Powder
     Glacial: Frost Wisp + 12 Kelvin Inverters + 4 Inferno Vertexes + 36 Molten Powder
-    Subzero: Glacial Wisp + Subzero Inverter + Inferno Apex + 192 Molten Powder
+    Subzero: Glacial Wisp + Subzero Inverter + Inferno Apex + 24 Frostfire Gemstones
 
   All Cool-type Wisp Pets are able to break Fire Pillars.
 
@@ -107,9 +111,11 @@ Chilled Wisp Pets:
     Perk 1: Blaze Slayer
       Every 100 Blazes killed awards +1 Defense against Blazes. Max +750.
       Every 300 Blazes killed awards +1 True Defense against Blazes. Max +100.
+      Destroying a Fire Pillar reduces the amount of damage you take from the next 3 hits by 50%.
     Perk 2: Demon Tithe
       While above 50% health, Demons take 40% increased damage. If below 50% health, Demons deal 30% reduced damage against you instead.
     Perk 3: Attuned Attraction
       Swapping Attunement increases Vitality, Health Regen, Defense, and Speed by 20% for the next 5 seconds. Killing a Demon refreshes this duration.
     Perk 4: Inverting Fury
-      Consecutive melee attacks against an Inferno Demonlord or Demon grants +4% additive damage for 2 seconds, stacking infinitely.
+      Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400% damage, which lasts until the Inferno Demonlord is killed.
+      Killing a Demon adds 50% to your stacking damage bonus.
