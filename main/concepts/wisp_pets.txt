@@ -1,0 +1,112 @@
+Infernum Gemstone
+  Requires Blaze Slayer Level 6.
+  Recipe: 128 Molten Powder + Flawless Opal Gemstone
+
+Burning Wisp Pets:
+  Burning (Uncommon)
+  Cindered (Rare)
+  Incinerating (Epic)
+  Infernal (Legendary)
+
+  Requirements:
+    Burning: Blaze Slayer Level 2 + 22 Total Slayer Levels
+    Cindered: Blaze Slayer Level 4 + 26 Total Slayer Levels
+    Incinerating: Blaze Slayer Level 6 + 30 Total Slayer Levels
+    Infernal: Blaze Slayer Level 7 + 34 Total Slayer Levels
+  Recipes:
+    Burning: Omega Enchanted Egg + Molten Powder + 4 Enchanted Blaze Rods
+    Cindered: Burning Wisp + Kelvin Inverter + 2 Inferno Vertexes + 8 Molten Powder
+    Incinerating: Cindered Wisp + 12 Kelvin Inverters + 8 Inferno Vertexes + 64 Molten Powder
+    Infernal: Incinerating Wisp + Subzero Inverter + 2 Inferno Apexes + 4 Infernum Gemstones
+
+  Burning:
+    +30 Speed, +25 Defense
+    Perk 1: Blaze Slayer
+      Gain [15 + 5%] bonus Combat Wisdom against Blazes.
+
+  Cindered:
+    +40 Speed, +50 Defense, +50 Intelligence
+    Perk 1: Blaze Slayer
+      Gain [20 + 5%] bonus Combat Wisdom against Blazes.
+    Perk 2: Fuelling the Fire
+      Consecutive Blaze kills within 3 seconds award +2 Combat Wisdom for 4 seconds, stacking up to +20 Combat Wisdom.
+
+  Incinerating:
+    +50 Speed, +75 Defense, +100 Intelligence
+    Perk 1: Blaze Slayer
+      Gain [25 + 7%] bonus Combat Wisdom against Blazes.
+    Perk 2: Fuelling the Fire
+      Consecutive Blaze kills within 4 seconds award +3 Combat Wisdom for 5 seconds, stacking up to +24 Combat Wisdom.
+    Perk 3: Wraith Chaining
+      Attacks that deal area-of-effect damage, will deal 200% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 33% increased damage.
+
+  Infernal:
+    +60 Speed, +100 Defense, +150 Intelligence
+    Perk 1: Blaze Slayer
+      Gain [30 + 10%] bonus Combat Wisdom against Blazes.
+    Perk 2: Fuelling the Fire
+      Consecutive Blaze kills within 4 seconds award +4 Combat Wisdom for 6 seconds, stacking up to +32 Combat Wisdom.
+    Perk 3: Wraith Chaining
+      Attacks that deal area-of-effect damage, will deal 300% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 50% increased damage and spawn 15% more often.
+    Perk 4: Blazing Luminosity
+      Killing a Blaze restores 33% of your missing health instantly, and restores another 20% of your maximum health over 5 seconds.
+      Does not work if you have an alive Inferno Demonlord.
+
+
+
+
+
+Chilled Wisp Pets:
+  Chilled (Uncommon)
+  Frost (Rare)
+  Glacial (Epic)
+  Subzero (Legendary)
+
+  Requirements:
+    Chilled: Blaze Slayer Level 1 + 20 Total Slayer Levels
+    Frost: Blaze Slayer Level 3 + 24 Total Slayer Levels
+    Glacial: Blaze Slayer Level 5 + 28 Total Slayer Levels
+    Subzero: Blaze Slayer Level 7 + 32 Total Slayer Levels
+  Recipes:
+    Chilled: Omega Enchanted Egg + 4 Derelict Ashe + 4 Enchanted Packed Ice
+    Frost: Chilled Wisp + Kelvin Inverter + Inferno Vertex + 6 Molten Powder
+    Glacial: Frost Wisp + 12 Kelvin Inverters + 4 Inferno Vertexes + 36 Molten Powder
+    Subzero: Glacial Wisp + Subzero Inverter + Inferno Apex + 192 Molten Powder
+
+  All Cool-type Wisp Pets are able to break Fire Pillars.
+
+  Chilled:
+    +5 True Defence, +100 Health
+    Perk 1: Blaze Bulwark
+      Every 100 Blazes killed awards +1 Defense against Blazes. Max +200.
+      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +35.
+
+  Frost:
+    +15 True Defence, +200 Health, +5% Intelligence
+    Perk 1: Blaze Slayer
+      Every 100 Blazes killed awards +1 Defense against Blazes. Max +325.
+      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +50.
+    Perk 2: Demon Tithe
+      While above 50% health, Demons take 20% increased damage. If below 50% health, Demons deal 10% reduced damage against you instead.
+
+  Glacial:
+    +25 True Defence, +300 Health, +10% Intelligence
+    Perk 1: Blaze Slayer
+      Every 100 Blazes killed awards +1 Defense against Blazes. Max +500.
+      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +70.
+    Perk 2: Demon Tithe
+      While above 50% health, Demons take 30% increased damage. If below 50% health, Demons deal 20% reduced damage against you instead.
+    Perk 3: Attuned Attraction
+      Swapping Attunement increases Vitality, Health Regen, Defense, and Speed by 15% for the next 4 seconds. Killing a Demon refreshes this duration.
+
+  Subzero:
+    +35 True Defence, +400 Health, +15% Intelligence, +20% Bonus Attack Speed
+    Perk 1: Blaze Slayer
+      Every 100 Blazes killed awards +1 Defense against Blazes. Max +750.
+      Every 300 Blazes killed awards +1 True Defense against Blazes. Max +100.
+    Perk 2: Demon Tithe
+      While above 50% health, Demons take 40% increased damage. If below 50% health, Demons deal 30% reduced damage against you instead.
+    Perk 3: Attuned Attraction
+      Swapping Attunement increases Vitality, Health Regen, Defense, and Speed by 20% for the next 5 seconds. Killing a Demon refreshes this duration.
+    Perk 4: Inverting Fury
+      Consecutive melee attacks against an Inferno Demonlord or Demon grants +4% additive damage for 2 seconds, stacking infinitely.
