@@ -90,7 +90,7 @@ Chilled Wisp Pets:
 
   Frost:
     +15 True Defence, +200 Health, +5% Intelligence
-    Perk 1: Blaze Slayer
+    Perk 1: Blaze Bulwark
       Every 100 Blazes killed awards +1 Defense against Blazes. Max +325.
       Every 300 Blazes killed awards +1 True Defense against Blazes. Max +50.
     Perk 2: Demon Tithe
@@ -98,7 +98,7 @@ Chilled Wisp Pets:
 
   Glacial:
     +25 True Defence, +300 Health, +10% Intelligence
-    Perk 1: Blaze Slayer
+    Perk 1: Blaze Bulwark
       Every 100 Blazes killed awards +1 Defense against Blazes. Max +500.
       Every 300 Blazes killed awards +1 True Defense against Blazes. Max +70.
     Perk 2: Demon Tithe
@@ -108,7 +108,7 @@ Chilled Wisp Pets:
 
   Subzero:
     +35 True Defence, +400 Health, +15% Intelligence, +20% Bonus Attack Speed
-    Perk 1: Blaze Slayer
+    Perk 1: Blaze Bulwark
       Every 100 Blazes killed awards +1 Defense against Blazes. Max +750.
       Every 300 Blazes killed awards +1 True Defense against Blazes. Max +100.
       Destroying a Fire Pillar reduces the amount of damage you take from the next 3 hits by 50%.
