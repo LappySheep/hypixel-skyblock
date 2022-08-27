@@ -1,3 +1,7 @@
+Kelvin Inverter weight halved. To replace the other half, add a 'Cindered Inverter' drop.
+Subzero Inverter weight halved. To replace the other half, add an 'Infernal Inverter' drop.
+
+
 Infernum Gemstone
   Requires Blaze Slayer Level 6.
   Recipe: 16 Molten Powder + Flawless Opal Gemstone
@@ -76,9 +80,9 @@ Chilled Wisp Pets:
     Subzero: Blaze Slayer Level 7 + 32 Total Slayer Levels
   Recipes:
     Chilled: Omega Enchanted Egg + 4 Derelict Ashe + 4 Enchanted Packed Ice
-    Frost: Chilled Wisp + Kelvin Inverter + Inferno Vertex + 6 Molten Powder
-    Glacial: Frost Wisp + 12 Kelvin Inverters + 4 Inferno Vertexes + 36 Molten Powder
-    Subzero: Glacial Wisp + Subzero Inverter + Inferno Apex + 24 Frostfire Gemstones
+    Frost: Chilled Wisp + Cindered Inverter + Inferno Vertex + 6 Molten Powder
+    Glacial: Frost Wisp + 12 Cindered Inverters + 4 Inferno Vertexes + 36 Molten Powder
+    Subzero: Glacial Wisp + Infernal Inverter + Inferno Apex + 24 Frostfire Gemstones
 
   All Cool-type Wisp Pets are able to break Fire Pillars.
 
