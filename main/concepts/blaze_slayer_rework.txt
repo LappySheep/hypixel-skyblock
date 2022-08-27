@@ -38,7 +38,7 @@ Burning Wisp Pets:
     Perk 2: Fuelling the Fire
       Consecutive Blaze kills within 4 seconds award +3 Combat Wisdom for 5 seconds, stacking up to +24 Combat Wisdom.
     Perk 3: Wraith Chaining
-      Attacks that deal area-of-effect damage, will deal 200% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 33% increased damage.
+      Attacks that hurt multiple targets, will deal 200% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 33% increased damage.
       Bonus damage only applies on melee attacks.
 
   Infernal:
@@ -48,7 +48,7 @@ Burning Wisp Pets:
     Perk 2: Fuelling the Fire
       Consecutive Blaze kills within 4 seconds award +4 Combat Wisdom for 6 seconds, stacking up to +32 Combat Wisdom.
     Perk 3: Wraith Chaining
-      Attacks that deal area-of-effect damage, will deal 300% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 50% increased damage and spawn 15% more often.
+      Attacks that hurt multiple targets, will deal 300% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 50% increased damage and spawn 15% more often.
       Bonus damage only applies on melee attacks.
     Perk 4: Blazing Luminosity
       Killing a Blaze restores 33% of your missing health instantly, and restores another 20% of your maximum health over 5 seconds.
@@ -122,12 +122,13 @@ Chilled Wisp Pets:
     Perk 3: Attuned Attraction
       Swapping Attunement increases Vitality, Health Regen, Defense, and Speed by 20% for the next 5 seconds. Killing a Demon refreshes this duration.
     Perk 4: Inverting Fury
-      Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400% damage, which lasts until the Inferno Demonlord is killed.
-      Killing a Demon adds 50% to your stacking damage bonus.
+      Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400%, which lasts until the Inferno Demonlord is killed.
+      Killing a Demon adds +50% to your stacking bonus.
 
   - Inferno Demonlord "tiers" for the Blaze Bulwark pet refers to the tier of boss killed; e.g. a tier 4 Inferno Demonlord stacks 4 tiers onto bulwark stacking.
   - Frost+ Wisp Pets grant a multiplier on Intelligence, which does not work with Chimera or similar.
   - Demon Tithe's bonus damage is multiplicative.
+  - Inverting Fury only requires melee to stack up, but can apply on ranged as well.
 
 
 
@@ -146,6 +147,7 @@ Changes:
       Requires Blaze Slayer Level 4.
       Recipe: 12 Inferno Edges + 16 Molten Powder + 6 Enchanted Blaze Rods
   - Frostfire Gemstones and Infernum Gemstones can be dropped by T3-4.
+  - Revitalised Fusion Core drop added to T4.
 
 (new drops below are indented 2 spaces further)
 
@@ -187,30 +189,78 @@ T3 Inferno Demonlord Drops
 
 T4 Inferno Demonlord Drops
   Derelict Ashe: 100%
-  Lavatears Rune: 2.145411%                             (~1/46.6)        (450/20975)
-  Wisp's Ice-Flavored I Splash Potion: 2.436054%        (~1/41.05)        (500/20525)
-  Bundle of Magma Arrows: 7.308161%                     (~1/13.6)        (1500/20525)
-  Mana Disintegrator: 3.410475%                         (~1/29.3214)        (700/20525)
-  Scorched Books: 1.948843%                             (~1/51.3125)        (400/20525)
-  Kelvin Inverter: 1.218027%                            (~1/82.1)        (250/20525)
-  Blaze Rod Distillate: 4.384896%                       (~1/22.8056)        (900/20525)
-  Glowstone Distillate: 4.384896%                       (~1/22.8056)        (900/20525)
-  Magma Cream Distillate: 4.384896%                     (~1/22.8056)        (900/20525)
-  Nether Wart Distillate: 4.384896%                     (~1/22.8056)        (900/20525)
-  Gabagool Distillate: 2.436054%                        (~1/41.05)        (500/20525)
-  Scorched Power Crystal: 2.923264%                     (~1/34.2083)        (600/20525)
-  Archfiend Dice: 0.974421%                             (~1/102.6)        (200/20525)
-  Fire Aspect III Book: 1.218027%                       (~1/82.1)        (250/20525)
-  Fiery Burst Rune: 0.194505%                           (~1/514.125)        (40/20565)
-  Flawed Opal Gemstone: 2.679659%                       (~1/37.3182)        (550/20525)
-  Duplex I: 1.705238%                                   (~1/58.64)        (350/20525)
-  High Class Archfiend Dice: 0.243013%                  (~1/411.5)        (50/20575)
-  Wilson's Engineering Plans: 0.097442%                 (~1/1026.25)        (20/20525)
-  Subzero Inverter: 0.048721%                           (~1/2052.5)        (10/20525)
-    Cindered Inverter: 1.218027%                          (~1/82.1)        (250/20525)
-    Infernal Inverter: 0.048721%                          (~1/2052.5)        (10/20525)
-    Inferno Edge: 2.436054%                               (~1/41.05)        (500/20525)
-    Inferno Vertex: 0.609013%                             (~1/164.2)        (125/20525)
-    Infernum Gemstone: 0.487211%                          (~1/205.25)        (100/20525)
-    Frostfire Gemstone: 0.487211%                         (~1/205.25)        (100/20525)
-    Inferno Apex: 0.048721%                               (~1/2052.5)        (10/20525)
+  Lavatears Rune: 2.145002%                             (~1/46.6)        (450/20979)
+  Wisp's Ice-Flavored I Splash Potion: 2.435579%        (~1/41.05)        (500/20529)
+  Bundle of Magma Arrows: 7.306737%                     (~1/13.6)        (1500/20529)
+  Mana Disintegrator: 3.409811%                         (~1/29.3271)        (700/20529)
+  Scorched Books: 1.948463%                             (~1/51.3225)        (400/20529)
+  Kelvin Inverter: 1.217789%                            (~1/82.116)        (250/20529)
+  Blaze Rod Distillate: 4.384042%                       (~1/22.81)        (900/20529)
+  Glowstone Distillate: 4.384042%                       (~1/22.81)        (900/20529)
+  Magma Cream Distillate: 4.384042%                     (~1/22.81)        (900/20529)
+  Nether Wart Distillate: 4.384042%                     (~1/22.81)        (900/20529)
+  Gabagool Distillate: 2.435579%                        (~1/41.05)        (500/20529)
+  Scorched Power Crystal: 2.922695%                     (~1/34.215)        (600/20529)
+  Archfiend Dice: 0.974232%                             (~1/102.645)        (200/20529)
+  Fire Aspect III Book: 1.217789%                       (~1/82.116)        (250/20529)
+  Fiery Burst Rune: 0.194467%                           (~1/514.225)        (40/20569)
+  Flawed Opal Gemstone: 2.679137%                       (~1/37.3255)        (550/20529)
+  Duplex I: 1.704905%                                   (~1/58.654)        (350/20529)
+  High Class Archfiend Dice: 0.242966%                  (~1/411.5)        (50/20579)
+  Wilson's Engineering Plans: 0.097423%                 (~1/1026.45)        (20/20529)
+  Subzero Inverter: 0.048712%                           (~1/2052.9)        (10/20529)
+    Cindered Inverter: 1.217789%                          (~1/82.116)        (250/20529)
+    Infernal Inverter: 0.048712%                          (~1/2052.9)        (10/20529)
+    Inferno Edge: 2.435579%                               (~1/41.05)        (500/20529)
+    Inferno Vertex: 0.608895%                             (~1/164.232)        (125/20529)
+    Infernum Gemstone: 0.487116%                          (~1/205.29)        (100/20529)
+    Frostfire Gemstone: 0.487116%                         (~1/205.29)        (100/20529)
+    Inferno Apex: 0.048712%                               (~1/2052.9)        (10/20529)
+    Revitalised Fusion Core: 0.019485%                    (~1/5132.25)        (4/20529)
+
+
+
+
+
+- Hellfire Silk [LEGENDARY]
+  Requires Blaze Slayer Level 7.
+  Recipe: 16 Enchanted Blaze Rods + 4 Inferno Vertexes + 128 Amalgamated Crimsonite + 64 Enchanted String
+    Apply to any bow up to 4 times. Each application grants +5 Weapon Damage and +2.5% Crit Chance.
+    Blaze Slayer requirement is for crafting and applying on to a bow, but is not required to use a bow with any HFS applied to it.
+
+- Infernal Blazing Shieldbow [LEGENDARY]
+  Requires Blaze Slayer Level 8.
+  Recipe: Revitalised Fusion Core + 16 Hellfire Silk + 2 Inferno Apexes + 32 Infernum Gemstones + 32 Frostfire Gemstones
+    +425 Damage
+    +300% Crit Damage
+    +60 True Defense
+    Item Passive - Absurd Quiver
+      Every 1 second (affected by ATS), the Shieldbow gains 1 stack, and shoots arrows instantly if stacks are consumed. Maximum of 10 stored stacks. Shots which do not consume stacks cannot crit, but stack-shots have 0 cooldown in between.
+    Item Passive - Shieldbow
+      While sneaking, the Shieldbow's bonus Crit Damage is converted into Defense at 50% efficiency. While not sneaking, gain bonus Crit Damage equal to 15% of your Defense (max 20% of your current Crit Damage).
+      Landing stack-shots grants +10 bonus Defense and +2 bonus Crit Damage, stacking infinitely, but lasting for only 1 second (refreshing on hits).
+    Item Ability - Blazing Ephemerality LEFT CLICK
+      You fire 15 fully charged arrows in the target direction in a cone (3deg between arrows).
+      Each arrow deals 25% damage and applies on-hit effects, but marks each target damaged for 8 seconds.
+      Marked targets take 1% of their maximum health as fire damage every 0.5s until they die (max 5s for bosses), and deal 33% less damage towards you.
+      Killing a marked target with any melee attack or any arrow restores 10% of your missing mana back, and grants a 15% max hp shield lasting for 2 seconds.
+      Mana Cost: 450
+      Cooldown: 30s (reduced by 2s per arrow landed with the Shieldbow)
+
+  Dungeon-item Conversion Cost: 15,000 Crimson Essence
+  The Shieldbow can go to 10*, each star increasing base stats by 2%, but Master Stars and Catacombs bonuses apply as usual.
+
+  1*: 500 Crimson Essence
+  2*: 1,000 Crimson Essence
+  3*: 2,000 Crimson Essence
+  4*: 3,000 Crimson Essence
+  5*: 5,500 Crimson Essence
+  6*: 8,000 Crimson Essence + 1 Inferno Vertex
+  7*: 11,500 Crimson Essence + 3 Inferno Vertexes
+  8*: 15,000 Crimson Essence + 7 Inferno Vertexes
+  9*: 20,000 Crimson Essence + Inferno Apex + 10 Inferno Vertexes
+  10*: 25,000 Crimson Essence + Inferno Apex + 16 Infernum Gemstones + 15 Inferno Vertexes
+
+  (10* cumulative: 106,500 crimson essence + 2 inferno apexes + 36 inferno vertexes + 16 infernum gemstones)
+  (normal 10*: cata 50 + 5* + 5m* => 6.4x stats
+  (this bow 10* + 5 master stars: 1.2x multiplier from 10*, then cata 50+5m* -> 1.2 * 6.15 = 7.38x)
