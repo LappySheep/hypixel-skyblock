@@ -39,6 +39,7 @@ Burning Wisp Pets:
       Consecutive Blaze kills within 4 seconds award +3 Combat Wisdom for 5 seconds, stacking up to +24 Combat Wisdom.
     Perk 3: Wraith Chaining
       Attacks that deal area-of-effect damage, will deal 200% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 33% increased damage.
+      Bonus damage only applies on melee attacks.
 
   Infernal:
     +60 Speed, +100 Defense, +150 Intelligence
@@ -48,9 +49,11 @@ Burning Wisp Pets:
       Consecutive Blaze kills within 4 seconds award +4 Combat Wisdom for 6 seconds, stacking up to +32 Combat Wisdom.
     Perk 3: Wraith Chaining
       Attacks that deal area-of-effect damage, will deal 300% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 50% increased damage and spawn 15% more often.
+      Bonus damage only applies on melee attacks.
     Perk 4: Blazing Luminosity
       Killing a Blaze restores 33% of your missing health instantly, and restores another 20% of your maximum health over 5 seconds.
       Does not work if you have an alive Inferno Demonlord.
+      Health restoration only applies on melee kills.
 
 
 
