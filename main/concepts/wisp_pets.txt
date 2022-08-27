@@ -1,7 +1,3 @@
-Kelvin Inverter weight halved. To replace the other half, add a 'Cindered Inverter' drop.
-Subzero Inverter weight halved. To replace the other half, add an 'Infernal Inverter' drop.
-
-
 Infernum Gemstone
   Requires Blaze Slayer Level 6.
   Recipe: 16 Molten Powder + Flawless Opal Gemstone
@@ -126,3 +122,89 @@ Chilled Wisp Pets:
     Perk 4: Inverting Fury
       Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400% damage, which lasts until the Inferno Demonlord is killed.
       Killing a Demon adds 50% to your stacking damage bonus.
+
+
+
+
+
+Changes:
+  - Cindered Inverter drop added.
+  - Kelvin Inverter drop rate halved.
+  - Infernal Inverter drop added.
+  - Subzero Inverter drop rate halved.
+  - Inferno Edge drop added to T2-4.
+  - Inferno Vertex drop added to T3-4.
+  - Inferno Apex drop added to T4.
+  - Inferno Vertexes can be crafted using Inferno Edges:
+    - Inferno Vertex [EPIC]
+      Requires Blaze Slayer Level 4.
+      Recipe: 12 Inferno Edges + 16 Molten Powder + 6 Enchanted Blaze Rods
+  - Frostfire Gemstones and Infernum Gemstones can be dropped by T3-4.
+
+(new drops below are indented 2 spaces further)
+
+T2 Inferno Demonlord Drops
+  Derelict Ashe: 100%
+  Wisp's Ice-Flavored I Splash Potion: 2.80112%         (~1/35.7)        (500/17850)
+  Bundle of Magma Arrows: 8.403361%                     (~1/11.9)        (1500/17850)
+  Mana Disintegrator: 3.921569%                         (~1/25.5)        (700/17850)
+  Scorched Books: 2.240896%                             (~1/44.6)        (400/17850)
+  Kelvin Inverter: 1.40056%                             (~1/71.4)        (250/17850)
+  Blaze Rod Distillate: 5.042017%                       (~1/19.8333)        (900/17850)
+  Glowstone Distillate: 5.042017%                       (~1/19.8333)        (900/17850)
+  Magma Cream Distillate: 5.042017%                     (~1/19.8333)        (900/17850)
+  Nether Wart Distillate: 5.042017%                     (~1/19.8333)        (900/17850)
+  Gabagool Distillate: 2.80112%                         (~1/35.7)        (500/17850)
+    Cindered Inverter: 1.40056%                           (~1/71.4)        (250/17850)
+    Inferno Edge: 0.840336%                               (~1/119.0)        (150/17850)
+
+T3 Inferno Demonlord Drops
+  Derelict Ashe: 100%
+  Lavatears Rune: 1.045478%                             (~1/95.64)        (200/19130)
+  Wisp's Ice-Flavored I Splash Potion: 2.64131%         (~1/37.86)        (500/18930)
+  Bundle of Magma Arrows: 7.92393%                      (~1/12.6)        (1500/18930)
+  Mana Disintegrator: 3.697834%                         (~1/27.04)        (700/18930)
+  Scorched Books: 2.113048%                             (~1/47.324)        (400/18930)
+  Kelvin Inverter: 1.320655%                            (~1/75.72)        (250/18930)
+  Blaze Rod Distillate: 4.754358%                       (~1/21.0333)        (900/18930)
+  Glowstone Distillate: 4.754358%                       (~1/21.0333)        (900/18930)
+  Magma Cream Distillate: 4.754358%                     (~1/21.0333)        (900/18930)
+  Nether Wart Distillate: 4.754358%                     (~1/21.0333)        (900/18930)
+  Gabagool Distillate: 2.64131%                         (~1/37.86)        (500/18930)
+  Scorched Power Crystal: 3.169572%                     (~1/31.55)        (600/18930)
+  Archfiend Dice: 1.056524%                             (~1/94.64)        (200/18930)
+    Cindered Inverter: 1.320655%                          (~1/75.72)        (250/18930)
+    Inferno Edge: 1.584786%                               (~1/63.1)        (300/18930)
+    Inferno Vertex: 0.264131%                             (~1/378.5)        (50/18930)
+    Infernum Gemstone: 0.211305%                          (~1/473.25)        (40/18930)
+    Frostfire Gemstone: 0.211305%                         (~1/473.25)        (40/18930)
+
+T4 Inferno Demonlord Drops
+  Derelict Ashe: 100%
+  Lavatears Rune: 2.145411%                             (~1/46.6)        (450/20975)
+  Wisp's Ice-Flavored I Splash Potion: 2.436054%        (~1/41.05)        (500/20525)
+  Bundle of Magma Arrows: 7.308161%                     (~1/13.6)        (1500/20525)
+  Mana Disintegrator: 3.410475%                         (~1/29.3214)        (700/20525)
+  Scorched Books: 1.948843%                             (~1/51.3125)        (400/20525)
+  Kelvin Inverter: 1.218027%                            (~1/82.1)        (250/20525)
+  Blaze Rod Distillate: 4.384896%                       (~1/22.8056)        (900/20525)
+  Glowstone Distillate: 4.384896%                       (~1/22.8056)        (900/20525)
+  Magma Cream Distillate: 4.384896%                     (~1/22.8056)        (900/20525)
+  Nether Wart Distillate: 4.384896%                     (~1/22.8056)        (900/20525)
+  Gabagool Distillate: 2.436054%                        (~1/41.05)        (500/20525)
+  Scorched Power Crystal: 2.923264%                     (~1/34.2083)        (600/20525)
+  Archfiend Dice: 0.974421%                             (~1/102.6)        (200/20525)
+  Fire Aspect III Book: 1.218027%                       (~1/82.1)        (250/20525)
+  Fiery Burst Rune: 0.194505%                           (~1/514.125)        (40/20565)
+  Flawed Opal Gemstone: 2.679659%                       (~1/37.3182)        (550/20525)
+  Duplex I: 1.705238%                                   (~1/58.64)        (350/20525)
+  High Class Archfiend Dice: 0.243013%                  (~1/411.5)        (50/20575)
+  Wilson's Engineering Plans: 0.097442%                 (~1/1026.25)        (20/20525)
+  Subzero Inverter: 0.048721%                           (~1/2052.5)        (10/20525)
+    Cindered Inverter: 1.218027%                          (~1/82.1)        (250/20525)
+    Infernal Inverter: 0.048721%                          (~1/2052.5)        (10/20525)
+    Inferno Edge: 2.436054%                               (~1/41.05)        (500/20525)
+    Inferno Vertex: 0.609013%                             (~1/164.2)        (125/20525)
+    Infernum Gemstone: 0.487211%                          (~1/205.25)        (100/20525)
+    Frostfire Gemstone: 0.487211%                         (~1/205.25)        (100/20525)
+    Inferno Apex: 0.048721%                               (~1/2052.5)        (10/20525)
