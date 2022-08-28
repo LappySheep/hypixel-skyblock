@@ -263,4 +263,4 @@ T4 Inferno Demonlord Drops
 
   (10* cumulative: 106,500 crimson essence + 2 inferno apexes + 36 inferno vertexes + 16 infernum gemstones)
   (normal 10*: cata 50 + 5* + 5m* => 6.4x stats)
-  (this bow 10* + 5 master stars: 1.2x multiplier from 10*, then cata 50+5m* -> 1.2 * 6.15 = 7.38x)
+  (this bow 10* + 5 master stars: 1.2x multiplier from 10*, then cata 50+5m* -> 1.2 * 5.9 = 7.08x)
