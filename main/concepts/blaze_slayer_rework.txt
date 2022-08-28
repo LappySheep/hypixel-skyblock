@@ -125,7 +125,7 @@ Chilled Wisp Pets:
       Consecutive melee attacks against an Inferno Demonlord or Demon grants +10% additive damage against them, stacking up to +400%, which lasts until the Inferno Demonlord is killed.
       Killing a Demon adds +50% to your stacking bonus.
 
-  - Inferno Demonlord "tiers" for the Blaze Bulwark pet refers to the tier of boss killed; e.g. a tier 4 Inferno Demonlord stacks 4 tiers onto bulwark stacking.
+  - Inferno Demonlord "tiers" for the Blaze Bulwark perk refers to the tier of boss killed; e.g. a tier 4 Inferno Demonlord stacks 4 tiers onto bulwark stacking.
   - Frost+ Wisp Pets grant a multiplier on Intelligence, which does not work with Chimera or similar.
   - Demon Tithe's bonus damage is multiplicative.
   - Inverting Fury only requires melee to stack up, but can apply on ranged as well.
