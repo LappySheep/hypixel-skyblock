@@ -51,9 +51,9 @@ Burning Wisp Pets:
       Attacks that hurt multiple targets, will deal 300% usual damage if against Blazes other than the main target. Blaze Slayer mini-bosses take 50% increased damage and spawn 15% more often.
       Bonus damage only applies on melee attacks.
     Perk 4: Blazing Luminosity
-      Killing a Blaze restores 33% of your missing health instantly, and restores another 20% of your maximum health over 5 seconds.
+      Killing a Blaze restores 33% of your missing health instantly, and grants 33% damage reduction for the next 2 seconds.
       Does not work if you have an alive Inferno Demonlord.
-      Health restoration only applies on melee kills.
+      Blazing Luminosity only applies on melee kills.
 
   - Wraith Chaining bonus damage is multiplicative.
 
