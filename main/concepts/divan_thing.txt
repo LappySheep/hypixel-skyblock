@@ -1,0 +1,32 @@
+a new npc near the nucleus can be spoken to, lets call them greg, blah blah they ask you if you have heard of divan before, obviously you say no, they talk for a bit about how divan was an ancient fabled miner and mined a lot blah blah blah
+
+on divan's death bed he created a will which allowed worthy players to inherit a portion of his wealth, hence introducing the concept of doing nucleus runs
+
+after doing your first run, you talk to greg again, he talks about how divan created the paths towards the nucleus as a 'beacon of hope' that new powerful and rare ores could be discovered
+
+he talks about how divan had a blueprint for the 'perfect alloy', an alloy which would be able to forge the strongest tool possible
+
+after the talk, he reveals that he himself has been working on the task of attempting to find this fabled alloy and tells the player that if they help him retire by finding small fragments that divan left behind, he can give the player the alloy's blueprint (forging recipe)
+
+greg now offers the player the ability to give him rare nucleus finds and rare crystal hollows items to earn renown - earn enough renown to 'tier up' the ladder of rewards
+
+sources of renown (items must be obtained by you):
+  divan fragment -> 7 renown
+  jaderald -> 13 renown
+  recall potion -> 55 renown
+  precious pearl -> 55 renown
+  quick claw -> 160 renown
+  any flawless gemstone (jasper/opal is worth 20% more) -> 15 renown
+  any perfect gemstone (jasper/opal is worth 25% more) -> 80 renown
+
+for a one time fee of 500 renown, greg will cast a magical spell to allow you to place crystals and claim your nucleus rewards far away from the nucleus, but can only be done inside of a fairy grotto or near bal, as this spell requires a lot of harnessed energy
+
+tier 1 - hotm 5 + 200 renown
+  increases the chance of finding an alloy by 100% (1/800k to 1/8k upgraded to 1/400k to 1/4k)
+tier 2 - hotm 6 + 750 renown
+  increases the chance of finding an alloy by 100->200% (1/800k to 1/8k upgraded to 1/333k to 1/3.333k)
+tier 3 - hotm 7 + 2,500 renown
+  increases the chance of finding an alloy by 200->300% (1/800k to 1/8k upgraded to 1/200k to 1/2k)
+tier 4 - hotm 7 + 12,000 renown
+  increases the chance of finding an alloy by 300->400% (1/800k to 1/8k upgraded to 1/160k to 1/1.6k)
+  unlocks the forge recipe for alloys (1 of each perfect gemstone excluding opal + 250mil + 160 divan fragments)
