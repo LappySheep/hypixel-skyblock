@@ -1,0 +1,296 @@
+Kuudra Rework
+-------------
+Kuudra is a large ash worm - similar to a Scatha, but with Magma Cubes instead. The head is a 'size 5' cube, while the others are 'size 2' cubes.
+It starts with a tail of 12 cubes, but as you wittle down its health, cubes fall off of the tail; -1 cube per 9% health, meaning 1% health left: only 1 cube as a tail remains.
+
+Kuudra has 5 tiers of difficulty, with each tier incorporating more mechanics in the fight.
+
+Players may solo Kuudra, as its stats and difficulty scales with the team attempting to fight it, but you may only have a maximum of 5 players per team.
+
+Kuudra's stat scaling is dependent on something called the "Team's Combat Rating", which is based on player stats, and is summed to determine the team's rating:
+  TeamRating = Totalling individual player rating; rating calculation for each player:
+    500 + [CombatLevel (max 50) * 8] + [PlayerBaseHP (max 1000) * 0.1]
+    The maximum possible rating per player is 1,000, meaning the maximum possible rating per team is 5000.
+Regardless of if you solo Kuudra or not, your team rating cannot go lower than 1,000.
+
+
+Recommended gear for Kuudra:
+  - Aspect of the End/Void or any other gear which allows transportation.
+  - Any Glove-type equipment
+  - Any Mining tool
+  - Any Iron/Diamond-type helmet piece
+  - Empty Buckets
+  - Lots of inventory space
+  Additional gear to consider:
+    - Delirium Necklace
+    - Lava Shell Necklace
+
+
+Kuudra Tiers:
+  - Basic:
+    Attempt Cost: Basic Kuudra Key + 100,000 Coins
+    Health per Phase: 1,000,000 - 5,000,000 (TeamRating * 1000)
+    Phases: 2
+
+  - Hot:
+    Attempt Cost: Hot Kuudra Key + 200,000 Coins
+    Health per Phase: 2,500,000 - 10,000,000 (625,000 + TeamRating * 1875)
+    Phases: 2
+
+  - Burning:
+    Attempt Cost: Burning Kuudra Key + 350,000 Coins
+    Health per Phase: 5,000,000 - 15,000,000 (2,500,000 + TeamRating * 2,500)
+    Phases: 3
+
+  - Fiery:
+    Attempt Cost: Fiery Kuudra Key + 550,000 Coins
+    Health per Phase: 12,000,000 - 25,000,000 (8,750,000 + TeamRating * 3,250)
+    Phases: 3
+
+  - Infernal:
+    Attempt Cost: Infernal Kuudra Key + 800,000 Coins
+    Health per Phase: 24,000,000 - 40,000,000 (20,000,000 + TeamRating * 4,000)
+    Phases: 4
+
+  Each Kuudra tier has a 'Loot Quality' which is equal to [5,000 + TeamRating].
+
+
+
+Kuudra Fight
+------------
+Upon entering the instance, Elle will run towards the centre of the small, circular island, and place down a Magmafish. She imbues that fish by shooting a bolt of fire at it, and then runs away. This fish cannot be picked up.
+
+During the fight, all players will have 100 ATS, and Kuudra is able to take a maximum of 4 hits per second from each player.
+
+Kuudra has a damage cap, which can be increased based on certain modifiers. This damage cap is equal to 75,000 damage from projectiles, 100,000 damage from magic attacks, and 225,000 damage from melee attacks.
+Kuudra's damage cap is increased (added as a flat amount at the end; not increased by buffs) by the amount of damage taken from the last tick of fire damage. This can be increased with a Delirium Necklace.
+
+Around the room, there are various things to interact with. Players should interact with these items to make the fight easier.
+
+There are multiple rocks that can be found around the edge of the island. These rocks can be mined with a pickaxe or drill (or any suitable mining tool). Rocks take 0.5 seconds to mine regardless of tool strength or speed. Upon successfully mining these rocks, players obtain 2-4 Uncharged Crimsonite.
+  Uncharged Crimsonite can stack up to 64 per inventory slot, and drops are not affected by Mining Fortune. Rocks respawn 8 seconds after they are mined.
+  Uncharged Crimsonite is used up while casting any offensive spell, shooting any projectile (bows like the Terminator only use 1 per shot of 3 arrows), or damaging any monster with a melee attack.
+  Attacks which consume Uncharged Crimsonite will have their base damage caps increased by 3x.
+
+Near the edge of the island, but closer to the centre than the rocks, there are pools of lava. Players can use empty (or partially-used) buckets on pools of lava (does not run out) to receive Buckets of Liquid Crimsonite.
+  Buckets of Liquid Crimsonite do not stack, but each bucket contains 3 Liquid Crimsonite at a time.
+  Taking damage from Kuudra or any monsters in the instance will use up 1 Liquid Crimsonite from buckets in your inventory, and reduce damage taken by 30%. This isn't needed, but can make interactions with Kuudra a lot safer.
+
+Upon dying, players become a ghost and cannot be revived unless Kuudra is defeated, in which case ghosts are made alive again. If everyone in a team becomes a ghost, the run ends and players are kicked out of the instance.
+
+
+
+Kuudra Phase 0
+--------------
+After 5 seconds, Kuudra emerges from the lava beneath the island. It leaps onto the Magmafish, charged by Elle, and consumes it.
+
+During 'phase 0', Kuudra is passive and will not attack, and this phase lasts for 30 seconds. Players should take this time to gather Crimsonite for the main fight.
+
+Upon being attacked, this phase ends - regardless of how much damage you deal to it.
+
+
+
+Kuudra Phase 1
+--------------
+Upon being attacked, or waking up due to the 30 second timer expiring, Kuudra leaps upwards and slams the ground at the centre of the island.
+If any players are directly in the middle of the island when it lands, those players are greatly knocked back in a random direction (potentially off of the island if they lack any movement items) and take 25% of their maximum health as true damage.
+Other players are greatly knocked back as well, but won't take any damage.
+
+Kuudra can now be damaged. It moves quickly (similarly to a vanilla Wolf mob) and deals 4,000 [up to 12,000 at 5000 TeamRating; multiplied by 1.5/2/2.5/3x with higher tiers] on melee attacks.
+
+If Kuudra cannot damage any player for 4 consecutive seconds, it will start to glow. While glowing, Kuudra will shoot a small fireball towards every player within 12 blocks, once every 2 seconds. Each fireball deals 125% melee damage.
+
+During phase 1, the pools of lava around the room will occasionally have geysers that spew out from the middle of them.
+  Right clicking an active geyser with any filled (or partially filled) Bucket of Liquid Crimsonite will charge it, buffing its damage reduction from 30% to 75%.
+  Pools of lava will heal Kuudra if it goes near them - for 2% max hp/s. Players who are being targeted by Kuudra should not move near pools of lava.
+  Players can jump into a pool of lava with an active geyser, and this will shoot them into the air. This interaction is not very useful on phase 1.
+
+
+Kuudra has various abilities which it can use to attempt to take down players.
+
+- Dark Core:
+  Dealing damage to Kuudra will cause it to shed its core occasionally; with a 25% chance. This causes the ground to turn into obsidian for 5 seconds. Players standing on top of obsidian will take doubled damage and also take 3% max health as true damage every second.
+
+- Hurtful Necromancy:
+  Kuudra glows purple for 2 seconds, before spawning 3 Wither Guards (wither skeletons) to defend it. Kuudra takes -20% (additively stacking) damage for each Guard alive, but only a maximum of 3 guards can be alive at any point.
+  Wither Guards have health equal to 5% of Kuudra's maximum health. Projectiles cannot damage Wither Guards (melee/magic only).
+  Wither Guards chase players and deal damage equal to 20% of Kuudra's melee damage on each hit.
+
+- Lava Shell Barrier:
+  Kuudra forms a barrier of pure volcanic energy around it for the next 7 seconds. During this time, magic damage is completely negated unless a Lava Shell Necklace is equipped.
+
+- Incendiary Tail:
+  Kuudra begins to float upwards slightly for the next 5 seconds. While floating, Kuudra will parry melee attacks with its tail; dealing 5% of the attacker's maximum health as true damage and receiving no damage.
+  Right clicking Kuudra with any Bucket of Liquid Crimsonite will reduce the duration of Incendiary Tail by 1 second per 1 Liquid Crimsonite. This consumes the crimsonite.
+
+When Kuudra has no health left in this phase, phase 2 begins.
+
+
+
+Kuudra Phase 2
+--------------
+Kuudra stops moving, and begins to glow red. It regrows back the small cubes that previously made up its tail. Afterwards, it screeches loudly, causing the walls on the very far edge of the instance to shake and crumble.
+
+During this period, Kuudra cannot be attacked.
+
+In each corner, a Dropship will appear. Dropships are Ghast-mobs visually, and each one has 100 Health (up to 180 Health at 5,000 TeamRating; +50/100/150/200 for higher tiers). They take damage from projectiles only.
+
+Dropships do not need to be killed, but keeping them alive will make this phase very difficult and annoying.
+
+Dropships can be damaged 20 times/s (no hit cooldown).
+
+Once they reach the middle (the location of the island), Kuudra stops glowing, and can now be attacked.
+
+During phase 2, if Dropships are not killed, they will pour lava down, which turn the ground into obsidian upon contact. Unlike obsidian from Kuudra's Dark Core, this obsidian does not expire, and can stack upwards; creating obsidian pillars.
+
+Kuudra also gains some new abilities, and can still use abilities from phase 1.
+
+- Volcanic Strike:
+  Kuudra shoots a large fireball in the target direction. On contact, it explodes and deals damage to targets within 3 blocks - equal to 33% of their maximum health as true damage.
+  If the fireball hits an obsidian pillar, it explodes and causes parts of the pillar to be blasted around the island; leaving permanent obsidian on the ground. This obsidian damages players and increases their damage taken, just like obsidian from Kuudra's Dark Core.
+
+- Leap:
+  Kuudra occasionally leaps upwards and slams the ground, similar to the leap at the start of phase 1. This leap deals 20% max health true damage to players within 3 blocks of the impact zone and deals high knockback.
+
+- Unseen Debris (Hot+):
+  If Kuudra's tier is Hot or higher, it will cause debris to fall from the sky upon landing on the ground after using Leap. Debris will fall above every player.
+  Debris takes 2 seconds to land. If players are within 3 blocks of the debris when it lands, they are stunned for 3 seconds and take 44,000 damage (88,000 damage at 5,000 TeamRating; multiplied by 1.5/2/2.5x if Burning/Fiery/Infernal).
+  Wearing any Iron or Diamond helmet piece will reduce damage taken by 90%, but will unequip it.
+
+When Kuudra has no health left in this phase, phase 3 begins. If the tier of Kuudra is Basic or Hot, the fight ends here instead.
+
+
+
+Kuudra Phase 3
+--------------
+
+< type up at some point idk >
+
+
+
+
+
+
+
+Upon defeating Kuudra, a loot chest spawns in the middle.
+
+Players who open the chest will roll 3-5 drops based on the Loot Quality of the Kuudra fight. The rare/mega rare drop tables are rolled separately. A team cannot have lower than 1,000 Rating, so Loot Quality ranges from 6,000 to 10,000.
+
+If a player does not open the loot chest, they are refunded their entrance fee (100k - 800k based on tier).
+
+
+Drop System:
+  Drop 1 - Standard
+    Basic: 30 - 50 Crimson Essence + 1 Kuudra Tooth
+    Hot: 90 - 150 Crimson Essence + 1 Kuudra Tooth (75% chance for 2)
+    Burning: 240 - 360 Crimson Essence + 2 Kuudra Teeth (50% chance for 3)
+    Fiery: 500 - 700 Crimson Essence + 3 Kuudra Teeth (25% chance for 3)
+    Infernal: 1,050 - 1,350 Crimson Essence + 3 Kuudra Teeth
+      You earn 1 extra Crimson Essence for every 200 (140/80/40/10 for higher tiers) Loot Quality (rounded down).
+
+  Drop 2 - Modifiers:
+    First, roll a pool of shards/enchants. Afterwards, roll the particular shard/enchant drop. Shards/enchants in a specific pool will all have the same drop chance.
+      Basic Pool (50 weight):
+        Undead, Arachno, Midas Touch, Combo, Fishing Speed, Hunter, Fisherman, Trophy Hunter, Infection, Double Hook, Fishing Experience, Blazing Fortune, Undead Resistance, Arachno Resistance, Life Regeneration, Mana Pool, Experience, Speed
+      Hot Pool (40 weight):
+        Elite, Attack Speed, Ignition, Life Recovery, Breeze, Lifeline
+      Enchantment Pool (40 weight):
+        Strong Mana Enchant, Ferocious Mana Enchant, Hardened Mana Enchant, Mana Vampire Enchant
+      Burning Pool (30 weight):
+        Mana Steal, Mana Regeneration, Veteran, Mending, Dominance, Ender Resistance, Ender
+      Fiery/Infernal Pool (20 weight):
+        Fortitude, Deadeye, Warrior, Blazing, Magic Find
+
+  Drop 3 - Gear:
+    First, roll a pool of items. Afterwards, roll the particular drop. Items in a specific pool will all have the same drop chance.
+      Standard Pool (100 weight):
+        Fervor Armor (random piece), Aurora Armor (random piece), Terror Armor (random piece), Crimson Armor (random piece), Hollow Armor (random piece)
+      Equipment Pool (80 weight):
+        Molten Belt, Molten Cloak, Molten Bracelet, Molten Necklace
+      Advanced Pool (50 weight):
+        Aurora Staff, Hollow Wand, Mandraa
+
+  Drop 4 - Rare Drop Table:
+    Loot is rolled based on the tier of Kuudra slain.
+    Basic (100,000 weight total):
+      No rare drop: 98,240 weight
+      Wheel of Fate: 1,350 weight
+      Fatal Tempo Enchant: 200 weight
+      Inferno Enchant: 200 weight
+      Roll Mega Rare Drop Table: 10 weight
+    Hot (80,000 weight total):
+      No rare drop: 76,885 weight
+      Uncommon Kuudra Pet: 1,600 weight
+      Wheel of Fate: 1,100 weight
+      Fatal Tempo Enchant: 200 weight
+      Inferno Enchant: 200 weight
+      Roll Mega Rare Drop Table: 15 weight
+    Burning (60,000 weight total):
+      No rare drop: 55,880 weight
+      Uncommon Kuudra Pet: 1,200 weight
+      Rare Kuudra Pet: 1,200 weight
+      Wheel of Fate: 1,000 weight
+      Burning Kuudra Core: 300 weight
+      Fatal Tempo Enchant: 200 weight
+      Inferno Enchant: 200 weight
+      Roll Mega Rare Drop Table: 20 weight
+    Fiery (45,000 weight total):
+      No rare drop: 40,810 weight
+      Uncommon Kuudra Pet: 900 weight
+      Rare Kuudra Pet: 900 weight
+      Epic Kuudra Pet: 900 weight
+      Wheel of Fate: 750 weight
+      Fiery Kuudra Core: 315 weight
+      Fatal Tempo Enchant: 200 weight
+      Inferno Enchant: 200 weight
+      Roll Mega Rare Drop Table: 25 weight
+    Infernal (30,000 weight total):
+      No rare drop: 11,400 weight
+      Roll another Attribute Shard: 15,000 weight
+      Uncommon Kuudra Pet: 600 weight
+      Rare Kuudra Pet: 600 weight
+      Epic Kuudra Pet: 600 weight
+      Legendary Kuudra Pet: 600 weight
+      Wheel of Fate: 500 weight
+      Infernal Kuudra Core: 270 weight
+      Fatal Tempo Enchant: 200 weight
+      Inferno Enchant: 200 weight
+      Roll Mega Rare Drop Table: 30 weight
+      
+
+  Drop 4b - Mega Rare Drop Table:
+    Loot is rolled based on the tier of Kuudra slain.
+    Basic (100 weight total):
+      No mega rare drop: 90 weight
+      Enrager: 10 weight (Cumulative Drop Rate: 1/100,000)
+    Hot (85 weight total):
+      No mega rare drop: 73 weight
+      Enrager: 10 weight (Cumulative Drop Rate: ~1/45,333.33)
+      Tentacle Dye: 2 weight (Cumulative Drop Rate: 1/226,666.67)
+    Burning (70 weight total):
+      Re-roll Rare Drop Table: 58 weight
+      Enrager: 10 weight (Cumulative Drop Rate: 1/21,000)
+      Tentacle Dye: 2 weight (Cumulative Drop Rate: 1/105,000)
+    Fiery (55 weight total):
+      Re-roll Rare Drop Table: 43 weight
+      Enrager: 10 weight (Cumulative Drop Rate: 1/9,900)
+      Tentacle Dye: 2 weight (Cumulative Drop Rate: 1/49,500)
+    Infernal (40 weight total):
+      Re-roll Rare Drop Table (twice): 23 weight
+      Enrager: 10 weight (Cumulative Drop Rate: 1/4,000)
+      Infernal Volcanite Tentacle: 5 weight (Cumulative Drop Rate: 1/8,000)
+      Tentacle Dye: 2 weight (Cumulative Drop Rate: 1/20,000)
+
+
+The Mega RDT introduces a new weapon:
+  - Infernal Volcanite Tentacle [LEGENDARY]
+    +700 Damage
+    +30 Ferocity
+    +20% Crit Chance
+    Item Passive - Unyielding
+      Passively, this weapon does not apply invulnerability frames on-hit. However, attacking more than 7 times within 2 seconds disables your ability to crit for 15 seconds.
+    Item Ability - Ensnaring Tentacle RIGHT CLICK
+      Your next melee attack with this weapon deals double damage and has a chance of stunning the target for 3 seconds; preventing them from moving, dealing damage, or using abilities.
+      The chance of stunning a target is equal to [0.5 * Bonus Attack Speed (max 50%) + [1% per 3 Ferocity (max 50%)]].
+      Mana Cost: 300
+      Cooldown: 30s
